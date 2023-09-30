@@ -1,14 +1,13 @@
 # encoding: utf-8
 #
 # 宇浩·星陈·陆简
-# 版本: 20230928
+# 版本: 20230929
 #
 ---
 name: "yustar"
-version: "20230928"
+version: "20230929"
 sort: original
 import_tables:
-  - yuhao.symbols
   - yuhao.extended
 columns:
   - text
