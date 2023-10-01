@@ -436,7 +436,7 @@
 识	dlka
 备	tvtp
 慢	rjub
-雪	cbjv
+雪	cbjy
 苦	sjgo
 若	selv
 领	rkbc
@@ -478,7 +478,7 @@
 元	flwi
 脑	wtwk
 楚	aayp
-雨	cv
+雨	cy
 睛	jowy
 响	ldxv
 刀	md
@@ -597,7 +597,7 @@
 香	mjrh
 斗	igir
 故	jtpg
-雷	cvtv
+雷	cvty
 念	rkyr
 段	eles
 顿	xwvc
@@ -606,7 +606,7 @@
 护	fhhs
 闪	trem
 木	au
-需	csrv
+需	csry
 调	dwhl
 类	qodm
 妹	cfwn
@@ -891,7 +891,7 @@
 田	vt
 唐	mblv
 藏	skdh
-震	cmcv
+震	cmcy
 混	njnn
 虚	uieh
 透	mgoc
@@ -1829,7 +1829,7 @@
 柜	ahbo
 捉	fpzs
 悬	jnri
-霍	cehv
+霍	cehy
 泄	nsis
 咽	lwod
 齿	prwk
@@ -2139,7 +2139,7 @@
 拓	fvss
 娶	lbcn
 纱	kigp
-漏	nbcv
+漏	nbcy
 谨	dsir
 珊	jwwf
 仆	eubr
@@ -2207,7 +2207,7 @@
 澡	nlla
 桂	ahht
 兮	khka
-雯	ctev
+雯	ctey
 颠	gjkc
 狮	hqfu
 邻	rkbp
@@ -3398,7 +3398,7 @@
 阐	tqjg
 荧	sxih
 侈	exxx
-霏	cufv
+霏	cufy
 瘟	mjum
 芜	sffo
 俭	erfn
@@ -5715,7 +5715,7 @@
 疣	mfob
 認	bmkr
 姰	cwjr
-雱	ctfv
+雱	ctfy
 镍	oqau
 團	wdhc
 褫	xduh
@@ -5730,7 +5730,7 @@
 謝	bqhc
 眇	jigp
 瘆	mnoc
-電	cddv
+電	cddy
 轺	xmlv
 塄	hutf
 續	ohuj
@@ -6579,7 +6579,7 @@
 冏	cklv
 幷	gngn
 瘋	mefb
-雮	cmmv
+雮	cmmy
 慘	rnnc
 髒	rsfs
 術	caki
@@ -9331,7 +9331,7 @@
 紈	oqkd
 脲	wbns
 缲	klla
-霅	cbyv
+霅	cbyy
 劖	xlnm
 匤	hjkd
 唅	lrkl
@@ -13765,7 +13765,7 @@
 钄	tsdq
 钃	tbnq
 鑙	tmfj
-雫	cjxv
+雫	cjxy
 霔	cnkj
 鐦	tdfs
 霘	cncl
@@ -18077,11 +18077,11 @@
 霋	cgbc
 霃	cnxw
 雿	cwii
-雼	cvsv
+雼	cvsy
 雵	ccod
-雴	cklv
+雴	ckly
 雭	cgkd
-雬	cauv
+雬	cauy
 雧	eeea
 雦	eeeh
 雥	eeeh
@@ -18290,7 +18290,7 @@
 寴	ikaj
 寷	iudq
 尒	rive
-屚	bcvs
+屚	bcys
 屾	uuss
 屸	upgs
 屷	ugns
@@ -20464,7 +20464,7 @@
 瘬	mbuc
 瘽	msir
 瘻	mlgc
-瘺	mbcv
+瘺	mbcy
 瘹	mtwk
 瘷	malt
 瘶	malx

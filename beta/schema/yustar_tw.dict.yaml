@@ -162,7 +162,7 @@ encoder:
 姐	cj
 好	ck
 如	cl
-震	cm
+嬌	cm
 後	cn
 她	co
 露	cp
@@ -171,10 +171,10 @@ encoder:
 需	cs
 彷	ct
 徘	cu
-雨	cv
+須	cv
 媽	cw
 衡	cx
-婿	cy
+雨	cy
 鬧	da
 白	db
 車	dc
@@ -777,7 +777,7 @@ encoder:
 姐姐	cj
 好奇	ck
 如果	cl
-震驚	cm
+嬌嫩	cm
 後來	cn
 她們	co
 露出	cp
@@ -786,9 +786,10 @@ encoder:
 需要	cs
 彷彿	ct
 徘徊	cu
-雨水	cv
+須知	cv
 媽媽	cw
 衡量	cx
+雨水	cy
 鬧劇	da
 白色	db
 車子	dc
@@ -1325,7 +1326,7 @@ encoder:
 姐妹	cj
 好友	ck
 如何	cl
-震動	cm
+嬌貴	cm
 後面	cn
 她家	co
 露天	cp
@@ -1333,9 +1334,10 @@ encoder:
 從前	cr
 需求	cs
 彷徨	ct
-雨天	cv
+須臾	cv
 媽咪	cw
 衡陽	cx
+雨天	cy
 鬧鐘	da
 白天	db
 車輛	dc
@@ -1904,13 +1906,14 @@ encoder:
 欢	bxq
 婷	caa
 霜	caj
-妇	cbj
+雪	cbj
 妈	cbm
 奴	cbo
 姦	ccc
 妒	cdh
 徨	cdj
 霓	cdw
+霍	ceh
 姆	cem
 凹	cfi
 赋	cfk
@@ -1945,9 +1948,7 @@ encoder:
 零	crf
 冈	csi
 曲	cso
-雯	cte
 须	cvc
-雷	cvt
 赒	cwh
 徭	cwj
 徊	cwl
@@ -2522,7 +2523,6 @@ encoder:
 河	nal
 澈	nan
 津	nba
-漏	nbc
 澄	nbf
 浸	nbx
 洳	ncl
@@ -3168,7 +3168,7 @@ encoder:
 被	xbpy
 安	icnb
 声	hbss
-電	cddv
+電	cddy
 于	fhci
 空	ipgx
 對	iqhc
@@ -3449,7 +3449,7 @@ encoder:
 示	jss
 站	kulv
 般	ueso
-雨	cvv
+雨	cyy
 令	rfbo
 处	trep
 兩	fubb
@@ -3531,7 +3531,7 @@ encoder:
 史	lsiv
 八	kaa
 亲	kaul
-需	csrv
+需	csry
 存	eukz
 區	hlll
 歡	sllx
@@ -3575,7 +3575,7 @@ encoder:
 依	eagy
 甚	ueiq
 案	icau
-雪	cbjv
+雪	cbjy
 節	gbna
 強	bnqc
 座	mrrh
@@ -3856,7 +3856,7 @@ encoder:
 极	agkd
 村	ahcu
 絕	omob
-雷	cvtv
+雷	cvty
 肉	crre
 確	vxeh
 识	dlka
@@ -4052,7 +4052,7 @@ encoder:
 染	nqau
 杨	aycp
 夠	xxwl
-震	cmcv
+震	cmcy
 仙	eusr
 宣	ifjf
 运	inoc
@@ -5173,7 +5173,7 @@ encoder:
 卓	ujzb
 脖	wgxk
 庆	modg
-霍	cehv
+霍	cehy
 檔	aivt
 遲	bnpo
 蜜	irgq
@@ -5306,7 +5306,7 @@ encoder:
 彻	cxmd
 蹈	pudi
 毅	ktes
-漏	nbcv
+漏	nbcy
 菌	swmh
 轰	xbbo
 愧	rdgx
@@ -6391,7 +6391,7 @@ encoder:
 琦	joal
 羡	qixq
 坠	prht
-雯	ctev
+雯	ctey
 赔	cklv
 涨	nbnc
 竿	gngz
@@ -7577,7 +7577,7 @@ encoder:
 拈	fulv
 咄	lwwk
 卉	gsoi
-霏	cufv
+霏	cufy
 埠	hdgi
 瘟	mwru
 淙	nijs
@@ -10880,7 +10880,7 @@ encoder:
 阒	tjhq
 怫	rbka
 鲔	xewy
-雱	ctfv
+雱	ctfy
 镍	oqau
 轳	xubs
 锛	oogs
@@ -12277,7 +12277,7 @@ encoder:
 缐	kdns
 诐	dbpy
 铏	ofsm
-霅	cbyv
+霅	cbyy
 飔	esvr
 飗	eskv
 鲌	xdbv
@@ -15157,7 +15157,7 @@ encoder:
 瘯	mtgj
 瘱	morr
 瘲	mcrp
-瘺	mbcv
+瘺	mbcy
 瘽	msir
 癉	mllg
 癐	mrfj
@@ -18792,7 +18792,7 @@ encoder:
 屒	bmcs
 屓	bjbs
 屗	bmhc
-屚	bcvs
+屚	bcys
 屛	bgnn
 屟	bsau
 屪	bioi
@@ -23465,14 +23465,14 @@ encoder:
 雥	eeeh
 雦	eeeh
 雧	eeea
-雫	cjxv
-雬	cauv
+雫	cjxy
+雬	cauy
 雭	cgkd
-雮	cmmv
-雴	cklv
+雮	cmmy
+雴	ckly
 雵	ccod
 雸	csir
-雼	cvsv
+雼	cvsy
 霃	cnxw
 霊	cflq
 霌	cwhl
@@ -29861,7 +29861,7 @@ encoder:
 䨍	cika
 䨎	cbna
 䨏	cixq
-䨐	crhv
+䨐	crhy
 䨑	cobg
 䨒	cvvx
 䨓	cwlv
@@ -29869,7 +29869,7 @@ encoder:
 䨕	cnfh
 䨖	cewy
 䨗	cukz
-䨘	cjjv
+䨘	cjjy
 䨙	cnmr
 䨚	cwcr
 䨛	cadj
@@ -29880,7 +29880,7 @@ encoder:
 䨠	cjwe
 䨡	cynw
 䨢	cuei
-䨣	csgv
+䨣	csgy
 䨤	cdoc
 䨥	cebo
 䨦	caqt
@@ -30133,7 +30133,7 @@ encoder:
 䬝	esik
 䬞	ehyh
 䬟	ektm
-䬠	cyfv
+䬠	cyfy
 䬡	hjyf
 䬢	kmds
 䬣	kgyi
@@ -31411,7 +31411,7 @@ encoder:
 𠉱	edtf
 𠉲	robh
 𠉳	egfm
-𠉴	ecvr
+𠉴	ecyr
 𠉵	eifp
 𠉶	evso
 𠉷	embp
@@ -33673,7 +33673,7 @@ encoder:
 𠭊	elbb
 𠭋	bbba
 𠭌	bbbw
-𠭍	cbov
+𠭍	cboy
 𠭎	bbll
 𠭏	uglb
 𠭐	hbgp
@@ -34626,7 +34626,7 @@ encoder:
 𠼄	losr
 𠼅	llod
 𠼆	ibbl
-𠼇	lbcv
+𠼇	lbcy
 𠼈	lfmc
 𠼉	lmwy
 𠼊	lvag
@@ -35892,7 +35892,7 @@ encoder:
 𡏷	hbph
 𡏸	knfh
 𡏹	phwh
-𡏺	hbcv
+𡏺	hbcy
 𡏻	hqog
 𡏼	hhtt
 𡏽	hvvd
@@ -38512,7 +38512,7 @@ encoder:
 𡸶	uijs
 𡸷	uuqs
 𡸸	dusc
-𡸹	ucvs
+𡸹	ucys
 𡸺	uowy
 𡸻	uark
 𡸼	uhds
@@ -39543,7 +39543,7 @@ encoder:
 𢈽	mkkg
 𢈾	mlbo
 𢈿	mklf
-𢉀	mcvg
+𢉀	mcyg
 𢉁	mwwy
 𢉂	miub
 𢉃	mrls
@@ -41961,7 +41961,7 @@ encoder:
 𢮰	ftmd
 𢮱	fijs
 𢮲	fqej
-𢮳	fcvs
+𢮳	fcys
 𢮴	fjxq
 𢮵	fjjr
 𢮶	fuji
@@ -43956,7 +43956,7 @@ encoder:
 𣍻	wklf
 𣍼	whlw
 𣍽	wuwt
-𣍾	wcvy
+𣍾	wcyy
 𣍿	waly
 𣎀	wmul
 𣎁	cqlw
@@ -44389,7 +44389,7 @@ encoder:
 𣔬	adss
 𣔭	ahwh
 𣔮	agkh
-𣔯	acvu
+𣔯	acyu
 𣔰	asoz
 𣔱	aiib
 𣔲	aclo
@@ -46591,7 +46591,7 @@ encoder:
 𣷉	nhlf
 𣷊	nfxg
 𣷋	nygq
-𣷌	ncvs
+𣷌	ncys
 𣷍	nbjm
 𣷎	nswy
 𣷏	nsry
@@ -47051,7 +47051,7 @@ encoder:
 𣾖	nshx
 𣾗	noos
 𣾘	nsos
-𣾙	nncv
+𣾙	nncy
 𣾚	nufe
 𣾛	nshf
 𣾜	nnnn
@@ -47059,7 +47059,7 @@ encoder:
 𣾞	nuts
 𣾟	nswj
 𣾠	ntxq
-𣾡	ndcv
+𣾡	ndcy
 𣾢	jnvj
 𣾣	noqo
 𣾤	nhwi
@@ -52619,7 +52619,7 @@ encoder:
 𥕜	vsil
 𥕝	vqvs
 𥕞	vkjz
-𥕟	vbcv
+𥕟	vbcy
 𥕠	vvjd
 𥕡	vlkm
 𥕣	vcjh
@@ -56848,7 +56848,7 @@ encoder:
 𦗨	lmmm
 𦗩	lpii
 𦗪	ljlt
-𦗫	lscv
+𦗫	lscy
 𦗬	ldjr
 𦗭	hcle
 𦗮	lppp
@@ -58585,7 +58585,7 @@ encoder:
 𦲵	scfp
 𦲶	synl
 𦲷	snkl
-𦲸	scvo
+𦲸	scyo
 𦲹	saek
 𦲺	sefs
 𦲻	sumr
@@ -58947,7 +58947,7 @@ encoder:
 𦸟	suxs
 𦸠	swii
 𦸡	sujj
-𦸢	sbcv
+𦸢	sbcy
 𦸣	smdg
 𦸤	silb
 𦸥	srvj
@@ -60218,7 +60218,7 @@ encoder:
 𧌖	qrls
 𧌗	qlbo
 𧌘	wabq
-𧌙	cqcv
+𧌙	cqcy
 𧌚	qjih
 𧌛	dgqc
 𧌜	dwqc
@@ -61278,7 +61278,7 @@ encoder:
 𧜻	mvsg
 𧜼	hwhg
 𧜽	xtgp
-𧜾	xbcv
+𧜾	xbcy
 𧜿	xsnf
 𧝀	xvsk
 𧝁	xuvv
@@ -62206,7 +62206,7 @@ encoder:
 𧫛	bqkn
 𧫜	bnhb
 𧫝	bdst
-𧫞	bbcv
+𧫞	bbcy
 𧫟	beeo
 𧫠	buht
 𧫡	bidz
@@ -63660,7 +63660,7 @@ encoder:
 𨂋	ptki
 𨂌	pifp
 𨂍	poqh
-𨂎	pcvz
+𨂎	pcyz
 𨂏	psfa
 𨂐	palz
 𨂑	pure
@@ -63785,7 +63785,7 @@ encoder:
 𨄈	pnma
 𨄉	ptvp
 𨄊	pwjs
-𨄋	pbcv
+𨄋	pbcy
 𨄌	pvvd
 𨄍	pueh
 𨄎	puht
@@ -65311,7 +65311,7 @@ encoder:
 𨜁	prro
 𨜂	ilob
 𨜃	fuyp
-𨜄	cpfv
+𨜄	cpfy
 𨜅	oalp
 𨜆	oqip
 𨜇	jlpf
@@ -66284,7 +66284,7 @@ encoder:
 𨫏	tang
 𨫐	tidz
 𨫑	tllr
-𨫒	tbcv
+𨫒	tbcy
 𨫓	tklm
 𨫔	hwht
 𨫕	tift
@@ -66663,7 +66663,7 @@ encoder:
 𨱌	oegc
 𨱍	okbp
 𨱎	orfm
-𨱐	obcv
+𨱐	obcy
 𨱒	oalx
 𨱓	oeib
 𨱕	oxwp
@@ -67722,33 +67722,33 @@ encoder:
 𩁳	gsfe
 𩁴	eeeq
 𩁵	eeef
-𩁶	cyiv
-𩁷	cadv
-𩁸	cejv
+𩁶	cyiy
+𩁷	cady
+𩁸	cejy
 𩁹	cfhc
-𩁺	ccpv
-𩁻	ccnv
-𩁼	xcvx
-𩁽	cbgv
+𩁺	ccpy
+𩁻	ccny
+𩁼	xcyx
+𩁽	cbgy
 𩁾	cykd
-𩁿	cbjv
-𩂀	cngv
-𩂁	clwv
+𩁿	cbjy
+𩂀	cngy
+𩂁	clwy
 𩂂	cwcp
 𩂃	cbre
 𩂄	cxwk
-𩂅	ckgv
-𩂆	cguv
+𩂅	ckgy
+𩂆	cguy
 𩂇	crfy
-𩂈	criv
+𩂈	criy
 𩂉	cfod
-𩂊	cjwv
-𩂋	cdjv
-𩂌	cdpv
-𩂍	cnsv
+𩂊	cjwy
+𩂋	cdjy
+𩂌	cdpy
+𩂍	cnsy
 𩂎	cksi
 𩂏	cgbo
-𩂐	cmrv
+𩂐	cmry
 𩂑	ceir
 𩂒	cvos
 𩂓	ctir
@@ -67756,19 +67756,19 @@ encoder:
 𩂕	cbka
 𩂖	cgub
 𩂗	cwwk
-𩂘	cvjv
+𩂘	cvjy
 𩂙	crxx
 𩂚	cvyk
 𩂛	cehc
 𩂜	cwck
 𩂝	clsi
-𩂞	ckmv
-𩂟	ckwv
+𩂞	ckmy
+𩂟	ckwy
 𩂠	ceki
-𩂡	cugv
+𩂡	cugy
 𩂢	ceci
 𩂣	ctlv
-𩂤	cuov
+𩂤	cuoy
 𩂥	cwod
 𩂦	cqso
 𩂧	cnfh
@@ -67778,7 +67778,7 @@ encoder:
 𩂫	cttp
 𩂬	cdfi
 𩂭	cxxx
-𩂮	cqmv
+𩂮	cqmy
 𩂯	ceau
 𩂰	cclv
 𩂱	cagy
@@ -67804,7 +67804,7 @@ encoder:
 𩃅	jxul
 𩃆	crfe
 𩃇	chwi
-𩃈	cpzv
+𩃈	cpzy
 𩃉	cleo
 𩃊	cxog
 𩃋	cfsc
@@ -67820,7 +67820,7 @@ encoder:
 𩃕	cdau
 𩃖	cfbp
 𩃗	codd
-𩃘	cdcv
+𩃘	cdcy
 𩃙	cvod
 𩃚	cnan
 𩃛	cjry
@@ -67875,7 +67875,7 @@ encoder:
 𩄌	cbdz
 𩄍	cmih
 𩄎	cbjm
-𩄏	cefv
+𩄏	cefy
 𩄐	cpta
 𩄑	cgcg
 𩄒	ckjr
@@ -67900,7 +67900,7 @@ encoder:
 𩄥	cown
 𩄦	cctd
 𩄧	cqtp
-𩄨	crgv
+𩄨	crgy
 𩄩	chgi
 𩄪	cfdi
 𩄫	cjoc
@@ -67928,7 +67928,7 @@ encoder:
 𩅁	cshs
 𩅂	cdhc
 𩅃	cuij
-𩅄	cmlv
+𩅄	cmly
 𩅅	cngn
 𩅆	cjto
 𩅇	cklp
@@ -67944,7 +67944,7 @@ encoder:
 𩅑	cllv
 𩅒	cdte
 𩅓	cqtp
-𩅔	cvvv
+𩅔	cvvy
 𩅕	cnbu
 𩅖	mlco
 𩅗	ckgl
@@ -67984,7 +67984,7 @@ encoder:
 𩅹	cnbj
 𩅺	ccvj
 𩅻	cnhj
-𩅼	crqv
+𩅼	crqy
 𩅽	ccsm
 𩅾	cine
 𩅿	cnnh
@@ -69139,7 +69139,7 @@ encoder:
 𩗼	eowy
 𩗽	efka
 𩗾	efub
-𩗿	ecvf
+𩗿	ecyf
 𩘀	eujz
 𩘁	aief
 𩘂	ebie
@@ -70907,7 +70907,7 @@ encoder:
 𩳤	ducg
 𩳥	tkdg
 𩳦	djlv
-𩳧	cdgv
+𩳧	cdgy
 𩳨	dulh
 𩳩	dmwg
 𩳪	djgs
@@ -71846,7 +71846,7 @@ encoder:
 𪂒	wcrd
 𪂓	ujdn
 𪂔	njdn
-𪂕	cdnv
+𪂕	cdny
 𪂖	wabd
 𪂗	bagd
 𪂘	rild
@@ -72410,7 +72410,7 @@ encoder:
 𪋆	mjnn
 𪋇	mehl
 𪋈	mbgi
-𪋉	mcvl
+𪋉	mcyl
 𪋊	mjau
 𪋋	mqso
 𪋌	marg
@@ -74644,7 +74644,7 @@ encoder:
 𪮧	fmbw
 𪮨	fnwa
 𪮩	fqjq
-𪮪	fbcv
+𪮪	fbcy
 𪮫	fsjt
 𪮬	fhlv
 𪮭	fhxi
@@ -74966,7 +74966,7 @@ encoder:
 𪳩	atjj
 𪳪	anbc
 𪳫	bbbd
-𪳬	abcv
+𪳬	abcy
 𪳭	ooaj
 𪳮	ahxq
 𪳯	aaih
@@ -76347,7 +76347,7 @@ encoder:
 𫉔	sebw
 𫉕	sral
 𫉖	swgk
-𫉗	sncv
+𫉗	sncy
 𫉘	smbw
 𫉙	snwq
 𫉚	sbdh
@@ -76455,7 +76455,7 @@ encoder:
 𫋀	qiau
 𫋁	qkxc
 𫋂	qfbc
-𫋃	qcvc
+𫋃	qcyc
 𫋄	qdfp
 𫋅	qdoc
 𫋆	qtjc
@@ -76930,7 +76930,7 @@ encoder:
 𫒤	ttkz
 𫒥	ttri
 𫒦	tgjq
-𫒧	tcvj
+𫒧	tcyj
 𫒨	thds
 𫒩	toak
 𫒪	tdwr
@@ -77105,12 +77105,12 @@ encoder:
 𫕚	erre
 𫕛	nleh
 𫕜	dehw
-𫕝	cajv
-𫕞	chtv
-𫕟	cwyv
-𫕠	cobv
+𫕝	cajy
+𫕞	chty
+𫕟	cwyy
+𫕠	coby
 𫕡	cqnb
-𫕢	cemv
+𫕢	cemy
 𫕣	qkcb
 𫕤	cemr
 𫕥	clcb
@@ -78823,7 +78823,7 @@ encoder:
 𫰷	fbcn
 𫰸	cnkm
 𫰹	occn
-𫰺	ccvn
+𫰺	ccyn
 𫰻	ccqt
 𫰼	csin
 𫰽	crrp
@@ -81843,7 +81843,7 @@ encoder:
 𬠩	qhjp
 𬠪	qlbm
 𬠫	qsjw
-𬠬	qscv
+𬠬	qscy
 𬠭	qpno
 𬠮	qrrg
 𬠯	quuf
@@ -82780,8 +82780,8 @@ encoder:
 𬯶	dkeh
 𬯷	qgpe
 𬯸	cqkd
-𬯹	cesv
-𬯺	ckyv
+𬯹	cesy
+𬯺	ckyy
 𬯻	cauj
 𬯼	cmmd
 𬯽	cnny
@@ -83121,7 +83121,7 @@ encoder:
 𬵔	vpzv
 𬵕	vein
 𬵖	vnji
-𬵗	vcvv
+𬵗	vcyv
 𬵘	vsei
 𬵙	gvwv
 𬵚	vgir
@@ -85258,7 +85258,7 @@ encoder:
 𭗎	musl
 𭗏	uiru
 𭗐	ujlt
-𭗑	ubcv
+𭗑	ubcy
 𭗒	ucft
 𭗓	ucjt
 𭗔	uaeh
@@ -89812,7 +89812,7 @@ encoder:
 𮞘	jkwo
 𮞙	fkco
 𮞚	gslo
-𮞛	cocv
+𮞛	cocy
 𮞜	oclo
 𮞝	adoc
 𮞞	sfoc
@@ -90105,7 +90105,7 @@ encoder:
 𮢽	tsxk
 𮢾	tgkp
 𮢿	tkjk
-𮣀	thcv
+𮣀	thcy
 𮣁	tpqw
 𮣂	swtt
 𮣃	tujk
@@ -90302,25 +90302,25 @@ encoder:
 𮦂	eaea
 𮦃	slle
 𮦄	jcka
-𮦅	ctmv
+𮦅	ctmy
 𮦆	jcrr
-𮦇	focv
+𮦇	focy
 𮦈	ccre
-𮦉	cihv
+𮦉	cihy
 𮦊	cilv
-𮦋	cjmv
+𮦋	cjmy
 𮦌	culv
 𮦍	cxaj
 𮦎	crqg
 𮦏	cntw
 𮦐	chau
 𮦑	clwy
-𮦒	cjbv
+𮦒	cjby
 𮦓	crjm
 𮦔	cfkp
-𮦕	calv
+𮦕	caly
 𮦖	cinn
-𮦗	cdmv
+𮦗	cdmy
 𮦘	ckxj
 𮦙	cefs
 𮦚	cijk
@@ -92349,7 +92349,7 @@ encoder:
 𰖠	jbeh
 𰖡	jfkj
 𰖢	jhtt
-𰖣	jscv
+𰖣	jscy
 𰖤	jiuj
 𰖥	jgjr
 𰖦	jjxh
@@ -92760,7 +92760,7 @@ encoder:
 𰜻	nhsj
 𰜼	nilb
 𰜽	nixu
-𰜾	qncv
+𰜾	qncy
 𰜿	niqm
 𰝀	nqub
 𰝁	ndhg
@@ -94252,7 +94252,7 @@ encoder:
 𰴏	jwlv
 𰴐	gojj
 𰴑	jfol
-𰴒	cjjv
+𰴒	cjjy
 𰴓	gjkj
 𰴔	iejj
 𰴕	rgcj
@@ -95083,7 +95083,7 @@ encoder:
 𱁎	rfye
 𱁏	ibje
 𱁐	wwee
-𱁑	cnbv
+𱁑	cnby
 𱁒	cbhc
 𱁓	cnmd
 𱁔	chtf
@@ -98903,7 +98903,7 @@ encoder:
 𱼿	ajgk
 𱽀	ujhu
 𱽁	duhu
-𱽂	uscv
+𱽂	uscy
 𱽃	utqc
 𱽄	ubbe
 𱽅	upvt
@@ -99717,7 +99717,7 @@ encoder:
 𲉭	btes
 𲉮	vjeh
 𲉯	tegg
-𲉰	cgnv
+𲉰	cgny
 𲉱	jxqw
 𲉲	cdgi
 𲉳	cfih
@@ -99740,7 +99740,7 @@ encoder:
 𲊄	cwol
 𲊅	ceua
 𲊆	cbtf
-𲊇	cmav
+𲊇	cmay
 𲊈	cnjp
 𲊉	cnij
 𲊊	crfr
@@ -99895,7 +99895,7 @@ encoder:
 𲌟	uehb
 𲌠	ukmr
 𲌡	ugql
-𲌢	uscv
+𲌢	uscy
 𲌣	ujeo
 𲌤	gqxb
 𲌥	uush
@@ -100120,7 +100120,7 @@ encoder:
 ⻔	tmm
 ⻕	dbod
 ⻖	pff
-⻗	cvv
+⻗	cyy
 ⻘	owyq
 ⻙	ayik
 ⻚	vcbs
@@ -100321,7 +100321,7 @@ encoder:
 ⾩	dgid
 ⾪	bnsj
 ⾫	ehh
-⾬	cvv
+⾬	cyy
 ⾭	owjv
 ⾮	uff
 ⾯	smm
@@ -100471,12 +100471,12 @@ encoder:
 牢	ipnb
 磊	vvvs
 賂	jtlv
-雷	cvtv
+雷	cvty
 壘	vvvh
 屢	blgc
 樓	algc
 淚	ndhq
-漏	nbcv
+漏	nbcy
 累	vost
 縷	olgc
 陋	pfce
@@ -107705,7 +107705,7 @@ encoder:
 ⻓	nc
 ⻔	tm
 ⻖	pf
-⻗	cv
+⻗	cy
 ⻝	ks
 ⻞	ks
 ⻟	ks
@@ -107849,7 +107849,7 @@ encoder:
 ⾧	uc
 ⾨	dm
 ⾫	eh
-⾬	cv
+⾬	cy
 ⾮	uf
 ⾯	sm
 ⾰	sg
@@ -108013,7 +108013,6 @@ encoder:
 春	ojr
 红	kpg
 甚	uei
-雪	cbj
 队	pre
 草	sjz
 專	dhc
@@ -108052,6 +108051,7 @@ encoder:
 默	ghq
 休	eau
 村	ahc
+雷	cvt
 备	tvt
 床	mau
 秋	mih
@@ -108074,6 +108074,7 @@ encoder:
 坡	hbp
 斗	igi
 困	wau
+震	cmc
 叶	lgi
 臉	wrq
 毫	amm
@@ -108220,6 +108221,7 @@ encoder:
 仇	eqj
 苗	svt
 芒	stw
+妇	cbj
 稿	mag
 輔	dnf
 租	mjq
@@ -108255,7 +108257,6 @@ encoder:
 忧	rfo
 狐	hug
 抹	ffm
-霍	ceh
 柏	adb
 麥	atp
 岛	mus
@@ -108411,6 +108412,7 @@ encoder:
 淮	neh
 膏	awy
 旬	wjr
+雯	cte
 竿	gng
 槐	adg
 豚	wts
@@ -110068,7 +110070,7 @@ encoder:
 屇	bvt
 屒	bmc
 屓	bjb
-屚	bcv
+屚	bcy
 屰	qwc
 屲	gus
 屳	bus
@@ -111840,7 +111842,7 @@ encoder:
 𠉄	ekx
 𠉠	evz
 𠉲	rob
-𠉴	ecv
+𠉴	ecy
 𠊄	etj
 𠊪	ehz
 𠊰	erk
@@ -112552,7 +112554,7 @@ encoder:
 𡷿	upz
 𡸷	uuq
 𡸸	dus
-𡸹	ucv
+𡸹	ucy
 𡹐	ueh
 𡹬	urk
 𡺤	uef
@@ -112658,7 +112660,7 @@ encoder:
 𢈫	mmc
 𢈯	mqs
 𢈶	muh
-𢉀	mcv
+𢉀	mcy
 𢉅	mtj
 𢉒	mis
 𢉺	mjq
@@ -112929,7 +112931,7 @@ encoder:
 𢮛	fdc
 𢮜	ufs
 𢮨	fdc
-𢮳	fcv
+𢮳	fcy
 𢯦	fal
 𢯷	fbw
 𢯹	fsg
@@ -113038,7 +113040,7 @@ encoder:
 𣍣	lwy
 𣍤	nwy
 𣍩	wmh
-𣍾	wcv
+𣍾	wcy
 𣍿	wal
 𣎃	wis
 𣎚	wgh
@@ -113096,7 +113098,7 @@ encoder:
 𣓧	dau
 𣔉	auf
 𣔋	atj
-𣔯	acv
+𣔯	acy
 𣕃	avy
 𣙪	ama
 𣜄	tau
@@ -113264,7 +113266,7 @@ encoder:
 𣵧	nby
 𣶣	ndc
 𣶯	ndm
-𣷌	ncv
+𣷌	ncy
 𣻕	nma
 𤁧	npc
 𤆂	ifi
@@ -114335,7 +114337,7 @@ encoder:
 𦮰	sty
 𦮷	sjb
 𦰱	sis
-𦲸	scv
+𦲸	scy
 𦴧	syf
 𦵀	ssm
 𦶀	sdw
@@ -114716,7 +114718,7 @@ encoder:
 𨁏	pnf
 𨁪	ppy
 𨁫	pvl
-𨂎	pcv
+𨂎	pcy
 𨂐	pal
 𨂜	puh
 𨃤	pag
@@ -115058,7 +115060,7 @@ encoder:
 𩁸	cej
 𩁺	ccp
 𩁻	ccn
-𩁼	xcv
+𩁼	xcy
 𩁽	cbg
 𩁿	cbj
 𩂀	cng
@@ -115174,7 +115176,7 @@ encoder:
 𩗛	ets
 𩗩	tef
 𩗵	eis
-𩗿	ecv
+𩗿	ecy
 𩘚	bef
 𩘲	edn
 𩘵	edn
@@ -115557,7 +115559,7 @@ encoder:
 𪋀	mdc
 𪋁	mts
 𪋇	meh
-𪋉	mcv
+𪋉	mcy
 𪋖	mef
 𪋞	mdn
 𪎑	mej
@@ -115914,7 +115916,7 @@ encoder:
 𫊺	qos
 𫊾	qqs
 𫋁	qkx
-𫋃	qcv
+𫋃	qcy
 𫋆	qtj
 𫋳	xtf
 𫋵	xds
@@ -115969,7 +115971,7 @@ encoder:
 𫒖	tpx
 𫒘	tjf
 𫒚	tty
-𫒧	tcv
+𫒧	tcy
 𫓥	oka
 𫓦	okz
 𫓨	okg
@@ -116173,7 +116175,7 @@ encoder:
 𫰖	cns
 𫰤	cqm
 𫰧	cqy
-𫰺	ccv
+𫰺	ccy
 𫰾	ctj
 𫲡	kbo
 𫲧	ktj
@@ -116555,7 +116557,7 @@ encoder:
 𬵏	vls
 𬵒	vdc
 𬵔	vpz
-𬵗	vcv
+𬵗	vcy
 𬶀	xmd
 𬶁	xre
 𬶂	xht
@@ -118626,7 +118628,6 @@ encoder:
 付	ehc
 買	ujb
 介	rka
-震	cmc
 宜	ijq
 圍	wbw
 固	wjg
@@ -121308,7 +121309,7 @@ encoder:
 善良	qqkg
 愛好	uxck
 元素	floo
-風雨	efcv
+風雨	efcy
 誰知	bejl
 悲哀	urag
 走廊	hzmk
@@ -121623,7 +121624,7 @@ encoder:
 包裹	woaj
 廉價	mqep
 只怕	lkrd
-雷雨	cvcv
+雷雨	cvcy
 冷卻	irkr
 歌詞	alby
 管家	giit
@@ -122458,7 +122459,7 @@ encoder:
 廠商	miaq
 罪犯	uuha
 地步	hopi
-大雨	odcv
+大雨	odcy
 無聲	gshb
 輔導	dnqq
 貧窮	kmiq
@@ -124081,7 +124082,7 @@ encoder:
 一心	firi
 吸菸	lgst
 美德	qocg
-雨水	cvns
+雨水	cyns
 更換	fjfx
 精美	qoqo
 細菌	ovsw
@@ -124925,7 +124926,7 @@ encoder:
 海港	ngns
 荒蕪	stsg
 催化	euen
-雨天	cvfo
+雨天	cyfo
 混戰	njll
 別開生面	ldps
 床鋪	matn
@@ -124980,7 +124981,7 @@ encoder:
 離別	twlw
 壞蛋	hayp
 有朝一日	egfj
-暴風雨	jecv
+暴風雨	jecy
 割裂	iofx
 取而代之	lseo
 母體	emrc
@@ -125535,7 +125536,7 @@ encoder:
 工商	pgaq
 帶有	sfew
 創造性	rprp
-小雨	ivcv
+小雨	ivcy
 安徽	iccf
 組建	ojba
 轎車	dmdc
@@ -125784,7 +125785,7 @@ encoder:
 亮相	awaj
 上訴	jvbd
 永不	kngu
-暴雨	jscv
+暴雨	jscy
 美化	qoen
 筷子	grkz
 兌現	kljj
@@ -125867,7 +125868,7 @@ encoder:
 投放	fett
 廠房	midt
 兵團	dfwd
-下雨	jxcv
+下雨	jxcy
 改組	otoj
 使勁	effl
 曝光	jjil
@@ -128695,7 +128696,7 @@ encoder:
 咽喉	lwle
 登載	bfgk
 脫鉤	wktw
-雨季	cvmk
+雨季	cymk
 喧譁	libs
 知己	jloi
 貧苦	kmsj
@@ -128778,7 +128779,7 @@ encoder:
 妖精	cmqo
 光環	ilju
 統稱	oamu
-雨點	cvgu
+雨點	cygu
 聖誕節	lbgb
 復發	cgbb
 深海	nxng
@@ -130081,7 +130082,7 @@ encoder:
 聚焦	lbei
 海口	nglv
 事務所	hkdd
-雷陣雨	cpcv
+雷陣雨	cpcy
 電站	cdku
 自律	qicb
 兵力	dfsl
@@ -130914,7 +130915,7 @@ encoder:
 禱告	jhpl
 內幕	cbsj
 千克	mqjw
-雨傘	cvrr
+雨傘	cyrr
 精良	qokg
 糾葛	owsj
 鍊鋼	tatc
@@ -130989,7 +130990,7 @@ encoder:
 低潮	ekng
 驚嚇	swlh
 勞資	iiix
-雨量	cvjf
+雨量	cyjf
 筆名	gbxl
 敗仗	jtee
 鍛造	tepl
@@ -132998,7 +132999,7 @@ encoder:
 倍加	eksl
 封建主義	hbkq
 索賠	gxjk
-春雨	ojcv
+春雨	ojcy
 熟知	akjl
 病逝	mffd
 出山	wwus
@@ -133164,7 +133165,7 @@ encoder:
 爭氣	ubgq
 語錄	bfte
 原型	vdfs
-陰雨	prcv
+陰雨	prcy
 獎狀	dwdh
 騎士	wohs
 清秀	nomg
@@ -133607,7 +133608,7 @@ encoder:
 掌權	ifas
 木偶	auev
 替補	ooxn
-雨衣	cvag
+雨衣	cyag
 法醫	nhhj
 解圍	xwwb
 今朝	rfgj
@@ -135555,7 +135556,7 @@ encoder:
 出戰	wwll
 展廳	bsml
 抗爭	faub
-細雨	ovcv
+細雨	ovcy
 涉外	npxu
 謳歌	bhal
 硅谷	vhkr
@@ -135717,7 +135718,7 @@ encoder:
 油漆	ndna
 年末	gafm
 先例	pwef
-陣雨	pdcv
+陣雨	pdcy
 勞作	iieg
 綿延	odgp
 爭光	ubil
@@ -137460,7 +137461,7 @@ encoder:
 牙齦	hypg
 班底	jqmk
 黃鶯	siii
-毛毛雨	mmcv
+毛毛雨	mmcy
 配音	pokj
 水槍	nsar
 湯匙	njjf
@@ -138266,7 +138267,7 @@ encoder:
 免不了	xgke
 出線	wwod
 釀成	paky
-降雨	ptcv
+降雨	ptcy
 假使	ebef
 匱乏	hlgo
 訪談	btbi
@@ -138645,7 +138646,7 @@ encoder:
 煩悶	ivdr
 溝壑	nsux
 孤島	kudu
-酸雨	pncv
+酸雨	pncy
 永生	knps
 古書	jgbh
 回話	wlbl
@@ -139514,7 +139515,7 @@ encoder:
 落寞	snis
 目眩	jmja
 貼補	juxn
-雨林	cvaa
+雨林	cyaa
 助聽器	jlll
 定案	ific
 本義	afqg
@@ -142963,7 +142964,7 @@ encoder:
 秒鐘	mitk
 香山	mjus
 微分	cfkm
-秋雨	micv
+秋雨	micy
 長安街	uich
 稱作	mueg
 香檳酒	manp
@@ -144108,7 +144109,7 @@ encoder:
 平仄	nqvr
 上墳	jvhg
 文墨	tegh
-煙雨	ipcv
+煙雨	ipcy
 畫師	bhdf
 米麵	qmat
 傾覆	enpc
@@ -145211,7 +145212,7 @@ encoder:
 豎起	hbho
 師團	dfwd
 是的	jfdw
-冒雨	cicv
+冒雨	cicy
 早報	jzhq
 暗淡無光	jngi
 日中	jrlu
@@ -147159,7 +147160,7 @@ encoder:
 牆上	dhjv
 真真假假	ggee
 十五	gifb
-雨滴	cvna
+雨滴	cyna
 十四	giww
 救活	fnnl
 翰墨	gjgh
@@ -148117,7 +148118,7 @@ encoder:
 家室	itid
 腳背	wkqn
 雙全	eebj
-雨絲	cvoo
+雨絲	cyoo
 鄉鄰	kgqx
 心潮	ring
 筆尖	gbio
@@ -148738,7 +148739,7 @@ encoder:
 殺戒	saks
 蔚為大觀	skos
 雪豹	cbvw
-雨具	cvjk
+雨具	cyjk
 甄選	phoo
 胡搞	jwfa
 畫刊	bhnm
@@ -149408,7 +149409,7 @@ encoder:
 黨史	igls
 幹啥	gjlr
 聽證	lmbb
-中雨	lucv
+中雨	lucy
 疑似	njee
 辦公樓	kkal
 排查	fuaj
@@ -149529,7 +149530,7 @@ encoder:
 不啻	guaq
 坡地	hbho
 為患	kgll
-雨聲	cvhb
+雨聲	cyhb
 陰鬱	praj
 運抵	xdfk
 高危	agxv
@@ -149546,7 +149547,7 @@ encoder:
 宗室	ijid
 磁懸浮	vjnu
 護林	bsaa
-雨露	cvcp
+雨露	cycp
 綻開	oidf
 發黃	bbsi
 旗子	tgkz
@@ -149588,7 +149589,7 @@ encoder:
 交道	akqq
 木樁	auao
 相悖	ajrg
-梅雨	agcv
+梅雨	agcy
 撥動	fbmv
 民宅	oxig
 心氣	rigq
@@ -150237,7 +150238,7 @@ encoder:
 群集	bgea
 痛悔	mbrg
 引動	bumv
-雲雨	cicv
+雲雨	cicy
 鋼水	tcns
 蛤蜊	qrqm
 滑板	nrav
@@ -150497,7 +150498,7 @@ encoder:
 色慾	xokr
 童男	kvvs
 文如其人	tcur
-淫雨	nucv
+淫雨	nucy
 本票	afpj
 筆帽	gbuc
 茶爐	sriu
@@ -153354,7 +153355,7 @@ encoder:
 征討	cfbh
 成對	kyiq
 峻嶺	unur
-避雨	blcv
+避雨	blcy
 親子	kakz
 定式	ifkp
 用料	syqi
@@ -153370,7 +153371,7 @@ encoder:
 硯臺	vjhl
 榨油	aind
 只消	lkni
-驟雨	wlcv
+驟雨	wlcy
 密約	irow
 球衣	jfag
 壽衣	hyag
@@ -154810,7 +154811,7 @@ encoder:
 引種	bumm
 電線杆	coan
 枉法	ajnh
-雨雪	cvcb
+雨雪	cycb
 倘使	eief
 擁堵	fahh
 增資	hqix
@@ -156903,7 +156904,7 @@ encoder:
 異教	vshk
 陰私	prmn
 憂懼	vwrj
-雨鞋	cvsh
+雨鞋	cysh
 雕鑿	whiq
 陡壁	phbl
 斷肢	nnwg
@@ -157027,7 +157028,7 @@ encoder:
 空暇	ipjb
 礦務	vmkg
 臀圍	bswb
-喜雨	hlcv
+喜雨	hlcy
 墜樓	pqal
 臨風	hgef
 落英	snsc
@@ -157481,7 +157482,7 @@ encoder:
 渾蛋	nxyp
 逃過	wiro
 小白臉	idwr
-淋雨	nacv
+淋雨	nacy
 灑下	nfjx
 河裡	naxv
 酒仙	npeu
@@ -159979,7 +159980,7 @@ encoder:
 錄放	tett
 噴槍	lgar
 薪餉	skkd
-雨景	cvja
+雨景	cyja
 蒼耳	srle
 茶鹼	srur
 陳貨	paen
@@ -160352,7 +160353,7 @@ encoder:
 洞裡	ncxv
 洞內	nccb
 油酸	ndpn
-漏雨	nbcv
+漏雨	nbcy
 泥煤	nbis
 學醫	dshj
 學聯	dsln
@@ -160582,7 +160583,7 @@ encoder:
 負值	xjeg
 飢腸	kewj
 烏紗	dwoi
-多雨	xxcv
+多雨	xxcy
 多家	xxit
 多名	xxxl
 多夢	xxsu
@@ -161237,7 +161238,7 @@ encoder:
 徐緩	crou
 怡人	rnre
 照護	jmbs
-豪雨	atcv
+豪雨	atcy
 激靈	ndcl
 居間	bjdj
 戲路	ufpt
@@ -161278,7 +161279,7 @@ encoder:
 戀戰	obll
 驢打滾	wfna
 密函	iryn
-雨燕	cvsf
+雨燕	cysf
 沖泡	nlnw
 除溼	prnf
 輔修	dneu
@@ -161447,7 +161448,7 @@ encoder:
 隊醫	pqhj
 墜海	pqng
 隱約其辭	pouu
-防雨	ptcv
+防雨	ptcy
 防雷	ptcv
 防撞	ptfk
 防化	pten
@@ -162109,7 +162110,7 @@ encoder:
 建模	baas
 嫩嫩	caca
 妙哉	cigk
-如雨	clcv
+如雨	clcy
 如煙	clip
 如火	clih
 婚外	ckxu
@@ -162465,7 +162466,7 @@ encoder:
 反誣	vbbp
 矯飾	jmkg
 私話	mnbl
-雨勢	cvhw
+雨勢	cyhw
 正宮	fpil
 蹲坑	pqha
 概說	abbk
@@ -162528,7 +162529,7 @@ encoder:
 一物降一物	fppp
 有聞必錄	edrt
 編派	odnd
-凍雨	iacv
+凍雨	iacy
 鋼瓶	tcqs
 掛零	fhcr
 黃口小兒	slid
@@ -165319,7 +165320,7 @@ encoder:
 特急	phxb
 物像	pwex
 竹片	gzdp
-冬雨	ticv
+冬雨	ticy
 冬雪	ticb
 答腔	grwi
 第幾	gbnn
@@ -165812,7 +165813,7 @@ encoder:
 土石	htvs
 土城	hthk
 地址欄	hhad
-雨淋	cvna
+雨淋	cyna
 真貨	gjen
 未開	fwdf
 超塵拔俗	hmfe
@@ -166111,7 +166112,7 @@ encoder:
 技壓群雄	fvbe
 揮霍一空	fcfi
 年數	galg
-擋雨	ficv
+擋雨	ficy
 打光棍	fiaj
 攝影家	fjit
 捉對	fpiq
@@ -166237,7 +166238,7 @@ encoder:
 閃閃爍爍	ddii
 閉門謝客	ddbi
 兼優	qbev
-冷雨	ircv
+冷雨	ircy
 凝注	innk
 背投	qnfe
 弩弓	cbbg
@@ -167220,7 +167221,7 @@ encoder:
 牽繫	andw
 曠遠	jmhl
 鐵骨錚錚	trtt
-雨刷	cvbu
+雨刷	cybu
 寬餘	iskr
 壽筵	hygg
 仰承	ekyn
@@ -167355,8 +167356,8 @@ encoder:
 塔身	hsqs
 雲峰	ciut
 運糧	xdqj
-雨落	cvsn
-雨珠	cvjp
+雨落	cysn
+雨珠	cyjp
 超星	hmjp
 趨利	hwmm
 走穩	hzmu
@@ -169061,7 +169062,7 @@ encoder:
 歡叫	sllw
 歡好	slck
 左起	epho
-有雨	ewcv
+有雨	ewcy
 有夢	ewsu
 壓降	vjpt
 壓蓋	vjsh
@@ -169688,7 +169689,7 @@ encoder:
 弧面	busm
 強手如林	bfca
 鄉居	kgbj
-彈雨	blcv
+彈雨	blcy
 綽約多姿	ooxi
 齋主	aqkj
 主鍵	kjtb
@@ -169854,7 +169855,7 @@ encoder:
 刎頸	wcfl
 獨輪	hudr
 急駛	xbwl
-急雨	xbcv
+急雨	xbcy
 銀屑	tgbi
 鍵鈕	tbtb
 留英	kvsc
@@ -171955,7 +171956,7 @@ encoder:
 中路	lupt
 加速器	sall
 嘟囔	lhlg
-流星雨	njcv
+流星雨	njcy
 門市部	dakl
 半途	qarf
 活像	nlex
@@ -173590,7 +173591,7 @@ encoder:
 腳踏	wkpn
 臉型	wrfs
 震天	cmfo
-雨後	cvcn
+雨後	cycn
 超高	hmag
 南疆	gcbh
 無怨無悔	gxgr
@@ -173766,7 +173767,7 @@ encoder:
 印花稅	ksmk
 髮髻	ueuh
 德智體	cjrc
-及時雨	gjcv
+及時雨	gjcy
 防疫站	pmku
 鬱郁	ajew
 顫巍巍	auum
@@ -174378,7 +174379,7 @@ encoder:
 律己	cboi
 養路	qopt
 擬人	fnre
-穀雨	hfcv
+穀雨	hfcy
 鬆快	uarb
 這麼樣	bmaq
 震級	cmog
@@ -175034,7 +175035,7 @@ encoder:
 萬事通	shbs
 心裁	rigk
 虛胖	uwwq
-雨披	cvfb
+雨披	cyfb
 倨傲	ebeh
 看跌	fjpg
 鬣狗	ulhw
@@ -175089,7 +175090,7 @@ encoder:
 如見其人	cjur
 饒有風趣	keeh
 治國安民	nwio
-落雨	sncv
+落雨	sncy
 東昇	ajjg
 劃為	bhkg
 藝術團	scwd
@@ -176923,7 +176924,7 @@ encoder:
 陋巷	pfsk
 水果糖	njqm
 景頗族	jbtg
-透雨	mgcv
+透雨	mgcy
 退黨	goig
 娃娃魚	ccvv
 橙汁	abng
@@ -177330,7 +177331,7 @@ encoder:
 服務費	wkbk
 朝陽區	gphl
 封住	hhek
-雨果	cvja
+雨果	cyja
 二類	irqh
 二千	irmq
 直落	gjsn
@@ -178324,7 +178325,7 @@ encoder:
 稀里嘩啦	mvll
 避邪	blhp
 夜話	aebl
-雨布	cveu
+雨布	cyeu
 居留證	bkbb
 攢錢	fptk
 珞巴族	jotg
@@ -179898,7 +179899,7 @@ encoder:
 間架	djsl
 唬人	lure
 自忖	qirh
-求雨	fncv
+求雨	fncy
 黑色幽默	gxug
 蠻纏	obom
 清賬	noju
@@ -179932,7 +179933,7 @@ encoder:
 擋車	fidc
 費盡心思	bbrv
 賤骨頭	jrfl
-雨情	cvro
+雨情	cyro
 折損	fdfl
 病家	mfit
 隔三岔五	plkf
@@ -181149,7 +181150,7 @@ encoder:
 吊瓶	luqs
 叫著	lwsh
 嘍羅	lluo
-聽雨	lmcv
+聽雨	lmcy
 吃屎	lgbq
 呼延	lggp
 黑了	ghke
@@ -181716,7 +181717,7 @@ encoder:
 具結	jkoh
 皮件	bpep
 擅入	fabu
-雨意	cvkj
+雨意	cykj
 原棉	vdad
 待考	chhh
 感光度	kims
@@ -182198,7 +182199,7 @@ encoder:
 弈棋	tsau
 放倒	tted
 商周	aqwh
-夜雨	aecv
+夜雨	aecy
 夜店	aemu
 甚遠	uehl
 基團	uhwd
@@ -183047,7 +183048,7 @@ encoder:
 養貓	qovs
 養著	qosh
 半張	qabu
-冰雨	incv
+冰雨	incy
 單反	llvb
 次元	ixfl
 六點	akgu
@@ -185086,7 +185087,7 @@ encoder:
 皮張	bpbu
 儼如	elcl
 工賊	pgjk
-雨靴	cvse
+雨靴	cyse
 找零	fkcr
 傻里傻氣	eveg
 悲酸	urpn
@@ -187452,7 +187453,7 @@ encoder:
 樞要	ahpc
 掌班	ifjq
 聚訟紛紜	lboo
-雨帽	cvuc
+雨帽	cyuc
 正凶	fpsw
 鑽臺	tphl
 捧殺	fosa
@@ -188671,7 +188672,7 @@ encoder:
 樹懶	ahra
 樹精	ahqo
 頂缸	avjp
-飄雨	pjcv
+飄雨	pjcy
 飄窗	pjid
 桃心	awri
 長筒	ucgc
@@ -188689,7 +188690,7 @@ encoder:
 壯男	dhvs
 養了	qoke
 單肩	lldw
-新雨	kacv
+新雨	kacy
 準了	neke
 羊湯	qynj
 群聊	bglk
@@ -189557,7 +189558,7 @@ encoder:
 膠條	wveu
 雲門	cidm
 土偶	htev
-雨蝶	cvqs
+雨蝶	cyqs
 乾鍋	gjtr
 十秒	gimi
 博美	gnqo
@@ -189717,7 +189718,7 @@ encoder:
 你呢	exlb
 促銷員	etlj
 佳木斯市	eaua
-餘秋雨	kmcv
+餘秋雨	kmcy
 分點	kmgu
 人獸	rell
 華能	sfnw
@@ -189816,7 +189817,7 @@ encoder:
 踢騰	pjwq
 細菌武器	osfl
 油雞	ndun
-黃梅雨	sacv
+黃梅雨	sacy
 文抄公	tfkn
 化瘀	enmt
 通匪	bshu
@@ -190373,7 +190374,7 @@ encoder:
 洋浦	nqnn
 浴簾	nkgm
 暖手	jufs
-晴雨	jocv
+晴雨	jocy
 是吧	jflo
 申告	dspl
 電光火石	ciiv
@@ -191509,7 +191510,7 @@ encoder:
 歧出	pgww
 上燈	jvib
 顰蹙	pikj
-舊雨	secv
+舊雨	secy
 此呼彼應	plcm
 瞎抓	jifu
 柴堆	pnhe
@@ -195289,7 +195290,7 @@ encoder:
 快充	rban
 忙了	rtke
 糅雜	qkar
-火雨	ihcv
+火雨	ihcy
 炫龍	iakw
 廊橋	mkam
 軍臨城下	xhhj
@@ -195793,12 +195794,12 @@ encoder:
 雲水	cins
 土系	htgo
 二七	irxi
-雨辰	cvmc
+雨辰	cymc
 二虎	iruh
 博興	gndc
 十名	gixl
 博白	gndb
-雨篷	cvgt
+雨篷	cygt
 韓星	gjjp
 雷曼	cvci
 無框	gsah
@@ -198084,8 +198085,8 @@ encoder:
 地纜	hooh
 雲縫	ciot
 壇蓋	hash
-雨褲	cvxm
-雨柱	cvak
+雨褲	cyxm
+雨柱	cyak
 直瞅	gjjm
 求數	fnlg
 塌毀	hcdh
@@ -220781,7 +220782,7 @@ encoder:
 四处	wwtr
 散发	swwb
 爱好	uxck
-风雨	escv
+风雨	escy
 谁知	dejl
 炸弹	igbq
 发动机	wiae
@@ -223012,7 +223013,7 @@ encoder:
 变法	tbnh
 离别	twls
 坏蛋	hgyp
-暴风雨	jecv
+暴风雨	jecy
 母体	emea
 司空见惯	yicr
 万能	fwnw
@@ -225439,7 +225440,7 @@ encoder:
 帮手	dpfs
 光环	iljg
 统称	kamx
-雨点	cvul
+雨点	cyul
 圣诞节	bdsa
 复发	gjwb
 肤色	woxo
@@ -226304,7 +226305,7 @@ encoder:
 余额	rfit
 处境	trhk
 事务所	htdd
-雷阵雨	cpcv
+雷阵雨	cpcy
 电站	ddku
 实物	iipw
 改编	otkd
@@ -226779,7 +226780,7 @@ encoder:
 奥妙	dqci
 祷告	jdpl
 内幕	crsj
-雨伞	cvrq
+雨伞	cyrq
 纠葛	kwsj
 炼钢	ixoc
 作对	egbh
@@ -228259,7 +228260,7 @@ encoder:
 年岁	gaux
 争气	xbgq
 语录	dfbn
-阴雨	pwcv
+阴雨	pwcy
 奖状	qxqh
 骑士	bohs
 避难	blbe
@@ -229745,7 +229746,7 @@ encoder:
 出战	wwul
 展厅	bsva
 抗争	faxb
-细雨	kvcv
+细雨	kvcy
 讴歌	dhal
 会计师	rdqf
 热切	fqxm
@@ -229845,7 +229846,7 @@ encoder:
 棱镜	ahok
 面试	smdk
 会诊	ridr
-阵雨	pxcv
+阵雨	pxcy
 劳作	sxeg
 绵延	kdgp
 争光	xbil
@@ -235028,7 +235029,7 @@ encoder:
 带劲	sxbp
 明丽	jwfc
 上坟	jvht
-烟雨	iwcv
+烟雨	iwcy
 画师	fvqf
 米面	qmsm
 倾覆	enpc
@@ -237501,7 +237502,7 @@ encoder:
 当道	ibqq
 脚背	whqn
 双全	bbbj
-雨丝	cvkk
+雨丝	cykk
 乡邻	kgrf
 笔尖	gmio
 禀赋	awcf
@@ -238360,7 +238361,7 @@ encoder:
 课余	djrf
 殷实	dbii
 为患	ksll
-雨声	cvhb
+雨声	cyhb
 阴郁	pwew
 运抵	infk
 主将	kjqu
@@ -238791,7 +238792,7 @@ encoder:
 计程车	dmxj
 经心	kbri
 引动	buin
-云雨	incv
+云雨	incy
 钢水	ocns
 荆条	sfta
 角斗	xwig
@@ -240729,7 +240730,7 @@ encoder:
 铅字	oeik
 自绝	qikx
 砚台	vcnl
-骤雨	blcv
+骤雨	blcy
 密约	irkw
 寿衣	dhag
 突显	ihji
@@ -246300,7 +246301,7 @@ encoder:
 反诬	vbdp
 矫饰	jmxg
 私话	mndl
-雨势	cvfq
+雨势	cyfq
 正宫	fpil
 概说	abdq
 像话	exdl
@@ -246341,7 +246342,7 @@ encoder:
 相扰	ajff
 有闻必录	etrb
 编派	kdnd
-冻雨	ixcv
+冻雨	ixcy
 钢瓶	ocqs
 挂零	fhcr
 黄口小儿	sliw
@@ -248571,7 +248572,7 @@ encoder:
 技压群雄	fvbe
 挥霍一空	fcfi
 年数	gaqc
-挡雨	ficv
+挡雨	ficy
 摄影家	fjit
 捉对	fpbh
 缺电	jbdd
@@ -250770,7 +250771,7 @@ encoder:
 约达	kwoo
 强手如林	bfca
 乡居	kgbj
-弹雨	bqcv
+弹雨	bqcy
 绰约多姿	kkxi
 斋主	tskj
 主键	kjob
@@ -253269,7 +253270,7 @@ encoder:
 还会	gori
 脚踏	whpn
 脸型	wrfs
-雨后	cvdf
+雨后	cydf
 无怨无悔	fxfr
 严严实实	llii
 丽江	fcnp
@@ -253399,7 +253400,7 @@ encoder:
 深谙	nxdk
 发髻	wbuh
 德智体	cjea
-及时雨	gjcv
+及时雨	gjcy
 郁郁	ewew
 颤巍巍	auum
 愁云	miin
@@ -253789,7 +253790,7 @@ encoder:
 本题	afjf
 养路	qopt
 拟人	fere
-谷雨	krcv
+谷雨	krcy
 松快	akrb
 这么样	tgaq
 震级	cmkg
@@ -257967,7 +257968,7 @@ encoder:
 中脑	luwt
 贵港	ljns
 喽罗	lqux
-听雨	ldcv
+听雨	ldcy
 国电	wjdd
 国美	wjqo
 略长	vtnc
@@ -262589,7 +262590,7 @@ encoder:
 树懒	abra
 树精	abqo
 顶缸	avjp
-飘雨	pjcv
+飘雨	pjcy
 飘窗	pjid
 长筒	ncgc
 矫诏	jmdm
@@ -263226,7 +263227,7 @@ encoder:
 傲游	ehnt
 代理费	ejbk
 促销员	eolc
-余秋雨	rmcv
+余秋雨	rmcy
 分点	kmul
 人兽	reqv
 华能	ennw
@@ -263289,7 +263290,7 @@ encoder:
 踢腾	pjwq
 细菌武器	ksfl
 油鸡	ndbm
-黄梅雨	sacv
+黄梅雨	sacy
 乌鱼	mwxv
 胶轮	waxr
 空论	ipdr
@@ -264346,7 +264347,7 @@ encoder:
 皮耶罗	blux
 上灯	jvia
 颦蹙	pikj
-旧雨	ujcv
+旧雨	ujcy
 此呼彼应	plcm
 浇菜	nxsu
 鸿文	npte
@@ -268540,7 +268541,7 @@ encoder:
 地缆	hoku
 云缝	inkt
 坛盖	hiqu
-雨裤	cvxm
+雨裤	cyxm
 求数	fnqc
 塌毁	hcdp
 协合	gsrh
