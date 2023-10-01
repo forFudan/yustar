@@ -21,6 +21,7 @@ shutil.copyfile("./image/yustar.png", f"./dist/yustar/yustar_{version}.png")
 shutil.copyfile("./beta/readme.md", f"./dist/yustar/readme.txt")
 copy_tree("./beta/mabiao", "./dist/yustar/mabiao")
 copy_tree("./beta/schema", "./dist/yustar/schema")
+copy_tree("./beta/hotfix", "./dist/yustar/hotfix")
 
 shutil.make_archive(f"./dist/yustar_{version}", 'zip', "./dist/yustar")
 # %%
