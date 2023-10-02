@@ -20,7 +20,7 @@ nav_order: 1
 {: .highlight }
 >官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk) · 
 >官方 TG 群: [yuhaoim](https://t.me/yustarim)  
->[最新测试版本下载](https://github.com/forFudan/yustar/releases/) · 
+>[最新版本和练习程序下载](https://github.com/forFudan/yustar/releases/) · 
 <!-- >[备用下载地址](https://gitee.com/forFudan/yustar/releases/)   -->
 >[拆分查询(支持台湾字形)](./star/chaifen/)  
 
