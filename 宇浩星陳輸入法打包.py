@@ -7,7 +7,7 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v0.3.1"
+version = "v0.4.0"
 
 #%%
 try:
@@ -24,6 +24,7 @@ copy_tree("./beta/schema", "./dist/yustar/schema")
 copy_tree("./beta/hotfix", "./dist/yustar/hotfix")
 
 shutil.make_archive(f"./dist/yustar_{version}", 'zip', "./dist/yustar")
+
 # %%
 # shutil.make_archive(f"./dist/yustar_{version}_hotfix", 'zip', "./beta/hotfix")
 # %%
