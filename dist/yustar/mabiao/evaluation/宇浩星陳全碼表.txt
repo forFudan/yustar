@@ -589,7 +589,7 @@
 甚	ueiq
 差	qpgy
 呵	lalv
-展	bshf
+展	bsmc
 争	xbyi
 品	lllv
 兰	qirk
@@ -1472,7 +1472,7 @@
 厌	vhqh
 宜	ijqb
 羞	qbcy
-喂	lvhf
+喂	lvmc
 吟	lrky
 滴	naqj
 洲	nnlc
@@ -1573,7 +1573,7 @@
 哲	fdlv
 季	mkzh
 召	mlvd
-丧	gqhf
+丧	gqmc
 尝	iina
 恭	skik
 载	gkxj
@@ -2032,7 +2032,7 @@
 绳	kldd
 频	pivc
 廊	mkbp
-畏	vhft
+畏	vmct
 歇	jwrx
 裹	ajag
 苗	svto
@@ -3103,7 +3103,7 @@
 袜	xfmy
 妩	cffo
 炕	iaej
-偎	evhf
+偎	evmc
 窦	igyo
 蝎	qjwe
 溶	nirl
@@ -3454,7 +3454,7 @@
 鸾	tmny
 烨	ieng
 翟	vveh
-辗	xbsh
+辗	xbsm
 噎	lhxq
 驹	bwlv
 噼	lblk
@@ -3637,7 +3637,7 @@
 飕	esdb
 渍	nhcb
 麾	mmma
-猥	hvhf
+猥	hvmc
 篝	gsch
 殉	fxwj
 枷	aslv
@@ -3830,7 +3830,7 @@
 玟	jtew
 徨	cdjw
 嗲	lksx
-碾	vbsh
+碾	vbsm
 哐	lhjw
 粼	qxal
 啐	larg
@@ -4943,7 +4943,7 @@
 疡	mycp
 荞	smka
 杲	jaur
-煨	ivhf
+煨	ivmc
 涝	nsxs
 蛔	qwlv
 焖	itri
@@ -5079,7 +5079,7 @@
 焙	iklv
 逦	fcco
 啖	liih
-冁	qjgh
+冁	qjgm
 鸷	frkm
 蜢	qkum
 莠	smgn
@@ -6705,7 +6705,7 @@
 釭	tpgj
 瑠	jkvt
 硷	vrfn
-隈	pvhf
+隈	pvmc
 沢	nbkd
 碚	vklv
 馓	xswt
@@ -7100,7 +7100,7 @@
 優	evwt
 忉	rmdx
 樑	anma
-餵	kvhf
+餵	kvmc
 笭	grkb
 氵	ns
 蜱	qdgi
@@ -7261,7 +7261,7 @@
 姁	cwlv
 骒	bjau
 阌	tuxb
-搌	fbsh
+搌	fbsm
 豐	uddq
 旡	hwrf
 織	okjk
@@ -7900,7 +7900,7 @@
 阘	tjvv
 貎	mdwr
 杮	afuj
-喪	gllh
+喪	gllm
 哜	ltka
 朊	wflw
 菪	sivs
@@ -8765,7 +8765,7 @@
 麕	mwmh
 棟	aajr
 耑	usrs
-碨	vvhf
+碨	vvmc
 篛	gbii
 摎	fvvc
 掞	fiih
@@ -9616,7 +9616,7 @@
 誸	bban
 趫	hmll
 焟	isjr
-蹍	pbsh
+蹍	pbsm
 焇	iiwy
 烓	ihht
 蹧	psjj
@@ -10058,7 +10058,7 @@
 鮎	vulv
 敻	xcrt
 箇	gwjg
-鰃	vvhf
+鰃	vvmc
 鳈	xdns
 鷄	unod
 黐	mrnn
@@ -10125,7 +10125,7 @@
 軻	dalv
 幀	uujb
 冿	ibak
-輾	dbsh
+輾	dbsm
 繪	orfj
 繡	obdf
 艶	csfo
@@ -10168,7 +10168,7 @@
 搰	frgs
 搒	faqt
 怰	rana
-愄	rvhf
+愄	rvmc
 抆	ftes
 抝	fnyi
 捜	fdbo
@@ -12311,7 +12311,7 @@
 湗	nhhh
 渂	njte
 渘	nkga
-渨	nvhf
+渨	nvmc
 渹	nwby
 湋	nbws
 湑	nypw
@@ -12826,7 +12826,7 @@
 蒀	sjum
 葾	sxar
 葹	stgo
-葨	svhf
+葨	svmc
 葖	sihq
 葓	snsk
 葂	sxls
@@ -14661,7 +14661,7 @@
 揥	faqu
 揟	fypw
 揗	fdgj
-揋	fvhf
+揋	fvmc
 揇	fgcg
 揁	fujb
 攟	fmwm
@@ -16352,7 +16352,7 @@
 荶	slry
 胹	wsry
 腵	wbib
-腲	wvhf
+腲	wvmc
 腬	wkga
 腤	wkjr
 腣	waqu
@@ -16634,7 +16634,7 @@
 鳚	xbjh
 鲄	xalv
 鳒	xqbk
-鳂	xvhf
+鳂	xvmc
 鳁	xjum
 鲿	xiin
 鲾	xflv
@@ -17351,7 +17351,7 @@
 鍤	tmdi
 鍣	tsml
 鍢	tflv
-鍡	tvhf
+鍡	tvmc
 鍟	tjps
 鍝	tvyj
 鍽	thce
@@ -18763,7 +18763,7 @@
 嵟	uveh
 嵞	rfau
 嵜	ukly
-嵔	uvhf
+嵔	uvmc
 嵏	uswt
 嵈	uunb
 嵆	mfus
@@ -19463,7 +19463,7 @@
 囎	ljqj
 囇	lfcm
 囆	lsvq
-囅	lljh
+囅	lljm
 囄	ltwe
 圚	wljj
 圡	hkdt
@@ -20609,7 +20609,7 @@
 榳	ammg
 榲	awru
 榬	ahlg
-榐	absh
+榐	absm
 榪	awmu
 榩	aute
 榤	axaa
@@ -20649,7 +20649,7 @@
 椌	aipg
 椥	ajlv
 椶	aswt
-椳	avhf
+椳	avmc
 椱	agjt
 椮	anoc
 椬	aijq
