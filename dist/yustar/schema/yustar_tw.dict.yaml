@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳·臺正
-# 版本: 20231002
+# 版本: 20231003
 #
 ---
 name: "yustar_tw"
-version: "20231002"
+version: "20231003"
 sort: original
 import_tables:
   - yuhao.extended
@@ -642,7 +642,7 @@ encoder:
 矶	ve
 研	vf
 砟	vg
-畏	vh
+疇	vh
 碗	vi
 百	vj
 野	vk
@@ -1209,7 +1209,7 @@ encoder:
 碘酒	vc
 願意	vd
 研究	vf
-畏懼	vh
+疇昔	vh
 碗櫃	vi
 百姓	vj
 野獸	vk
@@ -1741,7 +1741,6 @@ encoder:
 碘鹽	vc
 願望	vd
 研製	vf
-畏縮	vh
 碗口	vi
 百年	vj
 野生	vk
@@ -2874,6 +2873,7 @@ encoder:
 砸	vhu
 厚	vjk
 壓	vjw
+畏	vmc
 矿	vmg
 鸭	vmn
 砒	vnn
@@ -3267,7 +3267,7 @@ encoder:
 音	kjrl
 思	vrit
 非	uff
-展	bshf
+展	bsmc
 学	nxkz
 管	giub
 始	cnlv
@@ -5269,7 +5269,7 @@ encoder:
 豔	uddu
 歉	qbux
 洁	nhlv
-喪	gllh
+喪	gllm
 擠	faqi
 辭	ubck
 瑟	jjrg
@@ -5279,7 +5279,7 @@ encoder:
 馨	hbej
 債	ehjb
 萊	salo
-喂	lvhf
+喂	lvmc
 浴	nkrl
 匹	leiw
 嬰	jjcn
@@ -5597,11 +5597,11 @@ encoder:
 恼	rtwk
 倦	eqoa
 挽	fxlw
-丧	gqhf
+丧	gqmc
 塗	nrfh
 簽	grqz
 蝴	qjwy
-畏	vhft
+畏	vmct
 尝	iina
 丑	bcc
 眨	jgoz
@@ -6029,7 +6029,7 @@ encoder:
 腺	wdns
 渦	nrks
 頃	nvjb
-餵	kvhf
+餵	kvmc
 鬱	ajac
 宠	ifgp
 贪	rfyc
@@ -6964,7 +6964,7 @@ encoder:
 恳	grig
 厮	vudj
 琅	jkgg
-偎	evhf
+偎	evmc
 锤	omsi
 聂	lbbo
 贩	cvbo
@@ -7303,7 +7303,7 @@ encoder:
 擲	fqpp
 癱	msfe
 詠	bkns
-輾	dbsh
+輾	dbsm
 騁	wdhk
 鷗	hlld
 哽	lfjs
@@ -8147,7 +8147,7 @@ encoder:
 捎	fiwy
 垄	fght
 揶	flpf
-猥	hvhf
+猥	hvmc
 篝	gsch
 唏	lseu
 畴	vdhc
@@ -8226,7 +8226,7 @@ encoder:
 烨	ieng
 昱	jklr
 翟	vveh
-辗	xbsh
+辗	xbsm
 舶	udbo
 笆	gobz
 旌	tgps
@@ -8243,7 +8243,7 @@ encoder:
 徉	cqyc
 窿	iptp
 埂	hfjs
-碾	vbsh
+碾	vbsm
 箍	gfhu
 嶙	uqxa
 笃	gbmz
@@ -10088,7 +10088,7 @@ encoder:
 杼	akyu
 疡	mycp
 荞	smka
-煨	ivhf
+煨	ivmc
 涝	nsxs
 焖	itri
 魍	dcqt
@@ -10198,7 +10198,7 @@ encoder:
 臬	qaui
 璩	juts
 逦	fcfo
-冁	qjgh
+冁	qjgm
 曩	jasg
 鸷	frkm
 溲	ndub
@@ -10248,7 +10248,7 @@ encoder:
 掊	fklv
 轸	xrcp
 泖	nkms
-隈	pvhf
+隈	pvmc
 碘	vcsk
 篥	gpau
 芫	sflw
@@ -11633,7 +11633,7 @@ encoder:
 忞	trie
 糵	sdkq
 辌	xaiv
-搌	fbsh
+搌	fbsm
 笱	gwlv
 阌	tuxb
 骒	bjau
@@ -12151,7 +12151,7 @@ encoder:
 泙	nnqk
 濩	nseb
 瀼	nasg
-碨	vvhf
+碨	vvmc
 耑	usrs
 菼	siih
 鄘	mbwp
@@ -13263,7 +13263,7 @@ encoder:
 鲾	xflv
 鲿	xiin
 鳁	xjum
-鳂	xvhf
+鳂	xvmc
 鳒	xqbk
 鳚	xbjh
 鳛	xvvd
@@ -13903,7 +13903,7 @@ encoder:
 嚽	lhtj
 嚾	lsle
 囃	lare
-囅	lljh
+囅	lljm
 囆	lsvq
 囋	lpwj
 囓	ldmp
@@ -14605,7 +14605,7 @@ encoder:
 椈	awqm
 椌	aipg
 椔	alvt
-椳	avhf
+椳	avmc
 椵	abib
 楀	agqc
 楄	adce
@@ -14818,7 +14818,7 @@ encoder:
 渃	nsel
 渜	nsod
 渢	nefs
-渨	nvhf
+渨	nvmc
 渮	nsal
 渱	nqpg
 渳	nble
@@ -15692,7 +15692,7 @@ encoder:
 腞	wets
 腢	wvyy
 腤	wkjr
-腲	wvhf
+腲	wvmc
 腶	wele
 腷	wflv
 膃	wwru
@@ -16535,7 +16535,7 @@ encoder:
 踸	puei
 踼	pjfc
 踾	pflv
-蹍	pbsh
+蹍	pbsm
 蹎	pgjk
 蹔	ddpz
 蹖	podi
@@ -18877,7 +18877,7 @@ encoder:
 嵍	kgtu
 嵏	uswt
 嵓	ulll
-嵔	uvhf
+嵔	uvmc
 嵗	ukfi
 嵜	ukly
 嵟	uveh
@@ -19167,7 +19167,7 @@ encoder:
 惽	roxj
 惿	rjfp
 愂	gxkr
-愄	rvhf
+愄	rvmc
 愇	rbwx
 愋	runb
 愌	rxco
@@ -19386,7 +19386,7 @@ encoder:
 揂	fqpy
 揇	fgcg
 揈	fwby
-揋	fvhf
+揋	fvmc
 揑	fdpg
 揓	ftgo
 揔	fwcr
@@ -19883,7 +19883,7 @@ encoder:
 榋	abbb
 榌	ayfu
 榏	aqku
-榐	absh
+榐	absm
 榒	abii
 榓	argu
 榗	afnj
@@ -22116,7 +22116,7 @@ encoder:
 葠	sebb
 葢	soku
 葤	sohc
-葨	svhf
+葨	svmc
 葪	sxwm
 葮	sele
 葲	sdns
@@ -23196,7 +23196,7 @@ encoder:
 鍝	tvyj
 鍞	tujb
 鍟	tjps
-鍡	tvhf
+鍡	tvmc
 鍢	tflv
 鍣	tsml
 鍦	ttgo
@@ -23905,7 +23905,7 @@ encoder:
 鰀	vunb
 鰁	vdns
 鰂	vjmd
-鰃	vvhf
+鰃	vvmc
 鰄	vkfc
 鰆	vojr
 鰇	vkga
@@ -24899,7 +24899,7 @@ encoder:
 㙔	hbwt
 㙕	hvwy
 㙖	hgqc
-㙗	hvhf
+㙗	hvmc
 㙙	nfch
 㙚	hqpn
 㙛	hnhc
@@ -25048,7 +25048,7 @@ encoder:
 㛮	ciib
 㛯	cxls
 㛰	coxj
-㛱	cvhf
+㛱	cvmc
 㛲	cvjb
 㛳	aqxc
 㛴	clds
@@ -25072,7 +25072,7 @@ encoder:
 㜇	chhr
 㜈	kgtc
 㜉	cllo
-㜊	cbsh
+㜊	cbsm
 㜋	cqku
 㜌	hfcn
 㜍	cmbl
@@ -25197,7 +25197,7 @@ encoder:
 㞄	fodd
 㞅	fjau
 㞆	foal
-㞇	fvhf
+㞇	fvmc
 㞈	fdce
 㞉	fqgp
 㞊	wwjf
@@ -25294,7 +25294,7 @@ encoder:
 㟧	ullh
 㟨	uusr
 㟩	oxtu
-㟪	uvhf
+㟪	uvmc
 㟫	udns
 㟬	udub
 㟭	uoxj
@@ -26426,7 +26426,7 @@ encoder:
 㱩	fxgo
 㱪	fxoj
 㱫	fxaq
-㱬	fxvh
+㱬	fxvm
 㱭	fxee
 㱯	fxuq
 㱰	fxik
@@ -27248,7 +27248,7 @@ encoder:
 㾬	mnnd
 㾭	mmih
 㾮	mdjw
-㾯	mvhf
+㾯	mvmc
 㾰	mjwy
 㾱	mbiw
 㾲	mhtt
@@ -28090,7 +28090,7 @@ encoder:
 䋼	ogbu
 䋽	ohhh
 䋾	ooxx
-䋿	ovhf
+䋿	ovmc
 䌀	omig
 䌁	opcn
 䌂	obdz
@@ -28886,7 +28886,7 @@ encoder:
 䘫	clag
 䘬	xkez
 䘭	xdzy
-䘮	grrh
+䘮	grrm
 䘯	xiwy
 䘰	xgpg
 䘱	akrg
@@ -30477,7 +30477,7 @@ encoder:
 䱹	vqgp
 䱺	vufq
 䱻	vrgv
-䱼	vbsh
+䱼	vbsm
 䱽	vrfl
 䱾	vlgc
 䱿	vddj
@@ -30971,7 +30971,7 @@ encoder:
 𠂺	dssf
 𠂻	mlgy
 𠂼	khhb
-𠂽	gvhf
+𠂽	gvmc
 𠂾	dgud
 𠂿	grrh
 𠃀	erry
@@ -31552,7 +31552,7 @@ encoder:
 𠌁	esek
 𠌂	rssg
 𠌃	ekvt
-𠌄	ebsh
+𠌄	ebsm
 𠌅	esxx
 𠌆	bjhb
 𠌇	ekbp
@@ -34446,7 +34446,7 @@ encoder:
 𠹓	ldjf
 𠹔	lmbl
 𠹕	lmwk
-𠹖	lbsh
+𠹖	lbsm
 𠹗	lfdl
 𠹘	lujt
 𠹙	ldmf
@@ -34911,7 +34911,7 @@ encoder:
 𡀤	lgdh
 𡀥	lsdo
 𡀦	lnju
-𡀧	ligh
+𡀧	ligm
 𡀨	lxnf
 𡀩	lsnl
 𡀪	mlfu
@@ -37118,7 +37118,7 @@ encoder:
 𡣆	cgsa
 𡣇	cmor
 𡣈	cuhj
-𡣉	mcvh
+𡣉	mcvm
 𡣊	crfg
 𡣋	cpjh
 𡣌	csnb
@@ -37933,7 +37933,7 @@ encoder:
 𡯶	aluf
 𡯷	kwkl
 𡯸	kwod
-𡯹	fgvh
+𡯹	fgvm
 𡯺	fvjb
 𡯻	fjfp
 𡯼	jfef
@@ -37942,7 +37942,7 @@ encoder:
 𡯿	fxjb
 𡰀	fcbf
 𡰁	lmvl
-𡰂	kwvh
+𡰂	kwvm
 𡰃	fwjf
 𡰄	funo
 𡰅	lrgw
@@ -39569,7 +39569,7 @@ encoder:
 𢉚	muke
 𢉛	mwcr
 𢉜	mhjr
-𢉝	mvhf
+𢉝	mvmc
 𢉞	mdce
 𢉟	mcgg
 𢉠	mgqc
@@ -43648,7 +43648,7 @@ encoder:
 𣉊	jhql
 𣉋	jpcn
 𣉌	jvwy
-𣉍	jvhf
+𣉍	jvmc
 𣉎	jajf
 𣉏	jsrb
 𣉐	jako
@@ -45799,7 +45799,7 @@ encoder:
 𣪲	iqge
 𣪳	hfxq
 𣪴	exte
-𣪵	bshe
+𣪵	bsme
 𣪶	nnne
 𣪷	dmes
 𣪸	hlss
@@ -46824,7 +46824,7 @@ encoder:
 𣺶	htvn
 𣺷	nwsw
 𣺸	nqih
-𣺹	nbsh
+𣺹	nbsm
 𣺺	nchz
 𣺻	ncou
 𣺼	niwr
@@ -47018,7 +47018,7 @@ encoder:
 𣽸	nipl
 𣽹	nirh
 𣽺	nllh
-𣽻	npvh
+𣽻	npvm
 𣽼	nhhh
 𣽽	naaw
 𣽾	nkjj
@@ -47042,7 +47042,7 @@ encoder:
 𣾐	naol
 𣾑	nsfh
 𣾒	nklo
-𣾓	nglh
+𣾓	nglm
 𣾔	njjy
 𣾕	naan
 𣾖	nshx
@@ -47086,7 +47086,7 @@ encoder:
 𣾼	nhke
 𣾽	nmmm
 𣾾	nigl
-𣾿	nlvh
+𣾿	nlvm
 𣿀	nnrn
 𣿁	nqux
 𣿂	npew
@@ -49668,7 +49668,7 @@ encoder:
 𤧓	jxvs
 𤧔	jxls
 𤧕	jpht
-𤧖	jvhf
+𤧖	jvmc
 𤧗	jrkw
 𤧘	jmjr
 𤧙	jdre
@@ -49700,7 +49700,7 @@ encoder:
 𤧴	jskk
 𤧵	jnhc
 𤧶	jvjt
-𤧷	jbsh
+𤧷	jbsm
 𤧸	jufq
 𤧹	jsnn
 𤧺	jiff
@@ -50407,7 +50407,7 @@ encoder:
 𤲹	vbii
 𤲺	vuno
 𤲻	vskk
-𤲼	vhdg
+𤲼	vmdg
 𤲽	elfr
 𤲾	fkav
 𤲿	bhuu
@@ -50914,7 +50914,7 @@ encoder:
 𤺵	mlkj
 𤺶	mwbo
 𤺷	mahf
-𤺸	mhvh
+𤺸	mhvm
 𤺹	mpjc
 𤺺	mawf
 𤺻	meck
@@ -51868,7 +51868,7 @@ encoder:
 𥉯	jahh
 𥉰	judi
 𥉱	jode
-𥉲	jbsh
+𥉲	jbsm
 𥉳	jkvt
 𥉴	jiru
 𥉵	mjma
@@ -52959,7 +52959,7 @@ encoder:
 𥚵	jbjm
 𥚶	jlle
 𥚷	jvwy
-𥚸	jvhf
+𥚸	jvmc
 𥚹	jdce
 𥚺	jnnd
 𥚻	jusr
@@ -54274,7 +54274,7 @@ encoder:
 𥯙	gfls
 𥯚	grtl
 𥯛	gntl
-𥯜	gvhf
+𥯜	gvmc
 𥯝	gihq
 𥯞	gtgk
 𥯟	gffd
@@ -55660,7 +55660,7 @@ encoder:
 𦅄	oant
 𦅅	okvl
 𦅆	oqpo
-𦅇	oglh
+𦅇	oglm
 𦅈	ohcp
 𦅉	obgc
 𦅊	orrj
@@ -55864,7 +55864,7 @@ encoder:
 𦈐	kxoc
 𦈑	kpht
 𦈒	knla
-𦈓	kvhf
+𦈓	kvmc
 𦈔	krgj
 𦈕	krfm
 𦈖	kciv
@@ -57324,7 +57324,7 @@ encoder:
 𦟉	wmsi
 𦟊	wpoi
 𦟋	wekl
-𦟌	wbsh
+𦟌	wbsm
 𦟍	wsth
 𦟎	qgpr
 𦟏	wmdc
@@ -60291,7 +60291,7 @@ encoder:
 𧍢	cniq
 𧍣	svqc
 𧍤	qvri
-𧍥	qvhf
+𧍥	qvmc
 𧍦	rgfq
 𧍧	qkfl
 𧍨	lloq
@@ -60366,7 +60366,7 @@ encoder:
 𧎭	qhqc
 𧎮	bkkq
 𧎯	qjbr
-𧎰	bshq
+𧎰	bsmq
 𧎱	oqqc
 𧎲	qiqg
 𧎳	qgxo
@@ -60735,7 +60735,7 @@ encoder:
 𧔞	vdiq
 𧔟	qqow
 𧔠	qqmk
-𧔡	bshq
+𧔡	bsmq
 𧔢	tkkq
 𧔣	qalj
 𧔤	jigq
@@ -61175,7 +61175,7 @@ encoder:
 𧛗	xihq
 𧛘	xhlf
 𧛙	aubg
-𧛚	xvhf
+𧛚	xvmc
 𧛛	xruc
 𧛜	hhhg
 𧛝	xswt
@@ -61747,7 +61747,7 @@ encoder:
 𧤓	xwhw
 𧤔	xwhe
 𧤕	xwhp
-𧤖	xwhh
+𧤖	xwhm
 𧤗	xwhs
 𧤘	jfph
 𧤙	mixh
@@ -62124,7 +62124,7 @@ encoder:
 𧪌	bubp
 𧪍	bjum
 𧪎	blqc
-𧪏	bvhf
+𧪏	bvmc
 𧪐	bsnq
 𧪑	bmjr
 𧪒	bdns
@@ -62597,7 +62597,7 @@ encoder:
 𧱥	tlvt
 𧱦	tkfc
 𧱧	tkbm
-𧱨	tvhf
+𧱨	tvmc
 𧱩	tefs
 𧱪	tofo
 𧱫	tepw
@@ -63711,7 +63711,7 @@ encoder:
 𨃁	pjhg
 𨃂	pkfl
 𨃃	pjwe
-𨃄	pvhf
+𨃄	pvmc
 𨃅	pffd
 𨃆	pwug
 𨃇	pqcn
@@ -63747,7 +63747,7 @@ encoder:
 𨃥	pxaa
 𨃦	pmgs
 𨃧	pell
-𨃨	bshp
+𨃨	bsmp
 𨃩	pdvv
 𨃪	pqof
 𨃫	edmp
@@ -66263,7 +66263,7 @@ encoder:
 𨪽	tqjw
 𨪾	tdur
 𨪿	txad
-𨫀	tbsh
+𨫀	tbsm
 𨫁	tblb
 𨫂	tirx
 𨫃	tikx
@@ -69976,7 +69976,7 @@ encoder:
 𩥄	wgjk
 𩥅	wudi
 𩥆	wtgg
-𩥇	wbsh
+𩥇	wbsm
 𩥈	wwru
 𩥉	wufq
 𩥊	awmg
@@ -70045,7 +70045,7 @@ encoder:
 𩦉	qukw
 𩦊	wisi
 𩦋	wnnr
-𩦌	wglh
+𩦌	wglm
 𩦍	kvwm
 𩦎	wute
 𩦏	wuje
@@ -70174,7 +70174,7 @@ encoder:
 𩨊	bqwm
 𩨋	bgjk
 𩨌	bciv
-𩨍	bbsh
+𩨍	bbsm
 𩨎	bvsk
 𩨏	bgqv
 𩨐	blwb
@@ -71983,7 +71983,7 @@ encoder:
 𪄞	dwww
 𪄟	dtga
 𪄠	nald
-𪄡	bshd
+𪄡	bsmd
 𪄢	xcrd
 𪄣	npld
 𪄤	oudn
@@ -72315,7 +72315,7 @@ encoder:
 𪉪	uoak
 𪉫	ullg
 𪉬	qwul
-𪉭	uvhf
+𪉭	uvmc
 𪉮	uofo
 𪉯	uuei
 𪉰	urfm
@@ -73315,7 +73315,7 @@ encoder:
 𪙒	pmru
 𪙓	hhfp
 𪙔	aqup
-𪙕	pbsh
+𪙕	pbsm
 𪙖	gqop
 𪙗	wwwp
 𪙘	ptle
@@ -73328,7 +73328,7 @@ encoder:
 𪙟	psir
 𪙠	http
 𪙡	psjj
-𪙢	pbvh
+𪙢	pbvm
 𪙣	pllg
 𪙤	ahpc
 𪙥	puwn
@@ -73977,7 +73977,7 @@ encoder:
 𪤊	nkgh
 𪤋	htwn
 𪤌	hbba
-𪤍	hbsh
+𪤍	hbsm
 𪤎	hdoc
 𪤏	huht
 𪤐	hneu
@@ -74225,7 +74225,7 @@ encoder:
 𪨃	ifag
 𪨄	igkj
 𪨅	ijeh
-𪨆	igih
+𪨆	igim
 𪨇	lljc
 𪨈	flqc
 𪨉	bfus
@@ -74424,7 +74424,7 @@ encoder:
 𪫎	cltp
 𪫏	clut
 𪫐	cxlk
-𪫑	cvhf
+𪫑	cvmc
 𪫒	cpin
 𪫓	cbus
 𪫔	cxre
@@ -75568,7 +75568,7 @@ encoder:
 𪽆	geak
 𪽇	vrjt
 𪽈	vycp
-𪽉	dhfo
+𪽉	dmco
 𪽊	vflw
 𪽋	uvtz
 𪽌	vtet
@@ -75954,7 +75954,7 @@ encoder:
 𫃉	pqxw
 𫃊	qshn
 𫃋	qtgi
-𫃌	qbsh
+𫃌	qbsm
 𫃍	qmbw
 𫃎	qmam
 𫃏	qjai
@@ -76046,7 +76046,7 @@ encoder:
 𫄥	kfcc
 𫄦	khns
 𫄩	kgem
-𫄪	kgqh
+𫄪	kgqm
 𫄫	kdhq
 𫄬	ksau
 𫄭	kgjt
@@ -77242,7 +77242,7 @@ encoder:
 𫗪	xmcn
 𫗫	xjwy
 𫗬	xsod
-𫗭	xvhf
+𫗭	xvmc
 𫗮	xdjw
 𫗯	xebj
 𫗰	xdoc
@@ -77724,7 +77724,7 @@ encoder:
 𫟠	dqjg
 𫟡	dijs
 𫟢	dpcb
-𫟣	pglh
+𫟣	pglm
 𫟤	xinb
 𫟥	xgjk
 𫟧	aocd
@@ -81371,7 +81371,7 @@ encoder:
 𬙏	jibj
 𬙐	jens
 𬙑	jsko
-𬙒	jvhf
+𬙒	jvmc
 𬙓	jupn
 𬙔	jivt
 𬙕	ujvw
@@ -81658,7 +81658,7 @@ encoder:
 𬝰	smkp
 𬝱	bkso
 𬝲	scmm
-𬝳	sbsh
+𬝳	sbsm
 𬝴	sbeh
 𬝵	sdxq
 𬝶	sprj
@@ -82204,7 +82204,7 @@ encoder:
 𬦜	hqku
 𬦝	hjkx
 𬦞	hdwh
-𬦟	hglh
+𬦟	hglm
 𬦠	pgnz
 𬦡	prus
 𬦢	ptmz
@@ -82645,7 +82645,7 @@ encoder:
 𬭧	ojwl
 𬭨	odoc
 𬭪	oihl
-𬭫	obsh
+𬭫	obsm
 𬭭	okji
 𬭮	osfr
 𬭰	oifk
@@ -83414,7 +83414,7 @@ encoder:
 𬺍	prwl
 𬺎	qgpw
 𬺏	prwh
-𬺐	prwh
+𬺐	prwm
 𬺑	prww
 𬺒	fqhw
 𬺔	prwj
@@ -86768,7 +86768,7 @@ encoder:
 𭮷	vjes
 𭮸	kaes
 𭮹	gxoe
-𭮺	bshb
+𭮺	bsmb
 𭮻	fjub
 𭮼	dllb
 𭮽	hxak
@@ -90395,7 +90395,7 @@ encoder:
 𮧢	snlr
 𮧣	sues
 𮧤	wiib
-𮧥	sbsh
+𮧥	sbsm
 𮧦	shlj
 𮧧	sslh
 𮧨	sebg
@@ -90891,7 +90891,7 @@ encoder:
 𮯒	puvh
 𮯓	pudf
 𮯔	pssr
-𮯕	povh
+𮯕	povm
 𮯖	pshw
 𮯗	pulo
 𮯘	prce
@@ -92076,7 +92076,7 @@ encoder:
 𰒒	nsxr
 𰒓	rypw
 𰒔	rhjs
-𰒕	rvhk
+𰒕	rvmk
 𰒖	mvcr
 𰒗	rjww
 𰒘	hber
@@ -92448,7 +92448,7 @@ encoder:
 𰘆	agjk
 𰘇	aflu
 𰘈	askx
-𰘉	fvhf
+𰘉	fvmc
 𰘊	javx
 𰘋	jado
 𰘌	aktj
@@ -92478,7 +92478,7 @@ encoder:
 𰘤	bjha
 𰘥	aacc
 𰘦	fbgg
-𰘧	aglh
+𰘧	aglm
 𰘨	hhha
 𰘩	asbk
 𰘪	jadt
@@ -93163,7 +93163,7 @@ encoder:
 𰣑	vkgj
 𰣒	mnkv
 𰣓	gqvc
-𰣔	vhss
+𰣔	vmss
 𰣕	flvj
 𰣖	vvxj
 𰣗	dqov
@@ -94440,7 +94440,7 @@ encoder:
 𰷎	hbej
 𰷏	jdjb
 𰷐	xvjj
-𰷑	jgrh
+𰷑	jgrm
 𰷒	ljjk
 𰷓	ljjf
 𰷔	rkhj
@@ -94897,7 +94897,7 @@ encoder:
 𰾗	okfl
 𰾘	ouei
 𰾙	ovyj
-𰾚	ovhf
+𰾚	ovmc
 𰾛	ovrk
 𰾜	ousr
 𰾝	ojps
@@ -95047,7 +95047,7 @@ encoder:
 𱀭	pudf
 𱀮	dgwj
 𱀯	pifk
-𱀰	pavh
+𱀰	pavm
 𱀱	pooj
 𱀲	phww
 𱀳	gubj
@@ -96078,7 +96078,7 @@ encoder:
 𱐹	wcrn
 𱐺	wchg
 𱐻	wogs
-𱐼	wcvh
+𱐼	wcvm
 𱐽	sjjk
 𱐾	wwcp
 𱐿	wcub
@@ -96288,7 +96288,7 @@ encoder:
 𱔋	ruvs
 𱔌	lgfg
 𱔍	ldkw
-𱔎	levh
+𱔎	levm
 𱔏	lmbx
 𱔐	dltl
 𱔑	lrnl
@@ -97805,7 +97805,7 @@ encoder:
 𱫸	nkgi
 𱫹	ajfi
 𱫺	ianv
-𱫻	ibsh
+𱫻	ibsm
 𱫼	wwwi
 𱫽	iaji
 𱫾	ilxa
@@ -98122,10 +98122,10 @@ encoder:
 𱰵	dmvt
 𱰶	vfnk
 𱰷	nnvt
-𱰸	gvhf
+𱰸	gvmc
 𱰹	vjib
 𱰺	fqvs
-𱰻	vhgu
+𱰻	vmgu
 𱰼	vsfq
 𱰽	vunt
 𱰾	vsdg
@@ -98610,7 +98610,7 @@ encoder:
 𱸝	ghkl
 𱸞	gfuf
 𱸟	gaor
-𱸠	gevh
+𱸠	gevm
 𱸡	gamm
 𱸢	gkwi
 𱸣	gctv
@@ -101162,8 +101162,8 @@ encoder:
 異	vska
 𢆟	dgnn
 瘐	mdre
-𤾡	dkhf
-𤾸	dskh
+𤾡	dkmc
+𤾸	dskm
 𥁄	fhum
 㿼	fsum
 䀈	bnhu
@@ -105497,7 +105497,7 @@ encoder:
 𧤓	xsew
 𧤔	xsbe
 𧤕	xsqp
-𧤖	xsvh
+𧤖	xsvm
 𧤗	xsus
 𧤘	jfps
 𧤙	mixs
@@ -115814,7 +115814,7 @@ encoder:
 𪽁	pub
 𪽄	pis
 𪽇	vrj
-𪽉	dhf
+𪽉	dmc
 𪽋	uvt
 𪽌	vte
 𪽔	vjj
@@ -118643,7 +118643,6 @@ encoder:
 衫	xcp
 災	lih
 撿	frq
-畏	vhf
 役	ces
 蚊	qte
 狄	hih
@@ -130844,7 +130843,7 @@ encoder:
 畫廊	bhmk
 動筆	mvgb
 便衣	efag
-敬畏	swvh
+敬畏	swvm
 素來	hoal
 咬牙切齒	lhxp
 邊關	qidn
@@ -131218,7 +131217,7 @@ encoder:
 蓬鬆	stua
 礦藏	vmsk
 兵種	dfmm
-大無畏	ogvh
+大無畏	ogvm
 盤踞	uepb
 細密	ovir
 心神	rijd
@@ -132880,7 +132879,7 @@ encoder:
 華中	sflu
 千瓦	mqrw
 後衛	cncb
-畏懼	vhrj
+畏懼	vmrj
 內科	cbmi
 退縮	gooi
 喧囂	lill
@@ -145599,7 +145598,7 @@ encoder:
 衣食	agks
 裝機	dhan
 市鎮	autg
-無畏	gsvh
+無畏	gsvm
 再審	jcig
 孢子	kwkz
 戰地	llho
@@ -145826,7 +145825,7 @@ encoder:
 自備	qies
 奔湧	ognb
 風姿	efix
-畏縮	vhoi
+畏縮	vmoi
 兀自	lwqi
 掂量	fmjf
 童工	kvpg
@@ -149063,7 +149062,7 @@ encoder:
 不難	gusf
 不到	gudm
 還清	ufnh
-不畏	guvh
+不畏	guvm
 不悅	gurk
 不盡	gubf
 不會	gurf
@@ -149620,7 +149619,7 @@ encoder:
 特設	phbe
 善本	qqaf
 退居	gobj
-畏難	vhsf
+畏難	vmsf
 勞駕	iisl
 美髮	qoue
 吸水	lgns
@@ -149879,7 +149878,7 @@ encoder:
 守節	ihgb
 喝醉	ljpa
 美其名曰	quxj
-畏罪	vhuu
+畏罪	vmuu
 小戶	ivdh
 隱伏	pueh
 風勢	efhw
@@ -159253,7 +159252,7 @@ encoder:
 桃源	awnv
 西沙群島	pnbd
 可有	alew
-可畏	alvh
+可畏	alvm
 可言	alby
 椎心泣血	arng
 傑克	exjw
@@ -170817,7 +170816,7 @@ encoder:
 叫牌	lwdd
 聽勸	lmsl
 累教不改	vhgo
-畏服	vhwa
+畏服	vmwa
 車本	dcaf
 力奪	sloe
 思如湧泉	vcnd
@@ -174837,7 +174836,7 @@ encoder:
 食糖	ksqm
 家小	itiv
 誰人	bere
-畏怯	vhrh
+畏怯	vmrh
 桐油	acnd
 有獎	ewdw
 土語	htbf
@@ -175551,7 +175550,7 @@ encoder:
 禪房	jldt
 課程表	bmhg
 餘燼	krib
-敵敵畏	aavh
+敵敵畏	aavm
 發刊詞	bnby
 寸心	hcri
 木屐	aubc
@@ -186604,7 +186603,7 @@ encoder:
 瓜片	ugdp
 藕色	sdxo
 全食	bjks
-畏途	vhrf
+畏途	vmrf
 茬口	selv
 欺人之談	urob
 老境	hnhk
@@ -189036,7 +189035,7 @@ encoder:
 狎妓	hvcg
 入鏡	butk
 屯聚	xwlb
-畏友	vheb
+畏友	vmeb
 專差	dhqg
 方向舵	tdui
 夯歌	osal
@@ -192114,7 +192113,7 @@ encoder:
 送站	qoku
 透汗	mgnn
 塗片	nrdp
-畏避	vhbl
+畏避	vmbl
 知人論世	jrbs
 稱便	muef
 花椰菜	sasu
@@ -196455,7 +196454,7 @@ encoder:
 品玩	lljf
 嘚瑟	lcjj
 黑軸	ghdd
-畏葸	vhsv
+畏葸	vmsv
 迥乎不同	cggc
 賬期	juuw
 幽期	unuw
@@ -226974,7 +226973,7 @@ encoder:
 蓬松	stak
 矿藏	vmsk
 兵种	dfml
-大无畏	ofvh
+大无畏	ofvm
 盘踞	uupb
 细密	kvir
 诋毁	dkdp
@@ -228080,7 +228079,7 @@ encoder:
 戏台	bknl
 华中	enlu
 后卫	dfaf
-畏惧	vhrj
+畏惧	vmrj
 内科	crmi
 退缩	goki
 喧嚣	lill
@@ -235925,7 +235924,7 @@ encoder:
 门楼	tmaq
 装机	qhae
 市镇	auog
-无畏	ffvh
+无畏	ffvm
 再审	jcid
 战地	ulho
 恶梦	lqaa
@@ -236066,7 +236065,7 @@ encoder:
 自备	qitv
 奔涌	ognb
 风姿	esix
-畏缩	vhki
+畏缩	vmki
 应承	mnyn
 难熬	beht
 宗庙	ijmd
@@ -238412,7 +238411,7 @@ encoder:
 绒线	kkkf
 过世	hosi
 特设	phde
-畏难	vhbe
+畏难	vmbe
 劳驾	sxsl
 美发	qowb
 书橱	yyav
@@ -254545,7 +254544,7 @@ encoder:
 禅房	jqdt
 课程表	dmhg
 余烬	rfib
-敌敌畏	llvh
+敌敌畏	llvm
 发刊词	wndy
 喜乐	hlki
 洲际导弹	npob
