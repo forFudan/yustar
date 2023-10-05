@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳·陸繁
-# 版本: 20231003
+# 版本: 20231004
 #
 ---
 name: "yustar_tc"
-version: "20231003"
+version: "20231004"
 sort: original
 import_tables:
   - yuhao.extended
@@ -55,7 +55,7 @@ encoder:
 得到	c
 的確	d
 有人	e
-一定	f
+一個	f
 我們	g
 地方	h
 小説	i
@@ -104,7 +104,7 @@ encoder:
 概	ab
 刺	ac
 板	ad
-夜	ae
+亮	ae
 本	af
 高	ag
 樹	ah
@@ -721,7 +721,7 @@ encoder:
 校園	aa
 刺激	ac
 板凳	ad
-夜間	ae
+亮光	ae
 本來	af
 高峰	ag
 樹立	ah
@@ -856,7 +856,7 @@ encoder:
 搶劫	fr
 手段	fs
 釐米	ft
-兩邊	fu
+兩個	fu
 擾亂	fv
 未來	fw
 死亡	fx
@@ -983,7 +983,7 @@ encoder:
 飲食	kx
 成爲	ky
 子女	kz
-三角	la
+三個	la
 呢喃	lb
 川劇	lc
 喫飯	ld
@@ -1293,7 +1293,7 @@ encoder:
 校長	aa
 刺刀	ac
 板塊	ad
-夜裏	ae
+亮相	ae
 本人	af
 高度	ag
 樹林	ah
@@ -1551,7 +1551,7 @@ encoder:
 飲料	kx
 成功	ky
 子孫	kz
-三國	la
+三角	la
 呢絨	lb
 川菜	lc
 喫驚	ld
@@ -108016,7 +108016,6 @@ encoder:
 飞	yir
 龙	fgp
 投	fes
-亮	aej
 连	xoc
 視	jjj
 变	tbo
@@ -118489,7 +118488,6 @@ encoder:
 々	xkd
 房	dtf
 处	tre
-亮	awr
 毒	hee
 护	fdh
 垂	msi
@@ -118705,6 +118703,7 @@ encoder:
 酒	npy
 基	uht
 忙	rtw
+亮	aej
 共	ska
 答	grh
 設	bes
@@ -118787,6 +118786,7 @@ encoder:
 全	bjw
 反	vbo
 角	xwh
+亮	awr
 差	qgp
 肩	dwy
 呈	lmr
