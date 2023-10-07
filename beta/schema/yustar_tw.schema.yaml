@@ -50,10 +50,6 @@ switches:
     reset: 0
     states: [輸入預測, 精確匹配]
     # Control+Shift+Y
-  - name: traditionalization
-    states: [简保持, 简转繁]
-    reset: 0
-    # Control+Shift+F
   - name: simplification
     states: [繁保持, 繁轉簡]
     reset: 0
@@ -103,20 +99,10 @@ engine:
     - lua_filter@yuhao_char_only
     - lua_filter@yuhao_tw_first
     - lua_filter@yuhao_postpone_full_code
-    - simplifier@traditionalize
     - simplifier@simplify
     - lua_filter@yuhao_chaifen
     - lua_filter@yuhao_embeded_cands@embeded_cands
     - uniquifier
-
-traditionalize:
-  tags: [abc, reverse_lookup]
-  option_name: traditionalization
-  opencc_config: s2t.json
-  tips: all
-  comment_format:
-    - xform/^/〔/
-    - xform/$/〕/
 
 simplify:
   tags: [abc, reverse_lookup]
@@ -267,7 +253,6 @@ key_binder:
   bindings:
     - { when: always, accept: "Control+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
-    - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
     - { when: always, accept: "Control+Shift+O", toggle: yuhao_char_only } # 常用詞過濾
     - { when: always, accept: "Control+Shift+I", toggle: yuhao_tw_first } # 正體優先
