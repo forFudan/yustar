@@ -3,15 +3,15 @@
 
 schema:
   schema_id: yustar_pure
-  name: 宇浩·星陈·單字
+  name: 宇浩·星陈·单字派
   version: 20231001
   author:
     - 發明人 朱宇浩
     - Rime方案 <https://zhuyuhao.com/yustar/>
     - 官方QQ群 735728797
   description: |
-    宇浩·星陈，繁简通打，單字全碼。
-    只設置一簡字和避重三簡字。
+    宇浩·星陈，繁简通打，单字派。
+    只設置少量一簡字詞、二簡字詞和避重三簡字。
   dependencies:
     - yuhao_pinyin
     - yustar_chaifen
@@ -121,7 +121,7 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcba
   delimiter: "`"
   max_code_length: 4
-  auto_select: false
+  auto_select: true
   algebra:
 
 translator:

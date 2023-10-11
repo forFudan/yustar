@@ -1,6 +1,6 @@
 可	a
 对	b
-得	c
+好	c
 的	d
 有	e
 一	f
@@ -25,7 +25,7 @@
 那	y
 可以	a
 对方	b
-得到	c
+好奇	c
 的确	d
 有人	e
 一定	f
@@ -50,7 +50,7 @@
 那么	y
 可能	a
 对于	b
-得知	c
+好友	c
 的士	d
 有些	e
 一起	f
@@ -132,8 +132,8 @@
 很	cg
 待	ch
 行	ci
-见	cj
-好	ck
+得	cj
+往	ck
 如	cl
 则	cm
 女	cn
@@ -748,8 +748,8 @@
 很大	cg
 待遇	ch
 行为	ci
-见面	cj
-好奇	ck
+得到	cj
+往往	ck
 如果	cl
 则是	cm
 女儿	cn
@@ -1330,8 +1330,8 @@
 很快	cg
 待命	ch
 行动	ci
-见识	cj
-好友	ck
+得知	cj
+往事	ck
 如何	cl
 则有	cm
 女人	cn
@@ -2984,6 +2984,7 @@
 合	rhh
 直	gjqi
 入	krr
+见	cjj
 電	cddy
 清	nhwy
 金	tjj
@@ -3025,7 +3026,6 @@
 機	annr
 師	dfuj
 場	hjfc
-往	ckjw
 麼	mnaa
 爸	ksob
 灣	nbob
@@ -29991,7 +29991,7 @@
 𠏌	eqjj
 𠏍	eepo
 𠏎	rlga
-𠏏	sflr
+𠏏	sffr
 𠏐	ebdf
 𠏑	ejfc
 𠏒	esft
@@ -34655,7 +34655,7 @@
 𡘋	ofof
 𡘌	pnod
 𡘍	ofjf
-𡘎	oeci
+𡘎	ogcp
 𡘏	ockz
 𡘐	oajr
 𡘑	dodi
@@ -38050,7 +38050,7 @@
 𢍏	gqso
 𢍐	fkso
 𢍑	edso
-𢍒	gcus
+𢍒	eccs
 𢍓	ajso
 𢍔	xkjs
 𢍕	qoas
@@ -65935,7 +65935,7 @@
 𩁟	mwge
 𩁠	jske
 𩁡	hfme
-𩁢	sfle
+𩁢	slhe
 𩁣	sfle
 𩁤	sfle
 𩁥	qoke
@@ -94150,7 +94150,7 @@
 𱎕	iheh
 𱎖	fbgg
 𱎗	kgki
-𱎘	fnsj
+𱎘	ansh
 𱎙	aeil
 𱎚	rcpe
 𱎛	rhte
@@ -100367,6 +100367,7 @@
 弥	bgiv
 拐	flmd
 譽	dhgb
+鬱	jaac
 碳	vuvi
 梭	anwt
 雇	dehh
@@ -101068,6 +101069,7 @@
 瀩	nmwj
 瀯	niid
 灓	obon
+灪	njac
 炍	ivbo
 炦	iesk
 炩	irfb
@@ -101089,6 +101091,7 @@
 熿	isik
 燅	hwhi
 爗	ijsa
+爩	ijac
 牄	drfl
 牐	dndi
 牑	ddce
@@ -101833,6 +101836,7 @@
 䕡	sdld
 䕭	shwi
 䖂	sobf
+䖇	sjac
 䖹	qsak
 䗀	qhwt
 䗆	qiub
@@ -102376,6 +102380,7 @@
 𡮧	wwci
 𡮻	hgfg
 𡮼	hgfg
+𡯀	jaai
 𡯘	fvbo
 𡰃	fwjf
 𡰐	uwff
@@ -102426,6 +102431,7 @@
 𡾢	uihr
 𡿑	uxwa
 𡿞	uobb
+𡿥	ujac
 𡿸	lfws
 𢀁	lvbk
 𢀘	jljx
@@ -102658,6 +102664,7 @@
 𢺯	fobb
 𢺲	fobs
 𢺳	fobq
+𢺴	fjac
 𢺾	kxfb
 𢻁	xcwb
 𢻄	dwgb
@@ -102904,6 +102911,7 @@
 𤒼	msii
 𤓖	oboi
 𤓩	iobt
+𤓮	jaai
 𤓶	uwbo
 𤔑	uldx
 𤔗	wwhu
@@ -103133,6 +103141,7 @@
 𥕾	vsjk
 𥗞	viid
 𥘂	vobt
+𥘄	vjac
 𥘞	jrfy
 𥘰	jubb
 𥙤	jfox
@@ -104394,6 +104403,7 @@
 𪑿	gsnn
 𪒙	gcib
 𪒠	gjlt
+𪓊	gjac
 𪓋	iukq
 𪓌	iukg
 𪓐	iukj
@@ -105656,7 +105666,6 @@
 放	ttpf
 接	fkcn
 信	ebyr
-见	cjj
 当	ibjv
 快	rbre
 月	wyy
@@ -105711,6 +105720,7 @@
 学	nxkz
 至	dzz
 始	cnlv
+往	ckjw
 内	crek
 管	gibb
 司	yflv

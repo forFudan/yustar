@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳·臺正
-# 版本: 20231006
+# 版本: 20231011
 #
 ---
 name: "yustar_tw"
-version: "20231006"
+version: "20231011"
 sort: original
 import_tables:
   - yuhao.extended
@@ -6033,7 +6033,7 @@ encoder:
 渦	nrks
 頃	nvjb
 餵	kvmc
-鬱	ajac
+鬱	jaac
 宠	ifgp
 贪	rfyc
 牡	phtn
@@ -14937,7 +14937,7 @@ encoder:
 灟	nbnq
 灡	nsdq
 灨	nkjj
-灪	najc
+灪	njac
 炰	woib
 烋	eaib
 烑	iwii
@@ -20693,7 +20693,7 @@ encoder:
 爥	ibnq
 爦	ihgj
 爧	iclr
-爩	iajc
+爩	ijac
 爫	uzz
 爮	uwos
 爯	ucht
@@ -28726,7 +28726,7 @@ encoder:
 䖄	ssfi
 䖅	sclr
 䖆	spag
-䖇	sajc
+䖇	sjac
 䖈	unbh
 䖉	ufhc
 䖊	suhi
@@ -31758,7 +31758,7 @@ encoder:
 𠏌	eqjj
 𠏍	eepo
 𠏎	rlga
-𠏏	sflr
+𠏏	sffr
 𠏐	ebdf
 𠏑	ejfc
 𠏒	esft
@@ -36422,7 +36422,7 @@ encoder:
 𡘋	ofof
 𡘌	pnod
 𡘍	ofjf
-𡘎	oeci
+𡘎	ogcp
 𡘏	ockz
 𡘐	oajr
 𡘑	dodi
@@ -37879,7 +37879,7 @@ encoder:
 𡮽	iodo
 𡮾	hhhi
 𡮿	xlng
-𡯀	ajai
+𡯀	jaai
 𡯁	eyiz
 𡯂	keja
 𡯃	enbz
@@ -38940,7 +38940,7 @@ encoder:
 𡿢	udpw
 𡿣	ubxk
 𡿤	skjl
-𡿥	uajc
+𡿥	ujac
 𡿦	gggk
 𡿧	lfic
 𡿨	eii
@@ -39817,7 +39817,7 @@ encoder:
 𢍏	gqso
 𢍐	fkso
 𢍑	edso
-𢍒	gcus
+𢍒	eccs
 𢍓	ajso
 𢍔	xkjs
 𢍕	qoas
@@ -42730,7 +42730,7 @@ encoder:
 𢺱	fjji
 𢺲	fobs
 𢺳	fobq
-𢺴	fajc
+𢺴	fjac
 𢺵	ngbo
 𢺶	gbuj
 𢺷	fugb
@@ -48415,7 +48415,7 @@ encoder:
 𤓫	gubi
 𤓬	eeei
 𤓭	iash
-𤓮	ajai
+𤓮	jaai
 𤓯	jkax
 𤓰	dekd
 𤓱	uyiz
@@ -52782,7 +52782,7 @@ encoder:
 𥘁	vsue
 𥘂	vobt
 𥘃	vclr
-𥘄	vajc
+𥘄	vjac
 𥘅	jwrx
 𥘆	jyis
 𥘇	jnbs
@@ -67702,7 +67702,7 @@ encoder:
 𩁟	mwge
 𩁠	jske
 𩁡	hfme
-𩁢	sfle
+𩁢	slhe
 𩁣	sfle
 𩁤	sfle
 𩁥	qoke
@@ -72923,7 +72923,7 @@ encoder:
 𪓇	ggjj
 𪓈	gsdk
 𪓉	gash
-𪓊	gajc
+𪓊	gjac
 𪓋	iukq
 𪓌	iukg
 𪓍	oxuk
@@ -95917,7 +95917,7 @@ encoder:
 𱎕	iheh
 𱎖	fbgg
 𱎗	kgki
-𱎘	fnsj
+𱎘	ansh
 𱎙	awil
 𱎚	rcpe
 𱎛	rhte
@@ -102179,6 +102179,7 @@ encoder:
 拐	flsl
 雇	hehh
 梭	ankt
+鬱	ajac
 贪	rkyc
 塌	hjvv
 熬	hwti
@@ -102899,6 +102900,7 @@ encoder:
 瀩	nmej
 瀯	niil
 灓	boon
+灪	najc
 炍	idbo
 炦	iebk
 炩	irkb
@@ -102920,6 +102922,7 @@ encoder:
 熿	isdk
 燅	hkhi
 爗	ijss
+爩	iajc
 牄	drkl
 牐	dmdi
 牑	dhce
@@ -103667,6 +103670,7 @@ encoder:
 䕡	sdll
 䕭	shki
 䖂	sbof
+䖇	sajc
 䖹	qsng
 䗀	qhkt
 䗆	qibb
@@ -104168,6 +104172,7 @@ encoder:
 𡮧	wkci
 𡮻	hgug
 𡮼	hgug
+𡯀	ajai
 𡯘	fdbo
 𡰃	fujf
 𡰐	uifo
@@ -104219,6 +104224,7 @@ encoder:
 𡾢	uidr
 𡿑	uxsa
 𡿞	ubob
+𡿥	uajc
 𡿸	lfwr
 𢀁	ldbk
 𢀘	pkag
@@ -104452,6 +104458,7 @@ encoder:
 𢺯	fbob
 𢺲	fbos
 𢺳	fboq
+𢺴	fajc
 𢺾	kxkb
 𢻁	xckb
 𢻄	hwgb
@@ -104701,6 +104708,7 @@ encoder:
 𤒼	msdi
 𤓖	booi
 𤓩	ibot
+𤓮	ajai
 𤓶	uxbo
 𤔑	ullv
 𤔗	wkhu
@@ -104930,6 +104938,7 @@ encoder:
 𥕾	vsuk
 𥗞	viil
 𥘂	vbot
+𥘄	vajc
 𥘞	jrky
 𥘰	jbbo
 𥙤	jkox
@@ -106193,6 +106202,7 @@ encoder:
 𪑿	gqnn
 𪒙	gjlb
 𪒠	gylt
+𪓊	gajc
 𪓋	iquq
 𪓌	iqug
 𪓐	iquj
@@ -123127,7 +123137,7 @@ encoder:
 死灰復燃	feci
 別有用心	lesr
 出家	wwit
-鬱鬱蔥蔥	aass
+鬱鬱蔥蔥	jjss
 發怒	bbcb
 因勢利導	whmq
 沼澤	nmnu
@@ -124765,7 +124775,7 @@ encoder:
 殺手	safs
 亂七八糟	uxkq
 大權	odas
-抑鬱	fkaj
+抑鬱	fkja
 重力	mvsl
 控訴	fibd
 寶石	ijvs
@@ -128145,7 +128155,7 @@ encoder:
 獻身	ufqs
 猛烈	hkfx
 綁架	odsl
-憂鬱	vwaj
+憂鬱	vwja
 通往	bsck
 名片	xldp
 奈何	ojea
@@ -128991,7 +129001,7 @@ encoder:
 一氧化碳	fgev
 磁力	vqsl
 室溫	idnw
-鬱悶	ajdr
+鬱悶	jadr
 千載難逢	mgst
 稀釋	msgq
 匪徒	huch
@@ -129464,7 +129474,7 @@ encoder:
 冒名頂替	cxao
 貪生怕死	rprf
 眼鏡蛇	jtqi
-鬱鬱寡歡	aais
+鬱鬱寡歡	jjis
 凡夫俗子	eoek
 剛愎自用	crqs
 竭澤而漁	knsn
@@ -131396,7 +131406,7 @@ encoder:
 助攻	jspt
 凋零	iwcr
 歐姆	hlce
-鬱金香	atmj
+鬱金香	jtmj
 丈母孃	eeca
 敗類	jtqh
 乾巴巴	goob
@@ -144639,7 +144649,7 @@ encoder:
 翹楚	hhaa
 鐵腕	tgwi
 薰染	smnr
-鬱結	ajoh
+鬱結	jaoh
 月食	wyks
 諳熟	bkak
 高錳酸鉀	atpt
@@ -146022,7 +146032,7 @@ encoder:
 除塵	prmh
 上好	jvck
 吸食	lgks
-沉鬱	nxaj
+沉鬱	nxja
 紅細胞	ooww
 唸佛	lreb
 立業	kliq
@@ -148086,7 +148096,7 @@ encoder:
 生父	psks
 賢良	hbkg
 心律	ricb
-蔥鬱	sdaj
+蔥鬱	sdja
 退職	golk
 蹉跎	pqpi
 高蛋白	aydb
@@ -149528,7 +149538,7 @@ encoder:
 坡地	hbho
 為患	kgll
 雨聲	cyhb
-陰鬱	praj
+陰鬱	prja
 運抵	xdfk
 高危	agxv
 收兵	wtdf
@@ -159652,7 +159662,7 @@ encoder:
 烏亮	dwaw
 行期	ciuw
 粉皮	qkbp
-憂鬱症	vamf
+憂鬱症	vjmf
 標底	apmk
 呈送	lmqo
 劫奪	hnoe
@@ -161408,7 +161418,7 @@ encoder:
 寶馬香車	iwmd
 繩鋸木斷	otan
 愧不敢當	rgji
-抑鬱寡歡	fais
+抑鬱寡歡	fjis
 優勝劣敗	ewij
 花落誰家	ssbi
 若需	secs
@@ -168214,7 +168224,7 @@ encoder:
 錯碼	tsvw
 色衰	xoaf
 餚饌	ksko
-解鬱	xwaj
+解鬱	xwja
 蟹殼	xwhf
 解甲	xwvj
 解衣	xwag
@@ -173766,7 +173776,7 @@ encoder:
 德智體	cjrc
 及時雨	gjcy
 防疫站	pmku
-鬱郁	ajew
+鬱郁	jaew
 顫巍巍	auum
 白水	dbns
 十三陵	glph
@@ -174004,7 +174014,7 @@ encoder:
 有進無退	eegg
 求神問卜	fjdu
 孤兒寡婦	kdic
-鬱鬱不樂	aagd
+鬱鬱不樂	jjgd
 工具箱	pjga
 落在	sneu
 工商界	pavr
@@ -175521,7 +175531,7 @@ encoder:
 童真	kvgj
 吃官司	liyf
 初探	xmfx
-鬱積	ajmh
+鬱積	jamh
 放大器	toll
 強硬派	bvnd
 青豆	hwfl
@@ -181618,7 +181628,7 @@ encoder:
 性解放	rxtt
 魚躍	vvpv
 導語	qqbf
-積鬱	mhaj
+積鬱	mhja
 柳絲	akoo
 唸白	lrdb
 蒜薹	sjsh
@@ -186660,7 +186670,7 @@ encoder:
 火蛇	ihqi
 違心之論	brob
 圍擊	wbdw
-鬱熱	ajhw
+鬱熱	jahw
 聒耳	llle
 契據	dmfu
 銳眼	tkjg
@@ -189150,7 +189160,7 @@ encoder:
 成雙作對	keei
 大破大立	ovok
 大旨	odnj
-鬱悒	ajrl
+鬱悒	jarl
 雁塔題名	vhjx
 破擊	vbdw
 夏新	vjka
@@ -189902,7 +189912,7 @@ encoder:
 母慈子孝	eqkh
 一抔黃土	ffsh
 壽山福海	hujn
-沉鬱頓挫	naxf
+沉鬱頓挫	njxf
 蝨多不癢	yxgm
 對症之藥	imos
 朽木不可雕	aagw
@@ -192097,7 +192107,7 @@ encoder:
 喚頭	lxfl
 田契	vtdm
 蠅子	qgkz
-鬱郁蒼蒼	aess
+鬱郁蒼蒼	jess
 村學	ahds
 便桶	efab
 散悶	swdr
@@ -194656,7 +194666,7 @@ encoder:
 馬里亞那	wvfy
 馬爾庫塞	wfmi
 難案	sfic
-鬱怒	ajcb
+鬱怒	jacb
 布洛赫	enhk
 百念	vjrf
 灰紫	eipn
@@ -196297,7 +196307,7 @@ encoder:
 言之有據	boef
 內愧	ckrd
 挽幛	fxuk
-鬱憤	ajrg
+鬱憤	jarg
 花紗布	soeu
 丁字形	aifs
 單季稻	lmmu
@@ -199778,7 +199788,7 @@ encoder:
 人蔘	resn
 保温	elnj
 頂峯	avut
-鬱鬱葱葱	aass
+鬱鬱葱葱	jjss
 脱口而出	wlsw
 水泄不通	nngb
 現身説法	jqbn
@@ -200306,7 +200316,7 @@ encoder:
 説不過去	bgrh
 税負	mqxj
 歡悦	slrq
-葱鬱	swaj
+葱鬱	swja
 悦目	rqjm
 峯值	uteg
 敍談	rfbi
@@ -203865,7 +203875,7 @@ encoder:
 動盪不定	mngi
 君子坦蕩蕩	bkhs
 修齊治平	eann
-鬱郁不得志	aegh
+鬱郁不得志	jegh
 愁眉緊鎖	mbht
 人老心不老	rhrh
 見慣不驚	jrgs
@@ -205613,7 +205623,7 @@ encoder:
 月既不解飲	wbgk
 江流石不轉	nnvd
 但見長江送流水	ejun
-鬱孤臺下清江水	akhn
+鬱孤臺下清江水	jkhn
 陰陰夏木囀黃鸝	ppvf
 昔聞洞庭水	sdnn
 身登青雲梯	qbha
@@ -207729,7 +207739,7 @@ encoder:
 滄浪之水濁兮	nnok
 小人同而不和	ircm
 輕輕的我走了	dddk
-更加鬱鬱蔥蔥	fsas
+更加鬱鬱蔥蔥	fsjs
 虎踞龍盤今勝昔	upks
 才飲長沙水	hkun
 君子周而不比	bkwn
@@ -207791,7 +207801,7 @@ encoder:
 萬戶千門入畫圖	sdmw
 可以濯我纓	aeno
 無災無難到公卿	glgk
-鬱郁乎文哉	aegg
+鬱郁乎文哉	jegg
 黃鶴樓中吹玉笛	sxag
 汝果欲學詩	njkb
 必也使無訟乎	roeg
@@ -210458,7 +210468,7 @@ encoder:
 一去三十年	fhlg
 天之歷數在爾躬	fovq
 濟南名士知多少	ngxi
-春樹鬱金紅	oaao
+春樹鬱金紅	oajo
 出犯繁花露	whgc
 固國不以山溪之險	wwgp
 寧不知傾城與傾國	igjw
@@ -211407,7 +211417,7 @@ encoder:
 江魚美可求	nvqf
 我不欲人之加諸我也	ggko
 龍團小碾鬥晴窗	kwii
-鬱郁澗底松	aena
+鬱郁澗底松	jena
 中有武昌魚	lefv
 美人一笑褰珠箔	qrfg
 氣力迴天到此休	gswe
@@ -212466,7 +212476,7 @@ encoder:
 憶秦娥婁山關	rocd
 吾嘗跂而望矣	fipn
 割慈忍愛還租庸	iqmm
-鬱鬱蔥蔥佳氣浮	aasn
+鬱鬱蔥蔥佳氣浮	jjsn
 萬物皆嫵媚	spnc
 人煙撲地桑柘稠	rifm
 天下惡乎定	fjfi
@@ -212559,7 +212569,7 @@ encoder:
 十里月明燈火稀	gvwm
 其次剔毛髮	uiju
 結君早歸意	objk
-忳鬱邑餘侘傺兮	ralk
+忳鬱邑餘侘傺兮	rjlk
 莫自使眼枯	sqea
 九度附書向洛陽	rmpp
 有名而無實	exsi
@@ -212703,7 +212713,7 @@ encoder:
 舉魯國而儒服	dvww
 今兩虎共鬥	rfud
 高揖衛叔卿	afck
-我懷鬱如焚	graa
+我懷鬱如焚	grja
 知君仙骨無寒暑	jbej
 正憐日破浪花出	frjw
 父老相逢鼻欲辛	khak
@@ -215016,7 +215026,7 @@ encoder:
 爭新買寵各出意	ukuk
 杜鵑花裡杜鵑啼	alsl
 非鬼非人意其仙	udue
-鬱閉而不流	adsn
+鬱閉而不流	jdsn
 子桑殆病矣	kbfn
 使我傷懷奏短歌	egea
 奄忽隨物化	owpe
@@ -217084,7 +217094,7 @@ encoder:
 多於機上之工女	xtac
 古之存身者	joeh
 不當時命而大窮乎天下	gijj
-鬱郁何所為	aeek
+鬱郁何所為	jeek
 自入秋來風景好	qkmc
 亦各言其子也	ttbo
 竹西花草弄春柔	gpsk
@@ -217491,7 +217501,7 @@ encoder:
 司馬牛憂曰	ywpj
 白雲堪臥君早歸	dchd
 晰晰燎火光	jjii
-鬱金香是蘭陵酒	atmn
+鬱金香是蘭陵酒	jtmn
 待吾還丹成	cfuk
 禮義由賢者出	jqdw
 翩翾粉翅開	duqd
@@ -218179,7 +218189,7 @@ encoder:
 人不知而不愠	rgjr
 白銀盤裏一青螺	dtuq
 尚思為國戍輪台	ivkn
-鬱孤台下清江水	aknn
+鬱孤台下清江水	jknn
 羣山萬壑赴荊門	busd
 歌管樓台聲細細	agao
 卻嫌脂粉污顏色	kcwx
@@ -218281,7 +218291,7 @@ encoder:
 隱者自怡悦	phqr
 松聲晚窗裏	ahja
 手把紅旗旗不濕	ffon
-更加鬱鬱葱葱	fsas
+更加鬱鬱葱葱	fsjs
 萬户千門入畫圖	shmw
 萬户蕭疏鬼唱歌	shsa
 此去泉台招舊部	phdk
@@ -218439,7 +218449,7 @@ encoder:
 遙望齊州九點煙	wtai
 交戟之衞士欲止不內	agoc
 敍德皆仲尼	rcnb
-鬱鬱葱葱佳氣浮	aasn
+鬱鬱葱葱佳氣浮	jjsn
 餘因得遍觀羣書	kwcb
 千峯筍石千株玉	mugj
 又不能啓口	bgnl
@@ -219210,7 +219220,7 @@ encoder:
 置以爲像兮	ueuk
 戀月潭邊坐石棱	owna
 開視化爲血	djeg
-鬱郁何所爲	aeeu
+鬱郁何所爲	jeeu
 夫爲天下者	oufh
 堯舜禹湯文武周孔皆爲灰	huge
 女嬋媛兮爲餘太息	cccq
