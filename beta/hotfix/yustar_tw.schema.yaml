@@ -145,7 +145,7 @@ speller:
 translator:
   dictionary: yustar_tw
   prism: yustar_tw
-  db_class: tabledb
+  # db_class: tabledb
   enable_completion: true
   enable_sentence: false
   enable_user_dict: true
