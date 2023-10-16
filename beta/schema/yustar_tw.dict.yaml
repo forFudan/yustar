@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳·臺正
-# 版本: 20231012
+# 版本: 20231015
 #
 ---
 name: "yustar_tw"
-version: "20231012"
+version: "20231015"
 sort: original
 import_tables:
   - yuhao.extended
