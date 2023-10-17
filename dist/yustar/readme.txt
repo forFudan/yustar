@@ -11,6 +11,7 @@
 patch:
   schema_list:
     - schema: yustar
+    - schema: yustar_sc
     - schema: yustar_tc
     - schema: yustar_tw
 

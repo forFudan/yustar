@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳·臺正
-# 版本: 20231006
+# 版本: 20231017
 #
 ---
 name: "yustar_tw"
-version: "20231006"
+version: "20231017"
 sort: original
 import_tables:
   - yuhao.extended
@@ -139,7 +139,7 @@ encoder:
 話	bl
 認	bm
 強	bn
-又	bo
+變	bo
 皮	bp
 議	bq
 論	br
@@ -433,7 +433,7 @@ encoder:
 疡	my
 豸	mz
 流	na
-決	nb
+灣	nb
 洞	nc
 油	nd
 準	ne
@@ -446,7 +446,7 @@ encoder:
 活	nl
 澀	nm
 比	nn
-灣	no
+池	no
 酒	np
 平	nq
 滑	nr
@@ -458,7 +458,7 @@ encoder:
 深	nx
 汤	ny
 統	oa
-變	ob
+巴	ob
 網	oc
 總	od
 也	oe
@@ -577,7 +577,7 @@ encoder:
 蘋	sp
 蒴	sq
 而	sr
-脅	ss
+攀	ss
 荒	st
 菜	su
 萬	sv
@@ -703,7 +703,7 @@ encoder:
 鳔	xp
 袢	xq
 裣	xr
-饣	xs
+襻	xs
 袼	xt
 外	xu
 詹	xv
@@ -754,7 +754,7 @@ encoder:
 話題	bl
 認為	bm
 強調	bn
-又是	bo
+變化	bo
 皮膚	bp
 議論	bq
 論文	br
@@ -1024,7 +1024,7 @@ encoder:
 頹廢	mw
 移動	mx
 流動	na
-決定	nb
+灣仔	nb
 洞穴	nc
 油菜	nd
 準備	ne
@@ -1037,7 +1037,7 @@ encoder:
 活動	nl
 澀味	nm
 比賽	nn
-灣仔	no
+池塘	no
 酒店	np
 平常	nq
 滑稽	nr
@@ -1048,7 +1048,7 @@ encoder:
 沒有	nw
 深入	nx
 統一	oa
-變化	ob
+巴黎	ob
 網絡	oc
 總是	od
 也許	oe
@@ -1156,7 +1156,7 @@ encoder:
 靶場	so
 蘋果	sp
 而且	sr
-脅迫	ss
+攀登	ss
 荒唐	st
 菜刀	su
 萬能	sv
@@ -1304,7 +1304,7 @@ encoder:
 話說	bl
 認真	bm
 強烈	bn
-又要	bo
+變態	bo
 皮包	bp
 議會	bq
 論證	br
@@ -1566,7 +1566,6 @@ encoder:
 頹然	mw
 移民	mx
 流水	na
-決心	nb
 洞口	nc
 油田	nd
 準確	ne
@@ -1578,6 +1577,7 @@ encoder:
 注意	nk
 活躍	nl
 比較	nn
+池水	no
 酒杯	np
 平衡	nq
 滑動	nr
@@ -1588,7 +1588,7 @@ encoder:
 沒收	nw
 深刻	nx
 統計	oa
-變態	ob
+巴西	ob
 網點	oc
 總統	od
 也罷	oe
@@ -1689,7 +1689,7 @@ encoder:
 落地	sn
 靶子	so
 而已	sr
-脅從	ss
+攀談	ss
 荒涼	st
 菜單	su
 萬一	sv
@@ -1842,7 +1842,6 @@ encoder:
 雜	arr
 柑	asi
 模	asj
-攀	ass
 核	ath
 枚	atp
 豪	ats
@@ -2556,7 +2555,6 @@ encoder:
 皆	nnd
 汗	nng
 參	nnn
-池	noe
 潜	noo
 江	npg
 潭	npj
@@ -3254,7 +3252,7 @@ encoder:
 任	emrr
 林	aamm
 片	dpp
-灣	nobb
+灣	nbob
 母	emm
 機	annr
 吃	lgyi
@@ -3340,7 +3338,7 @@ encoder:
 石	vss
 且	jqq
 半	qakk
-變	obot
+變	boot
 聲	hbel
 与	hfik
 從	crrp
@@ -3808,7 +3806,7 @@ encoder:
 萬	svyo
 將	dwhc
 婚	ckxj
-圖	wlgl
+圖	wljl
 警	swlb
 旅	tggy
 田	vtt
@@ -5061,7 +5059,7 @@ encoder:
 恭	skik
 贝	cbb
 催	eueh
-彎	obob
+彎	boob
 挡	fibj
 愣	rutf
 聰	ldcr
@@ -5095,7 +5093,7 @@ encoder:
 滚	nakg
 匯	hneh
 吳	leod
-戀	obor
+戀	boor
 闷	trim
 迟	bkoc
 稳	mxbr
@@ -5121,7 +5119,7 @@ encoder:
 縱	ocrp
 牧	ptpn
 伦	ernb
-攀	assf
+攀	ssaf
 娇	cmka
 雀	iehv
 侧	ecmd
@@ -6033,7 +6031,7 @@ encoder:
 渦	nrks
 頃	nvjb
 餵	kvmc
-鬱	ajac
+鬱	jaac
 宠	ifgp
 贪	rfyc
 牡	phtn
@@ -6962,7 +6960,7 @@ encoder:
 樁	aodi
 翹	hhhv
 龐	mkwu
-樊	asso
+樊	ssao
 谊	dijq
 恳	grig
 厮	vudj
@@ -7017,7 +7015,7 @@ encoder:
 惰	repw
 岡	cqus
 搗	fdus
-蠻	oboq
+蠻	booq
 鉤	twlv
 炕	iaej
 畸	voal
@@ -7801,7 +7799,7 @@ encoder:
 湄	nbjm
 壕	hats
 凜	iawm
-巒	obou
+巒	boou
 徬	caqt
 悽	rfbc
 漬	nhjb
@@ -8176,7 +8174,7 @@ encoder:
 儷	efcm
 匱	hljj
 憊	esgr
-攣	obof
+攣	boof
 檜	arfj
 竇	ihuj
 芻	wwww
@@ -8718,7 +8716,7 @@ encoder:
 誣	bprr
 鎔	tirl
 鑣	tmib
-鑾	obot
+鑾	boot
 閭	dldx
 靦	sjjm
 鞦	smih
@@ -9232,7 +9230,7 @@ encoder:
 囀	lddh
 婁	lglc
 嬋	cllg
-孿	obok
+孿	book
 懣	nsfr
 揹	fqnw
 撻	fhqo
@@ -9272,7 +9270,7 @@ encoder:
 饈	kqgb
 鱒	vqph
 鱔	vqql
-鸞	obod
+鸞	bood
 鹵	ull
 嶸	uiia
 廩	mawm
@@ -9498,7 +9496,7 @@ encoder:
 獺	halj
 珮	jefu
 琺	jnhn
-礬	assv
+礬	ssav
 簣	gljj
 簫	gbdf
 紕	onnb
@@ -10390,7 +10388,7 @@ encoder:
 漚	nhll
 濰	noeh
 灝	njaj
-灤	noba
+灤	nboa
 燴	irfj
 牴	pkxf
 犖	iixp
@@ -10504,7 +10502,7 @@ encoder:
 檥	aqgk
 檮	ahyh
 櫪	avmp
-欒	oboa
+欒	booa
 欞	aclr
 歔	uwfx
 殢	fxsu
@@ -10519,7 +10517,7 @@ encoder:
 痀	mwlv
 癇	mdwy
 癤	mgba
-癵	mobr
+癵	mbor
 皸	xdbp
 眛	jfwm
 眥	pnjm
@@ -10545,7 +10543,7 @@ encoder:
 罏	juvu
 羆	unwi
 膕	wwkf
-臠	obor
+臠	boor
 臢	wpwj
 艫	uuvu
 苺	semo
@@ -11456,7 +11454,7 @@ encoder:
 黾	lddv
 焌	inwt
 嗾	ltgj
-襻	xasf
+襻	xssf
 躞	pbib
 铵	oicn
 鬯	swnb
@@ -13913,7 +13911,7 @@ encoder:
 囮	wenb
 圁	wbyw
 圂	wtsw
-圞	woba
+圞	wboa
 圠	heit
 坁	hkxi
 坅	hrfy
@@ -14038,7 +14036,7 @@ encoder:
 嬾	calj
 孈	cuel
 孋	cfcm
-孌	oboc
+孌	booc
 孲	kfka
 孷	ftvk
 宎	imyb
@@ -14937,7 +14935,7 @@ encoder:
 灟	nbnq
 灡	nsdq
 灨	nkjj
-灪	najc
+灪	njac
 炰	woib
 烋	eaib
 烑	iwii
@@ -15235,7 +15233,7 @@ encoder:
 矏	jqit
 矐	jceh
 矔	jsle
-矕	oboj
+矕	booj
 矘	jigh
 矙	jdjt
 矠	kgsj
@@ -15606,7 +15604,7 @@ encoder:
 罿	ukvl
 羃	usju
 羇	usol
-羉	uobo
+羉	uboo
 羍	oqyd
 羒	qkmd
 羛	qbka
@@ -16169,7 +16167,7 @@ encoder:
 蠑	qiia
 蠗	qvve
 蠙	qifj
-蠜	assq
+蠜	ssaq
 蠝	qvvv
 蠠	sqqc
 蠤	qpqq
@@ -17979,7 +17977,7 @@ encoder:
 卐	efuf
 単	njgi
 卙	uegi
-卛	obog
+卛	boog
 卝	soo
 卥	uwck
 卨	urkb
@@ -18268,7 +18266,7 @@ encoder:
 圗	wngi
 圚	wljj
 圛	wuhg
-圝	wobo
+圝	wboo
 圡	hkdt
 圤	hubt
 圥	hwrt
@@ -18446,7 +18444,7 @@ encoder:
 壦	hsle
 壧	hllt
 壨	vvvh
-壪	hobb
+壪	hbob
 壭	hajs
 壱	hxnb
 売	hxwr
@@ -18495,7 +18493,7 @@ encoder:
 奦	kgto
 奨	quho
 奯	opki
-奱	oboo
+奱	booo
 奵	cadn
 奷	cmqn
 奺	cxkd
@@ -19648,7 +19646,7 @@ encoder:
 曥	juvu
 曧	jflq
 曪	juoe
-曫	oboj
+曫	booj
 曯	jbnq
 曱	jusr
 曵	dgkd
@@ -19818,7 +19816,7 @@ encoder:
 棛	aanw
 棞	awmh
 棢	acqt
-棥	assa
+棥	ssaa
 棦	auby
 棩	addf
 棭	aaek
@@ -20065,7 +20063,7 @@ encoder:
 欉	aiqb
 欌	askh
 欍	ased
-欎	assh
+欎	ssah
 欏	auoe
 欓	aigh
 欔	ajjb
@@ -20075,7 +20073,7 @@ encoder:
 欚	aetq
 欛	acsw
 欜	aglg
-欝	assh
+欝	ssah
 欟	aslj
 欦	rfyx
 欩	mlxq
@@ -20467,7 +20465,7 @@ encoder:
 灎	ncsu
 灐	niit
 灒	npwj
-灓	obon
+灓	boon
 灙	nigh
 灚	ndsj
 灜	ntjb
@@ -20646,7 +20644,7 @@ encoder:
 燌	igsj
 燍	iudj
 燑	ikvl
-燓	assi
+燓	ssai
 燗	idwy
 燘	idte
 燛	hhih
@@ -20693,7 +20691,7 @@ encoder:
 爥	ibnq
 爦	ihgj
 爧	iclr
-爩	iajc
+爩	ijac
 爫	uzz
 爮	uwos
 爯	ucht
@@ -21015,7 +21013,7 @@ encoder:
 癧	mvmp
 癨	mceh
 癳	mvvo
-癴	mobf
+癴	mbof
 癶	boo
 癷	bngo
 発	biwr
@@ -21771,7 +21769,7 @@ encoder:
 纒	ovvh
 纙	ouoe
 纝	ovvo
-纞	oobr
+纞	obor
 绬	ksco
 缷	jajf
 缻	jrwf
@@ -22250,7 +22248,7 @@ encoder:
 虄	sqtp
 虅	swqw
 虉	sfld
-虊	soba
+虊	sboa
 虗	udfi
 虘	ujqh
 虝	uwcp
@@ -23306,7 +23304,7 @@ encoder:
 鐞	tbph
 鐟	tooj
 鐡	tgkq
-鐢	asst
+鐢	ssat
 鐣	tifs
 鐤	tjdd
 鐥	tqql
@@ -23361,7 +23359,7 @@ encoder:
 鑸	tvvh
 鑹	tidb
 鑺	tjje
-鑻	tasf
+鑻	tssf
 钄	tsdq
 钑	ogkd
 铇	owos
@@ -23474,7 +23472,7 @@ encoder:
 雸	csir
 雼	cvsy
 霃	cnxw
-霊	cflq
+霊	ciie
 霌	cwhl
 霔	cnkj
 霕	cinw
@@ -23795,7 +23793,7 @@ encoder:
 鬪	dflh
 鬬	dlkd
 鬭	dhbd
-鬰	assc
+鬰	ssac
 鬴	flcn
 鬸	flcv
 鬹	ojfu
@@ -24178,7 +24176,7 @@ encoder:
 䎱	dkun
 䙌	xljc
 䙡	xljj
-䜌	obos
+䜌	boos
 䜩	dsfi
 䝼	jhwy
 䞍	chwy
@@ -24841,7 +24839,7 @@ encoder:
 㘕	lshu
 㘖	ltvj
 㘗	ljje
-㘘	obol
+㘘	bool
 㘙	lllt
 㘛	lrku
 㘜	ebel
@@ -25124,7 +25122,7 @@ encoder:
 㜸	sdkc
 㜹	cjje
 㜺	cpwj
-㜻	cobr
+㜻	cbor
 㜼	cvvj
 㜽	lkzc
 㜾	krka
@@ -25137,7 +25135,7 @@ encoder:
 㝅	hfkz
 㝆	khlv
 㝇	akak
-㝈	obok
+㝈	book
 㝉	ifib
 㝊	ibob
 㝋	ikeb
@@ -25357,7 +25355,7 @@ encoder:
 㠥	uvvh
 㠦	uudq
 㠧	umuf
-㠨	uash
+㠨	ussh
 㠩	rewr
 㠪	fjvi
 㠫	peko
@@ -25421,7 +25419,7 @@ encoder:
 㡦	uifj
 㡧	uibq
 㡨	urrf
-㡩	obou
+㡩	boou
 㡪	uubt
 㡫	njwe
 㡬	nnkw
@@ -26005,7 +26003,7 @@ encoder:
 㪸	uigi
 㪹	lglg
 㪺	ojjg
-㪻	obog
+㪻	boog
 㪼	aldj
 㪽	fjdj
 㪾	tldj
@@ -26398,7 +26396,7 @@ encoder:
 㱊	vwxx
 㱋	cexq
 㱌	lllx
-㱍	obox
+㱍	boox
 㱎	uiix
 㱏	ipir
 㱐	ipkd
@@ -27152,7 +27150,7 @@ encoder:
 㽈	njbr
 㽉	hgur
 㽊	biir
-㽋	obor
+㽋	boor
 㽌	ckvr
 㽍	sirw
 㽎	uexw
@@ -27463,7 +27461,7 @@ encoder:
 䂂	jjje
 䂃	juuh
 䂄	jjjb
-䂅	jobq
+䂅	jboq
 䂆	kgwk
 䂇	kgbc
 䂈	kgqc
@@ -28721,12 +28719,12 @@ encoder:
 䕿	ssfd
 䖀	slll
 䖁	svkr
-䖂	sobf
+䖂	sbof
 䖃	sell
 䖄	ssfi
 䖅	sclr
 䖆	spag
-䖇	sajc
+䖇	sjac
 䖈	unbh
 䖉	ufhc
 䖊	suhi
@@ -28857,7 +28855,7 @@ encoder:
 䘋	qrrf
 䘌	hseq
 䘍	svqq
-䘎	qobb
+䘎	qbob
 䘏	gupf
 䘐	gumk
 䘑	gukn
@@ -28947,7 +28945,7 @@ encoder:
 䙧	xmgh
 䙨	xjag
 䙩	xsxt
-䙪	assg
+䙪	ssag
 䙫	xqnk
 䙬	xjjc
 䙭	xisp
@@ -30091,7 +30089,7 @@ encoder:
 䫳	uwqj
 䫴	aajj
 䫵	qitj
-䫶	assj
+䫶	ssaj
 䫷	jllj
 䫸	emdf
 䫹	epgf
@@ -31758,7 +31756,7 @@ encoder:
 𠏌	eqjj
 𠏍	eepo
 𠏎	rlga
-𠏏	sflr
+𠏏	sffr
 𠏐	ebdf
 𠏑	ejfc
 𠏒	esft
@@ -32433,7 +32431,7 @@ encoder:
 𠙰	akgk
 𠙱	blkk
 𠙲	eedn
-𠙳	oboe
+𠙳	booe
 𠙴	wkk
 𠙵	fwki
 𠙷	gwki
@@ -32871,7 +32869,7 @@ encoder:
 𠠧	ddsm
 𠠨	lllm
 𠠩	vtlm
-𠠪	obom
+𠠪	boom
 𠠫	fcfm
 𠠬	grmd
 𠠭	xmej
@@ -33029,7 +33027,7 @@ encoder:
 𠣅	sdks
 𠣆	ddss
 𠣇	igsd
-𠣈	obos
+𠣈	boos
 𠣉	csxs
 𠣊	uuvs
 𠣋	ucls
@@ -33383,7 +33381,7 @@ encoder:
 𠨨	ddfa
 𠨩	dcfa
 𠨪	xval
-𠨫	obok
+𠨫	book
 𠨬	vnbh
 𠨭	vakh
 𠨮	veod
@@ -33743,10 +33741,10 @@ encoder:
 𠮐	bbbd
 𠮑	swqb
 𠮒	kjbb
-𠮓	obob
+𠮓	boob
 𠮔	bfcm
 𠮕	vwxb
-𠮖	oboe
+𠮖	booe
 𠮗	uoob
 𠮘	nucb
 𠮙	lyiv
@@ -35081,7 +35079,7 @@ encoder:
 𡃋	rfcj
 𡃌	lved
 𡃍	lrmd
-𡃎	laso
+𡃎	lsso
 𡃏	lpeh
 𡃐	lulg
 𡃑	lbhw
@@ -35270,7 +35268,7 @@ encoder:
 𡆈	ltgd
 𡆉	lllb
 𡆊	mlig
-𡆋	lash
+𡆋	lssh
 𡆌	lwml
 𡆍	ltgv
 𡆎	lljf
@@ -35280,7 +35278,7 @@ encoder:
 𡆒	sfll
 𡆓	leid
 𡆔	llvl
-𡆕	lobr
+𡆕	lbor
 𡆖	lspi
 𡆗	luoo
 𡆘	ljnj
@@ -35288,7 +35286,7 @@ encoder:
 𡆚	lcji
 𡆛	llpe
 𡆜	lsbq
-𡆝	lobr
+𡆝	lbor
 𡆞	ldhd
 𡆟	lmgp
 𡆠	wyiw
@@ -35446,7 +35444,7 @@ encoder:
 𡈸	wwbo
 𡈹	vaaa
 𡈺	wljc
-𡈻	wobr
+𡈻	wbor
 𡈼	mrr
 𡈽	hkdt
 𡈾	yhti
@@ -35961,7 +35959,7 @@ encoder:
 𡐽	hsfa
 𡐾	hfjp
 𡐿	hhqo
-𡑀	assh
+𡑀	ssah
 𡑁	drch
 𡑂	hssr
 𡑃	atht
@@ -36175,7 +36173,7 @@ encoder:
 𡔓	hfjm
 𡔔	hsdq
 𡔕	kjph
-𡔖	hobt
+𡔖	hbot
 𡔗	rrht
 𡔘	hubw
 𡔙	hmmm
@@ -36422,7 +36420,7 @@ encoder:
 𡘋	ofof
 𡘌	pnod
 𡘍	ofjf
-𡘎	oeci
+𡘎	ogcp
 𡘏	ockz
 𡘐	oajr
 𡘑	dodi
@@ -37036,7 +37034,7 @@ encoder:
 𡡱	cjjy
 𡡲	cgjw
 𡡳	cheh
-𡡴	assc
+𡡴	ssac
 𡡵	chft
 𡡶	csia
 𡡷	csht
@@ -37211,12 +37209,12 @@ encoder:
 𡤠	cjcq
 𡤡	cdnw
 𡤢	cuoe
-𡤣	cobo
+𡤣	cboo
 𡤤	csda
 𡤥	ceug
 𡤦	cshn
 𡤧	cijj
-𡤨	oboc
+𡤨	booc
 𡤩	ccso
 𡤪	ckgf
 𡤫	palc
@@ -37230,12 +37228,12 @@ encoder:
 𡤳	xlww
 𡤴	ccai
 𡤵	chxr
-𡤶	cobb
+𡤶	cbob
 𡤷	cgrf
 𡤸	cudo
 𡤹	cxlk
 𡤺	xlwk
-𡤻	cobd
+𡤻	cbod
 𡤼	fkei
 𡤽	kfiz
 𡤾	kirz
@@ -37879,7 +37877,7 @@ encoder:
 𡮽	iodo
 𡮾	hhhi
 𡮿	xlng
-𡯀	ajai
+𡯀	jaai
 𡯁	eyiz
 𡯂	keja
 𡯃	enbz
@@ -38933,14 +38931,14 @@ encoder:
 𡿛	uvva
 𡿜	uvvo
 𡿝	uglg
-𡿞	uobb
+𡿞	ubob
 𡿟	uspt
 𡿠	uvqa
 𡿡	uclr
 𡿢	udpw
 𡿣	ubxk
 𡿤	skjl
-𡿥	uajc
+𡿥	ujac
 𡿦	gggk
 𡿧	lfic
 𡿨	eii
@@ -39756,7 +39754,7 @@ encoder:
 𢌒	mfcm
 𢌓	mawo
 𢌔	mclr
-𢌕	mobw
+𢌕	mbow
 𢌖	mplr
 𢌗	ggyi
 𢌘	cgyp
@@ -39817,7 +39815,7 @@ encoder:
 𢍏	gqso
 𢍐	fkso
 𢍑	edso
-𢍒	gcus
+𢍒	eccs
 𢍓	ajso
 𢍔	xkjs
 𢍕	qoas
@@ -39853,7 +39851,7 @@ encoder:
 𢍳	vjvs
 𢍴	huls
 𢍵	hoos
-𢍶	obos
+𢍶	boos
 𢍷	ppvs
 𢍸	vsws
 𢍹	ddss
@@ -40178,7 +40176,7 @@ encoder:
 𢒸	njvc
 𢒹	maac
 𢒺	mucp
-𢒻	assc
+𢒻	ssac
 𢒼	cyic
 𢒽	ceic
 𢒾	cwjc
@@ -41110,7 +41108,7 @@ encoder:
 𢡜	rhjx
 𢡝	rkjb
 𢡞	rdjw
-𢡟	assr
+𢡟	ssar
 𢡠	rkjk
 𢡡	rpjr
 𢡢	pepr
@@ -41407,10 +41405,10 @@ encoder:
 𢦅	rkjj
 𢦆	hxfr
 𢦇	rbnr
-𢦈	robq
+𢦈	rboq
 𢦉	sllr
 𢦊	ueur
-𢦋	jdor
+𢦋	jdbr
 𢦌	fkgi
 𢦍	kcpi
 𢦎	rkgj
@@ -42555,7 +42553,7 @@ encoder:
 𢸂	fdni
 𢸃	fuhg
 𢸄	fqwv
-𢸅	faso
+𢸅	fsso
 𢸆	fsjf
 𢸇	unwf
 𢸈	faqx
@@ -42686,14 +42684,14 @@ encoder:
 𢺅	fgrq
 𢺆	ftkl
 𢺇	fsda
-𢺈	fobo
+𢺈	fboo
 𢺉	fsvq
 𢺊	fsrs
 𢺋	sflf
 𢺌	fosa
 𢺍	fslb
 𢺎	fwlb
-𢺏	fasf
+𢺏	fssf
 𢺐	fshn
 𢺑	ftqy
 𢺒	fvoa
@@ -42715,7 +42713,7 @@ encoder:
 𢺢	fvvo
 𢺣	fgrs
 𢺤	fsdq
-𢺥	fobb
+𢺥	fbob
 𢺦	fiww
 𢺧	ftuk
 𢺨	fojq
@@ -42725,12 +42723,12 @@ encoder:
 𢺬	fuwu
 𢺭	flmr
 𢺮	fghj
-𢺯	fobb
+𢺯	fbob
 𢺰	fclr
 𢺱	fjji
-𢺲	fobs
-𢺳	fobq
-𢺴	fajc
+𢺲	fbos
+𢺳	fboq
+𢺴	fjac
 𢺵	ngbo
 𢺶	gbuj
 𢺷	fugb
@@ -43115,7 +43113,7 @@ encoder:
 𣀲	qvsb
 𣀳	lllt
 𣀴	itxb
-𣀵	obob
+𣀵	boob
 𣀶	pwpb
 𣀷	fcfb
 𣀸	scut
@@ -44802,7 +44800,7 @@ encoder:
 𣛊	kmua
 𣛋	axar
 𣛌	arfc
-𣛍	asse
+𣛍	ssae
 𣛎	aeoc
 𣛏	ager
 𣛐	aggo
@@ -44969,7 +44967,7 @@ encoder:
 𣝱	asuk
 𣝲	aefd
 𣝳	agcn
-𣝴	assa
+𣝴	ssaa
 𣝵	aoen
 𣝶	agjs
 𣝷	hypa
@@ -45117,7 +45115,7 @@ encoder:
 𣠅	asiu
 𣠆	alal
 𣠇	asrq
-𣠈	assh
+𣠈	ssah
 𣠉	aguf
 𣠊	agua
 𣠋	odoa
@@ -45148,11 +45146,11 @@ encoder:
 𣠤	agfj
 𣠥	aare
 𣠦	aijj
-𣠧	aasf
+𣠧	assf
 𣠨	ajvt
 𣠩	ashu
 𣠪	adci
-𣠫	assp
+𣠫	ssap
 𣠬	grrn
 𣠭	aunn
 𣠮	osfa
@@ -45177,10 +45175,10 @@ encoder:
 𣡁	aptp
 𣡂	amuf
 𣡃	abpg
-𣡄	aasf
+𣡄	assf
 𣡅	agsk
 𣡆	hxfa
-𣡇	assh
+𣡇	ssah
 𣡈	dcfa
 𣡉	bbbo
 𣡊	ashn
@@ -45201,7 +45199,7 @@ encoder:
 𣡙	jaaj
 𣡚	jaaj
 𣡛	ahsd
-𣡜	assk
+𣡜	ssak
 𣡝	guda
 𣡞	adxb
 𣡟	avvf
@@ -45214,7 +45212,7 @@ encoder:
 𣡦	glwa
 𣡧	avvj
 𣡨	aubp
-𣡩	aobb
+𣡩	abob
 𣡪	glxa
 𣡫	allh
 𣡬	ahng
@@ -45226,7 +45224,7 @@ encoder:
 𣡲	ajnj
 𣡳	dnnl
 𣡴	awdd
-𣡵	aoba
+𣡵	aboa
 𣡶	ahgu
 𣡷	puwa
 𣡸	ajah
@@ -45542,7 +45540,7 @@ encoder:
 𣦮	arri
 𣦯	vmmp
 𣦰	vmms
-𣦱	obop
+𣦱	boop
 𣦲	piik
 𣦳	prik
 𣦴	mpmp
@@ -46199,7 +46197,7 @@ encoder:
 𣰿	fcfm
 𣱀	muoe
 𣱁	mjjj
-𣱂	obom
+𣱂	boom
 𣱃	mvvj
 𣱄	hgum
 𣱅	toxi
@@ -47481,7 +47479,7 @@ encoder:
 𤅄	ngmk
 𤅅	nosa
 𤅆	ndoj
-𤅇	nobo
+𤅇	nboo
 𤅈	naqf
 𤅉	nckw
 𤅊	nufh
@@ -47528,7 +47526,7 @@ encoder:
 𤅳	nklh
 𤅴	nuwq
 𤅵	nreo
-𤅶	nobt
+𤅶	nbot
 𤅷	nclr
 𤅸	nhgu
 𤅹	nuoo
@@ -48391,7 +48389,7 @@ encoder:
 𤓓	iuoe
 𤓔	iiio
 𤓕	dcfi
-𤓖	oboi
+𤓖	booi
 𤓗	iajj
 𤓘	slli
 𤓙	idlg
@@ -48410,12 +48408,12 @@ encoder:
 𤓦	isjg
 𤓧	iifm
 𤓨	sflb
-𤓩	iobt
+𤓩	ibot
 𤓪	eeei
 𤓫	gubi
 𤓬	eeei
-𤓭	iash
-𤓮	ajai
+𤓭	issh
+𤓮	jaai
 𤓯	jkax
 𤓰	dekd
 𤓱	uyiz
@@ -48538,7 +48536,7 @@ encoder:
 𤕦	llos
 𤕧	llss
 𤕨	ruqs
-𤕩	asse
+𤕩	ssae
 𤕪	hhus
 𤕫	fdqi
 𤕬	dfiq
@@ -49930,7 +49928,7 @@ encoder:
 𤫙	jbii
 𤫚	jtwe
 𤫛	juug
-𤫜	obok
+𤫜	book
 𤫝	jsfp
 𤫞	jijj
 𤫟	jfcm
@@ -51014,7 +51012,7 @@ encoder:
 𤼖	mqqq
 𤼗	mmpz
 𤼘	mtqy
-𤼙	mobo
+𤼙	mboo
 𤼚	msvq
 𤼛	mnwk
 𤼜	mdgq
@@ -51024,7 +51022,7 @@ encoder:
 𤼠	metq
 𤼡	meed
 𤼢	mslx
-𤼣	mobr
+𤼣	mbor
 𤼤	muoo
 𤼥	bajo
 𤼦	bboo
@@ -51303,7 +51301,7 @@ encoder:
 𥀷	hbdg
 𥀸	bcaj
 𥀹	scub
-𥀺	obob
+𥀺	boob
 𥀻	hbki
 𥀼	hbpp
 𥀽	hbkr
@@ -52043,7 +52041,7 @@ encoder:
 𥌛	jmwn
 𥌜	jmib
 𥌝	jdni
-𥌞	jaso
+𥌞	jsso
 𥌟	jjrj
 𥌠	juvr
 𥌡	juhg
@@ -52103,7 +52101,7 @@ encoder:
 𥍗	jujy
 𥍘	jkhl
 𥍙	jiji
-𥍚	jobt
+𥍚	jbot
 𥍛	jult
 𥍜	jsjb
 𥍝	kgfi
@@ -52665,7 +52663,7 @@ encoder:
 𥖋	vppp
 𥖌	vgrf
 𥖍	nalv
-𥖎	assv
+𥖎	ssav
 𥖏	vegj
 𥖐	vpqt
 𥖑	bmvb
@@ -52697,7 +52695,7 @@ encoder:
 𥖬	viwe
 𥖭	vaqi
 𥖮	vvvg
-𥖯	assv
+𥖯	ssav
 𥖰	vsag
 𥖱	vual
 𥖲	vhyh
@@ -52780,9 +52778,9 @@ encoder:
 𥗿	vuue
 𥘀	vjag
 𥘁	vsue
-𥘂	vobt
+𥘂	vbot
 𥘃	vclr
-𥘄	vajc
+𥘄	vjac
 𥘅	jwrx
 𥘆	jyis
 𥘇	jnbs
@@ -53085,7 +53083,7 @@ encoder:
 𥜰	jfcm
 𥜱	wwjt
 𥜲	jscq
-𥜳	jasf
+𥜳	jssf
 𥜴	jisw
 𥜵	jjjb
 𥜶	jqqt
@@ -55178,7 +55176,7 @@ encoder:
 𥽟	qvwt
 𥽠	nnfe
 𥽡	kmqk
-𥽢	qaso
+𥽢	qsso
 𥽣	qcbi
 𥽤	gbqk
 𥽥	qceh
@@ -55200,7 +55198,7 @@ encoder:
 𥽵	qohl
 𥽶	qpdt
 𥽷	qpwj
-𥽸	qobo
+𥽸	qboo
 𥽹	pqla
 𥽺	quoe
 𥽻	qigh
@@ -55211,7 +55209,7 @@ encoder:
 𥾀	qpci
 𥾁	qujy
 𥾂	qclr
-𥾃	qobq
+𥾃	qboq
 𥾄	uwrq
 𥾅	ogis
 𥾆	oeei
@@ -55821,7 +55819,7 @@ encoder:
 𦇢	oddj
 𦇣	odrj
 𦇤	obff
-𦇥	obok
+𦇥	book
 𦇦	oorj
 𦇧	ouvm
 𦇨	aego
@@ -55839,7 +55837,7 @@ encoder:
 𦇴	oskh
 𦇵	unno
 𦇶	odro
-𦇷	obod
+𦇷	bood
 𦇸	opdt
 𦇹	okgo
 𦇺	omuf
@@ -55947,7 +55945,7 @@ encoder:
 𦉡	gfpn
 𦉢	jcll
 𦉣	cllj
-𦉤	assh
+𦉤	ssah
 𦉥	lloj
 𦉦	jjjj
 𦉧	uflj
@@ -57582,12 +57580,12 @@ encoder:
 𦣈	wgnh
 𦣉	tdub
 𦣊	sflw
-𦣋	wobo
+𦣋	wboo
 𦣌	wosa
 𦣍	wqio
 𦣎	wsfe
-𦣏	obow
-𦣐	wobo
+𦣏	boow
+𦣐	wboo
 𦣑	wsvm
 𦣒	wjjb
 𦣓	fqww
@@ -57598,7 +57596,7 @@ encoder:
 𦣘	wglg
 𦣙	wjag
 𦣚	sflr
-𦣛	wobr
+𦣛	wbor
 𦣜	wjjj
 𦣝	hee
 𦣞	hee
@@ -57824,7 +57822,7 @@ encoder:
 𦦺	odbl
 𦦻	dcfv
 𦦼	dqxx
-𦦽	obod
+𦦽	bood
 𦦾	odhh
 𦦿	jjcw
 𦧀	dssg
@@ -58133,7 +58131,7 @@ encoder:
 𦫯	mgxo
 𦫰	suxo
 𦫱	qvlo
-𦫲	oboo
+𦫲	booo
 𦫳	suso
 𦫴	syio
 𦫵	esoi
@@ -59470,7 +59468,7 @@ encoder:
 𧀪	snoi
 𧀫	sfxc
 𧀬	swan
-𧀭	saso
+𧀭	ssso
 𧀮	sntt
 𧀯	sigv
 𧀰	spau
@@ -59735,7 +59733,7 @@ encoder:
 𧄳	sjml
 𧄴	svvj
 𧄵	shlb
-𧄶	sobo
+𧄶	sboo
 𧄷	sdwd
 𧄸	sdcj
 𧄹	sbkk
@@ -59823,8 +59821,8 @@ encoder:
 𧆋	ssfi
 𧆌	saqf
 𧆍	stlj
-𧆎	sobr
-𧆏	sobj
+𧆎	sbor
+𧆏	sboj
 𧆐	skjj
 𧆑	scee
 𧆒	sikr
@@ -60855,9 +60853,9 @@ encoder:
 𧖓	flcq
 𧖔	idqq
 𧖕	dsnq
-𧖖	qobu
+𧖖	qbou
 𧖗	qalg
-𧖘	qobf
+𧖘	qbof
 𧖙	jnnq
 𧖚	glxq
 𧖛	hwhn
@@ -60868,10 +60866,10 @@ encoder:
 𧖠	pkfq
 𧖡	sgkq
 𧖢	pkfq
-𧖣	qobq
+𧖣	qboq
 𧖤	ajaq
 𧖥	dcfq
-𧖦	geoq
+𧖦	gebq
 𧖧	guad
 𧖨	guhk
 𧖩	gusl
@@ -61423,7 +61421,7 @@ encoder:
 𧟌	xuoe
 𧟍	xuni
 𧟎	xhwj
-𧟏	obog
+𧟏	boog
 𧟐	xfkq
 𧟑	xisw
 𧟒	xddm
@@ -61431,7 +61429,7 @@ encoder:
 𧟔	xajj
 𧟕	xvvf
 𧟖	xggf
-𧟗	xobg
+𧟗	xbog
 𧟘	xglg
 𧟙	xclr
 𧟚	xsfq
@@ -61614,7 +61612,7 @@ encoder:
 𧢋	vvrj
 𧢌	qiij
 𧢍	qukj
-𧢎	assj
+𧢎	ssaj
 𧢏	pvhj
 𧢐	qjqj
 𧢑	jdjr
@@ -61628,14 +61626,14 @@ encoder:
 𧢙	jbfu
 𧢚	sflj
 𧢛	jeje
-𧢜	assj
+𧢜	ssaj
 𧢝	vsvj
 𧢞	dwjj
 𧢟	pjjc
 𧢠	juet
 𧢡	jcfm
 𧢢	rcjj
-𧢣	assj
+𧢣	ssaj
 𧢤	jscw
 𧢥	cllj
 𧢦	dpbj
@@ -62380,7 +62378,7 @@ encoder:
 𧮉	bseh
 𧮊	bdby
 𧮋	bueu
-𧮌	oboo
+𧮌	booo
 𧮍	bdkj
 𧮎	bisb
 𧮏	bddn
@@ -64026,7 +64024,7 @@ encoder:
 𨇹	pakr
 𨇺	puuh
 𨇻	pmuf
-𨇼	pobo
+𨇼	pboo
 𨇽	puoe
 𨇾	pbii
 𨇿	pscq
@@ -64040,11 +64038,11 @@ encoder:
 𨈇	phgj
 𨈈	pvvj
 𨈉	psvt
-𨈊	pobb
+𨈊	pbob
 𨈋	pgrc
-𨈌	pobr
+𨈌	pbor
 𨈍	pjjb
-𨈎	pobd
+𨈎	pbod
 𨈏	datx
 𨈐	dfgp
 𨈑	dlax
@@ -64189,7 +64187,7 @@ encoder:
 𨊜	qhnm
 𨊝	qddp
 𨊞	qlll
-𨊟	oboq
+𨊟	booq
 𨊠	dajc
 𨊡	dadc
 𨊢	fjun
@@ -64532,8 +64530,8 @@ encoder:
 𨏳	duel
 𨏴	dlll
 𨏵	dubt
-𨏶	obod
-𨏷	dobo
+𨏶	bood
+𨏷	dboo
 𨏸	dalj
 𨏹	djjb
 𨏺	dkku
@@ -65503,8 +65501,8 @@ encoder:
 𨟁	suxp
 𨟂	svpf
 𨟃	cfmp
-𨟄	asso
-𨟅	assp
+𨟄	ssao
+𨟅	ssap
 𨟆	svvp
 𨟇	vjpf
 𨟈	cbpp
@@ -66643,10 +66641,10 @@ encoder:
 𨰷	tdcj
 𨰸	tbgf
 𨰹	thgt
-𨰺	tobt
+𨰺	tbot
 𨰻	tttt
-𨰼	tobt
-𨰽	tobd
+𨰼	tbot
+𨰽	tbod
 𨰾	obmj
 𨰿	ogyi
 𨱀	ofem
@@ -67088,7 +67086,7 @@ encoder:
 𨷸	dwbo
 𨷹	dtti
 𨷺	dxgm
-𨷻	dobo
+𨷻	dboo
 𨷼	dttt
 𨷽	dhgu
 𨷾	dddd
@@ -67702,7 +67700,7 @@ encoder:
 𩁟	mwge
 𩁠	jske
 𩁡	hfme
-𩁢	sfle
+𩁢	slhe
 𩁣	sfle
 𩁤	sfle
 𩁥	qoke
@@ -68621,7 +68619,7 @@ encoder:
 𩏶	qbei
 𩏷	qbei
 𩏸	qbei
-𩏹	obob
+𩏹	boob
 𩏺	bjjb
 𩏻	hfdb
 𩏼	aycr
@@ -68966,7 +68964,7 @@ encoder:
 𩕏	gqvj
 𩕐	oqjj
 𩕑	oqtj
-𩕒	assj
+𩕒	ssaj
 𩕓	xltj
 𩕔	qxaj
 𩕕	swwj
@@ -69235,7 +69233,7 @@ encoder:
 𩙜	biie
 𩙝	llle
 𩙞	ddse
-𩙟	oboe
+𩙟	booe
 𩙠	eexg
 𩙡	eeee
 𩙢	edqt
@@ -70105,7 +70103,7 @@ encoder:
 𩧂	wdna
 𩧃	wvsv
 𩧄	wddj
-𩧅	waso
+𩧅	wsso
 𩧆	wlwb
 𩧇	wswj
 𩧈	whuj
@@ -70354,7 +70352,7 @@ encoder:
 𩪻	rguk
 𩪼	rsle
 𩪽	rnnd
-𩪾	obor
+𩪾	boor
 𩪿	arkd
 𩫀	aeod
 𩫁	ammg
@@ -72255,7 +72253,7 @@ encoder:
 𪈫	djwq
 𪈬	qddn
 𪈭	shgd
-𪈮	obod
+𪈮	bood
 𪈯	nced
 𪈰	uoed
 𪈱	jjed
@@ -72270,9 +72268,9 @@ encoder:
 𪈺	bnud
 𪈻	asld
 𪈼	dddn
-𪈽	obod
+𪈽	bood
 𪈾	meed
-𪈿	obod
+𪈿	bood
 𪉀	vvvv
 𪉁	mxqn
 𪉂	inmn
@@ -72437,7 +72435,7 @@ encoder:
 𪋡	miqo
 𪋢	mtjm
 𪋣	mssr
-𪋤	assm
+𪋤	ssam
 𪋥	mjfv
 𪋦	mlll
 𪋧	mqji
@@ -72452,7 +72450,7 @@ encoder:
 𪋰	muhj
 𪋱	mdts
 𪋲	miia
-𪋳	mcfq
+𪋳	mcii
 𪋴	mefd
 𪋵	mbnn
 𪋶	mcll
@@ -72922,8 +72920,8 @@ encoder:
 𪓆	gjjo
 𪓇	ggjj
 𪓈	gsdk
-𪓉	gash
-𪓊	gajc
+𪓉	gssh
+𪓊	gjac
 𪓋	iukq
 𪓌	iukg
 𪓍	oxuk
@@ -74064,7 +74062,7 @@ encoder:
 𪥟	hmvo
 𪥠	ccco
 𪥡	pqto
-𪥢	ibio
+𪥢	biio
 𪥣	unow
 𪥤	jcnv
 𪥥	cgyi
@@ -74561,7 +74559,7 @@ encoder:
 𪭔	vwxk
 𪭕	nuek
 𪭖	egjk
-𪭗	obok
+𪭗	book
 𪭘	hhbo
 𪭙	hckl
 𪭚	huga
@@ -77195,7 +77193,7 @@ encoder:
 𫖷	savc
 𫖸	vdic
 𫖹	kjic
-𫖺	assc
+𫖺	ssac
 𫖻	knef
 𫖼	eifm
 𫖽	eicb
@@ -79058,7 +79056,7 @@ encoder:
 𫴢	ijeb
 𫴣	inxb
 𫴤	icdb
-𫴥	iobo
+𫴥	iboo
 𫴦	ijjv
 𫴧	ipuh
 𫴨	iaww
@@ -79185,7 +79183,7 @@ encoder:
 𫶣	ucxi
 𫶤	ubkk
 𫶥	usdq
-𫶦	uobt
+𫶦	ubot
 𫶧	wrr
 𫶨	rfal
 𫶩	lcrn
@@ -79483,7 +79481,7 @@ encoder:
 𫻏	rblk
 𫻐	pekb
 𫻑	rhlj
-𫻒	wlgr
+𫻒	wljr
 𫻓	abar
 𫻔	rjkk
 𫻕	unwr
@@ -80123,10 +80121,10 @@ encoder:
 𬅓	alvv
 𬅔	ajaa
 𬅕	axah
-𬅖	assa
+𬅖	ssaa
 𬅗	avge
 𬅘	acah
-𬅙	assp
+𬅙	ssap
 𬅚	agku
 𬅛	aafm
 𬅜	abuh
@@ -80153,7 +80151,7 @@ encoder:
 𬅱	gqvx
 𬅲	hklx
 𬅳	krlr
-𬅴	assx
+𬅴	ssax
 𬅵	dkux
 𬅶	cpik
 𬅷	mpid
@@ -80404,8 +80402,8 @@ encoder:
 𬉯	gegn
 𬉰	nkkm
 𬉱	xlnn
-𬉲	nobt
-𬉳	nobd
+𬉲	nbot
+𬉳	nbod
 𬉴	ihch
 𬉵	oibd
 𬉶	fhih
@@ -82014,8 +82012,8 @@ encoder:
 𬣔	bcbi
 𬣕	bask
 𬣖	bdfv
-𬣗	bobb
-𬣘	boba
+𬣗	bbob
+𬣘	bboa
 𬣚	dlvy
 𬣛	dgbo
 𬣜	dmmy
@@ -82594,7 +82592,7 @@ encoder:
 𬬣	txbe
 𬬤	tlll
 𬬥	tglg
-𬬦	tobr
+𬬦	tbor
 𬬧	ongj
 𬬨	ofhk
 𬬪	olvj
@@ -83478,7 +83476,7 @@ encoder:
 𬻚	padz
 𬻛	ghna
 𬻜	ffsf
-𬻝	gsff
+𬻝	gsir
 𬻞	kbka
 𬻟	fsfk
 𬻠	fllo
@@ -83609,7 +83607,7 @@ encoder:
 𬽝	ajjc
 𬽞	aado
 𬽟	aksj
-𬽠	aobb
+𬽠	abob
 𬽡	ykyk
 𬽢	eajr
 𬽣	eicr
@@ -84974,7 +84972,7 @@ encoder:
 𭒲	ijjc
 𭒳	cmnp
 𭒴	cjag
-𭒵	cobc
+𭒵	cboc
 𭒶	kadz
 𭒷	kwrz
 𭒸	knaz
@@ -85014,7 +85012,7 @@ encoder:
 𭓚	nxkb
 𭓛	kxlw
 𭓜	ukkv
-𭓝	obok
+𭓝	book
 𭓞	iusb
 𭓟	ihyb
 𭓠	iggi
@@ -85438,7 +85436,7 @@ encoder:
 𭚂	mkwn
 𭚃	mbej
 𭚄	mmmr
-𭚅	masc
+𭚅	mssc
 𭚆	mgpf
 𭚇	mmmv
 𭚈	movj
@@ -86582,7 +86580,7 @@ encoder:
 𭫺	aetp
 𭫻	asvj
 𭫼	aacc
-𭫽	assa
+𭫽	ssaa
 𭫾	afca
 𭫿	asra
 𭬀	jaja
@@ -86823,7 +86821,7 @@ encoder:
 𭯫	mlgt
 𭯬	ajjm
 𭯭	mvvh
-𭯮	obom
+𭯮	boom
 𭯯	madj
 𭯰	reox
 𭯱	qskf
@@ -88763,7 +88761,7 @@ encoder:
 𮍿	gjrl
 𮎀	lddh
 𮎁	hwxa
-𮎂	oboa
+𮎂	booa
 𮎃	uxej
 𮎄	uaka
 𮎅	ufna
@@ -89702,7 +89700,7 @@ encoder:
 𮜪	pkaj
 𮜫	pivp
 𮜬	pnbt
-𮜭	obop
+𮜭	boop
 𮜮	qoes
 𮜯	qvaj
 𮜰	qepg
@@ -91942,7 +91940,7 @@ encoder:
 𰐉	nnso
 𰐊	fxms
 𰐋	wlfs
-𰐌	asss
+𰐌	ssas
 𰐍	vkij
 𰐎	kjng
 𰐏	kxwh
@@ -92917,7 +92915,7 @@ encoder:
 𰟘	itxd
 𰟙	iuam
 𰟚	hqgi
-𰟛	assi
+𰟛	ssai
 𰟜	iphh
 𰟝	ssfi
 𰟞	hhhi
@@ -93715,7 +93713,7 @@ encoder:
 𰫶	eufo
 𰫷	ovjr
 𰫸	oihr
-𰫹	oboh
+𰫹	booh
 𰫺	oieo
 𰫻	sllo
 𰫼	kadj
@@ -95461,7 +95459,7 @@ encoder:
 𱇈	vkwu
 𱇉	vcll
 𱇊	vtqq
-𱇋	vobb
+𱇋	vbob
 𱇌	vsda
 𱇍	xeiv
 𱇎	xubv
@@ -95917,7 +95915,7 @@ encoder:
 𱎕	iheh
 𱎖	fbgg
 𱎗	kgki
-𱎘	fnsj
+𱎘	ansh
 𱎙	awil
 𱎚	rcpe
 𱎛	rhte
@@ -95992,7 +95990,7 @@ encoder:
 𱏠	eiqh
 𱏡	ephj
 𱏢	errr
-𱏣	eobq
+𱏣	eboq
 𱏤	gilw
 𱏥	mkxw
 𱏦	ilkl
@@ -96387,7 +96385,7 @@ encoder:
 𱕫	lakr
 𱕬	lbso
 𱕭	sflo
-𱕮	lasf
+𱕮	lssf
 𱕯	lodd
 𱕰	ltqy
 𱕱	ljlr
@@ -96563,7 +96561,7 @@ encoder:
 𱘛	hbii
 𱘜	sllh
 𱘝	hnse
-𱘞	hoba
+𱘞	hboa
 𱘟	hclr
 𱘠	hbag
 𱘡	hxff
@@ -97008,7 +97006,7 @@ encoder:
 𱟘	repk
 𱟙	xbrm
 𱟚	reeb
-𱟛	jobr
+𱟛	jbor
 𱟜	bxuk
 𱟝	gegk
 𱟞	pkvj
@@ -97131,7 +97129,7 @@ encoder:
 𱡓	fovv
 𱡔	fadj
 𱡕	fquv
-𱡖	foba
+𱡖	fboa
 𱡗	ofhb
 𱡘	fqtp
 𱡙	fkub
@@ -99513,7 +99511,7 @@ encoder:
 𲆡	loso
 𲆢	sukp
 𲆣	uhup
-𲆤	obop
+𲆤	boop
 𲆥	pfej
 𲆦	pxxy
 𲆧	pyir
@@ -100431,7 +100429,7 @@ encoder:
 欄	adaq
 爛	idaq
 蘭	sdaq
-鸞	obod
+鸞	bood
 嵐	uefs
 濫	nhgu
 藍	shgu
@@ -100541,7 +100539,7 @@ encoder:
 轢	ddna
 年	gakz
 憐	rqxa
-戀	obor
+戀	boor
 撚	fwhi
 漣	ndoc
 煉	iawq
@@ -100824,7 +100822,7 @@ encoder:
 諾	bsel
 諭	bkfm
 謹	bsfh
-變	obot
+變	boot
 贈	jkvj
 輸	dkfm
 遲	bnao
@@ -101315,7 +101313,7 @@ encoder:
 䛇	bwlv
 誠	bkyi
 諭	brfm
-變	obot
+變	boot
 豕	tss
 𧲨	mgnn
 貫	ejbm
@@ -102034,12 +102032,10 @@ encoder:
 望	twjw
 今	rkyi
 解	xsmp
-灣	nbob
 反	dboj
 将	qxhc
 管	gibb
 房	htfh
-變	boot
 總	odtr
 程	mljw
 廣	msdk
@@ -102076,6 +102072,7 @@ encoder:
 船	uelv
 毒	hems
 勢	hkhs
+圖	wlgl
 领	rkbc
 極	aklf
 窗	idtp
@@ -102138,11 +102135,10 @@ encoder:
 割	idlm
 賴	alxj
 触	xsqc
-彎	boob
 聰	ldtr
-戀	boor
 寺	hhct
 搶	frkl
+攀	assf
 郵	mspf
 怜	rrkb
 遥	ujoc
@@ -102179,6 +102175,7 @@ encoder:
 拐	flsl
 雇	hehh
 梭	ankt
+鬱	ajac
 贪	rkyc
 塌	hjvv
 熬	hwti
@@ -102225,10 +102222,10 @@ encoder:
 唾	lmso
 瘡	mrkl
 逞	ljoc
+樊	asso
 锤	omso
 贩	cdbo
 菱	shkt
-蠻	booq
 簧	gsdk
 扳	fdbo
 芦	shho
@@ -102274,7 +102271,6 @@ encoder:
 庐	mhhg
 螯	hwtq
 戾	hhqh
-巒	boou
 悽	rgbc
 癥	mcfj
 饅	kjub
@@ -102303,7 +102299,6 @@ encoder:
 陲	pmso
 柢	akxk
 搧	fhvv
-攣	boof
 贅	hwtj
 駿	wnkt
 櫚	adll
@@ -102335,7 +102330,6 @@ encoder:
 塭	hjum
 蜈	qlfo
 嗶	ljsa
-鑾	boot
 閭	dllv
 鯰	vrkr
 黔	grky
@@ -102372,7 +102366,6 @@ encoder:
 皈	ddbo
 蹉	pqpg
 衿	xrky
-孿	book
 燁	isns
 綰	oibb
 綾	ohkt
@@ -102381,7 +102374,6 @@ encoder:
 諍	bxby
 錚	txby
 饈	kqbc
-鸞	bood
 祗	jkxk
 唳	lhhq
 犟	blqp
@@ -102398,6 +102390,7 @@ encoder:
 殛	fxkf
 坂	hdbo
 歟	dhjx
+礬	assv
 綹	otul
 訥	bcre
 詆	bkxk
@@ -102464,14 +102457,10 @@ encoder:
 剷	kgpm
 曄	jsns
 檉	allj
-欒	booa
 歔	uixq
 淩	nhkt
-灤	nboa
 牴	pkxk
-癵	mbor
 縵	ojub
-臠	boor
 菧	smkk
 觝	xskk
 鄺	msdp
@@ -102534,6 +102523,7 @@ encoder:
 祓	jebk
 廛	mvkh
 焌	inkt
+襻	xasf
 钣	odbo
 觖	xsbr
 骶	rkxk
@@ -102652,7 +102642,6 @@ encoder:
 勥	blqs
 匓	wbne
 匔	wqll
-卛	boog
 厎	vkxk
 厜	vmso
 厫	vhwt
@@ -102686,8 +102675,6 @@ encoder:
 嚽	lhwj
 囶	wkht
 圀	wktf
-圝	wboo
-圞	wboa
 坅	hrky
 坴	hkht
 坺	hebk
@@ -102703,11 +102690,9 @@ encoder:
 墴	hsdk
 墷	hsns
 墺	hdqo
-壪	hbob
 夋	nktp
 夌	hktp
 奃	okxk
-奱	booo
 妠	ccre
 妭	cebk
 姉	cfuj
@@ -102725,7 +102710,6 @@ encoder:
 嫯	hwtc
 嫹	csdk
 嬅	csns
-孌	booc
 宂	iejb
 寪	iugw
 尐	ikdv
@@ -102831,7 +102815,6 @@ encoder:
 暬	hkhj
 曂	jsdk
 曅	jsns
-曫	booj
 曺	fdjr
 朎	wrkb
 朘	wnkt
@@ -102842,6 +102825,7 @@ encoder:
 柭	aebk
 梒	arkl
 棙	ahhq
+棥	assa
 棦	axby
 棯	arkr
 椂	abns
@@ -102863,6 +102847,8 @@ encoder:
 櫷	aggm
 櫾	aujo
 櫿	aiil
+欎	assh
+欝	assh
 欦	rkyx
 殟	fxju
 毺	mrfm
@@ -102898,7 +102884,7 @@ encoder:
 瀗	nidr
 瀩	nmej
 瀯	niil
-灓	boon
+灪	najc
 炍	idbo
 炦	iebk
 炩	irkb
@@ -102919,7 +102905,9 @@ encoder:
 熶	ijlb
 熿	isdk
 燅	hkhi
+燓	assi
 爗	ijss
+爩	iajc
 牄	drkl
 牐	dmdi
 牑	dhce
@@ -102954,7 +102942,6 @@ encoder:
 痯	mibb
 瘝	muns
 癓	mcfe
-癴	mbof
 皊	drkb
 皣	dsns
 皶	ajfb
@@ -102968,7 +102955,6 @@ encoder:
 睩	jbns
 瞱	jsns
 矀	jcfe
-矕	booj
 矙	jdyt
 砛	vrky
 砨	vhyi
@@ -103033,9 +103019,7 @@ encoder:
 縪	ojsa
 繓	ojlb
 繲	oxsp
-纞	obor
 罼	ujsa
-羉	uboo
 羋	suak
 羗	qena
 耹	lrky
@@ -103085,7 +103069,6 @@ encoder:
 蘰	sojb
 蘳	ssdh
 蘷	sfpt
-虊	sboa
 虡	uika
 蚙	qrky
 蚳	qkxk
@@ -103106,6 +103089,7 @@ encoder:
 蟕	qpns
 蟡	qugw
 蠏	qxsp
+蠜	assq
 衑	crki
 袊	xrkb
 袚	xebk
@@ -103237,8 +103221,10 @@ encoder:
 鏝	tjub
 鏵	tsns
 鐄	tsdk
+鐢	asst
 鐪	tuvs
 鐭	tdqo
+鑻	tasf
 閝	drkb
 閷	sadr
 闒	djvv
@@ -103297,6 +103283,7 @@ encoder:
 鬫	dylt
 鬬	dkbd
 鬮	dggm
+鬰	assc
 魓	djsa
 魖	duie
 魬	vdbo
@@ -103363,7 +103350,6 @@ encoder:
 龣	rcbn
 㘎	ltyt
 㘚	ldyt
-䜌	boos
 䥇	thvv
 䦂	ohvv
 蘒	smgg
@@ -103418,7 +103404,6 @@ encoder:
 㖫	lhkt
 㗗	lsdg
 㘖	lkgj
-㘘	bool
 㘥	wujo
 㘨	hcre
 㙂	hqlw
@@ -103437,8 +103422,6 @@ encoder:
 㜟	cylt
 㜩	cdqo
 㜫	ccfe
-㜻	cbor
-㝈	book
 㝬	idlo
 㝹	igxk
 㞀	feih
@@ -103455,9 +103438,9 @@ encoder:
 㠏	usns
 㠗	udqo
 㠞	cfju
+㠨	uash
 㠯	bbos
 㡌	uciw
-㡩	boou
 㡵	mrkb
 㡼	mdgp
 㢎	mmdi
@@ -103501,7 +103484,6 @@ encoder:
 㪢	dubb
 㪤	jsat
 㪬	vveb
-㪻	boog
 㫄	awtf
 㫝	jkxk
 㫟	jelv
@@ -103526,7 +103508,6 @@ encoder:
 㰘	aeqs
 㰶	tulx
 㱃	rkyx
-㱍	boox
 㱎	unvx
 㲅	idle
 㲐	mrky
@@ -103572,7 +103553,6 @@ encoder:
 㼔	juug
 㼨	rkyr
 㼮	gbcr
-㽋	boor
 㽧	vqnn
 㽨	vqpg
 㽹	mdbo
@@ -103590,7 +103570,6 @@ encoder:
 䁉	hkjm
 䁘	jujf
 䁟	jqpg
-䂅	jboq
 䂱	vqlw
 䂼	vrkr
 䃀	vgbc
@@ -103666,16 +103645,16 @@ encoder:
 䕝	smuh
 䕡	sdll
 䕭	shki
-䖂	sbof
+䖇	sajc
 䖹	qsng
 䗀	qhkt
 䗆	qibb
 䘆	qidr
-䘎	qbob
 䘠	xesi
 䘵	xbns
 䘾	xibb
 䙄	xmdi
+䙪	assg
 䚄	bnjj
 䚗	xskn
 䚘	cxsi
@@ -103777,6 +103756,7 @@ encoder:
 䫄	qlwj
 䫈	urkj
 䫨	hwtj
+䫶	assj
 䬇	qlwe
 䬈	eqlw
 䬋	ehkt
@@ -103914,7 +103894,6 @@ encoder:
 𠗕	inkt
 𠗭	ixyh
 𠘀	jkli
-𠙳	booe
 𠛮	rjmd
 𠜑	qlwm
 𠜛	cklm
@@ -103936,7 +103915,6 @@ encoder:
 𠟽	sidm
 𠠈	srkm
 𠠎	msdm
-𠠪	boom
 𠠻	dbsl
 𠡭	hkts
 𠢆	idls
@@ -103945,7 +103923,6 @@ encoder:
 𠢲	xsms
 𠢹	msds
 𠢽	sjss
-𠣈	boos
 𠣟	wnkt
 𠣽	wylt
 𠤮	hrky
@@ -103960,7 +103937,6 @@ encoder:
 𠨆	uckr
 𠨈	uckr
 𠨙	kyha
-𠨫	book
 𠨹	vdbo
 𠩄	vqxy
 𠩞	vhkz
@@ -103985,8 +103961,6 @@ encoder:
 𠭠	xcgb
 𠭤	lddb
 𠭻	quww
-𠮓	boob
-𠮖	booe
 𠮲	lfhk
 𠯖	lhhv
 𠯘	ldbo
@@ -104039,19 +104013,18 @@ encoder:
 𡁁	lidb
 𡁍	lidx
 𡂞	lhkn
+𡃎	laso
 𡃧	luix
 𡄊	lbnu
 𡅐	srkl
 𡅟	awul
-𡆕	lbor
-𡆝	lbor
+𡆋	lash
 𡆡	wkdw
 𡆧	wivw
 𡆶	wffo
 𡇑	wbbo
 𡇕	wkfx
 𡇣	wkjg
-𡈻	wbor
 𡊂	kmht
 𡊃	dbht
 𡊊	hbbo
@@ -104086,6 +104059,7 @@ encoder:
 𡐗	hxsg
 𡐫	hlrk
 𡐱	msqs
+𡑀	assh
 𡑈	msdd
 𡑒	hylt
 𡑕	hcga
@@ -104095,7 +104069,6 @@ encoder:
 𡒖	nbnh
 𡒺	hghc
 𡓲	hdjv
-𡔖	hbot
 𡕩	dskt
 𡕫	xcst
 𡕬	nkte
@@ -104132,6 +104105,7 @@ encoder:
 𡠦	hkhc
 𡡔	cjlb
 𡡰	couf
+𡡴	assc
 𡡽	crcu
 𡢂	hkhc
 𡢕	dpec
@@ -104145,10 +104119,6 @@ encoder:
 𡣞	clbi
 𡣤	crkg
 𡤇	cuce
-𡤣	cboo
-𡤨	booc
-𡤶	cbob
-𡤻	cbod
 𡦈	rkbu
 𡦌	klqj
 𡨍	ierw
@@ -104168,6 +104138,7 @@ encoder:
 𡮧	wkci
 𡮻	hgug
 𡮼	hgug
+𡯀	ajai
 𡯘	fdbo
 𡰃	fujf
 𡰐	uifo
@@ -104218,7 +104189,7 @@ encoder:
 𡾟	uuik
 𡾢	uidr
 𡿑	uxsa
-𡿞	ubob
+𡿥	uajc
 𡿸	lfwr
 𢀁	ldbk
 𢀘	pkag
@@ -104265,11 +104236,9 @@ encoder:
 𢌁	mufi
 𢌉	mfdt
 𢌊	msds
-𢌕	mbow
 𢌥	ljgy
 𢌻	hkso
 𢍀	bbso
-𢍶	boos
 𢏈	bbbo
 𢏗	fsbg
 𢏤	bnkt
@@ -104286,6 +104255,7 @@ encoder:
 𢑸	albu
 𢑾	bnjn
 𢒘	qecp
+𢒻	assc
 𢓇	ccre
 𢓉	cdbo
 𢓭	cnkt
@@ -104335,6 +104305,7 @@ encoder:
 𢟯	hkhr
 𢠚	ekfr
 𢡃	kllr
+𢡟	assr
 𢢇	rjlb
 𢢛	ruvs
 𢢣	xsmr
@@ -104345,8 +104316,6 @@ encoder:
 𢤢	rhki
 𢤿	alxr
 𢥏	riil
-𢦈	rboq
-𢦋	jdbr
 𢦟	krky
 𢦨	ksyg
 𢦫	sukg
@@ -104440,18 +104409,16 @@ encoder:
 𢷗	flbi
 𢷸	fcfj
 𢷽	fbna
+𢸅	faso
 𢸧	hkhf
 𢸱	fhki
 𢸶	fjlb
 𢸻	fijb
 𢹇	fvhi
 𢹞	fhug
-𢺈	fboo
-𢺥	fbob
+𢺏	fasf
 𢺭	fljr
-𢺯	fbob
-𢺲	fbos
-𢺳	fboq
+𢺴	fajc
 𢺾	kxkb
 𢻁	xckb
 𢻄	hwgb
@@ -104484,7 +104451,6 @@ encoder:
 𣀁	xvkb
 𣀅	iqut
 𣀣	kflb
-𣀵	boob
 𣁗	ueit
 𣁜	jubt
 𣁞	hkht
@@ -104555,10 +104521,12 @@ encoder:
 𣚠	aiqk
 𣚩	hlja
 𣚪	atgp
+𣛍	asse
 𣛩	agrj
 𣝋	auno
 𣝑	dhja
 𣝛	auik
+𣝴	assa
 𣝽	ahyt
 𣞭	axwt
 𣞯	aguf
@@ -104566,8 +104534,12 @@ encoder:
 𣟦	snsa
 𣟴	ahug
 𣟾	ujga
-𣡩	abob
-𣡵	aboa
+𣠈	assh
+𣠧	aasf
+𣠫	assp
+𣡄	aasf
+𣡇	assh
+𣡜	assk
 𣢛	hyxq
 𣢝	rkbx
 𣢬	vrkx
@@ -104591,7 +104563,6 @@ encoder:
 𣦄	pkie
 𣦈	phjr
 𣦋	pkiw
-𣦱	boop
 𣧍	fxcr
 𣧖	fxik
 𣨍	fxxs
@@ -104621,7 +104592,6 @@ encoder:
 𣯴	mjsa
 𣰒	mcfe
 𣰡	wkcm
-𣱂	boom
 𣱊	jwkk
 𣱋	kxkn
 𣱎	kxkw
@@ -104670,10 +104640,8 @@ encoder:
 𤃄	mein
 𤄓	nsli
 𤅆	ndaj
-𤅇	nboo
 𤅌	ndde
 𤅳	nkls
-𤅶	nbot
 𤆏	ifhk
 𤇡	kxki
 𤈩	qihy
@@ -104699,8 +104667,8 @@ encoder:
 𤒹	ivss
 𤒻	idjv
 𤒼	msdi
-𤓖	booi
-𤓩	ibot
+𤓭	iash
+𤓮	ajai
 𤓶	uxbo
 𤔑	ullv
 𤔗	wkhu
@@ -104708,6 +104676,7 @@ encoder:
 𤔫	ujub
 𤕁	ujub
 𤕆	ujlo
+𤕩	asse
 𤕪	bbos
 𤕳	debk
 𤕵	drkb
@@ -104778,7 +104747,6 @@ encoder:
 𤩛	jjlb
 𤪐	dhjk
 𤫎	jiil
-𤫜	book
 𤫲	rkbu
 𤫴	jugi
 𤬊	uhce
@@ -104841,8 +104809,6 @@ encoder:
 𤼂	midr
 𤼉	mylr
 𤼑	mirg
-𤼙	mboo
-𤼣	mbor
 𤽛	dcci
 𤽧	dsfi
 𤽭	dnkt
@@ -104863,7 +104829,6 @@ encoder:
 𥀞	qbbp
 𥀦	jwrb
 𥀱	msdb
-𥀺	boob
 𥁄	fhum
 𥁌	rkyu
 𥁡	nfhu
@@ -104897,8 +104862,8 @@ encoder:
 𥊴	jjlb
 𥊽	unqg
 𥋪	cfej
+𥌞	jaso
 𥌷	jidr
-𥍚	jbot
 𥍲	kgar
 𥎅	kgun
 𥎕	kgck
@@ -104928,8 +104893,10 @@ encoder:
 𥕸	vjlb
 𥕼	vrkp
 𥕾	vsuk
+𥖎	assv
+𥖯	assv
 𥗞	viil
-𥘂	vbot
+𥘄	vajc
 𥘞	jrky
 𥘰	jbbo
 𥙤	jkox
@@ -104940,6 +104907,7 @@ encoder:
 𥛘	jjsa
 𥛳	juie
 𥛵	jsns
+𥜳	jasf
 𥞐	mbbo
 𥞲	mlsm
 𥟑	mvug
@@ -105035,9 +105003,8 @@ encoder:
 𥼲	qylt
 𥼹	qdpe
 𥽂	dpeq
+𥽢	qaso
 𥽱	dqkp
-𥽸	qboo
-𥾃	qboq
 𥾩	dbos
 𥾭	odek
 𥾵	odbo
@@ -105068,13 +105035,12 @@ encoder:
 𦆜	olbi
 𦆺	orkj
 𦇚	eqso
-𦇥	book
-𦇷	bood
 𦈖	kjvv
 𦈛	kjlb
 𦈣	jfhk
 𦈼	msjf
 𦉔	ujlo
+𦉤	assh
 𦉪	cgei
 𦉿	ckie
 𦊃	urky
@@ -105180,10 +105146,6 @@ encoder:
 𦢌	whuj
 𦢳	hwug
 𦢽	idlr
-𦣋	wboo
-𦣏	boow
-𦣐	wboo
-𦣛	wbor
 𦤇	qdbo
 𦤨	qhju
 𦥆	dbdz
@@ -105203,7 +105165,6 @@ encoder:
 𦦱	odmd
 𦦳	dhjw
 𦦸	dhjc
-𦦽	bood
 𦧈	lrky
 𦧎	rkyl
 𦧭	ljvv
@@ -105217,7 +105178,6 @@ encoder:
 𦪱	hgbu
 𦫝	nkto
 𦫣	awto
-𦫲	booo
 𦬧	wwso
 𦬼	sxiv
 𦬽	sbam
@@ -105283,6 +105243,7 @@ encoder:
 𦿱	skuf
 𦿳	shkh
 𦿻	strj
+𧀭	saso
 𧀲	sdqw
 𧀼	swbk
 𧀾	scqg
@@ -105301,13 +105262,10 @@ encoder:
 𧄘	skte
 𧄧	sbju
 𧄱	sdjv
-𧄶	sboo
 𧅅	sjug
 𧅓	siql
 𧅩	shkf
 𧆈	sktj
-𧆎	sbor
-𧆏	sboj
 𧆜	ufhk
 𧆪	ufkh
 𧆺	rkbu
@@ -105356,10 +105314,6 @@ encoder:
 𧔸	qbbl
 𧔽	qdfu
 𧕍	qiil
-𧖖	qbou
-𧖘	qbof
-𧖣	qboq
-𧖦	gebq
 𧖸	wkcu
 𧗐	guyt
 𧗾	cxsi
@@ -105383,8 +105337,6 @@ encoder:
 𧞊	xxsp
 𧞰	xkjr
 𧟎	xhkj
-𧟏	boog
-𧟗	xbog
 𧟲	pffa
 𧟿	pckm
 𧠁	psns
@@ -105395,10 +105347,13 @@ encoder:
 𧡌	hwjj
 𧡤	hcjj
 𧡷	jujf
+𧢎	assj
 𧢒	cfej
 𧢓	cfej
+𧢜	assj
 𧢞	hwjj
 𧢡	jcfj
+𧢣	assj
 𧢤	jsce
 𧢲	xwrr
 𧢳	xsei
@@ -105598,7 +105553,6 @@ encoder:
 𧭅	bhwj
 𧭍	blbi
 𧭚	bbqw
-𧮌	booo
 𧮑	bdjv
 𧯭	wfls
 𧰆	flqa
@@ -105671,10 +105625,6 @@ encoder:
 𨅺	pylt
 𨆩	phco
 𨇧	pdmd
-𨇼	pboo
-𨈊	pbob
-𨈌	pbor
-𨈎	pbod
 𨈩	qebk
 𨉋	qqlw
 𨉑	qljw
@@ -105684,7 +105634,6 @@ encoder:
 𨉶	qqpg
 𨉼	qfkr
 𨊇	qsdk
-𨊟	booq
 𨋛	drsl
 𨋠	diej
 𨌅	qdcy
@@ -105703,8 +105652,6 @@ encoder:
 𨎞	dhwt
 𨎩	dsdk
 𨏥	didr
-𨏶	bood
-𨏷	dboo
 𨐊	xidr
 𨐙	hlkx
 𨐝	ibbk
@@ -105755,6 +105702,8 @@ encoder:
 𨞖	crkp
 𨞼	sjup
 𨟃	cfjp
+𨟄	asso
+𨟅	assp
 𨟗	sugp
 𨟹	prky
 𨠎	prkb
@@ -105807,9 +105756,6 @@ encoder:
 𨯶	tidr
 𨰎	tdgk
 𨰏	tdjv
-𨰺	tbot
-𨰼	tbot
-𨰽	tbod
 𨱋	ohkt
 𨱑	osdk
 𨱕	oxsp
@@ -105837,7 +105783,6 @@ encoder:
 𨷱	dujo
 𨷶	dhjd
 𨷺	dggm
-𨷻	dboo
 𨹑	prjw
 𨹖	phnb
 𨹷	pgbc
@@ -105916,7 +105861,6 @@ encoder:
 𩏓	idlb
 𩏣	uibw
 𩏧	snsb
-𩏹	boob
 𩏻	hdbw
 𩐁	fxuf
 𩐂	bbuf
@@ -105944,6 +105888,7 @@ encoder:
 𩔓	mdvj
 𩔝	rkyj
 𩕀	hwtj
+𩕒	assj
 𩕜	hkhj
 𩕝	kgcj
 𩕹	srkj
@@ -105959,7 +105904,6 @@ encoder:
 𩘮	hwte
 𩙁	sdke
 𩙉	ecfe
-𩙟	booe
 𩙠	eegg
 𩙳	rkby
 𩚕	krky
@@ -106012,6 +105956,7 @@ encoder:
 𩦸	wqvk
 𩦻	rela
 𩧀	wkoj
+𩧅	waso
 𩧣	wtla
 𩧴	brjw
 𩨌	bjvv
@@ -106027,7 +105972,6 @@ encoder:
 𩪋	hwtr
 𩪕	rhwt
 𩪖	rjsa
-𩪾	boor
 𩫭	alwj
 𩬀	ucre
 𩬔	urkb
@@ -106113,9 +106057,6 @@ encoder:
 𪇵	msdd
 𪈎	alxd
 𪈐	alxd
-𪈮	bood
-𪈽	bood
-𪈿	bood
 𪉑	hwtm
 𪉤	quly
 𪉬	qeul
@@ -106130,6 +106071,7 @@ encoder:
 𪋈	mbxi
 𪋑	mhjr
 𪋜	mjsa
+𪋤	assm
 𪌅	atcr
 𪌆	atdb
 𪌛	htbb
@@ -106193,6 +106135,8 @@ encoder:
 𪑿	gqnn
 𪒙	gjlb
 𪒠	gylt
+𪓉	gash
+𪓊	gajc
 𪓋	iquq
 𪓌	iqug
 𪓐	iquj
@@ -106326,7 +106270,6 @@ encoder:
 𪬮	rllj
 𪬰	rpns
 𪬿	hcjr
-𪭗	book
 𪭙	hcrl
 𪯺	trkr
 𪰻	jrkl
@@ -106397,6 +106340,7 @@ encoder:
 𫖛	kjss
 𫖡	hxej
 𫖶	hwvc
+𫖺	assc
 𫗐	krjw
 𫗛	kidm
 𫘋	whcj
@@ -106455,13 +106399,11 @@ encoder:
 𫳶	idla
 𫴓	idll
 𫴙	idlo
-𫴥	iboo
 𫵌	imso
 𫵰	wbbl
 𫶔	yltu
 𫶝	uvyt
 𫶠	uhcj
-𫶦	ubot
 𫷰	madb
 𫸊	msdw
 𫸋	msdu
@@ -106479,6 +106421,7 @@ encoder:
 𫺐	rkyr
 𫺡	jrkr
 𫺣	ruei
+𫻒	wlgr
 𫻛	rhcj
 𫼹	frkl
 𫽄	fklf
@@ -106500,10 +106443,11 @@ encoder:
 𬃐	ahig
 𬄌	asxs
 𬄞	fhhj
+𬅖	assa
+𬅙	assp
+𬅴	assx
 𬇉	kxkm
 𬉊	nllj
-𬉲	nbot
-𬉳	nbod
 𬋐	mdxi
 𬌒	qxhj
 𬌨	pxsi
@@ -106555,8 +106499,6 @@ encoder:
 𬢬	bvkk
 𬣁	bidl
 𬣏	dxsb
-𬣗	bbob
-𬣘	bboa
 𬤅	dklf
 𬤌	dmdi
 𬤕	djvv
@@ -106576,7 +106518,6 @@ encoder:
 𬫗	tsbk
 𬫡	tklf
 𬬢	tbbu
-𬬦	tbor
 𬭜	ohhq
 𬭪	oidl
 𬮞	trky
@@ -106609,7 +106550,6 @@ encoder:
 𬚢	dnhl
 𬶨	dnhx
 𬼓	msuc
-𬽠	abob
 𬾂	rkbj
 𬾻	eaej
 𭀴	ilae
@@ -106647,8 +106587,6 @@ encoder:
 𭒙	crkg
 𭒡	cqbi
 𭒧	ccfj
-𭒵	cboc
-𭓝	book
 𭓲	ixsy
 𭔛	idlp
 𭔠	idlp
@@ -106667,6 +106605,7 @@ encoder:
 𭙣	mmso
 𭙬	mqen
 𭙭	mqpg
+𭚅	masc
 𭚍	mhwj
 𭚢	hktk
 𭛲	cjdb
@@ -106703,13 +106642,13 @@ encoder:
 𭩔	twju
 𭩕	twjj
 𭪾	aufi
+𭫽	assa
 𭬛	aklq
 𭭦	phcj
 𭯀	saef
 𭯂	saea
 𭯚	mnkt
 𭯛	hktm
-𭯮	boom
 𭯱	qskk
 𭲕	nhct
 𭲗	nhko
@@ -106768,7 +106707,6 @@ encoder:
 𮍓	hjvv
 𮍡	ddbo
 𮍶	lrkb
-𮎂	booa
 𮎏	uljw
 𮎝	xoae
 𮎺	sljw
@@ -106814,7 +106752,6 @@ encoder:
 𮛼	ptuj
 𮛽	paej
 𮜡	phwi
-𮜭	boop
 𮜹	qrkl
 𮝽	kjub
 𮞊	rkbo
@@ -106882,6 +106819,7 @@ encoder:
 𰎭	uaej
 𰎾	ucfj
 𰏎	qpxy
+𰐌	asss
 𰐏	kxsy
 𰐛	bqek
 𰐢	hkhb
@@ -106912,6 +106850,7 @@ encoder:
 𰝧	nbna
 𰝩	nmqi
 𰞵	iidb
+𰟛	assi
 𰟪	ilbi
 𰠔	dljw
 𰠟	dhcj
@@ -106938,7 +106877,6 @@ encoder:
 𰪢	gohc
 𰫯	oaej
 𰫸	oidr
-𰫹	booh
 𰬢	kgbc
 𰬽	kxsp
 𰮯	whtf
@@ -107001,7 +106939,6 @@ encoder:
 𱅦	bsdk
 𱅻	afjf
 𱆝	htdg
-𱇋	vbob
 𱇖	xdbo
 𱇳	xnkt
 𱇶	xhkh
@@ -107033,7 +106970,6 @@ encoder:
 𱎙	aeil
 𱏗	rkbb
 𱏜	eggm
-𱏣	eboq
 𱐡	qpmd
 𱐣	xufm
 𱐤	snsm
@@ -107047,6 +106983,7 @@ encoder:
 𱔶	lakf
 𱔾	ljms
 𱔿	lxsq
+𱕮	lasf
 𱕱	lylr
 𱖄	whce
 𱖘	htub
@@ -107055,7 +106992,6 @@ encoder:
 𱗼	msjs
 𱘆	hxsp
 𱘈	nidh
-𱘞	hboa
 𱘣	trkb
 𱙲	ufic
 𱙳	gbcn
@@ -107074,7 +107010,6 @@ encoder:
 𱞵	xyrf
 𱟂	riig
 𱟄	rbcr
-𱟛	jbor
 𱟝	gsok
 𱟢	htle
 𱟣	hcrg
@@ -107084,7 +107019,6 @@ encoder:
 𱠒	fhtf
 𱠜	faej
 𱠴	figk
-𱡖	fboa
 𱡛	hkht
 𱡝	jrkt
 𱡩	ljdj
@@ -107148,7 +107082,6 @@ encoder:
 𲂱	jhtf
 𲄫	qrkg
 𲄾	dlbi
-𲆤	boop
 𲇘	tsch
 𲇤	tjlb
 𲈁	ohkh
@@ -107181,7 +107114,6 @@ encoder:
 ⿋	iquk
 龜	ggmp
 龜	ggmp
-鸞	bood
 冷	irkb
 擄	fuvs
 虜	uvsl
@@ -107195,7 +107127,6 @@ encoder:
 殺	saes
 亮	aejg
 閭	dllv
-戀	boor
 念	rkyr
 捻	frkr
 令	rkbo
@@ -107227,7 +107158,6 @@ encoder:
 猪	hhjr
 瘟	mjum
 華	snso
-變	boot
 韛	bsgs
 龜	ggmp
 慨	rdnw
@@ -107296,7 +107226,6 @@ encoder:
 裞	xqlw
 䘵	xbns
 䛇	belv
-變	boot
 起	hoiz
 跋	pebk
 𨗭	duko
@@ -107345,6 +107274,7 @@ encoder:
 自	qi
 小	iv
 女	cn
+又	bo
 長	uc
 立	kl
 合	rh
@@ -107367,7 +107297,6 @@ encoder:
 食	ks
 车	xj
 电	dd
-巴	ob
 止	pi
 飛	yf
 毛	mm
@@ -107487,6 +107416,7 @@ encoder:
 辶	oc
 钅	oj
 阝	pf
+饣	xs
 丂	hk
 丷	qk
 乀	kd
@@ -118638,6 +118568,7 @@ encoder:
 滑	nrg
 陣	pdc
 飲	kxq
+池	noe
 痕	mgg
 啡	luf
 盒	rum
@@ -118909,7 +118840,7 @@ encoder:
 人生	reps
 經常	ofiu
 回來	wlal
-臺灣	hlno
+臺灣	hlnb
 設計	bebg
 歡迎	slka
 緊張	hbbu
@@ -119046,7 +118977,7 @@ encoder:
 經驗	ofwr
 意見	kjjj
 只要	lkpc
-變化	oben
+變化	boen
 你們	exed
 家庭	itmm
 介紹	rkom
@@ -119070,7 +119001,7 @@ encoder:
 責任	hjem
 知識	jlbk
 行動	cimv
-改變	otob
+改變	otbo
 那樣	yaaq
 除了	prke
 終於	ottr
@@ -119168,7 +119099,7 @@ encoder:
 命運	raxd
 裡面	xvsm
 壓力	vjsl
-轉變	ddob
+轉變	ddbo
 表達	hghq
 限制	pgpc
 貿易	kjjw
@@ -119293,7 +119224,7 @@ encoder:
 口袋	lvek
 姓名	cpxl
 影子	jakz
-戀愛	obux
+戀愛	boux
 罷了	unke
 何必	earg
 反正	vbfp
@@ -120683,7 +120614,7 @@ encoder:
 發芽	bbsh
 肥皂	wodx
 斷斷續續	nnoo
-變態	obnw
+變態	bonw
 爭先恐後	uppc
 外套	xuou
 怒火	cbih
@@ -120709,7 +120640,7 @@ encoder:
 肝膽相照	wwaj
 出類拔萃	wqfs
 川流不息	lngq
-瞬息萬變	jqso
+瞬息萬變	jqsb
 皇上	djjv
 首屈一指	qbff
 愛不釋手	uggf
@@ -121290,7 +121221,7 @@ encoder:
 秋天	mifo
 人性	rerp
 傍晚	eajx
-變動	obmv
+變動	bomv
 駕駛	slwl
 中期	luuw
 念頭	rffl
@@ -121608,7 +121539,7 @@ encoder:
 胡說	jwbk
 發抖	bbfi
 定律	ifcb
-變換	obfx
+變換	bofx
 通貨膨脹	beww
 自尊	qiqp
 懷孕	ragk
@@ -121664,7 +121595,7 @@ encoder:
 好感	ckkf
 女郎	cnkb
 昏迷	kxqo
-彎曲	obcs
+彎曲	bocs
 滅絕	nkom
 救命	fnra
 判定	qaif
@@ -121736,7 +121667,7 @@ encoder:
 微不足道	cgpq
 金剛	tjcq
 暖流	juna
-一成不變	fkgo
+一成不變	fkgb
 撥亂反正	fuvf
 寄生蟲	ipqq
 肉眼	crjg
@@ -121883,7 +121814,7 @@ encoder:
 受到	uxdm
 以上	ekjv
 一下	fijx
-變成	obky
+變成	boky
 小時	ivjh
 指出	fnww
 抓住	fuek
@@ -122087,7 +122018,7 @@ encoder:
 決賽	nbis
 註冊	bkce
 降水	ptns
-變革	obsg
+變革	bosg
 越南	hkgc
 品質	lldd
 借鑑	esth
@@ -122658,7 +122589,7 @@ encoder:
 閣下	dtjx
 花生	seps
 卓有成效	ueka
-攀登	asbf
+攀登	ssbf
 體重	rcmv
 連夜	doae
 住處	ekut
@@ -122699,7 +122630,7 @@ encoder:
 出頭	wwfl
 得力	cjsl
 壞事	hahl
-變形	obfs
+變形	bofs
 停頓	eaxw
 單調	llbw
 流浪	nank
@@ -122884,7 +122815,7 @@ encoder:
 因果	woja
 和睦	mljh
 等同	ghcf
-突變	ihob
+突變	ihbo
 復活	cgnl
 勇士	bshs
 白菜	dbsu
@@ -122910,7 +122841,7 @@ encoder:
 冰涼	inna
 代謝	ekbq
 參看	nnfj
-留戀	kvob
+留戀	kvbo
 照相機	jaan
 丘陵	dfph
 警覺	swds
@@ -122928,7 +122859,7 @@ encoder:
 白紙	dbok
 烈日	fxjr
 耳光	leil
-應變	meob
+應變	mebo
 床頭	mafl
 不知所措	gjdf
 再接再厲	jfjv
@@ -123015,7 +122946,7 @@ encoder:
 發呆	bbla
 力所能及	sdng
 密封	irhh
-變色	obxo
+變色	boxo
 荒謬	stbv
 疏遠	yphl
 大理石	ojvs
@@ -123033,7 +122964,7 @@ encoder:
 名列前茅	xfqs
 光合作用	ires
 歸根結底	daom
-病變	mfob
+病變	mfbo
 人參	renn
 糖果	qmja
 容貌	irmd
@@ -123094,7 +123025,7 @@ encoder:
 星空	jpip
 深入淺出	nknw
 青春期	houw
-變壓器	ovll
+變壓器	bvll
 大驚小怪	osir
 根深蒂固	answ
 精益求精	qqfq
@@ -123127,7 +123058,7 @@ encoder:
 死灰復燃	feci
 別有用心	lesr
 出家	wwit
-鬱鬱蔥蔥	aass
+鬱鬱蔥蔥	jjss
 發怒	bbcb
 因勢利導	whmq
 沼澤	nmnu
@@ -123150,7 +123081,7 @@ encoder:
 嘔心瀝血	lrng
 高高在上	aaej
 堅韌不拔	hbgf
-叛變	qaob
+叛變	qabo
 引人入勝	brkw
 心不在焉	rgef
 對症下藥	imjs
@@ -123162,7 +123093,7 @@ encoder:
 夜以繼日	aeoj
 揚長避短	fubj
 不拘一格	gffa
-千變萬化	mose
+千變萬化	mbse
 事半功倍	hqpe
 救死扶傷	fffe
 缺一不可	jfga
@@ -123366,7 +123297,7 @@ encoder:
 神出鬼沒	jwdn
 彈力	blsl
 指南針	fgtg
-變幻莫測	onsn
+變幻莫測	bnsn
 龐然大物	mwop
 出神入化	wjke
 拖泥帶水	fnsn
@@ -123942,7 +123873,7 @@ encoder:
 起碼	hovw
 提議	fjbq
 大豆	odfl
-海灣	ngno
+海灣	ngnb
 完畢	ifvs
 通行	bsci
 贊同	pwcf
@@ -124013,7 +123944,7 @@ encoder:
 兩旁	fuaq
 上山	jvus
 各種各樣	tmta
-變更	obfj
+變更	bofj
 價錢	eptk
 分量	kmjf
 採集	fuea
@@ -124310,7 +124241,7 @@ encoder:
 阻擋	pjfi
 極度	ahms
 圍牆	wbdh
-野蠻	vkob
+野蠻	vkbo
 郵局	msby
 猖獗	hjhv
 立方	kltf
@@ -124656,7 +124587,7 @@ encoder:
 以權謀私	eabm
 騙人	wdre
 詞語	bybf
-戀人	obre
+戀人	bore
 狹隘	hopq
 化驗	enwr
 暗自	jkqi
@@ -124765,7 +124696,7 @@ encoder:
 殺手	safs
 亂七八糟	uxkq
 大權	odas
-抑鬱	fkaj
+抑鬱	fkja
 重力	mvsl
 控訴	fibd
 寶石	ijvs
@@ -124892,7 +124823,7 @@ encoder:
 大勢所趨	ohdh
 櫃子	ahkz
 挺身而出	fqsw
-變量	objf
+變量	bojf
 殘廢	fxmb
 潛水	nhns
 先發制人	pbpr
@@ -124946,7 +124877,7 @@ encoder:
 花瓣	seku
 滔滔不絕	nngo
 熱淚盈眶	hngj
-痙攣	mfob
+痙攣	mfbo
 花色	sexo
 匕首	nbqq
 音節	kjgb
@@ -124973,7 +124904,7 @@ encoder:
 不堪設想	ghba
 靈巧	clph
 弊病	qumf
-變法	obnh
+變法	bonh
 衰弱	afbi
 離別	twlw
 壞蛋	hayp
@@ -125080,7 +125011,7 @@ encoder:
 急於求成	xtfk
 馴服	wlwa
 素不相識	hgab
-戀戀不捨	oogf
+戀戀不捨	bbgf
 出走	wwhz
 快慢	rbrc
 詞組	byoj
@@ -125140,7 +125071,7 @@ encoder:
 煞費苦心	xbsr
 分門別類	kdlq
 人來人往	rarc
-搖身一變	fqfo
+搖身一變	fqfb
 策動	gamv
 漫山遍野	nudv
 紅豆	opfl
@@ -125302,7 +125233,7 @@ encoder:
 驚弓之鳥	sbod
 信手拈來	effa
 始作俑者	ceeh
-轉彎抹角	dofx
+轉彎抹角	dbfx
 各執一詞	thfb
 魂飛魄散	iyds
 狼狽為奸	hhkc
@@ -125752,7 +125683,7 @@ encoder:
 仲裁	elgk
 劇目	utjm
 聽眾	lmue
-演變	niob
+演變	nibo
 嚴禁	llaa
 免疫	xlme
 報社	hqjh
@@ -126177,7 +126108,7 @@ encoder:
 發愁	bbmi
 善意	qqkj
 抒情	fkrh
-變異	obvs
+變異	bovs
 病床	mfma
 牲口	pplv
 長壽	uchy
@@ -126572,7 +126503,7 @@ encoder:
 馬鈴薯	wtsu
 卑鄙	dglg
 包辦	woks
-迷戀	qoob
+迷戀	qobo
 末了	fmke
 嚇人	lhre
 陳設	pabe
@@ -126713,7 +126644,7 @@ encoder:
 紙幣	okqu
 周全	whkj
 位移	ekmx
-初戀	xmob
+初戀	xmbo
 白血病	dgmf
 荒誕	stbg
 殲滅	fxnk
@@ -126868,7 +126799,7 @@ encoder:
 同心協力	crgs
 驚慌失措	srgf
 馬不停蹄	wgep
-失戀	goob
+失戀	gobo
 一意孤行	fkkc
 投射	feqh
 不屑一顧	gbfd
@@ -126964,7 +126895,7 @@ encoder:
 先天不足	pfgp
 單車	lldc
 談笑風生	bgep
-變本加厲	oasv
+變本加厲	basv
 客棧	itak
 紅外線	oxod
 推導	feqq
@@ -127285,7 +127216,7 @@ encoder:
 嬌生慣養	cprq
 六親不認	akgb
 高抬貴手	aflf
-拐彎抹角	fofx
+拐彎抹角	fbfx
 決一死戰	nffl
 南征北戰	gcql
 石破天驚	vvfs
@@ -127540,7 +127471,7 @@ encoder:
 附庸風雅	pmeh
 過河拆橋	rnfa
 紅男綠女	ovoc
-胡攪蠻纏	jfoo
+胡攪蠻纏	jfbo
 拋磚引玉	fvbj
 皮開肉綻	bdco
 樂極生悲	dapu
@@ -127729,7 +127660,7 @@ encoder:
 無價之寶	geoi
 重於泰山	mtou
 短小精悍	jiqr
-變化多端	oexk
+變化多端	bexk
 長篇大論	ugob
 知無不言	jggb
 普天同慶	qfcm
@@ -127903,7 +127834,7 @@ encoder:
 開通	dfbs
 立方米	ktqm
 眼下	jgjx
-變為	obkg
+變為	bokg
 奪得	oecj
 一同	ficf
 組長	ojuc
@@ -128145,7 +128076,7 @@ encoder:
 獻身	ufqs
 猛烈	hkfx
 綁架	odsl
-憂鬱	vwaj
+憂鬱	vwja
 通往	bsck
 名片	xldp
 奈何	ojea
@@ -128434,7 +128365,7 @@ encoder:
 編劇	odut
 無條件	geep
 麵條	ateu
-事變	hlob
+事變	hlbo
 唾沫	lmnf
 出嫁	wwci
 高地	agho
@@ -128622,7 +128553,7 @@ encoder:
 調皮	bwbp
 偽裝	ekdh
 器具	lljk
-風雲變幻	econ
+風雲變幻	ecbn
 如願	clvd
 眨眼	jgjg
 罪人	uure
@@ -128768,7 +128699,7 @@ encoder:
 隆起	ptho
 逃犯	wiha
 久違	xkbo
-眷戀	qoob
+眷戀	qobo
 下方	jxtf
 幫手	hhfs
 大人物	orpw
@@ -128805,7 +128736,7 @@ encoder:
 充裕	anxk
 滾燙	nanj
 鋼板	tcav
-轉彎	ddob
+轉彎	ddbo
 矮小	jmiv
 感化	kfen
 掃興	fbdc
@@ -128909,7 +128840,7 @@ encoder:
 密林	iraa
 祈求	jdfn
 與日俱增	djeh
-變通	obbs
+變通	bobs
 頹廢	mwmb
 腎臟	hbws
 穩重	mumv
@@ -128964,7 +128895,7 @@ encoder:
 糯米	qcqm
 長孫	uckg
 輕率	dfan
-變種	obmm
+變種	bomm
 千辛萬苦	mkss
 筆畫	gbbh
 豁達	ihhq
@@ -128991,7 +128922,7 @@ encoder:
 一氧化碳	fgev
 磁力	vqsl
 室溫	idnw
-鬱悶	ajdr
+鬱悶	jadr
 千載難逢	mgst
 稀釋	msgq
 匪徒	huch
@@ -129084,7 +129015,7 @@ encoder:
 疤痕	momg
 一朝一夕	fgfx
 腸胃	wjvw
-戀情	obrh
+戀情	borh
 三令五申	lrfd
 分隔	kmpf
 畫圖	bhwl
@@ -129210,7 +129141,7 @@ encoder:
 風雲人物	ecrp
 浪子	nkkz
 五臟六腑	fwaw
-變速	obal
+變速	boal
 華而不實	ssgi
 春意盎然	okcw
 唯利是圖	lmjw
@@ -129319,7 +129250,7 @@ encoder:
 閃光燈	diib
 言外之意	bxok
 匪夷所思	hodv
-高不可攀	agaa
+高不可攀	agas
 飢寒交迫	kiad
 老實巴交	hioa
 死不瞑目	fgjj
@@ -129328,7 +129259,7 @@ encoder:
 半死不活	qfgn
 費盡心機	bbra
 花名冊	sxce
-隨機應變	pamo
+隨機應變	pamb
 無惡不作	gfge
 肥美	woqo
 昏昏欲睡	kkkj
@@ -129464,7 +129395,7 @@ encoder:
 冒名頂替	cxao
 貪生怕死	rprf
 眼鏡蛇	jtqi
-鬱鬱寡歡	aais
+鬱鬱寡歡	jjis
 凡夫俗子	eoek
 剛愎自用	crqs
 竭澤而漁	knsn
@@ -129827,7 +129758,7 @@ encoder:
 一刻	fitm
 不對	guiq
 還給	ufor
-不變	guob
+不變	gubo
 兩者	fuhj
 再不	jcgu
 來講	albs
@@ -130098,7 +130029,7 @@ encoder:
 救治	fnnn
 誠意	bkkj
 一連	fido
-變遷	obpo
+變遷	bopo
 理財	jvjh
 機械化	aaen
 主線	kjod
@@ -130160,7 +130091,7 @@ encoder:
 驚異	swvs
 利用率	msan
 冶金	intj
-變相	obaj
+變相	boaj
 如實	clie
 詐騙	bgwd
 攻克	ptjw
@@ -130309,7 +130240,7 @@ encoder:
 想必	ajrg
 頭疼	flmt
 擬定	fnif
-政變	fpob
+政變	fpbo
 快車	rbdc
 傳記	edbo
 底蘊	mkso
@@ -130374,7 +130305,7 @@ encoder:
 驅使	whef
 兌換	klfx
 固守	wjih
-彎腰	obwp
+彎腰	bowp
 半截	qagk
 觀望	sltw
 參政	nnfp
@@ -130431,7 +130362,7 @@ encoder:
 咀嚼	ljlu
 警衛	swcb
 防備	ptes
-變幻	obny
+變幻	bony
 口子	lvkz
 五星紅旗	fjot
 明智	jwjl
@@ -130887,7 +130818,7 @@ encoder:
 凡人	ekre
 缺席	jbms
 頭巾	fluj
-變賣	obhu
+變賣	bohu
 出乎意料	wgkq
 枯萎	ajsm
 鬧劇	daut
@@ -131047,7 +130978,7 @@ encoder:
 花花綠綠	ssoo
 評分	bnkm
 鐵皮	tgbp
-拐彎	flob
+拐彎	flbo
 提要	fjpc
 慘敗	rnjt
 拿手	rffs
@@ -131079,7 +131010,7 @@ encoder:
 壞處	haut
 一言一行	fbfc
 累贅	voht
-質變	ddob
+質變	ddbo
 恩怨	woxa
 發狂	bbhj
 水泵	nsvn
@@ -131209,7 +131140,7 @@ encoder:
 作廢	egmb
 翻新	gqka
 貴賤	ljjk
-彎路	obpt
+彎路	bopt
 草藥	sjsd
 對立面	iksm
 松鼠	akdb
@@ -131333,7 +131264,7 @@ encoder:
 帖子	uukz
 暴跌	jspg
 點播	gufg
-熱戀	hwob
+熱戀	hwbo
 大話	odbl
 放蕩	ttsn
 淑女	njcn
@@ -131396,7 +131327,7 @@ encoder:
 助攻	jspt
 凋零	iwcr
 歐姆	hlce
-鬱金香	atmj
+鬱金香	jtmj
 丈母孃	eeca
 敗類	jtqh
 乾巴巴	goob
@@ -131666,7 +131597,7 @@ encoder:
 婦孺皆知	cknj
 剛正不阿	cfgp
 白日夢	djsu
-變心	obri
+變心	bori
 除惡務盡	pfkb
 赴約	huow
 滾雪球	ncjf
@@ -132634,7 +132565,7 @@ encoder:
 舉手	dhfs
 微型	cffs
 肆虐	ubub
-變質	obdd
+變質	bodd
 額度	itms
 籌劃	ghbh
 規程	ojml
@@ -132692,7 +132623,7 @@ encoder:
 書架	bhsl
 松樹	akah
 風雪	efcb
-鉅變	thob
+鉅變	thbo
 期滿	uwns
 講求	bsfn
 聲勢	hbhw
@@ -133267,7 +133198,7 @@ encoder:
 繁瑣	geji
 嘉獎	hsdw
 囊括	glfl
-依戀	eaob
+依戀	eabo
 終極	otah
 半邊	qaqi
 聲望	hbtw
@@ -133304,7 +133235,7 @@ encoder:
 凱旋	uftg
 窮困	iqwa
 受挫	uxfr
-變故	objt
+變故	bojt
 小腳	ivwk
 木棍	amaj
 日頭	jrfl
@@ -133449,7 +133380,7 @@ encoder:
 殯葬	fxsf
 霓虹燈	cqib
 平分	nqkm
-港灣	nsno
+港灣	nsnb
 朗朗	kbkb
 婉轉	cidd
 享福	akjf
@@ -133782,7 +133713,7 @@ encoder:
 方向盤	tdue
 分店	kmmu
 斂財	rtjh
-變性	obrp
+變性	borp
 兵馬俑	dweb
 歸隊	dppq
 過活	ronl
@@ -133889,7 +133820,7 @@ encoder:
 國運	wkxd
 懶惰	rare
 綠豆	oefl
-攀談	asbi
+攀談	ssbi
 比照	nnjm
 鞭撻	sefh
 菠菜	snsu
@@ -134166,7 +134097,7 @@ encoder:
 髒話	rsbl
 筆挺	gbfm
 歸順	dplv
-衰變	afob
+衰變	afbo
 天籟	foga
 兇險	swpr
 初學	xmds
@@ -134810,7 +134741,7 @@ encoder:
 欺人太甚	urou
 一家之言	fiob
 一語雙關	fbed
-變色龍	oxkw
+變色龍	bxkw
 唱反調	lvbw
 單數	lllg
 動人心魄	mrrd
@@ -134872,7 +134803,7 @@ encoder:
 苛責	sahj
 清道夫	nqof
 插科打諢	fmfb
-橫蠻	asob
+橫蠻	asbo
 老羞成怒	hqkc
 萬全之策	skog
 一手包辦	ffwk
@@ -135036,8 +134967,8 @@ encoder:
 徒勞無益	cigq
 清心寡慾	nrik
 錦繡河山	tonu
-變化無窮	oegi
-變幻無常	ongi
+變化無窮	begi
+變幻無常	bngi
 水來土掩	nahf
 出水芙蓉	wnss
 風流人物	enrp
@@ -135145,7 +135076,7 @@ encoder:
 撤回	fawl
 相對論	aibr
 相片	ajdp
-可變	alob
+可變	albo
 機理	anjv
 奧斯卡	duju
 行長	ciuc
@@ -135494,7 +135425,7 @@ encoder:
 外籍	xugd
 議政	bqfp
 對子	iqkz
-多變	xxob
+多變	xxbo
 體能	rcnw
 易於	jwtr
 別看	lwfj
@@ -136084,7 +136015,7 @@ encoder:
 雄心	enri
 扯皮	fpbp
 噴泉	lgdn
-山巒	usob
+山巒	usbo
 微粒	cfqk
 政體	fprc
 臨界	hgvr
@@ -136185,7 +136116,7 @@ encoder:
 水車	nsdc
 外流	xuna
 五角大樓	fxoa
-蛻變	qkob
+蛻變	qkbo
 言談	bybi
 更有甚者	feuh
 庫房	mddt
@@ -136375,7 +136306,7 @@ encoder:
 檢點	argu
 展翅	bsgb
 愛撫	uxfg
-變數	oblg
+變數	bolg
 籌款	ghhj
 上策	jvga
 狹長	houc
@@ -136444,7 +136375,7 @@ encoder:
 得志	cjhr
 敵情	aqrh
 國境	wkhk
-蠻橫	obas
+蠻橫	boas
 熔化	iien
 上流	jvna
 失火	goih
@@ -136541,7 +136472,7 @@ encoder:
 沉浮	nxnu
 情面	rhsm
 同窗	cfid
-同性戀	crob
+同性戀	crbo
 辭呈	ublm
 海龜	ngxg
 亂糟糟	uqqs
@@ -136549,7 +136480,7 @@ encoder:
 門道	dmqq
 槍手	arfs
 相加	ajsl
-變臉	obwr
+變臉	bowr
 操持	flfh
 欺凌	uxih
 花盆	sekm
@@ -136650,7 +136581,7 @@ encoder:
 裂痕	fxmg
 名下	xljx
 因故	wojt
-愛戀	uxob
+愛戀	uxbo
 超然	hmwh
 吃醋	lgps
 鋼管	tcgi
@@ -136729,7 +136660,7 @@ encoder:
 發落	bbsn
 寒酸	ispn
 刻板	tmav
-孿生	obps
+孿生	bops
 縫紉	otom
 黑幫	ghhh
 外務	xukg
@@ -136843,7 +136774,7 @@ encoder:
 發貨	bben
 賦稅	jfmk
 緝拿	olrf
-量變	jfob
+量變	jfbo
 拜見	ffjj
 腦力	wlsl
 躺椅	qiao
@@ -136897,7 +136828,7 @@ encoder:
 傲氣	ehgq
 不可逾越	garh
 天光	foil
-變卦	obhh
+變卦	bohh
 參差	nnqg
 穿山甲	iuvj
 見長	jjuc
@@ -136932,7 +136863,7 @@ encoder:
 歌壇	alha
 描畫	fsbh
 香皂	mjdx
-變戲法	ounh
+變戲法	bunh
 巢穴	ljix
 狗熊	hwnw
 就範	aigd
@@ -137628,7 +137559,7 @@ encoder:
 不成體統	gkro
 麻藥	masd
 跑龍套	pkou
-變調	obbw
+變調	bobw
 分號	kmlh
 好逸惡勞	cxfi
 解碼	xwvw
@@ -137652,7 +137583,7 @@ encoder:
 虛歲	uwpk
 臆測	wknj
 阿司匹林	pyla
-窮則思變	ijvo
+窮則思變	ijvb
 如狼似虎	cheu
 藥草	sdsj
 存根	euag
@@ -137825,7 +137756,7 @@ encoder:
 將功補過	dpxr
 萬年曆	sgvm
 淚流滿面	nnns
-蠻不講理	ogbj
+蠻不講理	bgbj
 受益匪淺	uqhn
 步調一致	pbfd
 物歸原主	pdvk
@@ -137890,7 +137821,7 @@ encoder:
 眉目傳情	bjer
 排除萬難	fpss
 經天緯地	ofoh
-攀龍附鳳	akpe
+攀龍附鳳	skpe
 歃血為盟	ngkj
 有口難言	elsb
 左擁右抱	efef
@@ -138072,7 +138003,7 @@ encoder:
 市委	aumc
 盲流	tjna
 談到	bidm
-變頻	obpi
+變頻	bopi
 這種	bomm
 旅社	tgjh
 說出	bkww
@@ -138469,7 +138400,7 @@ encoder:
 簽發	grbb
 秋收	miwt
 真諦	gjba
-攀比	asnn
+攀比	ssnn
 栽植	gkag
 柿子	aakz
 拍手	fdfs
@@ -138938,7 +138869,7 @@ encoder:
 大餅	odkq
 客家	itit
 鞋襪	shxs
-兵變	dfob
+兵變	dfbo
 圖章	wlkj
 主顧	kjde
 轉賬	ddju
@@ -139017,7 +138948,7 @@ encoder:
 懊喪	rdgl
 畫眉	bhbj
 通通	bsbs
-變樣	obaq
+變樣	boaq
 買斷	ujnn
 泥鰍	nbvm
 山泉	usdn
@@ -139364,7 +139295,7 @@ encoder:
 幻象	nyxl
 樂土	dnht
 保險櫃	epah
-峰巒	utob
+峰巒	utbo
 奶酪	cgpt
 提幹	fjgj
 越界	hkvr
@@ -139508,7 +139439,7 @@ encoder:
 飄搖	pjfw
 認領	bmrf
 漲潮	nbng
-高攀	agas
+高攀	agss
 落寞	snis
 目眩	jmja
 貼補	juxn
@@ -139597,7 +139528,7 @@ encoder:
 密友	ireb
 耐熱	shhw
 欠條	xqeu
-貪戀	rfob
+貪戀	rfbo
 同黨	cfig
 血小板	giav
 有板有眼	eaej
@@ -139953,7 +139884,7 @@ encoder:
 貶損	jgfl
 塵垢	mhhd
 糾結	owoh
-攀親	aska
+攀親	sska
 定親	ifka
 嫋嫋婷婷	cccc
 外罩	xuuu
@@ -139987,7 +139918,7 @@ encoder:
 求告	fnpl
 乳膠	ukwv
 三明治	ljnn
-談虎色變	buxo
+談虎色變	buxb
 同房	cfdt
 玉兔	jkxl
 川菜	lcsu
@@ -141371,7 +141302,7 @@ encoder:
 精神抖擻	qjff
 下水道	jnqq
 轟擊	dddw
-裂變	fxob
+裂變	fxbo
 蹊蹺	puph
 徒然	chwh
 中庸	lumb
@@ -141754,7 +141685,7 @@ encoder:
 走街串巷	hcls
 初見	xmjj
 馬鞍	wmsi
-蠻幹	obgj
+蠻幹	bogj
 噴塗	lgnr
 情義	rhqg
 神化	jden
@@ -142134,7 +142065,7 @@ encoder:
 沾光	nuil
 暗礁	jkve
 瘡疤	mrmo
-婚戀	ckob
+婚戀	ckbo
 舉國	dhwk
 褲兜	xmdk
 漁夫	nvof
@@ -142398,7 +142329,7 @@ encoder:
 清蒸	nhsy
 閉關	dhdn
 鳥槍	dnar
-攀附	aspe
+攀附	sspe
 時宜	jhij
 水蜜桃	niaw
 鐵定	tgif
@@ -143439,7 +143370,7 @@ encoder:
 焰火	ixih
 兩難	fusf
 冬泳	tink
-劇變	utob
+劇變	utbo
 稿紙	maok
 通明	bsjw
 冒失	cigo
@@ -143457,7 +143388,7 @@ encoder:
 年邁	gasv
 失足	gopz
 重兵	mvdf
-攀巖	asul
+攀巖	ssul
 生人	psre
 清泉	nhdn
 試問	bkdl
@@ -144226,7 +144157,7 @@ encoder:
 仙姑	eucj
 珍奇	jroa
 裨益	xdqk
-變體	obrc
+變體	borc
 蟾蜍	qxqr
 超編	hmod
 揮淚	fxnd
@@ -144276,7 +144207,7 @@ encoder:
 昭雪	jmcb
 端口	kulv
 黃魚	sivv
-漸變	ndob
+漸變	ndbo
 獻殷勤	udsi
 消炎	niii
 頒行	kmci
@@ -144639,7 +144570,7 @@ encoder:
 翹楚	hhaa
 鐵腕	tgwi
 薰染	smnr
-鬱結	ajoh
+鬱結	jaoh
 月食	wyks
 諳熟	bkak
 高錳酸鉀	atpt
@@ -144670,7 +144601,7 @@ encoder:
 荒村	stah
 奶孃	cgca
 早班	jzjq
-驟變	wlob
+驟變	wlbo
 保底	elmk
 代詞	ekby
 飯票	kvpj
@@ -144778,7 +144709,7 @@ encoder:
 倒爺	edks
 下坡路	jhpt
 閘口	dvlv
-攀越	ashk
+攀越	sshk
 炮眼	iwjg
 球檯	jfah
 要得	pccj
@@ -144812,7 +144743,7 @@ encoder:
 漢民	nsox
 節選	gboo
 累加	vosl
-明礬	jwas
+明礬	jwss
 水蛇	nsqi
 有底	ewmk
 諸子百家	bkvi
@@ -145107,7 +145038,7 @@ encoder:
 大洲	odnn
 確確實實	vvii
 大笑	odgm
-戊戌變法	kkon
+戊戌變法	kkbn
 有線	ewod
 磚塊	vdhd
 成吉思汗	khvn
@@ -145439,7 +145370,7 @@ encoder:
 獨資	huix
 輩子	udkz
 客場	ithj
-攀升	asgs
+攀升	ssgs
 包機	woan
 投保	feel
 警力	swsl
@@ -145950,7 +145881,7 @@ encoder:
 口信	lveb
 倒置	edug
 苔蘚	snsv
-變電站	ocku
+變電站	bcku
 甲魚	vjvv
 講堂	bsih
 流連	nado
@@ -146022,7 +145953,7 @@ encoder:
 除塵	prmh
 上好	jvck
 吸食	lgks
-沉鬱	nxaj
+沉鬱	nxja
 紅細胞	ooww
 唸佛	lreb
 立業	kliq
@@ -146287,7 +146218,7 @@ encoder:
 隱現	pujj
 捕獵	fnhl
 刀口	mdlv
-譁變	bsob
+譁變	bsbo
 濫發	nhbb
 濃淡	ncni
 頑疾	flmj
@@ -146423,7 +146354,7 @@ encoder:
 首映	qqjc
 走失	hzgo
 草創	sjrf
-登攀	bfas
+登攀	bfss
 電磁場	cvhj
 掛心	fhri
 罵街	uwch
@@ -146648,7 +146579,7 @@ encoder:
 駭然	wtwh
 砂輪	vidr
 輸油管	dngi
-暗戀	jkob
+暗戀	jkbo
 補益	xnqk
 貂皮	mmbp
 名噪一時	xlfj
@@ -146707,7 +146638,7 @@ encoder:
 念舊	rfse
 青光眼	hijg
 同好	cfck
-變節	obgb
+變節	bogb
 龜縮	xgoi
 宿敵	ieaq
 謄寫	wqid
@@ -146943,7 +146874,7 @@ encoder:
 姑表	cjhg
 滑潤	nrnd
 贅言	htby
-單戀	llob
+單戀	llbo
 對半	iqqa
 橫越	ashk
 強酸	bnpn
@@ -146977,7 +146908,7 @@ encoder:
 文員	telj
 一時半刻	fjqt
 雲蒸霞蔚	cscs
-重巒疊嶂	movu
+重巒疊嶂	mbvu
 惠顧	drde
 氣味相投	glaf
 業精於勤	iqts
@@ -147051,7 +146982,7 @@ encoder:
 黃粱一夢	snfs
 逐鹿中原	tmlv
 闖蕩江湖	dsnn
-節哀順變	galo
+節哀順變	galb
 何患無辭	elgu
 纖塵不染	omgn
 外圓內方	xwct
@@ -147100,7 +147031,7 @@ encoder:
 花香	semj
 藥學	sdds
 取款	lbhj
-聚變	lbob
+聚變	lbbo
 陽平	pjnq
 耶路撒冷	lpfi
 孟買	kuuj
@@ -147347,7 +147278,7 @@ encoder:
 村口	ahlv
 西貢	pxpj
 本原	afvd
-攀高	asag
+攀高	ssag
 橋面	amsm
 長椅	ucao
 長劍	ucrm
@@ -147437,7 +147368,7 @@ encoder:
 扁桃	dcaw
 談起	biho
 計數器	blll
-變得	obcj
+變得	bocj
 亮色	awxo
 摩天	mffo
 床邊	maqi
@@ -148086,7 +148017,7 @@ encoder:
 生父	psks
 賢良	hbkg
 心律	ricb
-蔥鬱	sdaj
+蔥鬱	sdja
 退職	golk
 蹉跎	pqpi
 高蛋白	aydb
@@ -148305,7 +148236,7 @@ encoder:
 安享	icak
 查對	ajiq
 冤獄	xxhb
-蠻荒	obst
+蠻荒	bost
 惺忪	rjrk
 巡行	loci
 眼熱	jghw
@@ -148451,7 +148382,7 @@ encoder:
 大課	odbj
 乾爽	gjos
 公曆	knvm
-畸變	voob
+畸變	vobo
 黏膜	mrws
 陪練	pkoa
 票款	pjhj
@@ -148956,7 +148887,7 @@ encoder:
 悔之不及	rogg
 出沒無常	wngi
 授受不親	fugk
-七七事變	xxho
+七七事變	xxhb
 若能	senw
 若要	sepc
 甘薯	sisu
@@ -149258,7 +149189,7 @@ encoder:
 核爆炸	aiig
 樓頂	alav
 板車	avdc
-攀枝花	aase
+攀枝花	sase
 模模糊糊	aaqq
 哥倫布	aeeu
 松下	akjx
@@ -149528,7 +149459,7 @@ encoder:
 坡地	hbho
 為患	kgll
 雨聲	cyhb
-陰鬱	praj
+陰鬱	prja
 運抵	xdfk
 高危	agxv
 收兵	wtdf
@@ -149657,7 +149588,7 @@ encoder:
 共通	skbs
 截擊	gkdw
 針頭	tgfl
-變現	objj
+變現	bojj
 花季	semk
 教改	hkot
 考點	hhgu
@@ -150112,7 +150043,7 @@ encoder:
 西點	pxgu
 油管	ndgi
 枕巾	axuj
-癌變	mlob
+癌變	mlbo
 泉源	dnnv
 尚可	isal
 毒殺	hesa
@@ -150120,7 +150051,7 @@ encoder:
 請便	bhef
 生澀	psnm
 葉脈	sswd
-早戀	jzob
+早戀	jzbo
 贈予	jqky
 找死	fkfx
 別傳	lwed
@@ -150282,7 +150213,7 @@ encoder:
 呈獻	lmuf
 肺葉	wfss
 滿員	nslj
-曲裡拐彎	cxfo
+曲裡拐彎	cxfb
 衛戍	cbkk
 畜產	antv
 照壁	jmbl
@@ -150361,7 +150292,7 @@ encoder:
 珍饈	jrkq
 助產	jstv
 財閥	jhde
-層巒疊嶂	bovu
+層巒疊嶂	bbvu
 燈草	ibsj
 獨木舟	hauo
 巨擘	hbbl
@@ -151151,7 +151082,7 @@ encoder:
 羊腸	qywj
 捲進	fqeo
 關掉	dnfu
-善變	qqob
+善變	qqbo
 剪斷	qwnn
 裝出	dhww
 半月	qawy
@@ -151510,7 +151441,7 @@ encoder:
 雍容	akir
 純淨水	onns
 歸罪	dpuu
-嬗變	caob
+嬗變	cabo
 徵召	cfml
 高難	agsf
 發電站	bcku
@@ -151863,7 +151794,7 @@ encoder:
 傳感	edkf
 惡俗	fkek
 高峻	agun
-急轉彎	xdob
+急轉彎	xdbo
 撒網	fsoc
 稍許	mibg
 同理	cfjv
@@ -151937,7 +151868,7 @@ encoder:
 贈閱	jqdk
 被罩	xbuu
 孤本	kuaf
-懷戀	raob
+懷戀	rabo
 結膜	ohws
 虐殺	ubsa
 蛇膽	qiwx
@@ -151995,7 +151926,7 @@ encoder:
 奔命	ogra
 橫暴	asjs
 敬奉	swoa
-戀歌	obal
+戀歌	boal
 蜜桃	iraw
 批件	fnep
 上供	jves
@@ -152216,7 +152147,7 @@ encoder:
 陰部	prkl
 援手	fufs
 參透	nnmg
-刁蠻	yfob
+刁蠻	yfbo
 定心	ifri
 財勢	jhhw
 對換	iqfx
@@ -152252,7 +152183,7 @@ encoder:
 添補	nfxn
 悉聽尊便	glqe
 照妖鏡	jctk
-自戀	qiob
+自戀	qibo
 長舌婦	ulcb
 穿小鞋	iish
 紅運	opxd
@@ -152349,7 +152280,7 @@ encoder:
 鉸鏈	tatd
 景深	janx
 開罪	dfuu
-彎度	obms
+彎度	boms
 下車伊始	jdec
 錶針	thtg
 塊莖	hdsf
@@ -152861,7 +152792,7 @@ encoder:
 射中	qhlu
 身患	qsll
 身為	qskg
-移情別戀	mrlo
+移情別戀	mrlb
 秋菊	misw
 翻倒	gqed
 管路	gipt
@@ -152995,9 +152926,9 @@ encoder:
 記錯	bots
 刻印	tmkf
 永樂	kndn
-鸞鳳	obef
+鸞鳳	boef
 亦可	tyal
-變身	obqs
+變身	boqs
 豪賭	atjh
 放牛	ttpn
 盲人瞎馬	trjw
@@ -153140,7 +153071,7 @@ encoder:
 新綠	kaoe
 不備	gues
 放貸	ttek
-生變	psob
+生變	psbo
 低層	ekbq
 物料	pwqi
 知趣	jlhl
@@ -153298,7 +153229,7 @@ encoder:
 苦熬	sjht
 隔世	pfsi
 失重	gomv
-彎子	obkz
+彎子	bokz
 標書	apbh
 乾瘦	gjmd
 新學	kads
@@ -153415,7 +153346,7 @@ encoder:
 慘笑	rngm
 低迴	ekwl
 閣員	dtlj
-黴變	cfob
+黴變	cfbo
 式微	kpcf
 隧洞	pqnc
 探針	fxtg
@@ -153740,7 +153671,7 @@ encoder:
 夾心	orri
 師哥	dfal
 土裡土氣	hxhg
-相戀	ajob
+相戀	ajbo
 艙室	urid
 釘鞋	tash
 脊椎骨	iarg
@@ -154700,7 +154631,7 @@ encoder:
 停用	easy
 紅磷	opvq
 紅外	opxu
-繞彎	ohob
+繞彎	ohbo
 縛雞之力	ouos
 結網	ohoc
 結為	ohkg
@@ -154741,11 +154672,11 @@ encoder:
 市府	aume
 高性能	arnw
 記起	boho
-變奏	obof
+變奏	boof
 談妥	biuc
-變小	obiv
-戀曲	obcs
-變焦	obei
+變小	boiv
+戀曲	bocs
+變焦	boei
 這批	bofn
 良家婦女	kicc
 這件	boep
@@ -155126,7 +155057,7 @@ encoder:
 紀念冊	orce
 棋友	aueb
 投敵	feaq
-變易	objw
+變易	bojw
 君權	bgas
 冷麵	irat
 歉收	qbwt
@@ -155204,7 +155135,7 @@ encoder:
 鉅富	thif
 入眼	krjg
 賢弟	hbqb
-災變	liob
+災變	libo
 安營	icii
 畢露	vscp
 愁腸	miwj
@@ -155314,7 +155245,7 @@ encoder:
 限速	pgal
 孝服	hkwa
 貶抑	jgfk
-變速器	oall
+變速器	ball
 表功	hgps
 腸衣	wjag
 炒飯	iikv
@@ -155409,7 +155340,7 @@ encoder:
 豎井	hbik
 啞語	lfbf
 伴遊	eqtg
-變局	obby
+變局	boby
 東跑西顛	appg
 斷炊	nnix
 鰥夫	vuof
@@ -155668,7 +155599,7 @@ encoder:
 物以稀為貴	peml
 誤打誤撞	bfbf
 先下手為強	pjfb
-變化莫測	oesn
+變化莫測	besn
 不惜工本	grpa
 群起而攻之	bhso
 止於至善	ptdq
@@ -155730,7 +155661,7 @@ encoder:
 苯酚	sapk
 燕京	sfai
 切腹	xmwg
-切變	xmob
+切變	xmbo
 花莖	sesf
 芳華	stsf
 聚酯	lbpn
@@ -155790,7 +155721,7 @@ encoder:
 百花	vjse
 百川	vjlc
 百強	vjbn
-百變	vjob
+百變	vjbo
 而又	srbo
 而不	srgu
 邁上	svjv
@@ -155964,7 +155895,7 @@ encoder:
 尚無	isgs
 沒準	nwne
 沒人	nwre
-沒變	nwob
+沒變	nwbo
 深灰	nxei
 學家	dsit
 沉入	nxkr
@@ -156152,7 +156083,7 @@ encoder:
 犯下	hajx
 狂叫	hjlw
 狗窩	hwir
-急變	xbob
+急變	xbbo
 鍛鐵	tetg
 留足	kvpz
 留置	kvug
@@ -156234,7 +156165,7 @@ encoder:
 林蔭	aasp
 木塊	amhd
 林彪	aauc
-禁臠	aaob
+禁臠	aabo
 檀香山	amus
 格殺	atsa
 樣張	aqbu
@@ -156405,14 +156336,14 @@ encoder:
 齊步	aqpi
 課前	bjqw
 齊齊	aqaq
-襄樊	asas
+襄樊	asss
 市電	aucd
 高飛	agyf
 永安	knic
 刻錄	tmte
 肇慶	dtmy
-變壓	obvj
-變暖	obju
+變壓	bovj
+變暖	boju
 這天	bofo
 這是	bojf
 這條	boeu
@@ -156765,11 +156696,11 @@ encoder:
 茅棚	skaw
 式子	kpkz
 卜卦	ubhh
-處變不驚	uogs
+處變不驚	ubgs
 見天	jjfo
 暖水瓶	jnqs
 迫降	dopt
-曲曲彎彎	ccoo
+曲曲彎彎	ccbb
 萬籟	svga
 戲裝	ufdh
 罰酒	ubnp
@@ -156924,7 +156855,7 @@ encoder:
 焊縫	ijot
 橫匾	ashd
 舊案	seic
-民變	oxob
+民變	oxbo
 岩心	uvri
 口腹	lvwg
 爐灰	iuei
@@ -156966,7 +156897,7 @@ encoder:
 音帶	kjsf
 防暑	ptjh
 浪跡	nkpt
-攀折	asfd
+攀折	ssfd
 欽慕	txsj
 鎖鑰	titr
 熨燙	bjnj
@@ -157041,7 +156972,7 @@ encoder:
 學號	dslh
 花生醬	spdw
 軍徽	xdcf
-權變	asob
+權變	asbo
 上家	jvit
 兇案	swic
 幽寂	unij
@@ -157186,7 +157117,7 @@ encoder:
 利害攸關	mied
 不知凡幾	gjen
 夸父追日	okdj
-女大十八變	cogo
+女大十八變	cogb
 強姦民意	bcok
 始終不懈	cogr
 身心交瘁	qram
@@ -157194,7 +157125,7 @@ encoder:
 焚膏繼晷	aaoj
 曠世奇才	jsoh
 稀世之寶	msoi
-臨機應變	hamo
+臨機應變	hamb
 人棄我取	ragl
 夢筆生花	sgps
 片言隻字	dbei
@@ -157340,7 +157271,7 @@ encoder:
 走了	hzke
 求成	fnky
 求同	fncf
-求變	fnob
+求變	fnbo
 進階	eopn
 鼓盪	hgnj
 雷神	cvjd
@@ -157589,7 +157520,7 @@ encoder:
 網名	ocxl
 剛要	cqpc
 剛體	cqrc
-網戀	ocob
+網戀	ocbo
 見底	jjmk
 幾樣	nnaq
 幾條	nneu
@@ -157962,7 +157893,7 @@ encoder:
 永葆	knse
 贏取	tjlb
 忘了	trke
-變大	obod
+變大	bood
 亮出	awww
 毫安	amic
 義肢	qgwg
@@ -158314,7 +158245,7 @@ encoder:
 幽遠	unhl
 寒星	isjp
 紅極一時	oafj
-樊籬	asgt
+樊籬	ssgt
 坊間	htdj
 明滅	jwnk
 上弦	jvba
@@ -158612,7 +158543,7 @@ encoder:
 冒天下之大不韙	cfjj
 惶惶不可終日	rrgj
 財源滾滾	jnnn
-萬變不離其宗	sogi
+萬變不離其宗	sbgi
 長江後浪推前浪	uncn
 化零為整	ecka
 齊天大聖	afol
@@ -158838,7 +158769,7 @@ encoder:
 形同	fscf
 正式版	fkdv
 形如	fscl
-靜觀其變	hsuo
+靜觀其變	hsub
 不大不小	gogi
 天頂	foav
 天譴	fobl
@@ -159080,7 +159011,7 @@ encoder:
 屋舍	bdrl
 懷化	raen
 屋主	bdkj
-情變	rhob
+情變	rhbo
 快步流星	rpnj
 壁球	bljf
 避寒	blis
@@ -159149,7 +159080,7 @@ encoder:
 怨偶	xaev
 色覺	xods
 色迷	xoqo
-色變	xoob
+色變	xobo
 色誘	xobm
 解夢	xwsu
 魚片	vvdp
@@ -159264,7 +159195,7 @@ encoder:
 傑克	exjw
 可燃性	airp
 賈寶玉	pijk
-攀上	asjv
+攀上	ssjv
 柳葉	akss
 夢想成真	sakg
 夢到	sudm
@@ -159479,8 +159410,8 @@ encoder:
 記牢	boip
 遍體	dcrc
 永續	knoh
-變電	obcd
-變好	obck
+變電	bocd
+變好	bock
 這項	bopv
 這類	boqh
 這群	bobg
@@ -159652,7 +159583,7 @@ encoder:
 烏亮	dwaw
 行期	ciuw
 粉皮	qkbp
-憂鬱症	vamf
+憂鬱症	vjmf
 標底	apmk
 呈送	lmqo
 劫奪	hnoe
@@ -159827,7 +159758,7 @@ encoder:
 姊妹篇	ccgd
 公營	knii
 故址	jthp
-戀舊	obse
+戀舊	bose
 樹倒猢猻散	aehs
 衰朽	afah
 蓄勢	sahw
@@ -160419,7 +160350,7 @@ encoder:
 中分	lukm
 別是	lwjf
 別問	lwdl
-別戀	lwob
+別戀	lwbo
 吊架	lusl
 叫道	lwqq
 吹開	lxdf
@@ -160642,7 +160573,7 @@ encoder:
 拍擊	fddw
 白做	dbej
 拆夥	fdja
-折彎	fdob
+折彎	fdbo
 打退	fago
 拉丁語	fabf
 拖長	fguc
@@ -160671,7 +160602,7 @@ encoder:
 杜比	ahnn
 酸鹼	pnur
 酵素	phho
-核裂變	afob
+核裂變	afbo
 相國	ajwk
 相擁	ajfa
 歌名	alxl
@@ -160711,7 +160642,7 @@ encoder:
 算來	gjal
 延邊	gpqi
 延燒	gpih
-衍變	cnob
+衍變	cnbo
 得很	cjcg
 各大	tlod
 各省	tlig
@@ -160910,8 +160841,8 @@ encoder:
 調適	bwaq
 遍歷	dcvm
 詞表	byhg
-變回	obwl
-變作	obeg
+變回	bowl
+變作	boeg
 就業率	aian
 這段	boel
 磨蝕	mvkq
@@ -161273,7 +161204,7 @@ encoder:
 辭讓	ubba
 校場	aahj
 進諫	eoba
-戀戰	obll
+戀戰	boll
 驢打滾	wfna
 密函	iryn
 雨燕	cysf
@@ -161402,13 +161333,13 @@ encoder:
 太歲頭上動土	opfh
 聲譽鵲起	hdsh
 情人眼裡出西施	rrjt
-寧折不彎	ifgo
+寧折不彎	ifgb
 蟾宮折桂	qifa
 飽暖思淫慾	kjvk
 寶馬香車	iwmd
 繩鋸木斷	otan
 愧不敢當	rgji
-抑鬱寡歡	fais
+抑鬱寡歡	fjis
 優勝劣敗	ewij
 花落誰家	ssbi
 若需	secs
@@ -161503,7 +161434,7 @@ encoder:
 耍橫	scas
 成蔭	kysp
 歷久彌新	vxbk
-三角戀	lxob
+三角戀	lxbo
 原載	vdgk
 原路	vdpt
 春草	ojsj
@@ -161558,7 +161489,7 @@ encoder:
 擊節	dwgb
 南區	gchl
 南嶺	gcur
-南蠻	gcob
+南蠻	gcbo
 賣春	huoj
 賣到	hudm
 專治	dhnn
@@ -162203,9 +162134,9 @@ encoder:
 鹿皮	mlbp
 戶數	dhlg
 妄自	tcqi
-變老	obhn
-戀上	objv
-變冷	obir
+變老	bohn
+戀上	bojv
+變冷	boir
 毫針	amtg
 這頭	bofl
 義烏	qgdw
@@ -162243,7 +162174,7 @@ encoder:
 教輔	hkdn
 爾等	fkgh
 確乎	vxgq
-攀援	asfu
+攀援	ssfu
 透水	mgns
 贈書	jqbh
 嘎巴	lvob
@@ -162450,7 +162381,7 @@ encoder:
 賦役	jfce
 裹腿	ajwg
 軍管	xdgi
-戀家	obit
+戀家	boit
 五言詩	fbbh
 顯學	jnds
 賊寇	jkif
@@ -162497,7 +162428,7 @@ encoder:
 溼乎乎	nggq
 蔭庇	spmn
 吉星	hljp
-蠻勁	obfl
+蠻勁	bofl
 仗恃	eerh
 爐具	iujk
 詐取	bglb
@@ -162546,7 +162477,7 @@ encoder:
 迴文	wlte
 纖柔	orkg
 一碗水端平	fvnn
-陡變	phob
+陡變	phbo
 忌辰	ormc
 枯榮	ajii
 離宮	twil
@@ -163430,7 +163361,7 @@ encoder:
 高架	agsl
 忘光	tril
 戶內	dhck
-彎刀	obmd
+彎刀	bomd
 底面	mksm
 褻玩	ahjf
 放手一搏	tfff
@@ -163504,7 +163435,7 @@ encoder:
 汽配	ngpo
 拔營	feii
 復學	cgds
-激變	ndob
+激變	ndbo
 嬸母	ciem
 戴高帽	gauc
 覆舟	pcuo
@@ -163847,7 +163778,7 @@ encoder:
 大醉	odpa
 大禹	odgq
 大舅	oddv
-大變	odob
+大變	odbo
 有節	ewgb
 有靈	ewcl
 破土而出	vhsw
@@ -163864,7 +163795,7 @@ encoder:
 右上	eljv
 耐壓	shvj
 耍猴	sche
-萬變	svob
+萬變	svbo
 顧炎武	difk
 達旦	hqjf
 砍下	vxjx
@@ -164140,7 +164071,7 @@ encoder:
 敢打	jlfa
 怪談	rbbi
 居前	bjqw
-層巒	bqob
+層巒	bqbo
 怕不怕	rgrd
 司寇	yfif
 屋後	bdcn
@@ -164484,8 +164415,8 @@ encoder:
 扇區	dvhl
 言必有中	brel
 房前	dtqw
-變陣	obpd
-蠻夷	obob
+變陣	bopd
+蠻夷	boob
 這廝	bomu
 這家	boit
 誅滅	bpnk
@@ -164665,7 +164596,7 @@ encoder:
 下裝	jxdh
 動兵	mvdf
 堵心	hhri
-機變	anob
+機變	anbo
 錨鏈	tstd
 砌築	vxgp
 愚拙	vrfw
@@ -165036,7 +164967,7 @@ encoder:
 昂起	jkho
 易怒	jwcb
 易讀	jwbh
-易變	jwob
+易變	jwbo
 堅持不渝	hfgn
 臨朝	hggj
 蜂鳴	qtld
@@ -165453,8 +165384,8 @@ encoder:
 永磁	knvq
 贏球	tjjf
 忘返	trvb
-彎月	obwy
-蠻力	obsl
+彎月	bowy
+蠻力	bosl
 這筆	bogb
 這就	boai
 義賽	qgis
@@ -165463,7 +165394,7 @@ encoder:
 施虐	tgub
 族裔	tgag
 施為	tgkg
-誘變	bmob
+誘變	bmbo
 話音未落	bkfs
 說吧	bklo
 說罷	bkun
@@ -165484,7 +165415,7 @@ encoder:
 南站	gcku
 給你	orex
 案值	iceg
-有變	ewob
+有變	ewbo
 幫困	hhwa
 守將	ihdw
 共商國是	sawj
@@ -165715,7 +165646,7 @@ encoder:
 基板	uhav
 藏私	skmn
 苦辣	sjka
-苦戀	sjob
+苦戀	sjbo
 著有	shew
 某甲	sivj
 某男	sivs
@@ -165841,7 +165772,7 @@ encoder:
 喪母	glem
 武大	fkod
 開示	dfjs
-開灤	dfno
+開灤	dfnb
 形神	fsjd
 屯紮	xwae
 一對對	fiiq
@@ -166334,8 +166265,8 @@ encoder:
 高企	agrp
 調經	bwof
 記數	bolg
-彎下	objx
-變音	obkj
+彎下	bojx
+變音	bokj
 亮燈	awib
 床腳	mawk
 磨削	mviw
@@ -166613,7 +166544,7 @@ encoder:
 奪愛	oeux
 壓斷	vjnn
 壓板	vjav
-壓彎	vjob
+壓彎	vjbo
 硬脂	vfwn
 石棺	vsai
 三點一線	lgfo
@@ -167096,7 +167027,7 @@ encoder:
 請聽	bhlm
 請回	bhwl
 請您	bhex
-變頻器	opll
+變頻器	bpll
 就與	aidh
 就夠	aixx
 就道	aiqq
@@ -167109,7 +167040,7 @@ encoder:
 市貌	aumd
 高郵	agms
 高管	aggi
-變位	obek
+變位	boek
 底紋	mkot
 廣西壯族自治區	mpdh
 訂座	bamr
@@ -167801,7 +167732,7 @@ encoder:
 望到	twdm
 文心雕龍	trwk
 亦有	tyew
-彎角	obxw
+彎角	boxw
 亦稱	tymu
 底土	mkht
 靡麗	mufc
@@ -167914,7 +167845,7 @@ encoder:
 煙色	ipxo
 抽換	fdfx
 吊球	lujf
-通權達變	baho
+通權達變	bahb
 妍麗	cffc
 助桀為虐	jxku
 吊線	luod
@@ -168181,7 +168112,7 @@ encoder:
 內刊	cknm
 迅馳	ygwo
 迅急	ygxb
-以不變應萬變	egoo
+以不變應萬變	egbb
 避雷	blcv
 心貼心	rjri
 屢有	blew
@@ -168214,7 +168145,7 @@ encoder:
 錯碼	tsvw
 色衰	xoaf
 餚饌	ksko
-解鬱	xwaj
+解鬱	xwja
 蟹殼	xwhf
 解甲	xwvj
 解衣	xwag
@@ -168407,8 +168338,8 @@ encoder:
 為鑑	kgth
 調協	bwgs
 刻成	tmky
-彎鉤	obtw
-變涼	obna
+彎鉤	botw
+變涼	bona
 底圖	mkwl
 義弟	qgqb
 訂好	back
@@ -168459,7 +168390,7 @@ encoder:
 攬活	fhnl
 樹掛	ahfh
 相斥	ajdk
-慘變	rnob
+慘變	rnbo
 長吟	uclr
 顢頇	sfnv
 混子	njkz
@@ -169123,7 +169054,7 @@ encoder:
 虛職	uwlk
 瞄向	jsdx
 虛靈	uwcl
-虐戀	ubob
+虐戀	ubbo
 上湧	jvnb
 舊區	sehl
 舊話	sebl
@@ -169209,7 +169140,7 @@ encoder:
 羽翼未豐	vvfu
 書摘	bhfa
 已付	oveh
-異性戀	vrob
+異性戀	vrbo
 屢試	blbk
 屏氣斂息	bgrq
 尾房	bmdt
@@ -169375,7 +169306,7 @@ encoder:
 記法	bonh
 詞賦	byjf
 謎案	bqic
-彎管	obgi
+彎管	bogi
 底樓	mkal
 訂書	babh
 良駒	kgww
@@ -169448,7 +169379,7 @@ encoder:
 隨鄉入鄉	pkkk
 柔化	kgen
 參訓	nnbl
-勇攀	bsas
+勇攀	bsss
 聖所	lldd
 勸君	slbg
 雞啼	unla
@@ -170224,7 +170155,7 @@ encoder:
 嗔怨	lgxa
 拜請	ffbh
 鄙見	lgjj
-礬土	asht
+礬土	ssht
 敬候	sweu
 焗油	ibnd
 打破沙鍋問到底	fvnm
@@ -170620,7 +170551,7 @@ encoder:
 備述	esak
 微幅	cfuf
 竟夜	kjae
-聞之色變	doxo
+聞之色變	doxb
 痛失良機	mgka
 好戲連臺	cudh
 靈棚	claw
@@ -170645,7 +170576,7 @@ encoder:
 訴稱	bdmu
 腐殖	mefx
 腐葉	mess
-彎彎繞	oooh
+彎彎繞	bboh
 駢體	wqrc
 正堂	fpih
 慎密	rgir
@@ -170733,7 +170664,7 @@ encoder:
 文藝圈	tswq
 就著	aish
 誤按	blfi
-彎眉	obbj
+彎眉	bobj
 誘逼	bmfl
 夜勤	aesi
 破防	vbpt
@@ -171500,7 +171431,7 @@ encoder:
 落到	sndm
 蘇格蘭	sasd
 走上	hzjv
-顛鸞倒鳳	goee
+顛鸞倒鳳	gbee
 一家	fiit
 江蘇省	nsig
 津巴布韋	noeb
@@ -171757,7 +171688,7 @@ encoder:
 不容分說	gikb
 一覽表	fhhg
 黑手黨	gfig
-變天	obfo
+變天	bofo
 呱呱叫	lllw
 自尋煩惱	qbir
 鵝毛	gfmm
@@ -172175,7 +172106,7 @@ encoder:
 萬箭穿心	sgir
 項莊舞劍	psgr
 嘮嘮叨叨	llll
-蛻化變質	qeod
+蛻化變質	qebd
 流水不腐	nngm
 英雄豪傑	seae
 虛度年華	umgs
@@ -172930,7 +172861,7 @@ encoder:
 肺氣腫	wgwm
 列島	fxdu
 小腦	ivwl
-變化無常	oegi
+變化無常	begi
 不成器	gkll
 眼福	jgjf
 映山紅	juop
@@ -173268,7 +173199,7 @@ encoder:
 人販子	rjkz
 汪汪	njnj
 培養基	hquh
-形變	fsob
+形變	fsbo
 終身制	oqpc
 駕駛室	swid
 刺鼻	acqv
@@ -173462,7 +173393,7 @@ encoder:
 莫測高深	snan
 鳥獸散	dlsw
 有傷風化	eeee
-樊籠	asgk
+樊籠	ssgk
 跨年度	pgms
 富態	ifnw
 獵鷹	hlme
@@ -173569,7 +173500,7 @@ encoder:
 西安市	piau
 杭州市	anau
 微電腦	ccwl
-自變量	qojf
+自變量	qbjf
 重慶市	mmau
 辛迪加	kdsl
 商業性	airp
@@ -173766,7 +173697,7 @@ encoder:
 德智體	cjrc
 及時雨	gjcy
 防疫站	pmku
-鬱郁	ajew
+鬱郁	jaew
 顫巍巍	auum
 白水	dbns
 十三陵	glph
@@ -173870,7 +173801,7 @@ encoder:
 依依惜別	eerl
 風傳	efed
 銅臭	tcqh
-風雲突變	ecio
+風雲突變	ecib
 麥浪	atnk
 孺子牛	kkpn
 厭棄	vjan
@@ -174004,7 +173935,7 @@ encoder:
 有進無退	eegg
 求神問卜	fjdu
 孤兒寡婦	kdic
-鬱鬱不樂	aagd
+鬱鬱不樂	jjgd
 工具箱	pjga
 落在	sneu
 工商界	pavr
@@ -174266,7 +174197,7 @@ encoder:
 三寶	laij
 灌漿	nsdw
 完稅	ifmk
-走彎路	hopt
+走彎路	hbpt
 知情人	jrre
 貫串	egll
 消毒劑	nhaq
@@ -174317,7 +174248,7 @@ encoder:
 肩並肩	dqdw
 登月	bfwy
 外甥女	xpcn
-臂彎	blob
+臂彎	blbo
 尚方寶劍	itir
 胡謅	jwbw
 樹樁	ahao
@@ -174451,7 +174382,7 @@ encoder:
 大卡	odju
 魚肚	vvwh
 針織品	toll
-思戀	vrob
+思戀	vrbo
 帛書	dubh
 單身貴族	lqlt
 搖籃曲	fgcs
@@ -174887,7 +174818,7 @@ encoder:
 高低槓	aeap
 苦役	sjce
 後心	cnri
-彎道	obqq
+彎道	boqq
 話本	blaf
 賠笑	jkgm
 罷市	unau
@@ -174987,7 +174918,7 @@ encoder:
 後悔藥	crsd
 滑翔機	nqan
 流程圖	nmwl
-繞彎子	ookz
+繞彎子	obkz
 生死之交	pfoa
 惡聲惡氣	fhfg
 死硬	fxvf
@@ -175148,7 +175079,7 @@ encoder:
 練習曲	ovcs
 綜合症	ormf
 譯成	buky
-變星	objp
+變星	bojp
 這張	bobu
 高枕而臥	aash
 臥倒	hred
@@ -175223,7 +175154,7 @@ encoder:
 絲絲	oooo
 高個	agew
 望著	twsh
-變壞	obha
+變壞	boha
 七百	xivj
 黃芩	sisr
 營業執照	iihj
@@ -175379,7 +175310,7 @@ encoder:
 詩書	bhbh
 黑車	ghdc
 岔子	kmkz
-婚外戀	cxob
+婚外戀	cxbo
 大忙	odrt
 現代舞	jegs
 瞑目	jxjm
@@ -175521,7 +175452,7 @@ encoder:
 童真	kvgj
 吃官司	liyf
 初探	xmfx
-鬱積	ajmh
+鬱積	jamh
 放大器	toll
 強硬派	bvnd
 青豆	hwfl
@@ -175548,7 +175479,7 @@ encoder:
 安泰	icon
 大蝦	odqb
 痱子	mukz
-婚變	ckob
+婚變	ckbo
 讚語	bpbf
 假手	ebfs
 小小說	iibk
@@ -175830,7 +175761,7 @@ encoder:
 追著	dosh
 約瑟夫	ojof
 張皇	budj
-變阻器	opll
+變阻器	bpll
 記者站	bhku
 席不暇暖	mgjj
 文匯報	thhq
@@ -175864,7 +175795,7 @@ encoder:
 洞窟	ncib
 易燃易爆	jiji
 暗黑	jkgh
-蝶戀花	qose
+蝶戀花	qbse
 嘮嗑	lilh
 跨省	poig
 跳轉	pwdd
@@ -176465,7 +176396,7 @@ encoder:
 經不住	ogek
 納西	ocpx
 請到	bhdm
-變速箱	oaga
+變速箱	baga
 庫克	mdjw
 永嘉	knhs
 這款	bohj
@@ -176722,7 +176653,7 @@ encoder:
 文件櫃	teah
 高強度	abms
 設計圖	bbwl
-變廢為寶	omki
+變廢為寶	bmki
 旅遊業	ttiq
 監督員	hjlj
 年收入	gwkr
@@ -176839,7 +176770,7 @@ encoder:
 海選	ngoo
 潑水節	nngb
 交卷	akqo
-攀爬	asuo
+攀爬	ssuo
 偉力	ebsl
 學區	dshl
 大牢	odip
@@ -177569,7 +177500,7 @@ encoder:
 肥胖症	wwmf
 一丁點兒	fagd
 重拳	mvqo
-流變	naob
+流變	nabo
 馬刀	wmmd
 連貫性	derp
 洋槐	nqad
@@ -177743,7 +177674,7 @@ encoder:
 槽鋼	astc
 凡心	ekri
 口算	lvgj
-黃昏戀	skob
+黃昏戀	skbo
 血肉模糊	gcaq
 百思不得其解	vvgx
 有問必答	edrg
@@ -178211,7 +178142,7 @@ encoder:
 計生	bgps
 請你	bhex
 這些年	bpga
-變味	oblf
+變味	bolf
 這套	boou
 這幫	bohh
 說實話	bibl
@@ -179103,7 +179034,7 @@ encoder:
 噹啷	lilk
 行旅	citg
 白地	dbho
-蠻子	obkz
+蠻子	bokz
 歎號	sflh
 嘻皮笑臉	lbgw
 港府	nsme
@@ -179791,7 +179722,7 @@ encoder:
 應用於	mstr
 主幹道	kgqq
 文曲星	tcjp
-變黑	obgh
+變黑	bogh
 這股	bowe
 這顆	boja
 這屆	bobh
@@ -179898,7 +179829,7 @@ encoder:
 自忖	qirh
 求雨	fncy
 黑色幽默	gxug
-蠻纏	obom
+蠻纏	boom
 清賬	nhju
 鄉思	kgvr
 子規	kzoj
@@ -180842,7 +180773,7 @@ encoder:
 緝查	olaj
 鬧災	dali
 鎳幣	tqqu
-彎頭	obfl
+彎頭	bofl
 耕畜	dkan
 魯鈍	vjtx
 三稜鏡	lmtk
@@ -181070,7 +181001,7 @@ encoder:
 誤場	blhj
 為文	kgte
 高山景行	aujc
-戀棧	obak
+戀棧	boak
 計將安出	bdiw
 郎舅	kbdv
 誰不	begu
@@ -181122,7 +181053,7 @@ encoder:
 未被	fwxb
 二位	irek
 乾紅	gjop
-未變	fwob
+未變	fwbo
 無忌	gsor
 才算	hggj
 都將	hjdw
@@ -181618,7 +181549,7 @@ encoder:
 性解放	rxtt
 魚躍	vvpv
 導語	qqbf
-積鬱	mhaj
+積鬱	mhja
 柳絲	akoo
 唸白	lrdb
 蒜薹	sjsh
@@ -181705,7 +181636,7 @@ encoder:
 生土	psht
 相術	ajca
 癮頭	mpfl
-攣縮	oboi
+攣縮	booi
 坦誠相待	hbac
 霄漢	cins
 小暑	ivjh
@@ -182121,7 +182052,7 @@ encoder:
 鎩羽	tsvv
 狗仔	hwek
 急著	xbsh
-遛彎	kvob
+遛彎	kvbo
 揣著	fush
 所想	ddaj
 近衛	docb
@@ -182547,7 +182478,7 @@ encoder:
 通訊衛星	bbcj
 偷越	erhk
 小戶人家	idri
-變價	obep
+變價	boep
 兔兒爺	xdks
 下卷	jxqo
 厚葬	vjsf
@@ -182677,7 +182608,7 @@ encoder:
 二愣子	irkz
 起搏器	hfll
 炫示	iajs
-白礬	dbas
+白礬	dbss
 扯腿	fpwg
 電椅	cdao
 雞犬相聞	uhad
@@ -182793,7 +182724,7 @@ encoder:
 王永民	jkox
 虎視	uhjj
 上照	jvjm
-盧灣	uvno
+盧灣	uvnb
 澎湖列島	nnfd
 泥足巨人	nphr
 洞達	nchq
@@ -183528,7 +183459,7 @@ encoder:
 胎衣	wnag
 移用	mxsy
 壩基	hcuh
-痴戀	mjob
+痴戀	mjbo
 簡圖	gdwl
 農機站	caku
 挪借	fyes
@@ -184189,7 +184120,7 @@ encoder:
 就去	aihn
 就很	aicg
 康師傅	mden
-變長	obuc
+變長	bouc
 這輪	bodr
 這得	bocj
 放錯	ttts
@@ -184807,7 +184738,7 @@ encoder:
 主城	kjhk
 就在	aieu
 高數	aglg
-變差	obqg
+變差	boqg
 這人	bore
 放了	ttke
 旋踵	tgpm
@@ -185003,7 +184934,7 @@ encoder:
 讓她	baco
 劉明	ktjw
 齊家	aqit
-變電所	ocdd
+變電所	bcdd
 為情所困	krdw
 這副	bofl
 高手如雲	afcc
@@ -185682,7 +185613,7 @@ encoder:
 澄江	nbnp
 興寧	dcir
 汴京	naai
-蝶戀	qsob
+蝶戀	qsbo
 最兇	cisw
 電腦報	cwhq
 師說	dfbk
@@ -185792,7 +185723,7 @@ encoder:
 講得	bscj
 永濟	knna
 望京	twai
-變少	obig
+變少	boig
 亮劍	awrm
 魔域	mdhk
 文帝	teaq
@@ -186087,7 +186018,7 @@ encoder:
 暗事	jkhl
 暗射	jkqh
 哈耶克	lljw
-順變	lvob
+順變	lvbo
 口惠	lvdr
 吃罪	lguu
 響音	kgkj
@@ -186660,7 +186591,7 @@ encoder:
 火蛇	ihqi
 違心之論	brob
 圍擊	wbdw
-鬱熱	ajhw
+鬱熱	jahw
 聒耳	llle
 契據	dmfu
 銳眼	tkjg
@@ -186830,7 +186761,7 @@ encoder:
 車馬盈門	dwgd
 回聘	wlld
 男客	vsit
-思變	vrob
+思變	vrbo
 略論	vtbr
 團總支	wogb
 財險	jhpr
@@ -187312,7 +187243,7 @@ encoder:
 高州	agnl
 永清	knnh
 刻盤	tmue
-戀母	obem
+戀母	boem
 魔棒	mdao
 廉江	mqnp
 魔獸爭霸	mluc
@@ -187457,7 +187388,7 @@ encoder:
 吸墨紙	lgok
 醒木	pjam
 子囊	kzgl
-變色鏡	oxtk
+變色鏡	bxtk
 傳經送寶	eoqi
 磁暴	vqjs
 兜銷	dkti
@@ -188005,7 +187936,7 @@ encoder:
 淤青	nthw
 滬指	ndfn
 測試儀	nbeq
-灣仔	noek
+灣仔	nbek
 暖春	juoj
 曼城	cihk
 昂達	jkhq
@@ -188262,7 +188193,7 @@ encoder:
 敬贈	swjq
 峻拔	unfe
 攏共	fksk
-攀扯	asfp
+攀扯	ssfp
 詭奇	bxoa
 積食	mhks
 樂悠悠	deeu
@@ -188840,7 +188771,7 @@ encoder:
 飄遊	pjtg
 西關	pxdn
 想去	ajhn
-攀鋼	astc
+攀鋼	sstc
 橡筋	axgw
 板樓	aval
 可持續發展	afob
@@ -189150,7 +189081,7 @@ encoder:
 成雙作對	keei
 大破大立	ovok
 大旨	odnj
-鬱悒	ajrl
+鬱悒	jarl
 雁塔題名	vhjx
 破擊	vbdw
 夏新	vjka
@@ -189215,7 +189146,7 @@ encoder:
 深孚眾望	nuut
 窪陷	inpx
 波羅	nbuo
-小變	ivob
+小變	ivbo
 消損	nifl
 肖申克	idjw
 溼軟	nfdx
@@ -189512,7 +189443,7 @@ encoder:
 草蜢	sjqk
 藍衣	shag
 勤力	sisl
-荔灣	ssno
+荔灣	ssnb
 黃陵	siph
 歐尚	hlis
 取款機	lhan
@@ -189522,7 +189453,7 @@ encoder:
 能開	nwdf
 臺辦	hlks
 馬哲	wmfd
-雙性戀	erob
+雙性戀	erbo
 歡樂谷	sdkr
 牟平	npnq
 碟機	vsan
@@ -189703,7 +189634,7 @@ encoder:
 那得	yacj
 女明星	cjjp
 鼠年	dbga
-姐弟戀	cqob
+姐弟戀	cqbo
 如意郎君	ckkb
 他給	eoor
 傲遊	ehtg
@@ -189732,7 +189663,7 @@ encoder:
 為其	kguq
 高鈣	agtj
 高仿	aget
-蠻快	obrb
+蠻快	borb
 良品	kgll
 唐門	mbdm
 劉亦菲	ktsu
@@ -189902,7 +189833,7 @@ encoder:
 母慈子孝	eqkh
 一抔黃土	ffsh
 壽山福海	hujn
-沉鬱頓挫	naxf
+沉鬱頓挫	njxf
 蝨多不癢	yxgm
 對症之藥	imos
 朽木不可雕	aagw
@@ -189979,7 +189910,7 @@ encoder:
 球運	jfxd
 開雲見日	dcjj
 環襯	juxk
-一變	fiob
+一變	fibo
 下顧	jxde
 下帖	jxuu
 頓口無言	xlgb
@@ -190182,7 +190113,7 @@ encoder:
 磕巴	vhob
 夏花	vjse
 慼慼	kjkj
-不敢高攀	gjaa
+不敢高攀	gjas
 歪瓜裂棗	gufa
 幫帶	hhsf
 期頤	uwhv
@@ -190335,7 +190266,7 @@ encoder:
 動車組	mdoj
 南牆	gcdh
 南油	gcnd
-南灣	gcno
+南灣	gcnb
 專戶	dhdh
 過小	roiv
 遠觀	hlsl
@@ -190833,7 +190764,7 @@ encoder:
 夤緣	xioe
 金果	tjja
 希拉剋	sfjw
-忽變	wcob
+忽變	wcbo
 剎閘	sadv
 銅頭鐵額	tfti
 兒女成行	dckc
@@ -190913,7 +190844,7 @@ encoder:
 傳觀	edsl
 會中	rflu
 佳構	ehas
-倒鳳顛鸞	eego
+倒鳳顛鸞	eegb
 側近	ejdo
 低峰	ekut
 餘外	krxu
@@ -191155,7 +191086,7 @@ encoder:
 舊樓	seal
 戰靴	llse
 點焊	guij
-江灣	npno
+江灣	npnb
 潢川	nslc
 江華	npsf
 小雞雞	iuun
@@ -192046,7 +191977,7 @@ encoder:
 劉洋	ktnq
 劉濤	ktnh
 夜黑風高	agea
-彎矩	objh
+彎矩	bojh
 這要	bopc
 這將	bodw
 魔石	mdvs
@@ -192097,7 +192028,7 @@ encoder:
 喚頭	lxfl
 田契	vtdm
 蠅子	qgkz
-鬱郁蒼蒼	aess
+鬱郁蒼蒼	jess
 村學	ahds
 便桶	efab
 散悶	swdr
@@ -192141,7 +192072,7 @@ encoder:
 司藥	yfsd
 出徒	wwch
 未可厚非	favu
-顧戀	deob
+顧戀	debo
 橋基	amuh
 調唆	bwln
 便步	efpi
@@ -192420,7 +192351,7 @@ encoder:
 高尖	agio
 廢然	mbwh
 主視圖	kjwl
-戀棧不去	oagh
+戀棧不去	bagh
 放鞭	ttse
 玄理	anjv
 工楷	pgan
@@ -192791,7 +192722,7 @@ encoder:
 醜星	pdjp
 溺嬰	nbjj
 橋樁	amao
-遞變	duob
+遞變	dubo
 暮景	sjja
 囊中物	glpw
 筒瓦	gcrw
@@ -193081,12 +193012,12 @@ encoder:
 離軌	twdr
 熟道	akqq
 就湯下麵	anja
-變流器	onll
+變流器	bnll
 文史哲	tlfd
 高格	agat
 高檢	agar
 戶限	dhpg
-蠻煙瘴雨	oimc
+蠻煙瘴雨	bimc
 訴述	bdak
 放像	ttex
 衣食不周	akgw
@@ -193353,10 +193284,10 @@ encoder:
 午馬	ggwm
 千龍	mqkw
 行測	cinj
-生無可戀	pgao
+生無可戀	pgab
 第一卷	gfqo
 生死離別	pftl
-復變	cgob
+復變	cgbo
 禹城	gqhk
 微視	cfjj
 番外	gqxu
@@ -193395,7 +193326,7 @@ encoder:
 劉玉	ktjk
 市外	auxu
 刻章	tmkj
-變裝	obdh
+變裝	bodh
 訂單號	bllh
 唐縣	mbji
 課代表	behg
@@ -193668,7 +193599,7 @@ encoder:
 攫奪	fjoe
 披拂	fbfb
 抵掌而談	fisb
-拘攣	fwob
+拘攣	fwbo
 打蔫	fasf
 熱勁	hwfl
 掃瞄	fbjs
@@ -193680,7 +193611,7 @@ encoder:
 杜口裹足	alap
 橢圓體	awrc
 楊朱	ajpk
-攀交	asak
+攀交	ssak
 標的物	adpw
 林葉	aass
 禁物	aapw
@@ -193735,7 +193666,7 @@ encoder:
 庫頁島	mvdu
 衣胞	agww
 衣長	aguc
-變產	obtv
+變產	botv
 放荒	ttst
 旌表	tghg
 放恣	ttix
@@ -193824,7 +193755,7 @@ encoder:
 結課	ohbj
 充錢	antk
 調遷	bwpo
-鑾鈴	obtr
+鑾鈴	botr
 話癆	blmi
 謝詞	bqby
 說他	bkeo
@@ -193868,7 +193799,7 @@ encoder:
 太鋼	oktc
 胎壓	wnvj
 愛華	uxsf
-腦筋急轉彎	wgxo
+腦筋急轉彎	wgxb
 塔裡	hsxv
 去屑	hnbi
 南陵	gcph
@@ -194008,7 +193939,7 @@ encoder:
 慶豐	myud
 京山	aius
 劉曉	ktjh
-蠻牛	obpn
+蠻牛	bopn
 魔仙	mdeu
 話單	blll
 說課	bkbj
@@ -194468,7 +194399,7 @@ encoder:
 潤髮	ndue
 淮陽	nepj
 漲錢	nbtk
-灤南	nogc
+灤南	nbgc
 海底撈	nmfi
 暴汗	jsnn
 時隙	jhpi
@@ -194559,7 +194490,7 @@ encoder:
 讀圖	bhwl
 主群	kjbg
 劉軍	ktxd
-變盤	obue
+變盤	boue
 義烏市	qdau
 魔君	mdbg
 康王	mbjw
@@ -194656,7 +194587,7 @@ encoder:
 馬里亞那	wvfy
 馬爾庫塞	wfmi
 難案	sfic
-鬱怒	ajcb
+鬱怒	jacb
 布洛赫	enhk
 百念	vjrf
 灰紫	eipn
@@ -195387,7 +195318,7 @@ encoder:
 卡羅拉	jufk
 深藍色	nsxo
 小老闆	ihdl
-沙灣	nino
+沙灣	ninb
 沙冰	niin
 漫友	nceb
 溼溼	nfnf
@@ -195492,9 +195423,9 @@ encoder:
 裹胸	ajww
 高敏	agge
 房補	dtxn
-欒城	obhk
-欒川	oblc
-蠻靈	obcl
+欒城	bohk
+欒川	bolc
+蠻靈	bocl
 麻婆	manb
 魔星	mdjp
 魔靈	mdcl
@@ -196297,7 +196228,7 @@ encoder:
 言之有據	boef
 內愧	ckrd
 挽幛	fxuk
-鬱憤	ajrg
+鬱憤	jarg
 花紗布	soeu
 丁字形	aifs
 單季稻	lmmu
@@ -196444,7 +196375,7 @@ encoder:
 磁心	vqri
 加電	slcd
 二簡	irgd
-過彎	roob
+過彎	robo
 直接了當	gfki
 卡掉	jufu
 餐補	uxxn
@@ -196483,8 +196414,8 @@ encoder:
 群員	bglj
 人臣	rehe
 高糖	agqm
-鑾駕	obsl
-鑾輿	obdd
+鑾駕	bosl
+鑾輿	bodd
 七組	xioj
 東泉	ajdn
 欺師滅祖	udnj
@@ -196619,9 +196550,9 @@ encoder:
 結關	ohdn
 施工員	tplj
 劉麗	ktfc
-蠻久	obxk
-蠻兵	obdf
-蠻像	obex
+蠻久	boxk
+蠻兵	bodf
+蠻像	boex
 義馬	qgwm
 麻吉	mahl
 文峰	teut
@@ -196706,8 +196637,8 @@ encoder:
 飄轉	pjdd
 桃汛	awny
 查修	ajeu
-攀沿	asnw
-攀冰	asin
+攀沿	ssnw
+攀冰	ssin
 梯架	aqsl
 長休	ucea
 盤碗	uevi
@@ -197436,7 +197367,7 @@ encoder:
 愈來愈少	rari
 作浪興風	ende
 領旨	rfnj
-識時達變	bjho
+識時達變	bjhb
 七海	xing
 出雲	wwci
 預算員	kglj
@@ -197836,7 +197767,7 @@ encoder:
 大蜘蛛	oqqp
 大福源	ojnv
 愛仕達	uehq
-星辰變	jmob
+星辰變	jmbo
 心煩氣躁	rigp
 精舞門	qgdm
 安娜蘇	icsv
@@ -197962,7 +197893,7 @@ encoder:
 高鳥盡良弓藏	adbs
 喝不喝	lglj
 看沒看	fnfj
-重巒迭嶂	mogu
+重巒迭嶂	mbgu
 月亮石	wavs
 葉子板	skav
 噬魂師	lidf
@@ -198044,7 +197975,7 @@ encoder:
 險怪	prrb
 險僻	preb
 防灰	ptei
-防變	ptob
+防變	ptbo
 驅盡	whbf
 預立	kvkl
 柔紗	kgoi
@@ -198316,7 +198247,7 @@ encoder:
 梆梆	adad
 椅座	aomr
 可鑽	altp
-攀索	asgx
+攀索	ssgx
 棲落	afsn
 林際	aapw
 禁辦	aaks
@@ -198432,7 +198363,7 @@ encoder:
 語象	bfxl
 誤置	blug
 識為	bkkg
-蠻風	obef
+蠻風	boef
 訴至	bddz
 誅連	bpdo
 訴累	bdvo
@@ -199353,8 +199284,8 @@ encoder:
 高攻	agpt
 麟角	mqxw
 鹿丸	mlrk
-戀空	obip
-變徑	obcf
+戀空	boip
+變徑	bocf
 亦莊	tysd
 豪庭	atmm
 底閥	mkde
@@ -199536,7 +199467,7 @@ encoder:
 記憶體條	brre
 森羅永珍	aukj
 高畫質晰	abdj
-調變解調器	boxl
+調變解調器	bbxl
 頁尾	vjbm
 位址列	ehfx
 塔吉克	hhjw
@@ -199576,7 +199507,7 @@ encoder:
 軍分割槽	xkia
 資訊理論	ibjb
 波札那	naya
-自變數	qolg
+自變數	qblg
 鐳射器	tqll
 表示式	hjkp
 映象管	jxgi
@@ -199701,7 +199632,7 @@ encoder:
 奈米盤	oque
 聽説	lmbq
 羣眾	bgue
-台灣	nlno
+台灣	nlnb
 温暖	njju
 高峯	agut
 温柔	njkg
@@ -199778,7 +199709,7 @@ encoder:
 人蔘	resn
 保温	elnj
 頂峯	avut
-鬱鬱葱葱	aass
+鬱鬱葱葱	jjss
 脱口而出	wlsw
 水泄不通	nngb
 現身説法	jqbn
@@ -200055,7 +199986,7 @@ encoder:
 脱身	wqqs
 遊説	tgbq
 説情	bqrh
-蜕變	qqob
+蜕變	qqbo
 開户	dfhh
 垮台	honl
 説理	bqjv
@@ -200121,7 +200052,7 @@ encoder:
 温水	njns
 拉麪	fkat
 脱逃	wqwi
-峯巒	utob
+峯巒	utbo
 車牀	dcda
 卧病	humf
 樓台	alnl
@@ -200306,7 +200237,7 @@ encoder:
 説不過去	bgrh
 税負	mqxj
 歡悦	slrq
-葱鬱	swaj
+葱鬱	swja
 悦目	rqjm
 峯值	uteg
 敍談	rfbi
@@ -200366,7 +200297,7 @@ encoder:
 冰峯	inut
 愠色	rjxo
 羣集	bgea
-曲裏拐彎	cafo
+曲裏拐彎	cafb
 衞戍	cbkk
 温良	njkg
 校閲	aadq
@@ -200800,7 +200731,7 @@ encoder:
 閲批	dqfn
 羣賢	bghb
 羣論	bgbr
-彎鈎	obtw
+彎鈎	botw
 上峯	jvut
 卧射	huqh
 卧姿	huix
@@ -200878,7 +200809,7 @@ encoder:
 正當防衞	fipc
 鋭角	tqxw
 有説有笑	ebeg
-蜕化變質	qeod
+蜕化變質	qebd
 廠裏	miav
 貧困户	kwhh
 活着	nlqj
@@ -201812,7 +201743,7 @@ encoder:
 指鹿爲馬	fmuw
 如癡如醉	cmcp
 爲主	ugkj
-變爲	obug
+變爲	boug
 人爲	reug
 審覈	igpd
 稱之爲	moug
@@ -202287,7 +202218,7 @@ encoder:
 轉禍爲福	djuj
 衆目昭彰	gjjk
 何爲	eaug
-變廢爲寶	omui
+變廢爲寶	bmui
 爲着	ugqj
 羣衆組織	bgoo
 引以爲榮	beui
@@ -202381,7 +202312,7 @@ encoder:
 喫剩	ldmq
 已爲	ovug
 多爲	xxug
-癡戀	mnob
+癡戀	mnbo
 好漢不喫眼前虧	cngu
 癩蛤蟆想喫天鵝肉	mqqc
 止戈爲武	pkuf
@@ -202551,7 +202482,7 @@ encoder:
 留有餘地	kekh
 含苞待放	rsct
 人間地獄	rdhh
-蠻橫無理	oagj
+蠻橫無理	bagj
 大有裨益	oexq
 飲食起居	kkhb
 軟弱無力	dbgs
@@ -202812,7 +202743,7 @@ encoder:
 浩浩湯湯	nnnn
 明槍易躲	jajq
 從容自若	ciqs
-鸞鳳和鳴	oeml
+鸞鳳和鳴	beml
 免開尊口	xdql
 富貴逼人	ilfr
 拳不離手	qgtf
@@ -202820,7 +202751,7 @@ encoder:
 餐風飲露	uekc
 日月無光	jwgi
 歷歷可數	vval
-勃然變色	gwox
+勃然變色	gwbx
 重建家園	mbiw
 重新做人	mker
 鼓足幹勁	hpgf
@@ -202873,7 +202804,7 @@ encoder:
 南郭先生	gapp
 山重水複	umnx
 分進合擊	kerd
-變幻無窮	ongi
+變幻無窮	bngi
 悄然無聲	rwgh
 視為畏途	jkvr
 不知所以	gjde
@@ -203631,7 +203562,7 @@ encoder:
 問君能有幾多愁	dbnm
 權宜之策	aiog
 淚眼汪汪	njnn
-詭譎多變	bbxo
+詭譎多變	bbxb
 兒行千里母擔憂	dcmv
 刀子嘴豆腐心	mklr
 一時之選	fjoo
@@ -203797,7 +203728,7 @@ encoder:
 燎原之火	ivoi
 天人之際	frop
 士農工商	hcpa
-七彎八拐	xokf
+七彎八拐	xbkf
 三思後行	lvcc
 吹皺一池春水	lwfn
 長江天塹	unfd
@@ -203810,7 +203741,7 @@ encoder:
 西出陽關無故人	pwpr
 調和陰陽	bmpp
 足不出門	pgwd
-風雲變色	ecox
+風雲變色	ecbx
 駐顏有術	wtec
 白浪滔天	dnnf
 血染沙場	gnnh
@@ -203865,7 +203796,7 @@ encoder:
 動盪不定	mngi
 君子坦蕩蕩	bkhs
 修齊治平	eann
-鬱郁不得志	aegh
+鬱郁不得志	jegh
 愁眉緊鎖	mbht
 人老心不老	rhrh
 見慣不驚	jrgs
@@ -203907,7 +203838,7 @@ encoder:
 臨事而懼	hhsr
 悔之莫及	rosg
 卑之無甚高論	dogb
-留戀不捨	kogf
+留戀不捨	kbgf
 杳無人跡	agrp
 明日復明日	jjcj
 百弊叢生	vqip
@@ -204036,7 +203967,7 @@ encoder:
 楊柳依依	aaee
 眾裡尋他千百度	uxbm
 上下同欲	jjck
-變動不居	omgb
+變動不居	bmgb
 全心全力	krks
 瘦死的駱駝比馬大	mfdo
 月上柳梢頭	wjaf
@@ -204173,7 +204104,7 @@ encoder:
 破玩意兒	vjkd
 改名易姓	oxjc
 吳帶當風	lsie
-駑馬戀棧豆	cwof
+駑馬戀棧豆	cwbf
 民辦公助	okkj
 飛入尋常百姓家	ykbi
 年逾花甲	grsv
@@ -204689,7 +204620,7 @@ encoder:
 化作春泥更護花	eeos
 覬覦之心	uror
 疑是銀河落九天	njtf
-只要肯登攀	lppa
+只要肯登攀	lpps
 各領風騷數百年	treg
 軍容風紀	xieo
 往來成古今	cakr
@@ -205335,7 +205266,7 @@ encoder:
 驟雨不終日	wcgj
 燕雀安知鴻鵠之志哉	siig
 唯見長江天際流	ljun
-月兒彎彎照九州	wdon
+月兒彎彎照九州	wdbn
 劍外忽傳收薊北	rxwq
 情人怨遙夜	rrxa
 山在虛無縹緲間	ueud
@@ -205478,7 +205409,7 @@ encoder:
 唧唧復唧唧	llcl
 立德立言	kckb
 青山依舊在	huee
-山鄉鉅變	ukto
+山鄉鉅變	uktb
 月到中秋分外明	wdlj
 欲把西湖比西子	kfpk
 又食武昌魚	bkfv
@@ -205613,7 +205544,7 @@ encoder:
 月既不解飲	wbgk
 江流石不轉	nnvd
 但見長江送流水	ejun
-鬱孤臺下清江水	akhn
+鬱孤臺下清江水	jkhn
 陰陰夏木囀黃鸝	ppvf
 昔聞洞庭水	sdnn
 身登青雲梯	qbha
@@ -205651,7 +205582,7 @@ encoder:
 行舟綠水前	cuoq
 嘆息未應閒	lqfd
 洞在清溪何處邊	nenq
-百步九折縈巖巒	vpro
+百步九折縈巖巒	vprb
 桃花盡日隨流水	asbn
 君王掩面救不得	bjfc
 狐裘不暖錦衾薄	hfgs
@@ -205711,7 +205642,7 @@ encoder:
 民無信不立	ogek
 當驚世界殊	issf
 取其精華去其糟粕	luqq
-舊貌變新顏	smot
+舊貌變新顏	smbt
 不辭長作嶺南人	guur
 花重錦官城	smth
 惡竹應須斬萬竿	fgmg
@@ -205968,7 +205899,7 @@ encoder:
 卻顧所來徑	kddc
 紅旗漫卷西風	otne
 博觀而約取	gssl
-久在樊籠裡	xeax
+久在樊籠裡	xesx
 舉世皆濁我獨清	dsnn
 獨學而無友	hdse
 勒索敲詐	sgab
@@ -206007,7 +205938,7 @@ encoder:
 收取關山五十州	wldn
 不要人誇顏色好	gprc
 男兒何不帶吳鉤	vdet
-羈鳥戀舊林	udoa
+羈鳥戀舊林	udba
 千里快哉風	mvre
 閒敲棋子落燈花	daas
 送孟浩然之廣陵	qknp
@@ -206178,7 +206109,7 @@ encoder:
 請君為我側耳聽	bbkl
 積財千萬不如薄技在身	mjmq
 啃硬骨頭	lvrf
-天塹變通途	fdor
+天塹變通途	fdbr
 無以成江海	gekn
 君子和而不同	bkmc
 四十而不惑	wgsk
@@ -206489,7 +206420,7 @@ encoder:
 他生緣會更難期	epou
 不帶走一片雲彩	gshu
 可上九天攬月	ajrw
-通古今之變	bjro
+通古今之變	bjrb
 歌詩合為事而作	abre
 千里馬常有	mvwe
 一日看盡長安花	fjfs
@@ -206534,7 +206465,7 @@ encoder:
 四海翻騰雲水怒	wngc
 遍地英雄下夕煙	dhsi
 不見去年人	gjhr
-只識彎弓射大雕	lbow
+只識彎弓射大雕	lbbw
 而智勇多困於所溺	sjbn
 大禮不辭小讓	ojgb
 天意憐幽草	fkrs
@@ -206548,9 +206479,9 @@ encoder:
 春風花草香	oesm
 中華兒女多奇志	lsdh
 送元二使安西	qfip
-卻道故人心易變	kqjo
+卻道故人心易變	kqjb
 身後有餘忘縮手	qcef
-等閒變卻故人心	gdor
+等閒變卻故人心	gdbr
 鳳去臺空江自流	ehhn
 學不可以已	dgao
 胡馬依北風	jwee
@@ -206791,7 +206722,7 @@ encoder:
 神歡體自輕	jsrd
 何日平胡虜	ejnu
 高山安可仰	auie
-鸞刀縷切空紛綸	omoo
+鸞刀縷切空紛綸	bmoo
 閒花淡淡春	dsno
 西陸蟬聲唱	ppql
 男兒本自重橫行	vdac
@@ -207093,7 +207024,7 @@ encoder:
 孤山寺北賈亭西	kuhp
 相攜及田家	afgi
 眼前萬里江山	jqsu
-坎軻只得移荊蠻	hdlo
+坎軻只得移荊蠻	hdlb
 白兔搗藥成	dxfk
 敲門都不應	adhm
 暮從碧山下	scjj
@@ -207451,7 +207382,7 @@ encoder:
 清月出嶺光入扉	nwwd
 凌波不過橫塘路	ingp
 聞風坐相悅	derr
-園柳變鳴禽	waor
+園柳變鳴禽	wabr
 綠槐高柳咽新蟬	oaaq
 遊子久不至	tkxd
 若負平生志	sxnh
@@ -207683,7 +207614,7 @@ encoder:
 時見歸村人	jjdr
 合昏尚知時	rkij
 書此語橋柱上	bpbj
-天路幽險難追攀	fpua
+天路幽險難追攀	fpus
 南山歸敝廬	gudm
 何處尋行跡	eubp
 黃菊枝頭生曉寒	ssai
@@ -207729,7 +207660,7 @@ encoder:
 滄浪之水濁兮	nnok
 小人同而不和	ircm
 輕輕的我走了	dddk
-更加鬱鬱蔥蔥	fsas
+更加鬱鬱蔥蔥	fsjs
 虎踞龍盤今勝昔	upks
 才飲長沙水	hkun
 君子周而不比	bkwn
@@ -207791,7 +207722,7 @@ encoder:
 萬戶千門入畫圖	sdmw
 可以濯我纓	aeno
 無災無難到公卿	glgk
-鬱郁乎文哉	aegg
+鬱郁乎文哉	jegg
 黃鶴樓中吹玉笛	sxag
 汝果欲學詩	njkb
 必也使無訟乎	roeg
@@ -208000,7 +207931,7 @@ encoder:
 才了蠶桑又插田	hkhv
 彼亦一是非	ctfu
 月光長照金樽裡	wiux
-人攀明月不可得	rajc
+人攀明月不可得	rsjc
 水是眼波橫	njja
 造次必於是	pirj
 夜深千帳燈	anmi
@@ -208087,7 +208018,7 @@ encoder:
 此身雖在堪驚	pqls
 匹馬戍梁州	lwkn
 醉殺洞庭秋	psnm
-吹不散眉彎	lgso
+吹不散眉彎	lgsb
 千秋竟不還	mmku
 拄杖東家分社肉	faac
 莫厭傷多酒入唇	svem
@@ -208394,7 +208325,7 @@ encoder:
 逢草逢花報發生	tstp
 憂道不憂貧	vqgk
 如日月之食焉	cjwf
-桑田變滄海	bvon
+桑田變滄海	bvbn
 得天下有道	cfjq
 不忍見其死	gmjf
 師不必賢於弟子	dgrk
@@ -208921,7 +208852,7 @@ encoder:
 猛志逸四海	hhxn
 聖人常無心	lrir
 非君子之器	ubkl
-月子彎彎照九州	wkon
+月子彎彎照九州	wkbn
 囊空恐羞澀	gipn
 堆來枕上愁何狀	haad
 但願君心似我心	evbr
@@ -209006,7 +208937,7 @@ encoder:
 千千石楠樹	mmva
 共說此年豐	sbpu
 且看欲盡花經眼	jfkj
-樊遲請學稼	abbm
+樊遲請學稼	sbbm
 獨立而不改	hkso
 相過人不知	arrj
 青山行不盡	hucb
@@ -209566,7 +209497,7 @@ encoder:
 無數鈴聲遙過磧	gltv
 酒醒時往事愁腸	npjw
 何不於君指上聽	egtl
-蝶戀花答李淑一	qosf
+蝶戀花答李淑一	qbsf
 燕子不歸春事晚	skgj
 一事無成百不堪	fhgh
 一月周流六十回	fwww
@@ -209634,7 +209565,7 @@ encoder:
 不信比來長下淚	genn
 相與枕藉乎舟中	adal
 看朱成碧思紛紛	fpko
-樊噲側其盾以撞	alef
+樊噲側其盾以撞	slef
 人乞祭餘驕妾婦	rgwc
 側身西望長諮嗟	eqpl
 六朝舊事隨流水	agsn
@@ -209667,7 +209598,7 @@ encoder:
 莫道讒言如浪深	sqbn
 咸陽古道音塵絕	kpjo
 君子學以致其道	bkdq
-樊噲覆其盾於地	alph
+樊噲覆其盾於地	slph
 新豐美酒鬥十千	kuqm
 清歌妙舞落花前	nacq
 獨恨無人作鄭箋	hrgg
@@ -209691,7 +209622,7 @@ encoder:
 綠楊樹下養精神	oaaj
 累上留雲借月章	vjkk
 濃香吹盡有誰知	nmlj
-更多還肯失林巒	fxuo
+更多還肯失林巒	fxub
 明年花開復誰在	jgse
 紗窗幾度春光暮	oins
 春初早被相思染	oxjn
@@ -209767,7 +209698,7 @@ encoder:
 煙波澹盪搖空碧	innj
 年來轉覺此生浮	gadn
 一腔熱血勤珍重	fwhm
-畏途巉巖不可攀	vrua
+畏途巉巖不可攀	vrus
 不用鑽龜與祝蓍	gsts
 添得黃鸝四五聲	ncsh
 人前深意難輕訴	rqnb
@@ -209793,7 +209724,7 @@ encoder:
 膏面染須聊自欺	asnu
 陣圖開向隴山東	pwda
 人生留滯生理難	rpks
-千燈夜作魚龍變	miao
+千燈夜作魚龍變	miab
 東風吹我過湖船	aelu
 柳暗花明池上山	ajsu
 綠嬌隱約眉輕掃	ocpf
@@ -210458,7 +210389,7 @@ encoder:
 一去三十年	fhlg
 天之歷數在爾躬	fovq
 濟南名士知多少	ngxi
-春樹鬱金紅	oaao
+春樹鬱金紅	oajo
 出犯繁花露	whgc
 固國不以山溪之險	wwgp
 寧不知傾城與傾國	igjw
@@ -210586,7 +210517,7 @@ encoder:
 光彩露沾溼	iucn
 借問瘟君欲何往	edmc
 聞君有兩意	dbek
-攀桂仰天高	aaea
+攀桂仰天高	saea
 閉戶不能出	ddgw
 雌兔眼迷離	pxjt
 一鄉之善士	fkoh
@@ -210764,7 +210695,7 @@ encoder:
 膠鬲舉於魚鹽之中	wfdl
 影落清波十里紅	jsno
 君子於其言	bktb
-小隱入丘樊	ipka
+小隱入丘樊	ipks
 十七為君婦	gxkc
 春風朝夕起	oegh
 猿聲依舊愁	hhem
@@ -211407,7 +211338,7 @@ encoder:
 江魚美可求	nvqf
 我不欲人之加諸我也	ggko
 龍團小碾鬥晴窗	kwii
-鬱郁澗底松	aena
+鬱郁澗底松	jena
 中有武昌魚	lefv
 美人一笑褰珠箔	qrfg
 氣力迴天到此休	gswe
@@ -211489,7 +211420,7 @@ encoder:
 位在廉頗之右	eeme
 人倫之至也	reoo
 使江水兮安流	ennn
-萬丈丹梯尚可攀	sewa
+萬丈丹梯尚可攀	sews
 元是今朝鬥草贏	fjrt
 土山焦而不熱	hueh
 騫翮思遠翥	ifvh
@@ -211580,7 +211511,7 @@ encoder:
 三以天下讓	lefb
 七絃為益友	xoke
 長安陌上無窮樹	uipa
-攀條折其榮	aefi
+攀條折其榮	sefi
 始知結衣裳	cjoi
 則必有我師	jred
 葉葉自相當	ssqi
@@ -211652,7 +211583,7 @@ encoder:
 旌旆盡飛揚	ttbf
 丘不與易也	dgdo
 懷瑾握瑜兮	rjfk
-也應攀折他人手	omaf
+也應攀折他人手	omsf
 晉祠流水如碧玉	fjnj
 璆鏘鳴兮琳琅	jtlj
 幼子飢已卒	nkka
@@ -212038,7 +211969,7 @@ encoder:
 齊紈魯縞車班班	aovj
 寒天催日短	ifej
 紗窗醉夢中	oipl
-因招樊噲出	wfaw
+因招樊噲出	wfsw
 人間物類無可比	rdpn
 可愛者甚蕃	auhs
 玉真公主別館苦雨	jgkc
@@ -212274,7 +212205,7 @@ encoder:
 採桑徑裡逢迎	fbck
 一病訖不痊	fmbm
 其次詘體受辱	uibm
-春風吹盡不同攀	oela
+春風吹盡不同攀	oels
 因念遠戍卒	wrha
 黑白分明子數停	gdke
 堅貞就在這裡	huax
@@ -212466,7 +212397,7 @@ encoder:
 憶秦娥婁山關	rocd
 吾嘗跂而望矣	fipn
 割慈忍愛還租庸	iqmm
-鬱鬱蔥蔥佳氣浮	aasn
+鬱鬱蔥蔥佳氣浮	jjsn
 萬物皆嫵媚	spnc
 人煙撲地桑柘稠	rifm
 天下惡乎定	fjfi
@@ -212559,7 +212490,7 @@ encoder:
 十里月明燈火稀	gvwm
 其次剔毛髮	uiju
 結君早歸意	objk
-忳鬱邑餘侘傺兮	ralk
+忳鬱邑餘侘傺兮	rjlk
 莫自使眼枯	sqea
 九度附書向洛陽	rmpp
 有名而無實	exsi
@@ -212682,7 +212613,7 @@ encoder:
 疑泛九江船	nnru
 謝郎東墅連春碧	bkaj
 躊躇而雁行	ppsc
-府吏聞此變	mfdo
+府吏聞此變	mfdb
 若非月下即花前	suwq
 子固非魚也	kwuo
 必世而後仁	rsse
@@ -212703,7 +212634,7 @@ encoder:
 舉魯國而儒服	dvww
 今兩虎共鬥	rfud
 高揖衛叔卿	afck
-我懷鬱如焚	graa
+我懷鬱如焚	grja
 知君仙骨無寒暑	jbej
 正憐日破浪花出	frjw
 父老相逢鼻欲辛	khak
@@ -212933,7 +212864,7 @@ encoder:
 與天地兮同壽	dfhh
 樂與數晨夕	ddlx
 寒食清明春欲破	iknv
-形變而有生	fosp
+形變而有生	fbsp
 予又何規老聃哉	kbeg
 河陽縣裡雖無數	npjl
 秋江送別二首	mnqq
@@ -212967,7 +212898,7 @@ encoder:
 臨不測之淵	hgnn
 烏鵲橋紅帶夕陽	dsap
 白雲處處長隨君	dcub
-真能變成石頭嗎	gnol
+真能變成石頭嗎	gnbl
 父老空哽咽	khil
 閒愁如飛雪	dmcc
 魚見之深入	vjok
@@ -213146,7 +213077,7 @@ encoder:
 守節情不移	igrm
 君子平其政	bknf
 東皋薄暮望	adst
-氣變而有形	gosf
+氣變而有形	gbsf
 再續漢陽遊	jont
 唯有此花開	lepd
 落日對春華	sjis
@@ -213440,7 +213371,7 @@ encoder:
 看煎瑟瑟塵	fqjm
 古人無復洛城東	jrga
 聊逍遙兮容與	liwd
-樊噲從良坐	alcr
+樊噲從良坐	slcr
 盡眼凝滑無瑕疵	bjim
 健兒快馬紫遊韁	edrs
 夜傾閩酒赤如丹	aedw
@@ -213524,7 +213455,7 @@ encoder:
 古往今來只如此	jcrp
 日映西陵松柏枝	jjpa
 我亦君之徒	gtbc
-必變色而作	roxe
+必變色而作	rbxe
 當風不結蘭麝囊	iegg
 亦將何規哉	tdeg
 丘也請從而後也	dobo
@@ -213630,7 +213561,7 @@ encoder:
 掩卷忽而笑	fqwg
 不能五十里	gnfv
 非為織作遲	ukob
-莊周遊於雕陵之樊	swta
+莊周遊於雕陵之樊	swts
 府吏見丁寧	mfji
 夫召我者豈徒哉	omgg
 不若桂與蘭	gsas
@@ -213664,7 +213595,7 @@ encoder:
 四兒日夜長	wdju
 百花深處杜鵑啼	vsnl
 拭淚相看是故人	fnar
-蠻衣斑斕布	oaje
+蠻衣斑斕布	baje
 覺宇宙之無窮	diii
 漠漠秋雲起	nnmh
 舉欣欣然有喜色而相告曰	dddj
@@ -213876,7 +213807,7 @@ encoder:
 提劍出燕京	frwa
 日入相與歸	jkad
 從水之道而不為私焉	cnof
-龍宮變閭里	kiov
+龍宮變閭里	kibv
 且共歡此飲	jssk
 千萬不復全	msgk
 箜篌所悲竟不還	ggdu
@@ -214509,7 +214440,7 @@ encoder:
 不歸楊則歸墨	gdag
 思為雙飛燕	vkes
 時節忽復易	jgwj
-仰攀日月行	eajc
+仰攀日月行	esjc
 霜嚴衣帶斷	clan
 公乎公乎掛罥於其間	kgkd
 荊棘暗長原	sajv
@@ -214886,12 +214817,12 @@ encoder:
 撫孤松而盤桓	fkaa
 江樓夕望招客	naxi
 人靜鼠窺燈	rhdi
-夕陽窮登攀	xpia
+夕陽窮登攀	xpis
 雪白河豚不藥人	cdnr
 西風漫卷孤城	penh
 不離牆下至行時	gtdj
 此養神之道也	pqjo
-孤鸞舞鏡不作雙	koge
+孤鸞舞鏡不作雙	kbge
 君自此遠矣	bqpn
 惟梁孝王都	rnhh
 九齡書大字	rpbi
@@ -214902,7 +214833,7 @@ encoder:
 整整復斜斜	aacr
 彼惡敢當我哉	cfjg
 信馬悠悠野興長	eweu
-樊遲從遊於舞雩之下	abcj
+樊遲從遊於舞雩之下	sbcj
 楊柳陰陰細雨晴	aapj
 天下莫能臣	fjsh
 君莫向秋浦	bsdn
@@ -214944,7 +214875,7 @@ encoder:
 如珠未穿孔	cjfk
 不對芳春酒	gisn
 聖人工乎天而拙乎人	lrpr
-春變煙波色	ooix
+春變煙波色	obix
 極目蕭條三兩家	ajsi
 應時而變者也	mjso
 八蠶繭綿小分炷	khsi
@@ -215016,7 +214947,7 @@ encoder:
 爭新買寵各出意	ukuk
 杜鵑花裡杜鵑啼	alsl
 非鬼非人意其仙	udue
-鬱閉而不流	adsn
+鬱閉而不流	jdsn
 子桑殆病矣	kbfn
 使我傷懷奏短歌	egea
 奄忽隨物化	owpe
@@ -215297,7 +215228,7 @@ encoder:
 長沙千人萬人出	unmw
 明年半百又加三	jgql
 象罔乃可以得之乎	xcgg
-竊攀屈宋宜方駕	iabs
+竊攀屈宋宜方駕	isbs
 更聞桑田變成海	fdbn
 鄰人有美酒	qren
 遊子不顧返	tkgv
@@ -215601,7 +215532,7 @@ encoder:
 日落看歸鳥	jsfd
 碧虛無雲風不起	jugh
 煙波盡處一點白	inbd
-臣聞雲南六詔蠻	hdco
+臣聞雲南六詔蠻	hdcb
 是謂反其真	jbvg
 然終向之者	wodh
 兩家求合葬	fifs
@@ -216461,7 +216392,7 @@ encoder:
 將赴宣州留題揚州禪智寺	dhih
 會須一洗黃茅瘴	rcfm
 出處亦待時	wutj
-變化有鯤鵬	oeew
+變化有鯤鵬	beew
 骨氣乃有老松格	rgga
 天下良辰美景	fjkj
 喚取歸來同住	llde
@@ -216501,7 +216432,7 @@ encoder:
 虎有爪兮牛有角	ueux
 盤餐市遠無兼味	uual
 為溼最高花	kncs
-無動而不變	gmso
+無動而不變	gmsb
 只是別形軀	ljlq
 戲詠猩猩毛筆二首	ubhq
 猶作江南未歸客	heni
@@ -216757,7 +216688,7 @@ encoder:
 羞而不為也	qsgo
 空林獨與白雲期	iahu
 閉門鋤菜伴園丁	ddta
-能變人間世	nors
+能變人間世	nbrs
 自明無月夜	qjga
 紗巾草履竹疏衣	ousa
 吾何慊乎哉	ferg
@@ -216944,7 +216875,7 @@ encoder:
 古往今來底事無	jcrg
 只為一毫差	lkfq
 泉山渺渺汝何之	duno
-巖巒行穹跨	uocp
+巖巒行穹跨	ubcp
 封酒棕花香	hnam
 寂寞開最晚	iidj
 獨領殘兵千騎歸	hrfd
@@ -216970,7 +216901,7 @@ encoder:
 昔昔都成玦	sshj
 置以為像兮	uekk
 樂道人之善	dqrq
-戀月潭邊坐石稜	ownm
+戀月潭邊坐石稜	bwnm
 此人皆意有所鬱結	prno
 嵐光破崖綠	uivo
 葳蕤自生光	ssqi
@@ -217035,7 +216966,7 @@ encoder:
 魏不能信用	mgns
 雖有數鬥玉	lelj
 夫子何哂由也	okeo
-不敢攀貴德	gjac
+不敢攀貴德	gjsc
 朱華春不榮	psoi
 匡廬一帶不停留	hmfk
 君子何患乎無兄弟也	bkeo
@@ -217084,7 +217015,7 @@ encoder:
 多於機上之工女	xtac
 古之存身者	joeh
 不當時命而大窮乎天下	gijj
-鬱郁何所為	aeek
+鬱郁何所為	jeek
 自入秋來風景好	qkmc
 亦各言其子也	ttbo
 竹西花草弄春柔	gpsk
@@ -217491,7 +217422,7 @@ encoder:
 司馬牛憂曰	ywpj
 白雲堪臥君早歸	dchd
 晰晰燎火光	jjii
-鬱金香是蘭陵酒	atmn
+鬱金香是蘭陵酒	jtmn
 待吾還丹成	cfuk
 禮義由賢者出	jqdw
 翩翾粉翅開	duqd
@@ -217691,7 +217622,7 @@ encoder:
 能伴老夫否	nehg
 涼憶峴山巔	nruu
 何處登高望梓州	eubn
-雪胸鸞鏡裡	cwox
+雪胸鸞鏡裡	cwbx
 白雲滿碗花徘徊	dcnc
 一別舊遊盡	flsb
 東西四五百回圓	apww
@@ -217823,13 +217754,13 @@ encoder:
 凌厲越萬里	ivhv
 牆陰老春薺	dphs
 人不以善言為賢	rgeh
-靜一而不變	hfso
+靜一而不變	hfsb
 颯如鬆起籟	kcug
 明湖映天光	jnji
 洗盡煩惱毒	nbih
 與天地兮比壽	dfhh
 夫子之牆數仞	okoe
-人間桑海朝朝變	rdbo
+人間桑海朝朝變	rdbb
 勞者屍如丘	ihbd
 廬江小吏仲卿妻	mnif
 吾祖死於是	fjfj
@@ -217924,7 +217855,7 @@ encoder:
 軍前效力死還高	xqaa
 未有孔子也	feko
 明此以南鄉	jpek
-今又變而之死	rbof
+今又變而之死	rbbf
 道德三皇五帝	qcla
 夕波紅處近長安	xnoi
 楚山秦山皆白雲	auoc
@@ -218179,7 +218110,7 @@ encoder:
 人不知而不愠	rgjr
 白銀盤裏一青螺	dtuq
 尚思為國戍輪台	ivkn
-鬱孤台下清江水	aknn
+鬱孤台下清江水	jknn
 羣山萬壑赴荊門	busd
 歌管樓台聲細細	agao
 卻嫌脂粉污顏色	kcwx
@@ -218200,7 +218131,7 @@ encoder:
 香霧雲鬟濕	mccn
 白首卧松雲	dqhc
 稻花香裏説豐年	msmg
-久在樊籠裏	xeaa
+久在樊籠裏	xesa
 沾衣欲濕杏花雨	nakc
 男兒何不帶吳鈎	vdet
 把吳鈎看了	fltk
@@ -218281,7 +218212,7 @@ encoder:
 隱者自怡悦	phqr
 松聲晚窗裏	ahja
 手把紅旗旗不濕	ffon
-更加鬱鬱葱葱	fsas
+更加鬱鬱葱葱	fsjs
 萬户千門入畫圖	shmw
 萬户蕭疏鬼唱歌	shsa
 此去泉台招舊部	phdk
@@ -218439,7 +218370,7 @@ encoder:
 遙望齊州九點煙	wtai
 交戟之衞士欲止不內	agoc
 敍德皆仲尼	rcnb
-鬱鬱葱葱佳氣浮	aasn
+鬱鬱葱葱佳氣浮	jjsn
 餘因得遍觀羣書	kwcb
 千峯筍石千株玉	mugj
 又不能啓口	bgnl
@@ -218647,7 +218578,7 @@ encoder:
 良人執戟明光裏	krha
 無由再逢伊麪	gdja
 望驛台前撲地花	twns
-雪胸鸞鏡裏	cwoa
+雪胸鸞鏡裏	cwba
 故列敍時人	jfrr
 爭及此花檐户下	ugpj
 無衣牀夜寒	gadi
@@ -219208,9 +219139,9 @@ encoder:
 只爲一毫差	lufq
 天高不爲聞	fagd
 置以爲像兮	ueuk
-戀月潭邊坐石棱	owna
+戀月潭邊坐石棱	bwna
 開視化爲血	djeg
-鬱郁何所爲	aeeu
+鬱郁何所爲	jeeu
 夫爲天下者	oufh
 堯舜禹湯文武周孔皆爲灰	huge
 女嬋媛兮爲餘太息	cccq
@@ -228709,7 +228640,7 @@ encoder:
 国运	wjin
 懒惰	rare
 绿豆	kbfl
-攀谈	asdi
+攀谈	ssdi
 鞭挞	sefo
 蚕食	foks
 顶替	avoo
@@ -231214,7 +231145,7 @@ encoder:
 眉目传情	bjer
 排除万难	fpfb
 经天纬地	kfkh
-攀龙附凤	afpe
+攀龙附凤	sfpe
 歃血为盟	ngkj
 有口难言	elbb
 左拥右抱	efef
@@ -232468,7 +232399,7 @@ encoder:
 贬损	cgfl
 尘垢	ihhd
 纠结	kwkh
-攀亲	aska
+攀亲	sska
 定亲	ifka
 袅袅婷婷	mmcc
 改过	otho
@@ -234639,7 +234570,7 @@ encoder:
 为害	ksih
 综艺	kisy
 年迈	gafw
-攀岩	asuv
+攀岩	ssuv
 试问	dktl
 简历	gtvs
 升迁	gsmo
@@ -243761,7 +243692,7 @@ encoder:
 实价	iier
 幽远	unfl
 红极一时	kafj
-樊篱	asgt
+樊篱	ssgt
 坊间	httj
 明灭	jwfi
 穿凿	ihiq
@@ -253186,7 +253117,7 @@ encoder:
 莫测高深	snan
 鸟兽散	mqsw
 有伤风化	eeee
-樊笼	asgf
+樊笼	ssgf
 富态	ifok
 猎鹰	hsme
 保护色	efxo
@@ -262692,7 +262623,7 @@ encoder:
 白边	dbso
 飘游	pjnt
 西关	pxqo
-攀钢	asoc
+攀钢	ssoc
 板楼	avaq
 可持续发展	afkb
 栖霞	apcb
@@ -272114,7 +272045,7 @@ encoder:
 却顾所来径	hvdc
 红旗漫卷西风	ktne
 博观而约取	gbsl
-久在樊笼里	xeav
+久在樊笼里	xesv
 举世皆浊我独清	nsnn
 独学而无友	hnse
 勒索敲诈	sgad
@@ -273648,7 +273579,7 @@ encoder:
 时见归村人	jcqr
 合昏尚知时	rkij
 书此语桥柱上	ypdj
-天路幽险难追攀	fpua
+天路幽险难追攀	fpus
 南山归敝庐	guqm
 何处寻行迹	etbt
 黄菊枝头生晓寒	ssai
@@ -274713,7 +274644,7 @@ encoder:
 千千石楠树	mmva
 共说此年丰	sdpd
 且看欲尽花经眼	jfkj
-樊迟请学稼	abdm
+樊迟请学稼	sbdm
 独立而不改	hkso
 相过人不知	ahrj
 青山行不尽	hucb
@@ -275255,7 +275186,7 @@ encoder:
 不信比来长下泪	genn
 相与枕藉乎舟中	ahal
 看朱成碧思纷纷	fpkk
-樊哙侧其盾以撞	alef
+樊哙侧其盾以撞	slef
 人乞祭余骄妾妇	rgwc
 侧身西望长咨嗟	eqpl
 六朝旧事随流水	agun
@@ -275284,7 +275215,7 @@ encoder:
 莫道谗言如浪深	sqdn
 咸阳古道音尘绝	kpjk
 君子学以致其道	bknq
-樊哙覆其盾于地	alph
+樊哙覆其盾于地	slph
 新丰美酒斗十千	kdqm
 独恨无人作郑笺	hrfg
 折芳馨兮遗所思	fshv
@@ -275375,7 +275306,7 @@ encoder:
 烟波澹荡摇空碧	innj
 年来转觉此生浮	gfxn
 一腔热血勤珍重	fwfm
-畏途巉岩不可攀	vrua
+畏途巉岩不可攀	vrus
 不用钻龟与祝蓍	gsos
 添得黄鹂四五声	ncsh
 人前深意难轻诉	rqnd
@@ -276215,7 +276146,7 @@ encoder:
 胶鬲举于鱼盐之中	wfnl
 影落清波十里红	jsnk
 君子于其言	bkfb
-小隐入丘樊	ipka
+小隐入丘樊	ipks
 十七为君妇	gxkc
 春风朝夕起	oegh
 猿声依旧愁	hhem
@@ -276822,7 +276753,7 @@ encoder:
 道束悬崖半	qajq
 位在廉颇之右	eeme
 人伦之至也	reoo
-万丈丹梯尚可攀	fewa
+万丈丹梯尚可攀	fews
 元是今朝斗草赢	fjrt
 土山焦而不热	huef
 骞翮思远翥	ifvh
@@ -276900,7 +276831,7 @@ encoder:
 三以天下让	lefd
 七弦为益友	xbke
 长安陌上无穷树	nipa
-攀条折其荣	atfs
+攀条折其荣	stfs
 始知结衣裳	cjki
 则必有我师	creq
 叶叶自相当	llqi
@@ -276964,7 +276895,7 @@ encoder:
 旌旆尽飞扬	ttbf
 丘不与易也	dgho
 怀瑾握瑜兮	rjfk
-也应攀折他人手	omaf
+也应攀折他人手	omsf
 晋祠流水如碧玉	ljnj
 璆锵鸣兮琳琅	jolj
 幼子饥已卒	nkxa
@@ -277300,7 +277231,7 @@ encoder:
 倚天照海花无数	efjq
 齐纨鲁缟车班班	tkxj
 纱窗醉梦中	kipl
-因招樊哙出	wfaw
+因招樊哙出	wfsw
 人间物类无可比	rtpn
 可爱者甚蕃	auhs
 玉真公主别馆苦雨	jgkc
@@ -277493,7 +277424,7 @@ encoder:
 采桑径里逢迎	ubck
 一病讫不痊	fmdm
 其次诎体受辱	uidm
-春风吹尽不同攀	oela
+春风吹尽不同攀	oels
 因念远戍卒	wrfa
 黑白分明子数停	gdke
 坚贞就在这里	uuav
@@ -278501,7 +278432,7 @@ encoder:
 看煎瑟瑟尘	fqji
 古人无复洛城东	jrfx
 聊逍遥兮容与	liwh
-樊哙从良坐	alrr
+樊哙从良坐	slrr
 尽眼凝滑无瑕疵	bjim
 健儿快马紫游缰	ewrk
 夜倾闽酒赤如丹	aetw
@@ -278668,7 +278599,7 @@ encoder:
 夫子见老聃	okcl
 望洋向若而叹曰	tndj
 非为织作迟	ukkb
-庄周游于雕陵之樊	mwna
+庄周游于雕陵之樊	mwns
 府吏见丁宁	mfci
 夫召我者岂徒哉	omgg
 不若桂与兰	gsaq
@@ -279791,7 +279722,7 @@ encoder:
 抚孤松而盘桓	fkaa
 江楼夕望招客	naxi
 人静鼠窥灯	rhdi
-夕阳穷登攀	xpia
+夕阳穷登攀	xpis
 雪白河豚不药人	cdnr
 西风漫卷孤城	penh
 不离墙下至行时	gthj
@@ -279805,7 +279736,7 @@ encoder:
 整整复斜斜	aagr
 彼恶敢当我哉	cljg
 信马悠悠野兴长	eben
-樊迟从游于舞雩之下	abrj
+樊迟从游于舞雩之下	sbrj
 杨柳阴阴细雨晴	aapj
 事会之适也	hroo
 东家蝴蝶西家飞	xiqy
@@ -280141,7 +280072,7 @@ encoder:
 雪堂风雨夜	ciea
 秋来兴甚长	mfnn
 长沙千人万人出	nnmw
-窃攀屈宋宜方驾	iabs
+窃攀屈宋宜方驾	isbs
 更闻桑田变成海	ftbn
 邻人有美酒	rren
 游子不顾返	nkgv
@@ -281611,7 +281542,7 @@ encoder:
 徒慕君之高义也	csbo
 老人自笑还多事	hrqh
 虽有数斗玉	leqj
-不敢攀贵德	gjac
+不敢攀贵德	gjsc
 朱华春不荣	peos
 匡庐一带不停留	hmfk
 君子何患乎无兄弟也	bkeo

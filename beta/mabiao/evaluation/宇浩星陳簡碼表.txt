@@ -21547,7 +21547,7 @@
 雸	csir
 雼	cvsy
 霃	cnxw
-霊	cflq
+霊	ciie
 霌	cwhl
 霔	cnkj
 霕	cinw
@@ -70524,7 +70524,7 @@
 𪋰	muhj
 𪋱	mdts
 𪋲	miia
-𪋳	mcfq
+𪋳	mcii
 𪋴	mefd
 𪋵	mbnn
 𪋶	mcll
@@ -81550,7 +81550,7 @@
 𬻚	padz
 𬻛	ghna
 𬻜	ffsf
-𬻝	gsff
+𬻝	gsir
 𬻞	kbka
 𬻟	fsfk
 𬻠	fllo

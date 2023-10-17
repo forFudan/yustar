@@ -3,7 +3,7 @@
 
 schema:
   schema_id: yustar_tw
-  name: 宇浩·星陳·臺灣正體簡碼
+  name: 宇浩·星陳·臺灣正體
   version: 20231001
   author:
     - 發明人 朱宇浩
@@ -138,7 +138,7 @@ speller:
 translator:
   dictionary: yustar_tw
   prism: yustar_tw
-  db_class: tabledb
+  # db_class: tabledb
   enable_completion: true
   enable_sentence: false
   enable_user_dict: true

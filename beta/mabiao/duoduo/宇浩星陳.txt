@@ -9863,7 +9863,6 @@
 徑	cflp
 娙	cflp
 𨚯	cflp
-霊	cflq
 㛒	cflq
 𩃾	cflq
 𤭁	cflr
@@ -10359,6 +10358,7 @@
 㛮	ciib
 𧗠	ciic
 𡤰	ciid
+霊	ciie
 赕	ciih
 婒	ciih
 𰞘	ciih
@@ -28849,7 +28849,6 @@
 鷡	gsfd
 𥸁	gsfe
 𩁳	gsfe
-𬻝	gsff
 𥷯	gsfh
 無	gsfi
 卋	gsfi
@@ -28892,6 +28891,7 @@
 黚	gsir
 䇞	gsir
 䈽	gsir
+𬻝	gsir
 𥵚	gsis
 篏	gsix
 笹	gsiz
@@ -55508,7 +55508,6 @@
 𧳆	mcfl
 癥	mcfm
 𱱗	mcfp
-𪋳	mcfq
 𣰓	mcft
 癓	mcfw
 𢋋	mcfw
@@ -55527,6 +55526,7 @@
 䝢	mcib
 𭼡	mcib
 𥞧	mcic
+𪋳	mcii
 𣯀	mcij
 𱱨	mcik
 𥢚	mcin
