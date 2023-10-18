@@ -4,7 +4,7 @@
 # 宇浩星陳·全漢字拆分表
 # 官方拆分表
 # 朱宇浩 發明
-# 版本 20231017
+# 版本 20231018
 
 # 介紹：
 # 本拆分表包含CJK基本區、CJK擴展A至H區、部首區、兼容區、筆畫區所有漢字的全漢字拆分。
@@ -21,7 +21,7 @@
 
 ---
 name: "yustar_chaifen"
-version: 20231017
+version: 20231018
 sort: by_weight
 columns:
   - text
@@ -80599,7 +80599,7 @@ columns:
 𬼖	[{反彐},Bjⓙ,,CJK-F]
 𬼗	[{卬左}乚,KEiⓜ,,CJK-F]
 𬼘	[〣七,UXiⓢ,,CJK-F]
-𬼙	[七七乚,XXEi,,CJK-F]
+𬼙	[十七乚,GXEi,,CJK-F]
 𬼚	[匕乚匕,NENb,,CJK-F]
 𬼛	[之乙,OYiⓩ,,CJK-F]
 𬼜	[冖也,XOeⓜ,,CJK-F]

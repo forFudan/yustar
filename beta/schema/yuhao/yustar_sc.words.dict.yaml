@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.words"
-version: "20231017"
+version: "20231018"
 sort: original
 columns:
   - text
