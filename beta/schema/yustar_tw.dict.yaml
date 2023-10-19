@@ -8,7 +8,7 @@ name: "yustar_tw"
 version: "20231019"
 sort: original
 import_tables:
-  - yuhao.extended
+  - yuhao/yuhao.extended
 columns:
   - text
   - code
