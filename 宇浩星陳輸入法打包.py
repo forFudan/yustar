@@ -47,7 +47,7 @@ for file_name in [
     copyfile(f"../yuhao/beta/schema/{file_name}", f"./dist/yustar/schema/{file_name}")
 
 # %%
-shutil.make_archive(f"./dist/宇浩星陳_{version}", 'zip', "./dist/yustar")
+shutil.make_archive(f"./dist/yuhao_star_{version}", 'zip', "./dist/yustar")
 # %%
-copyfile(f"./dist/宇浩星陳_{version}.zip", f"../yuhao/dist/宇浩星陳_{version}.zip")
+copyfile(f"./dist/yuhao_star_{version}.zip", f"../yuhao/dist/yuhao_star_{version}.zip")
 # %%
