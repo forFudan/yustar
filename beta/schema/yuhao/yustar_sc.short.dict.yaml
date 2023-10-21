@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.short"
-version: "20231019"
+version: "20231021"
 sort: original
 columns:
   - text
@@ -10557,6 +10557,7 @@ columns:
 全	kjw
 龜	xgm
 㔕	gfy
+及	gyb
 呈	lmr
 峀	uvt
 起	hos
@@ -11126,6 +11127,7 @@ columns:
 全	kjw
 反	vbo
 房	dtf
+及	gyb
 处	tre
 角	xwh
 差	qgp
