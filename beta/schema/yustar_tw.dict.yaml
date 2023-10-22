@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳·臺正
-# 版本: 20231021
+# 版本: 20231022
 #
 ---
 name: "yustar_tw"
-version: "20231021"
+version: "20231022"
 sort: original
 import_tables:
   - yuhao/yuhao.extended
@@ -29,7 +29,7 @@ encoder:
 這	b
 得	c
 的	d
-有	e
+你	e
 一	f
 我	g
 地	h
@@ -54,7 +54,7 @@ encoder:
 這些	b
 得到	c
 的確	d
-有人	e
+你們	e
 一定	f
 我們	g
 地方	h
@@ -79,7 +79,7 @@ encoder:
 這麼	b
 得知	c
 的士	d
-有些	e
+你好	e
 一起	f
 我國	g
 地球	h
@@ -223,8 +223,8 @@ encoder:
 仿	et
 在	eu
 優	ev
-個	ew
-你	ex
+有	ew
+像	ex
 亿	ey
 𠂇	ez
 打	fa
@@ -835,8 +835,8 @@ encoder:
 仿效	et
 在場	eu
 優秀	ev
-個性	ew
-你們	ex
+有人	ew
+像素	ex
 打開	fa
 五月	fb
 麗日	fc
@@ -1383,8 +1383,8 @@ encoder:
 仿照	et
 在於	eu
 優化	ev
-個人	ew
-你好	ex
+有些	ew
+像樣	ex
 打算	fa
 五彩	fb
 麗質	fc

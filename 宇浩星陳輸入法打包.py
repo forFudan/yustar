@@ -8,7 +8,7 @@ from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 from shutil import copyfile
 
-version = "v3.1.1"
+version = "v3.1.2"
 
 #%%
 for _ in range(2):
@@ -50,4 +50,5 @@ for file_name in [
 shutil.make_archive(f"./dist/yuhao_star_{version}", 'zip', "./dist/yustar")
 # %%
 copyfile(f"./dist/yuhao_star_{version}.zip", f"../yuhao/dist/yuhao_star_{version}.zip")
+copyfile(f"./dist/yuhao_star_{version}.zip", f"../yuhao/dist/宇浩星陳_{version}.zip")
 # %%
