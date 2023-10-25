@@ -1,14 +1,14 @@
 # encoding: utf-8
 ---
 name: "yustar_tc.quick"
-version: "20231022"
+version: "20231025"
 sort: original
 columns:
   - text
   - code
 ...
 
-可	a
+就	a
 這	b
 好	c
 的	d
@@ -33,7 +33,7 @@ columns:
 然	w
 多	x
 那	y
-可以	a
+就是	a
 這些	b
 好奇	c
 的確	d
@@ -57,7 +57,7 @@ columns:
 然而	w
 多少	x
 那麽	y
-可能	a
+就業	a
 這麽	b
 好友	c
 一起	f
@@ -86,7 +86,7 @@ columns:
 本	af
 高	ag
 樹	ah
-就	ai
+京	ai
 想	aj
 李	ak
 來	al
@@ -179,7 +179,7 @@ columns:
 向	dx
 畅	dy
 至	dz
-何	ea
+集	ea
 友	eb
 儒	ec
 們	ed
@@ -205,7 +205,7 @@ columns:
 像	ex
 伺	ey
 𠂇	ez
-打	fa
+抗	fa
 五	fb
 麗	fc
 拍	fd
@@ -318,7 +318,7 @@ columns:
 縣	ji
 現	jj
 具	jk
-知	jl
+可	jl
 目	jm
 顯	jn
 眠	jo
@@ -419,7 +419,7 @@ columns:
 海	ng
 法	nh
 演	ni
-湖	nj
+河	nj
 注	nk
 活	nl
 刊	nm
@@ -444,7 +444,7 @@ columns:
 級	og
 結	oh
 己	oi
-規	oj
+奇	oj
 太	ok
 緝	ol
 秦	om
@@ -461,7 +461,7 @@ columns:
 民	ox
 钇	oy
 之	oz
-阿	pa
+陳	pa
 踴	pb
 制	pc
 陣	pd
@@ -562,7 +562,7 @@ columns:
 驚	sw
 蒙	sx
 用	sy
-釘	ta
+鍊	ta
 鍵	tb
 鋼	tc
 錦	td
@@ -703,7 +703,7 @@ columns:
 本來	af
 高峰	ag
 樹立	ah
-就是	ai
+京城	ai
 想象	aj
 李白	ak
 來自	al
@@ -786,7 +786,7 @@ columns:
 兒子	dw
 向上	dx
 至於	dz
-何必	ea
+集團	ea
 友誼	eb
 儒家	ec
 似乎	ee
@@ -809,7 +809,7 @@ columns:
 優秀	ev
 有些	ew
 伺候	ey
-打開	fa
+抗議	fa
 五月	fb
 拍攝	fd
 推動	fe
@@ -910,7 +910,7 @@ columns:
 縣城	ji
 現在	jj
 具有	jk
-知道	jl
+可以	jl
 目前	jm
 顯示	jn
 星期	jp
@@ -994,7 +994,7 @@ columns:
 海燕	ng
 法國	nh
 演出	ni
-湖南	nj
+河南	nj
 注視	nk
 活動	nl
 刊登	nm
@@ -1018,7 +1018,7 @@ columns:
 經過	of
 級别	og
 結束	oh
-規模	oj
+奇怪	oj
 太陽	ok
 繼續	on
 選擇	oo
@@ -1032,7 +1032,7 @@ columns:
 約束	ow
 民族	ox
 之後	oz
-阿姨	pa
+陳舊	pa
 制度	pc
 陣地	pd
 隨着	pe
@@ -1116,7 +1116,7 @@ columns:
 驚喜	sw
 蒙古	sx
 用户	sy
-釘子	ta
+鍊鋼	ta
 鍵盤	tb
 鋼琴	tc
 文章	te
@@ -1220,7 +1220,7 @@ columns:
 本人	af
 高度	ag
 樹林	ah
-就業	ai
+京劇	ai
 想念	aj
 來往	al
 木頭	am
@@ -1294,7 +1294,7 @@ columns:
 兒女	dw
 向來	dx
 至少	dz
-何况	ea
+集中	ea
 友好	eb
 似的	ee
 風險	ef
@@ -1313,7 +1313,7 @@ columns:
 在於	eu
 優化	ev
 有關	ew
-打算	fa
+抗戰	fa
 五彩	fb
 拍照	fd
 推進	fe
@@ -1406,7 +1406,7 @@ columns:
 縣長	ji
 現代	jj
 具備	jk
-知識	jl
+可能	jl
 目標	jm
 顯得	jn
 星星	jp
@@ -1482,7 +1482,7 @@ columns:
 海洋	ng
 法律	nh
 演員	ni
-湖北	nj
+河流	nj
 注意	nk
 活躍	nl
 刊物	nm
@@ -1503,7 +1503,7 @@ columns:
 也罷	oe
 經濟	of
 結果	oh
-規則	oj
+奇蹟	oj
 太子	ok
 繼承	on
 選舉	oo
@@ -1515,7 +1515,7 @@ columns:
 約定	ow
 民間	ox
 之間	oz
-阿婆	pa
+陳述	pa
 制定	pc
 陣容	pd
 隨便	pe
@@ -1673,7 +1673,6 @@ columns:
 迅猛	yg
 承擔	yn
 蛋糕	yp
-亭	aad
 焚	aai
 榜	aaq
 楚	aay
@@ -1691,8 +1690,9 @@ columns:
 櫃	ahl
 憖	ahr
 樸	aiq
-京	aiv
+檔	aiv
 鬱	aja
+亭	ajd
 楊	ajf
 棍	ajn
 東	ajr
@@ -1704,7 +1704,6 @@ columns:
 效	aks
 榴	akv
 享	akz
-歌	ala
 樓	alg
 枴	alm
 整	alt
@@ -1716,6 +1715,7 @@ columns:
 畜	anv
 充	anw
 杞	aoi
+椅	aoj
 橢	ape
 梯	aqb
 敵	aqc
@@ -1808,16 +1808,15 @@ columns:
 嬌	cml
 衍	cni
 始	cnl
-婍	coa
 姨	cob
 妃	coi
+婍	coj
 嫌	cqb
 零	crk
 曲	cso
 徘	cuf
 徭	cuj
 赒	cwh
-軻	dal
 鬧	dau
 闌	daw
 闢	dbl
@@ -1840,6 +1839,7 @@ columns:
 壯	dhs
 魈	diw
 暢	djf
+軻	djl
 皇	djw
 耘	dki
 軾	dkp
@@ -1863,8 +1863,7 @@ columns:
 閒	dwy
 閻	dxd
 軟	dxq
-停	eaa
-集	eam
+朵	eam
 傍	eaq
 健	eba
 儲	ebh
@@ -1902,6 +1901,7 @@ columns:
 傭	emb
 僑	eml
 颱	enl
+倚	eoj
 左	epg
 促	epz
 僧	eqj
@@ -1928,6 +1928,7 @@ columns:
 撲	fiq
 擋	fiv
 挖	fiy
+打	fjd
 担	fjf
 揭	fjw
 撼	fkf
@@ -2050,7 +2051,7 @@ columns:
 埔	hnf
 埃	hnj
 劫	hns
-猗	hoa
+猗	hoj
 素	hos
 增	hqj
 猶	hqp
@@ -2101,7 +2102,7 @@ columns:
 魂	ind
 凝	inj
 窈	ins
-窺	ioj
+寄	ioj
 寮	ioq
 冼	ipw
 窮	iqb
@@ -2109,6 +2110,7 @@ columns:
 邃	iqt
 黹	iqu
 窩	irk
+寧	iru
 寬	isj
 烘	isk
 客	itl
@@ -2173,6 +2175,7 @@ columns:
 瓏	jkw
 辜	jkx
 晟	jky
+哥	jlj
 禪	jll
 祝	jlw
 晨	jmc
@@ -2183,6 +2186,7 @@ columns:
 睃	jnk
 貽	jnl
 昆	jnn
+琦	joj
 缸	jpg
 罈	jpj
 眦	jpn
@@ -2204,6 +2208,8 @@ columns:
 暖	jun
 瑞	jus
 曖	jux
+顶	jvc
+頂	jvj
 易	jwc
 眺	jwi
 克	jwr
@@ -2253,7 +2259,6 @@ columns:
 氏	kxi
 飩	kxw
 盛	kyu
-叮	lad
 喇	lal
 啼	laq
 嚷	las
@@ -2274,10 +2279,10 @@ columns:
 嘔	lhl
 嗜	lhn
 吐	lht
-咛	lia
-嚀	lir
+咛	lij
 噹	liv
 巢	lja
+叮	ljd
 咕	ljg
 遺	ljj
 呈	ljw
@@ -2326,6 +2331,7 @@ columns:
 稜	mhk
 毯	mii
 瘍	mjf
+痴	mjl
 麈	mkj
 瘤	mkv
 召	mlv
@@ -2349,9 +2355,7 @@ columns:
 瘵	mwj
 庖	mwo
 瘓	mxc
-汀	nad
 滚	nak
-河	nal
 澈	nan
 津	nba
 澄	nbf
@@ -2375,6 +2379,7 @@ columns:
 濤	nhy
 鯊	nig
 淡	nii
+汀	njd
 湯	njf
 混	njn
 沮	njq
@@ -2455,7 +2460,7 @@ columns:
 紹	oml
 锤	oms
 縛	onh
-綺	ooa
+綺	ooj
 繚	ooq
 縹	opj
 縊	oqk
@@ -2494,6 +2499,7 @@ columns:
 顰	piv
 貢	pjb
 醍	pjf
+阿	pjl
 阻	pjq
 票	pjs
 踢	pjw
@@ -2501,7 +2507,7 @@ columns:
 障	pkj
 陪	pkl
 踏	pnj
-犄	poa
+犄	poj
 遷	poo
 酷	ppl
 齜	ppn
@@ -2532,6 +2538,7 @@ columns:
 蜿	qix
 粿	qja
 糧	qjf
+蜘	qjl
 糊	qjw
 蟑	qkj
 粒	qkl
@@ -2590,6 +2597,7 @@ columns:
 黄	sdk
 蔥	sdt
 鞭	sef
+荷	sej
 莅	sek
 希	seu
 苪	sfc
@@ -2636,7 +2644,6 @@ columns:
 艺	syi
 蒸	syn
 鑲	tas
-鍊	taw
 鏽	tbd
 妄	tcn
 逢	tdo
@@ -2657,7 +2664,6 @@ columns:
 惫	tvr
 離	twc
 鬆	uak
-舸	ual
 肆	uba
 亂	ubc
 虐	ubj
@@ -2678,6 +2684,7 @@ columns:
 崇	uij
 峭	uiw
 貞	ujb
+舸	ujl
 遥	ujo
 幔	uju
 卓	ujz
@@ -2689,6 +2696,7 @@ columns:
 爬	uob
 崦	uod
 岂	uoi
+崎	uoj
 罾	uqj
 崙	urf
 岭	urk
@@ -2746,6 +2754,7 @@ columns:
 驕	wml
 勾	wna
 肥	wob
+騎	woj
 包	wos
 驃	wpj
 謄	wqo
@@ -2765,7 +2774,6 @@ columns:
 肫	wxw
 鲸	xai
 较	xak
-轲	xal
 鳣	xaw
 辍	xbb
 裙	xbg

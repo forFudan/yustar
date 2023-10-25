@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.words"
-version: "20231022"
+version: "20231025"
 sort: original
 columns:
   - text
@@ -27,7 +27,7 @@ columns:
 世纪	siko
 那个	yaru
 游戏	ntbk
-可以	alek
+可以	jlek
 工作	pgeg
 这些	topn
 什么	eggn
@@ -65,12 +65,12 @@ columns:
 问题	tljf
 如果	clja
 为了	kske
-可能	alnw
+可能	jlnw
 特别	phls
 发展	wbbs
 公司	knyf
 表示	hgjs
-如何	clea
+如何	clej
 先生	pwps
 完全	ifrj
 继续	kqkg
@@ -277,7 +277,7 @@ columns:
 前面	qwsm
 女人	cnre
 从来	rrfq
-黄河	sdna
+黄河	sdnj
 忽然	wcwh
 少年	igga
 爱情	uxrh
@@ -297,7 +297,7 @@ columns:
 青春	hwoj
 勇气	bsgq
 果然	jawh
-奇怪	oarb
+奇怪	ojrb
 爷爷	ksks
 害怕	idrd
 老婆	hnnb
@@ -333,8 +333,8 @@ columns:
 莫名其妙	sxuc
 再见	jccj
 动静	inhw
-无可奈何	faoe
-不可思议	gavd
+无可奈何	fjoe
+不可思议	gjvd
 兴高采烈	nauf
 回家	wlit
 这个	toru
@@ -391,7 +391,7 @@ columns:
 时期	jhuw
 根据	agfb
 机会	aeri
-可是	aljf
+可是	jljf
 责任	hcem
 知识	jldl
 行动	ciin
@@ -565,7 +565,7 @@ columns:
 地点	houl
 辉煌	ilid
 丈夫	ekof
-哥哥	alal
+哥哥	jljl
 奶奶	cgcg
 实事求是	ihfj
 早晨	jzjm
@@ -578,11 +578,11 @@ columns:
 儿女	wrcn
 爆发	ijwb
 随便	peef
-灯光	iail
+灯光	ijil
 肚子	whkz
 通道	bsqq
 机器	aell
-可怜	alrr
+可怜	jlrr
 聪明	lqjw
 后果	dfja
 沙漠	nins
@@ -592,7 +592,7 @@ columns:
 宇宙	ifid
 平常	nqiu
 人间	retj
-大哥	odal
+大哥	odjl
 笑容	gmir
 相似	ajee
 岁月	uxwy
@@ -620,7 +620,7 @@ columns:
 影子	jakz
 恋爱	trux
 罢了	uhke
-何必	earg
+何必	ejrg
 反正	dbfp
 获取	shlb
 屁股	bnwe
@@ -628,7 +628,7 @@ columns:
 礼物	jepw
 镜子	okkz
 欲望	krtw
-何况	eail
+何况	ejil
 滋味	nqlf
 苹果	snja
 必定	rgif
@@ -646,7 +646,7 @@ columns:
 原谅	vdda
 疼痛	mtmb
 教堂	hkih
-好奇	ckoa
+好奇	ckoj
 惊喜	rahl
 幸运	hqin
 光芒	ilst
@@ -702,7 +702,7 @@ columns:
 或者	klhj
 各种	tlml
 其他	uqeo
-任何	emea
+任何	emej
 表现	hgjc
 书记	yydo
 力量	sljf
@@ -880,7 +880,7 @@ columns:
 马上	bmjv
 西方	pxtf
 商业	aqie
-打开	fafs
+打开	fjfs
 特色	phxo
 居民	bjox
 维护	kefh
@@ -999,7 +999,7 @@ columns:
 等待	ghch
 一行	fici
 随时	pejh
-打算	fagj
+打算	fjgj
 简直	gtgj
 欣赏	dxic
 军人	xxre
@@ -1015,7 +1015,7 @@ columns:
 皇帝	djaq
 故意	jtkj
 证据	dffb
-可见	alcj
+可见	jlcj
 婚姻	ckcw
 艰难	bgbe
 重复	mvgj
@@ -1194,7 +1194,7 @@ columns:
 折磨	fdmv
 咖啡	lslu
 犹豫	hfkx
-神奇	jdoa
+神奇	jdoj
 从容	rrir
 无情	ffrh
 往事	ckhl
@@ -1212,7 +1212,7 @@ columns:
 讽刺	deac
 真心	gjri
 天堂	foih
-屋顶	bdav
+屋顶	bdjv
 拥抱	fsfw
 了不起	kgho
 寡妇	ivcb
@@ -1254,7 +1254,7 @@ columns:
 不约而同	gksc
 错综复杂	okgr
 理所当然	jdiw
-可想而知	aasj
+可想而知	jasj
 传送	eiqo
 应运而生	misp
 凶手	swfs
@@ -1413,7 +1413,7 @@ columns:
 上来	jvfq
 推动	fein
 美元	qofl
-打击	faaw
+打击	fjaw
 公开	knfs
 最终	jlkt
 运用	insy
@@ -1462,7 +1462,7 @@ columns:
 模式	askp
 区域	hshk
 东北	xiqn
-河南	nagc
+河南	njgc
 担任	fjem
 将来	qxfq
 降低	ptek
@@ -1553,7 +1553,7 @@ columns:
 战胜	ulwp
 大批	odfn
 机械	aeak
-打破	favb
+打破	fjvb
 城镇	hkog
 生长	psnc
 蔬菜	sysu
@@ -1646,7 +1646,7 @@ columns:
 泰国	onwj
 总之	qloz
 个性	rurp
-可惜	alrs
+可惜	jlrs
 配置	poug
 愉快	rrrb
 古老	jghn
@@ -1664,7 +1664,7 @@ columns:
 生气	psgq
 天天	fofo
 解除	xspr
-可怕	alrd
+可怕	jlrd
 风景	esja
 走私	hzmn
 默默	ghgh
@@ -1721,7 +1721,7 @@ columns:
 千方百计	mtvd
 厨房	vfht
 连忙	xort
-奇迹	oato
+奇迹	ojto
 充实	anii
 转换	xifx
 称赞	mxpw
@@ -1782,7 +1782,7 @@ columns:
 急忙	xbrt
 商人	aqre
 客气	itgq
-客厅	itva
+客厅	itvj
 压迫	vhdo
 委屈	mcbw
 乘客	mqit
@@ -1814,8 +1814,8 @@ columns:
 轻易	xbjw
 不妨	guct
 和尚	mlis
-何以	eaek
-打扮	fafk
+何以	ejek
+打扮	fjfk
 真情	gjrh
 输入	xrkr
 欺骗	uxbh
@@ -1842,7 +1842,7 @@ columns:
 行李	ciak
 恰恰	rrrr
 林木	aaam
-可笑	algm
+可笑	jlgm
 形状	fsqh
 箱子	gakz
 牙齿	hypr
@@ -1850,7 +1850,7 @@ columns:
 灰色	eixo
 谈论	didr
 谨慎	dsrg
-打断	faqe
+打断	fjqe
 多半	xxqa
 电池	ddno
 向往	dxck
@@ -1869,7 +1869,7 @@ columns:
 暗示	jkjs
 心愿	rivd
 恰好	rrck
-宁静	iahw
+宁静	ijhw
 自在	qieu
 传授	eifu
 钢琴	ocjj
@@ -1881,7 +1881,7 @@ columns:
 就算	aigj
 楼梯	aqaq
 本能	afnw
-阿姨	paco
+阿姨	pjco
 女生	cnps
 难怪	berb
 不如	gucl
@@ -1930,7 +1930,7 @@ columns:
 背影	qnja
 笑脸	gmwr
 随手	pefs
-打发	fawb
+打发	fjwb
 路口	ptlv
 桃花	awse
 参照	nojm
@@ -2063,7 +2063,7 @@ columns:
 下次	jxix
 紧紧	ubub
 只能	lknw
-墨西哥	gpal
+墨西哥	gpjl
 快要	rbpc
 心中	rilu
 窗外	idxu
@@ -2075,7 +2075,7 @@ columns:
 长安	ncic
 那儿	yawr
 低声	ekhb
-何时	eajh
+何时	ejjh
 分开	kmfs
 纽约	kbkw
 放过	ttho
@@ -2429,7 +2429,7 @@ columns:
 悄悄	riri
 资产阶级	ikpk
 信仰	ebek
-可靠	alpl
+可靠	jlpl
 好好	ckck
 顾客	vait
 占领	ulrk
@@ -2457,14 +2457,14 @@ columns:
 喜爱	hlux
 罚款	udhj
 清晰	nhja
-可爱	alux
+可爱	jlux
 马路	bmpt
 宿舍	ierl
 年纪	gako
 从中	rrlu
 高潮	agng
 慰问	bjtl
-为何	ksea
+为何	ksej
 灵活	binl
 至此	dzpn
 忽视	wcjc
@@ -2532,7 +2532,7 @@ columns:
 灾难	iibe
 上门	jvtm
 夜晚	aejx
-歌曲	alcs
+歌曲	jlcs
 车站	xjku
 恶化	lqen
 有趣	ewhl
@@ -2552,14 +2552,14 @@ columns:
 能量	nwjf
 月份	wyek
 步骤	pibl
-歌声	alhb
+歌声	jlhb
 有名	ewxl
 强度	blms
 太子	okkz
 对抗	bhfa
 描述	fsak
 工夫	pgof
-打听	fald
+打听	fjld
 奖金	qxtj
 回收	wlwt
 名牌	xldd
@@ -2697,7 +2697,7 @@ columns:
 未曾	fwqj
 死刑	fxfs
 分成	kmky
-头顶	ioav
+头顶	iojv
 反馈	dbxl
 目录	jmbn
 震动	cmin
@@ -2730,7 +2730,7 @@ columns:
 感叹	kflb
 符号	gelh
 抛弃	fran
-餐厅	uxva
+餐厅	uxvj
 不忍	gumk
 播放	fgtt
 老大	hnod
@@ -2743,7 +2743,7 @@ columns:
 行走	cihz
 茶叶	srlg
 教会	hkri
-传奇	eioa
+传奇	eioj
 请问	dhtl
 黑人	ghre
 光线	ilkf
@@ -2793,7 +2793,7 @@ columns:
 餐馆	uxxi
 言语	bydf
 着想	qjaj
-歌手	alfs
+歌手	jlfs
 女婿	cncy
 往后	ckdf
 任意	emkj
@@ -2878,7 +2878,7 @@ columns:
 躲避	qebl
 隐瞒	pxjs
 假期	ebuw
-宁可	iaal
+宁可	ijjl
 反击	dbaw
 班主任	jkem
 化妆品	eqll
@@ -2927,7 +2927,7 @@ columns:
 嘿嘿	lglg
 着实	qjii
 体温	eanj
-灯笼	iagf
+灯笼	ijgf
 悲观	urbc
 惭愧	rxrd
 胡说	jwdq
@@ -2948,7 +2948,7 @@ columns:
 只怕	lkrd
 雷雨	cvcy
 冷却	irhn
-歌词	aldy
+歌词	jldy
 管家	giit
 开头	fsio
 开关	fsqo
@@ -2956,7 +2956,7 @@ columns:
 含笑	rkgm
 偏差	ehqp
 果真	jagj
-宁愿	iavd
+宁愿	ijvd
 面容	smir
 察觉	iwnx
 脚踏实地	wpih
@@ -3011,7 +3011,7 @@ columns:
 北极	qnag
 迷失	qogo
 舒畅	rldy
-可恶	allq
+可恶	jllq
 浪花	nkse
 昏暗	kxjk
 召唤	mllx
@@ -3035,7 +3035,7 @@ columns:
 自始至终	qcdk
 草莓	sjsg
 缠绕	kmkx
-难能可贵	bnal
+难能可贵	bnjl
 日日夜夜	jjaa
 测验	ncbr
 冲洗	ilnp
@@ -3071,12 +3071,12 @@ columns:
 针锋相对	ooab
 不择手段	gffe
 汪洋	njnq
-可歌可泣	aaan
+可歌可泣	jjjn
 脱胎换骨	wwfr
 猫头鹰	hime
 天经地义	fkhk
 手忙脚乱	frwl
-忍无可忍	mfam
+忍无可忍	mfjm
 染色	nrxo
 梦寐以求	aief
 走投无路	hffp
@@ -3109,15 +3109,15 @@ columns:
 防不胜防	pgwp
 天翻地覆	fghp
 皆大欢喜	nobh
-非同小可	ucia
+非同小可	ucij
 死去活来	fhnf
 陛下	pnjx
 花团锦簇	swog
 心服口服	rwlw
-顶天立地	afkh
-不可一世	gafs
+顶天立地	jfkh
+不可一世	gjfs
 大千世界	omsv
-灭顶之灾	faoi
+灭顶之灾	fjoi
 如出一辙	cwfx
 自欺欺人	quur
 轻重缓急	xmkx
@@ -3147,14 +3147,14 @@ columns:
 信誓旦旦	efjj
 背水一战	qnfu
 甜言蜜语	lbid
-指日可待	fjac
+指日可待	fjjc
 焦头烂额	eiii
-适可而止	lasp
+适可而止	ljsp
 杯水车薪	anxs
 张牙舞爪	bhgu
 各有千秋	temm
 筋疲力尽	gmsb
-情有可原	reav
+情有可原	rejv
 前车之鉴	qxou
 众望所归	rtdq
 风花雪月	escw
@@ -3176,7 +3176,7 @@ columns:
 塞翁失马	ikgb
 竭尽全力	kbrs
 清清楚楚	nnaa
-不可多得	gaxc
+不可多得	gjxc
 苏州	ssnl
 巴西	obpx
 左手	epfs
@@ -3200,7 +3200,7 @@ columns:
 各级	tlkg
 问道	tlqq
 伊拉克	efjw
-何处	eatu
+何处	ejtu
 放下	ttjx
 怎么办	ggsk
 同志	cfhr
@@ -3445,7 +3445,7 @@ columns:
 鼓舞	hggs
 竞赛	klis
 内在	creu
-辽宁	koia
+辽宁	koij
 高效	agak
 赋予	cfky
 编制	khpc
@@ -3480,7 +3480,7 @@ columns:
 辐射	xfqh
 百年	vjga
 定位	ifek
-可谓	aldv
+可谓	jldv
 首相	qqaj
 天然	fowh
 处置	tuug
@@ -3527,7 +3527,7 @@ columns:
 出售	wwel
 金属	tjbg
 军官	xxib
-诗歌	dhal
+诗歌	dhjl
 债务	ehts
 空军	ipxx
 公社	knjh
@@ -3565,7 +3565,7 @@ columns:
 支柱	gbak
 失误	godl
 招呼	fmlg
-认可	dral
+认可	drjl
 现金	jctj
 转让	xidj
 报名	faxl
@@ -3630,7 +3630,7 @@ columns:
 挖掘	fifb
 风光	esil
 战友	uleb
-河流	nana
+河流	njna
 修养	euqo
 预期	kvuw
 缺陷	jbpx
@@ -3774,7 +3774,7 @@ columns:
 范畴	snvd
 鉴于	ugfh
 火星	ihjp
-歌唱	allj
+歌唱	jllj
 房门	httm
 防护	ptfh
 职位	llek
@@ -3893,7 +3893,7 @@ columns:
 电路	ddpt
 帝国	aqwj
 朦胧	wswf
-惊奇	raoa
+惊奇	raoj
 命题	rajf
 观赏	bcic
 发病	wbmf
@@ -3951,7 +3951,7 @@ columns:
 关联	qolq
 肥料	woqi
 附加	pesl
-何等	eagh
+何等	ejgh
 谣言	duby
 迷人	qore
 怀抱	rgfw
@@ -3969,7 +3969,7 @@ columns:
 解散	xssw
 操纵	flkr
 体质	eadg
-可行	alci
+可行	jlci
 反之	dboz
 减弱	ikbi
 文凭	teem
@@ -4000,7 +4000,7 @@ columns:
 倒霉	edcg
 花朵	seea
 精致	qhdt
-歌颂	alkn
+歌颂	jlkn
 景色	jaxo
 仆人	eure
 日新月异	jkwo
@@ -4032,7 +4032,7 @@ columns:
 编织	khkl
 跳动	pwin
 恨不得	rgcj
-民歌	oxal
+民歌	oxjl
 迎面	kasm
 词汇	dynh
 俘虏	euus
@@ -4116,7 +4116,7 @@ columns:
 查看	ajfj
 戒指	ksfn
 萌芽	sjsh
-何在	eaeu
+何在	ejeu
 闪电	trdd
 收缩	wtki
 计量	dgjf
@@ -4370,7 +4370,7 @@ columns:
 功力	pssl
 草丛	sjrr
 咆哮	lwlh
-大有可为	oeak
+大有可为	oejk
 悔恨	rgrg
 差价	qper
 睫毛	jfmm
@@ -4442,7 +4442,7 @@ columns:
 刻骨铭心	tror
 过敏	hoge
 新陈代谢	kped
-顶峰	avut
+顶峰	jvut
 黄豆	sdfl
 肆无忌惮	ufor
 蝙蝠	qhqf
@@ -4480,7 +4480,7 @@ columns:
 心不在焉	rgef
 对症下药	bmjs
 脱口而出	wlsw
-载歌载舞	gagg
+载歌载舞	gjgg
 手电筒	fdgc
 相提并论	afqd
 水泄不通	nngb
@@ -4490,11 +4490,11 @@ columns:
 千变万化	mtfe
 事半功倍	hqpe
 救死扶伤	fffe
-缺一不可	jfga
+缺一不可	jfgj
 勇往直前	bcgq
 火线	ihkf
 呆板	laad
-无可厚非	favu
+无可厚非	fjvu
 后来居上	dfbj
 交相辉映	aaij
 车水马龙	xnbf
@@ -4520,7 +4520,7 @@ columns:
 衣食住行	akec
 土生土长	hphn
 相依为命	aekr
-可有可无	aeaf
+可有可无	jejf
 货真价实	egei
 半信半疑	qeqn
 蛤蟆	qrqs
@@ -4565,7 +4565,7 @@ columns:
 痛定思痛	mivm
 休养生息	eqpq
 大有人在	oere
-不可开交	gafa
+不可开交	gjfa
 浮云	nuin
 气急败坏	gxch
 恼羞成怒	rqkc
@@ -4611,7 +4611,7 @@ columns:
 悲欢离合	ubtr
 天衣无缝	fafk
 按部就班	fkaj
-无懈可击	fraa
+无懈可击	frja
 半途而废	qrsm
 就事论事	ahdh
 当机立断	iakq
@@ -4631,7 +4631,7 @@ columns:
 青黄不接	hsgf
 偷工减料	epiq
 东山再起	xujh
-模棱两可	aafa
+模棱两可	aafj
 稍纵即逝	mkbf
 虎视眈眈	ujjj
 光明正大	ijfo
@@ -4653,7 +4653,7 @@ columns:
 尽善尽美	bqbq
 如鱼得水	cxcn
 风华正茂	eefs
-势不可挡	fgaf
+势不可挡	fgjf
 标新立异	akko
 美中不足	qlgp
 天壤之别	fhol
@@ -4706,7 +4706,7 @@ columns:
 星星之火	jjoi
 嘘寒问暖	litj
 跃然纸上	pwkj
-妙不可言	cgab
+妙不可言	cgjb
 问心无愧	trfr
 沧海桑田	nnbv
 大大咧咧	ooll
@@ -4790,7 +4790,7 @@ columns:
 听到	lddm
 轻轻	xbxb
 避开	blfs
-宁波	ianb
+宁波	ijnb
 外国人	xwre
 杀人	sare
 看看	fjfj
@@ -4870,7 +4870,7 @@ columns:
 调动	dwin
 收费	wtbk
 政协	fpgs
-签订	grda
+签订	grdj
 执政	frfp
 共有	skew
 气象	gqxl
@@ -4891,7 +4891,7 @@ columns:
 广西	mgpx
 出版社	wdjh
 条约	takw
-河北	naqn
+河北	njqn
 作业	egie
 电力	ddsl
 预报	kvfa
@@ -5016,7 +5016,7 @@ columns:
 力争	slxb
 奠定	qpif
 名单	xlqj
-许可	dgal
+许可	dgjl
 展现	bsjc
 阐述	tqak
 内蒙古	csjg
@@ -5030,7 +5030,7 @@ columns:
 年级	gakg
 总部	qlkl
 赞赏	pwic
-宁夏	iavj
+宁夏	ijvj
 中介	lurk
 消耗	nidk
 阅读	tqdg
@@ -5124,7 +5124,7 @@ columns:
 吉林	hlaa
 神情	jdrh
 回报	wlfa
-修订	euda
+修订	eudj
 排除	fupr
 风气	esgq
 近代	doek
@@ -5272,7 +5272,7 @@ columns:
 通行	bsci
 赞同	pwcf
 牌子	ddkz
-打仗	faee
+打仗	fjee
 遗传	ljei
 值班	egjq
 应邀	mndt
@@ -5304,7 +5304,7 @@ columns:
 人情	rerh
 台北	nlqn
 下班	jxjq
-唱歌	ljal
+唱歌	ljjl
 核武器	afll
 自发	qiwb
 郊区	akhs
@@ -5349,7 +5349,7 @@ columns:
 全会	rjri
 玩具	jfjk
 管制	gipc
-打量	fajf
+打量	fjjf
 后边	dfso
 相连	ajxo
 地铁	hoog
@@ -5361,7 +5361,7 @@ columns:
 保守	elih
 祖父	jjks
 女工	cnpg
-河道	naqq
+河道	njqq
 辩论	kddr
 持有	fhew
 春风	ojes
@@ -5448,7 +5448,7 @@ columns:
 喇叭	lalk
 液体	naea
 当务之急	itox
-打动	fain
+打动	fjin
 棺材	aiah
 南极	gcag
 口头	lvio
@@ -5472,7 +5472,7 @@ columns:
 烟草	iwsj
 指望	fntw
 表述	hgak
-打架	fasl
+打架	fjsl
 头目	iojm
 剧烈	bjfx
 评定	dnif
@@ -5535,13 +5535,13 @@ columns:
 公然	knwh
 协同	gscf
 孤儿	kuwr
-山顶	usav
+山顶	usjv
 正经	fpkb
 孕育	gkan
 促成	epky
 西欧	pxhs
 吃亏	lgfh
-运河	inna
+运河	innj
 发光	wbil
 造反	pldb
 赶忙	hnrt
@@ -5623,14 +5623,14 @@ columns:
 自学	qinx
 担当	fjib
 陈列	pxfx
-叮嘱	lalb
+叮嘱	ljlb
 选定	pwif
 皱纹	xbkt
 粗糙	qjqp
 多余	xxrf
 凄凉	igia
 特长	phnc
-灯火	iaih
+灯火	ijih
 早年	jzga
 阻挡	pjfi
 极度	agms
@@ -5645,7 +5645,7 @@ columns:
 麻木	maam
 破旧	vbuj
 奔波	ognb
-打扫	fafb
+打扫	fjfb
 初次	xmix
 揭发	fjwb
 镇压	ogvh
@@ -5668,7 +5668,7 @@ columns:
 终究	ktir
 饭菜	xdsu
 骤然	blwh
-奇特	oaph
+奇特	ojph
 归宿	qbie
 人头	reio
 兼任	qbem
@@ -5878,7 +5878,7 @@ columns:
 西红柿	pkaa
 支票	gbpj
 莲花	sxse
-国歌	wjal
+国歌	wjjl
 坚硬	ubvf
 铃声	orhb
 受苦	uxsj
@@ -5890,10 +5890,10 @@ columns:
 存储	eued
 唤醒	lxpj
 电线	ddkf
-红灯	kpia
+红灯	kpij
 朗诵	kbdb
 选取	pwlb
-钉子	oakz
+钉子	ojkz
 钻石	ouvs
 乖乖	mqmq
 调和	dwml
@@ -5940,7 +5940,7 @@ columns:
 嘈杂	lsra
 收音机	wkae
 耶稣	lpxm
-奇妙	oaci
+奇妙	ojci
 才干	hgng
 俗称	ekmx
 胆怯	wjrh
@@ -5967,7 +5967,7 @@ columns:
 瞧见	jecj
 午餐	ggux
 运算	ingj
-打通	fabs
+打通	fjbs
 腹部	wgkl
 海里	ngvl
 杰作	aieg
@@ -6061,7 +6061,7 @@ columns:
 抖动	fiin
 焊接	ijfk
 显微镜	jcok
-打扰	faff
+打扰	fjff
 表层	hgbi
 甘蔗	sism
 灵敏	bige
@@ -6086,7 +6086,7 @@ columns:
 同心同德	crcc
 幼年	nsga
 补给	xukr
-顶多	avxx
+顶多	jvxx
 杀手	safs
 乱七八糟	lxkq
 大权	odab
@@ -6122,7 +6122,7 @@ columns:
 美味	qolf
 结尾	khbm
 成语	kydf
-灯泡	ianw
+灯泡	ijnw
 慌张	rsbn
 浸泡	nbnw
 老弟	hnqb
@@ -6141,7 +6141,7 @@ columns:
 镰刀	ommd
 瞎子	jikz
 分家	kmit
-攻打	ptfa
+攻打	ptfj
 动弹	inbq
 表白	hgdb
 烧毁	ixdp
@@ -6264,7 +6264,7 @@ columns:
 矿石	vmvs
 磁带	vqsx
 行当	ciib
-顶端	avku
+顶端	jvku
 南洋	gcnq
 凝神	injd
 外号	xulh
@@ -6322,7 +6322,7 @@ columns:
 陨石	plvs
 星座	jpmr
 课文	djte
-无家可归	fiaq
+无家可归	fijq
 冰山	inus
 搅拌	fnfq
 聚合	lbrh
@@ -6443,7 +6443,7 @@ columns:
 半夜三更	qalf
 平易近人	njdr
 同甘共苦	csss
-怒不可遏	cgaj
+怒不可遏	cgjj
 无时无刻	fjft
 乐此不疲	kpgm
 张灯结彩	biku
@@ -6459,7 +6459,7 @@ columns:
 身临其境	quuh
 绞尽脑汁	kbwn
 无与伦比	fhen
-屈指可数	bfaq
+屈指可数	bfjq
 双管齐下	bgtj
 不闻不问	gtgt
 煞费苦心	xbsr
@@ -6545,7 +6545,7 @@ columns:
 死里逃生	fvwp
 春风得意	oeck
 游山玩水	nujn
-机不可失	agag
+机不可失	agjg
 轻手轻脚	xfxw
 完美无缺	iqfj
 无所畏惧	fdvr
@@ -6562,7 +6562,7 @@ columns:
 兼收并蓄	qwqs
 生离死别	ptfl
 失魂落魄	gisd
-无可比拟	fanf
+无可比拟	fjnf
 风雨飘摇	ecpf
 另起炉灶	lhii
 大气磅礴	ogvv
@@ -6618,7 +6618,7 @@ columns:
 口是心非	ljru
 入乡随俗	kkpe
 驾轻就熟	sxaa
-坚不可摧	ugaf
+坚不可摧	ugjf
 人杰地灵	rahb
 将计就计	qdad
 言归正传	bqfe
@@ -6663,7 +6663,7 @@ columns:
 洞房花烛	nhsi
 萍水相逢	snat
 守株待兔	iacx
-歌舞升平	aggn
+歌舞升平	jggn
 风口浪尖	elni
 排忧解难	frxb
 鸡犬不宁	bhgi
@@ -6793,7 +6793,7 @@ columns:
 留给	kvkr
 牛顿	pnxw
 扬州	fynl
-打败	fact
+打败	fjct
 松花江	asnp
 模特	asph
 升高	gsag
@@ -6811,7 +6811,7 @@ columns:
 康熙	mbho
 上前	jvqw
 正是	fpjf
-不可	gual
+不可	gujl
 也是	oejf
 现代化	jeen
 一面	fism
@@ -6929,7 +6929,7 @@ columns:
 特大	phod
 年初	gaxm
 谴责	dlhc
-打工	fapg
+打工	fjpg
 消防	nipt
 受理	uxjv
 村庄	ahmh
@@ -7053,7 +7053,7 @@ columns:
 逐年	toga
 师长	qfnc
 心血	rigu
-歌舞	algs
+歌舞	jlgs
 爱护	uxfh
 先行	pwci
 法子	nhkz
@@ -7134,11 +7134,11 @@ columns:
 物种	pwml
 欣慰	dxbj
 片面	dpsm
-安宁	icia
+安宁	icij
 当晚	ibjx
 照样	jmaq
 敞开	itfs
-电灯	ddia
+电灯	ddij
 拨款	fwhj
 巨额	hbit
 多方	xxtf
@@ -7233,7 +7233,7 @@ columns:
 焦急	eixb
 有用	ewsy
 劳力	sxsl
-可贵	allj
+可贵	jllj
 由衷	doau
 北风	qnes
 掩盖	foqu
@@ -7387,7 +7387,7 @@ columns:
 星期天	jufo
 乐队	kipr
 难关	beqo
-几何	ejea
+几何	ejej
 微弱	cfbi
 罪名	uuxl
 丑恶	bclq
@@ -7410,7 +7410,7 @@ columns:
 胜负	wpxc
 书本	yyaf
 舰队	ucpr
-奇异	oaos
+奇异	ojos
 使者	efhj
 本子	afkz
 门类	tmqo
@@ -7514,13 +7514,13 @@ columns:
 噪音	llkj
 照耀	jmil
 害虫	idqc
-坎坷	hxha
+坎坷	hxhj
 分头	kmio
 学派	nxnd
 标签	ajgr
 惊动	rain
 上层	jvbi
-新奇	kaoa
+新奇	kaoj
 对联	bhlq
 触动	xsin
 复合	gjrh
@@ -7534,7 +7534,7 @@ columns:
 忘掉	trfu
 掩护	fofh
 长子	nckz
-何尝	eaii
+何尝	ejii
 平坦	nqhj
 耕作	dkeg
 气流	gqna
@@ -7759,7 +7759,7 @@ columns:
 繁多	gexx
 苦心	sjri
 编排	khfu
-打印	fakf
+打印	fjkf
 谷子	krkz
 性子	rpkz
 不当	guib
@@ -7776,7 +7776,7 @@ columns:
 张罗	bnux
 火把	ihfo
 贮存	cieu
-殴打	hsfa
+殴打	hsfj
 亲生	kaps
 群山	bgus
 第三者	glhj
@@ -7796,7 +7796,7 @@ columns:
 口味	lvlf
 放牧	ttpt
 冒充	cian
-河口	nalv
+河口	njlv
 苦痛	sjmb
 纵向	krdx
 独立性	hkrp
@@ -7837,7 +7837,7 @@ columns:
 万众一心	frfr
 缔结	kakh
 管理员	gjlc
-可耻	allp
+可耻	jllp
 星系	jpgo
 刺刀	acmd
 凶猛	swhk
@@ -7909,7 +7909,7 @@ columns:
 天边	foso
 推算	fegj
 一视同仁	fjce
-可悲	alur
+可悲	jlur
 精巧	qhph
 飘荡	pjsn
 冶炼	inix
@@ -7952,7 +7952,7 @@ columns:
 理发	jvwb
 灌木	nsam
 靠拢	plff
-拍打	fdfa
+拍打	fdfj
 诙谐	dedn
 顺从	lvrr
 推敲	feau
@@ -8135,7 +8135,7 @@ columns:
 禁锢	aaow
 独裁	hqgk
 山脚	uswh
-可乘之机	amoa
+可乘之机	jmoa
 一技之长	ffon
 垂头丧气	migg
 纱布	kieu
@@ -8164,7 +8164,7 @@ columns:
 坡度	hbms
 仿效	etak
 减退	ikgo
-打猎	fahs
+打猎	fjhs
 武功	fkps
 概况	abil
 乳汁	ukng
@@ -8317,7 +8317,7 @@ columns:
 将信将疑	qeqn
 娼妓	cjcg
 雄心壮志	erqh
-笑容可掬	giaf
+笑容可掬	gijf
 独木桥	haam
 敲诈勒索	adsg
 龙王	fgjw
@@ -8450,7 +8450,7 @@ columns:
 忍辱负重	mmxm
 天昏地暗	fkhj
 无足轻重	fpxm
-不可救药	gafs
+不可救药	gjfs
 高枕无忧	aafr
 一窍不通	figb
 反比	dbnn
@@ -8543,7 +8543,7 @@ columns:
 容光焕发	iiiw
 无坚不摧	fugf
 一盘散沙	fusn
-不可理喻	gajl
+不可理喻	gjjl
 有心	ewri
 足智多谋	pjxd
 改朝换代	ogfe
@@ -8555,7 +8555,7 @@ columns:
 过关斩将	hqxq
 天南地北	fghq
 唯唯诺诺	lldd
-顶礼膜拜	ajwf
+顶礼膜拜	jjwf
 短语	jfdf
 同仇敌忾	celr
 贤妻良母	ugke
@@ -8582,7 +8582,7 @@ columns:
 包罗万象	wufx
 成家立业	kiki
 大喜过望	ohht
-歌功颂德	apkc
+歌功颂德	jpkc
 洁身自好	nqqc
 眉清目秀	bnjm
 弄巧成拙	jpkf
@@ -8699,7 +8699,7 @@ columns:
 多如牛毛	xcpm
 里应外合	vmxr
 百战百胜	vuvw
-乐不可支	kgag
+乐不可支	kgjg
 牵强附会	obpr
 杀气腾腾	sgww
 善罢甘休	quse
@@ -8737,7 +8737,7 @@ columns:
 宾至如归	idcq
 察言观色	ibbx
 生灵涂炭	pbnu
-四面楚歌	wsaa
+四面楚歌	wsaj
 天府之国	fmow
 虚无缥缈	ufkk
 一命呜呼	frll
@@ -8760,7 +8760,7 @@ columns:
 面如土色	schx
 落井下石	sijv
 勉为其难	xkub
-目不识丁	jgda
+目不识丁	jgdj
 如雷贯耳	ccel
 万籁俱寂	fgei
 无以复加	fegs
@@ -8871,7 +8871,7 @@ columns:
 乐极生悲	kapu
 聊以自慰	leqb
 巧取豪夺	plao
-不可名状	gaxq
+不可名状	gjxq
 呼天抢地	lffh
 唯命是从	lrjr
 百发百中	vwvl
@@ -8934,7 +8934,7 @@ columns:
 急流勇退	xnbg
 理屈词穷	jbdi
 自高自大	qaqo
-后生可畏	dpav
+后生可畏	dpjv
 茹毛饮血	smxg
 指鹿为马	fmkb
 老奸巨猾	hchh
@@ -8995,7 +8995,7 @@ columns:
 一丘之貉	fdom
 隔墙有耳	phel
 棋逢对手	atbf
-唾手可得	lfac
+唾手可得	lfjc
 不时之需	gjoc
 龙争虎斗	fxui
 杀人如麻	srcm
@@ -9025,7 +9025,7 @@ columns:
 挨家挨户	fifh
 漏洞百出	nnvw
 接踵而至	fpsd
-有利可图	emaw
+有利可图	emjw
 年复一年	ggfg
 水土不服	nhgw
 人去楼空	rhai
@@ -9063,7 +9063,7 @@ columns:
 称王称霸	mjmc
 冷若冰霜	isic
 看破红尘	fvki
-对酒当歌	bnia
+对酒当歌	bnij
 螳螂捕蝉	qqfq
 三从四德	lrwc
 包藏祸心	wsjr
@@ -9105,7 +9105,7 @@ columns:
 最高	jlag
 量子	jfkz
 电饭煲	dxel
-呵呵	lala
+呵呵	ljlj
 只见	lkcj
 回国	wlwj
 丹麦	waht
@@ -9116,7 +9116,7 @@ columns:
 外延	xugp
 金银	tjog
 找到	fkdm
-挨打	fnfa
+挨打	fnfj
 拜拜	ffff
 看成	fjky
 牛肉	pncr
@@ -9126,7 +9126,7 @@ columns:
 挪威	fykf
 村里	ahvl
 楼上	aqjv
-哥伦比亚	aenl
+哥伦比亚	jenl
 短短	jfjf
 街上	chjv
 各色	tlxo
@@ -9150,7 +9150,7 @@ columns:
 张开	bnfs
 比利时	nmjh
 庐山	mhus
-可能性	anrp
+可能性	jnrp
 毫无疑问	afnt
 不要	gupc
 家里	itvl
@@ -9209,7 +9209,7 @@ columns:
 而言	srby
 统治	kann
 协作	gseg
-大厅	odva
+大厅	odvj
 全力	rjsl
 到位	dmek
 球员	jflc
@@ -9332,7 +9332,7 @@ columns:
 深切	nxxm
 同年	cfga
 拼搏	fqfn
-淮河	nena
+淮河	nenj
 规章	ockj
 首位	qqek
 称之为	moks
@@ -9349,7 +9349,7 @@ columns:
 做人	ejre
 一头	fiio
 份额	ekit
-南宁	gcia
+南宁	gcij
 大半	odqa
 起头	hoio
 国庆	wjmo
@@ -9473,7 +9473,7 @@ columns:
 忧郁	rfew
 通往	bsck
 名片	xldp
-奈何	ojea
+奈何	ojej
 兴办	nksk
 渔船	nxue
 效能	aknw
@@ -9503,7 +9503,7 @@ columns:
 大衣	odag
 但愿	ejvd
 时髦	jhum
-江河	npna
+江河	npnj
 闺女	thcn
 媒介	csrk
 部下	kljx
@@ -9816,7 +9816,7 @@ columns:
 好歹	ckfx
 倾诉	endd
 下文	jxte
-可取	allb
+可取	jllb
 流星	najp
 忏悔	rmrg
 当家	ibit
@@ -9870,7 +9870,7 @@ columns:
 纵容	krir
 狭小	hoiv
 钢筋	ocgw
-河岸	nauv
+河岸	njuv
 证人	dfre
 恭敬	sksw
 草木	sjam
@@ -9883,18 +9883,18 @@ columns:
 莫须有	scew
 答辩	grkd
 联营	lqsx
-油灯	ndia
+油灯	ndij
 安康	icmb
 伯母	edem
 升学	gsnx
-何苦	easj
+何苦	ejsj
 转发	xiwb
 兰花	qise
 心得	ricj
 贫乏	kmgo
 放置	ttug
 做工	ejpg
-山河	usna
+山河	usnj
 夏日	vjjr
 脸孔	wrke
 一脉相承	fway
@@ -9997,7 +9997,7 @@ columns:
 窗台	idnl
 混蛋	njyp
 虫子	qckz
-订购	dacw
+订购	djcw
 床单	maqj
 动心	inri
 赤裸裸	hxxj
@@ -10035,13 +10035,13 @@ columns:
 闭塞	this
 明快	jwrb
 硬盘	vfuu
-可口	allv
+可口	jllv
 山庄	usmh
 骏马	bnbm
 来客	fqit
 皮带	bpsx
 补课	xudj
-订婚	dack
+订婚	djck
 冷气	irgq
 权势	abfr
 震荡	cmsn
@@ -10053,7 +10053,7 @@ columns:
 切合	xmrh
 日用	jrsy
 疼爱	mtux
-银河	ogna
+银河	ognj
 虚实	uiii
 调拨	dwfw
 强加	blsl
@@ -10087,7 +10087,7 @@ columns:
 遥望	ujtw
 讥讽	dede
 征途	cfrf
-拉丁美洲	faqn
+拉丁美洲	fjqn
 偏爱	ehux
 凝望	intw
 隆起	ptho
@@ -10108,7 +10108,7 @@ columns:
 雄性	enrp
 肤色	woxo
 青色	hwxo
-叮咛	lali
+叮咛	ljli
 凄惨	igrn
 骚乱	bble
 栩栩如生	aacp
@@ -10371,7 +10371,7 @@ columns:
 大相径庭	oacm
 明晃晃	jjji
 啄木鸟	lamn
-儿歌	wral
+儿歌	wrjl
 关卡	qoju
 千真万确	mgfv
 星际	jppj
@@ -10381,7 +10381,7 @@ columns:
 赔钱	ckof
 掌心	ifri
 轻便	xbef
-叮当	laib
+叮当	ljib
 蜜月	irwy
 求爱	fnux
 水牛	nspn
@@ -10396,7 +10396,7 @@ columns:
 常客	iuit
 规劝	ocbs
 海报	ngfa
-情歌	rhal
+情歌	rhjl
 悬而未决	jsfi
 鼻腔	qvwi
 带路	sxpt
@@ -10438,7 +10438,7 @@ columns:
 发情	wbrh
 局外人	bxre
 一干二净	fnii
-不可告人	gapr
+不可告人	gjpr
 刻度	tmms
 拍手称快	ffmr
 梦乡	aakg
@@ -10487,7 +10487,7 @@ columns:
 共振	skfm
 普照	qijm
 贪官污吏	rinf
-熄灯	iqia
+熄灯	iqij
 因人而异	wrso
 原原本本	vvaa
 防火墙	pihg
@@ -10495,7 +10495,7 @@ columns:
 杜撰	ahfo
 泄密	nsir
 一门心思	ftrv
-不置可否	guag
+不置可否	gujg
 挖空心思	firv
 叫苦不迭	lsgg
 吐血	lhgu
@@ -10531,7 +10531,7 @@ columns:
 人才济济	rhnn
 相安无事	aifh
 过客	hoit
-眼中钉	jloa
+眼中钉	jloj
 风云人物	eirp
 浪子	nkkz
 五脏六腑	fwaw
@@ -10542,7 +10542,7 @@ columns:
 开诚布公	fdek
 转危为安	xxki
 不辞而别	glsl
-红绿灯	kkia
+红绿灯	kkij
 谈情说爱	drdu
 彩霞	uacb
 哑口无言	llfb
@@ -10573,7 +10573,7 @@ columns:
 对白	bhdb
 花冠	sexf
 没精打采	nqfu
-深不可测	ngan
+深不可测	ngjn
 凶多吉少	sxhi
 语无伦次	dfei
 大兴土木	onha
@@ -10585,7 +10585,7 @@ columns:
 文质彬彬	tdaa
 斜面	rfsm
 穷凶极恶	isal
-无计可施	fdat
+无计可施	fdjt
 败家子	cikz
 乌托邦	mfdp
 倒数	edqc
@@ -10607,7 +10607,7 @@ columns:
 活蹦乱跳	nplp
 万事大吉	fhoh
 胆大妄为	wotk
-岌岌可危	uuax
+岌岌可危	uujx
 戒骄戒躁	kbkp
 亲密无间	kift
 歪风邪气	gehg
@@ -10641,10 +10641,10 @@ columns:
 奋起直追	ohgd
 火冒三丈	icle
 奶茶	cgsr
-闪光灯	tiia
+闪光灯	tiij
 言外之意	bxok
 匪夷所思	hodv
-高不可攀	agaa
+高不可攀	agja
 饥寒交迫	xiad
 老实巴交	hioa
 死不瞑目	fgjj
@@ -10705,7 +10705,7 @@ columns:
 独占鳌头	huhi
 鸡尾酒	bbnp
 伤天害理	efij
-俗不可耐	egas
+俗不可耐	egjs
 速战速决	auai
 索然无味	gwfl
 厚薄	vjsn
@@ -10786,7 +10786,7 @@ columns:
 自投罗网	qfuc
 罪有应得	uemc
 各取所需	tldc
-冒名顶替	cxao
+冒名顶替	cxjo
 贪生怕死	rprf
 眼镜蛇	joqi
 郁郁寡欢	eeib
@@ -10825,7 +10825,7 @@ columns:
 雨过天晴	chfj
 称兄道弟	mlqq
 捶胸顿足	fwxp
-锐不可当	ogai
+锐不可当	ogji
 扫地出门	fhwt
 痴心妄想	mrta
 挥洒自如	fnqc
@@ -10838,7 +10838,7 @@ columns:
 举手之劳	nfos
 闲情逸致	trxd
 壁纸	blkk
-无隙可乘	fpam
+无隙可乘	fpjm
 后会有期	dreu
 弄假成真	jekg
 和风细雨	mekc
@@ -10906,7 +10906,7 @@ columns:
 一了百了	fkvk
 非亲非故	ukuj
 穷山恶水	iuln
-无可奉告	faop
+无可奉告	fjop
 玉石俱焚	jvea
 不白之冤	gdox
 万念俱灰	free
@@ -10959,7 +10959,7 @@ columns:
 如临深渊	cunn
 相敬如宾	asci
 一面之词	fsod
-莺歌燕舞	sasg
+莺歌燕舞	sjsg
 油头粉面	niqs
 抽风	fdes
 待价而沽	cesn
@@ -11070,7 +11070,7 @@ columns:
 支支吾吾	ggff
 长途跋涉	nrpn
 一拥而上	ffsj
-不可磨灭	gamf
+不可磨灭	gjmf
 不依不饶	gegx
 勤勤恳恳	ssgg
 震撼人心	cfrr
@@ -11079,7 +11079,7 @@ columns:
 十有八九	gekr
 后继有人	dker
 大浪淘沙	onnn
-和蔼可亲	msak
+和蔼可亲	msjk
 隐隐约约	ppkk
 真心诚意	grdk
 神通广大	jbmo
@@ -11113,7 +11113,7 @@ columns:
 跳梁小丑	pnib
 欢呼雀跃	blip
 驷马难追	bbbd
-不可言传	gabe
+不可言传	gjbe
 无名小卒	fxia
 横扫千军	afmx
 以己度人	eomr
@@ -11175,7 +11175,7 @@ columns:
 同一	cffi
 屈原	bwvd
 局限性	bprp
-必不可少	rgai
+必不可少	rgji
 心碎	riva
 写信	xheb
 宫女	ilcn
@@ -11193,8 +11193,8 @@ columns:
 折断	fdqe
 扎扎实实	ffii
 抓好	fuck
-打入	fakr
-拉丁	fkad
+打入	fjkr
+拉丁	fkjd
 拦住	fqek
 摔倒	faed
 桂林	ahaa
@@ -11281,7 +11281,7 @@ columns:
 享有	akew
 污水	nfns
 处长	tunc
-制订	pcda
+制订	pcdj
 支队	gbpr
 致使	dtef
 进出口	iwlv
@@ -11308,7 +11308,7 @@ columns:
 内阁	crtt
 国债	wjeh
 不及	gugk
-许可证	dadf
+许可证	djdf
 大选	odpw
 用来	syfq
 博览会	guri
@@ -11320,7 +11320,7 @@ columns:
 层面	bism
 拓宽	fvis
 中药	lusk
-打造	fapl
+打造	fjpl
 掀起	fdho
 关税	qomq
 古城	jghk
@@ -11362,7 +11362,7 @@ columns:
 达标	ooaj
 休闲	eata
 效力	aksl
-打下	fajx
+打下	fjjx
 见解	cjxs
 集会	eari
 认同	drcf
@@ -11428,7 +11428,7 @@ columns:
 机械化	aaen
 主线	kjkf
 联手	lqfs
-打倒	faed
+打倒	fjed
 查办	ajsk
 必需	rgcs
 表态	hgok
@@ -11474,7 +11474,7 @@ columns:
 本色	afxo
 认知	drjl
 一早	fijz
-订阅	datq
+订阅	djtq
 站长	kunc
 上当	jvib
 报销	faoi
@@ -11504,7 +11504,7 @@ columns:
 兴奋剂	notk
 撤离	fatw
 犯人	hare
-由此可见	dpac
+由此可见	dpjc
 半数	qaqc
 资质	ixdg
 东道主	xqkj
@@ -11525,7 +11525,7 @@ columns:
 出征	wwcf
 锅炉	olih
 悄然	riwh
-单打	qjfa
+单打	qjfj
 便捷	efff
 鸦片	hmdp
 平和	nqml
@@ -11539,7 +11539,7 @@ columns:
 无须	ffcv
 财物	chpw
 上旬	jvwj
-打响	fald
+打响	fjld
 开启	fshl
 海边	ngso
 泥沙	nbni
@@ -11659,7 +11659,7 @@ columns:
 畅谈	dydi
 机体	aeea
 公理	knjv
-路灯	ptia
+路灯	ptij
 链条	oxta
 警戒	swks
 配件	poep
@@ -11695,7 +11695,7 @@ columns:
 观摩	bcmf
 解析	xsad
 进修	ikeu
-舞厅	gsva
+舞厅	gsvj
 驱使	bhef
 兑换	qlfx
 固守	wjih
@@ -11718,7 +11718,7 @@ columns:
 失落	gosn
 出海	wwng
 相称	ajmx
-长河	ncna
+长河	ncnj
 留意	kvkj
 月初	wyxm
 厉声	vfhb
@@ -11741,7 +11741,7 @@ columns:
 西域	pxhk
 沙丘	nidf
 衣襟	agxa
-出奇	wwoa
+出奇	wwoj
 划定	kmif
 说明书	djyy
 功绩	pskh
@@ -11786,7 +11786,7 @@ columns:
 殿堂	bsih
 连续剧	xkbj
 水温	nsnj
-何故	eajt
+何故	ejjt
 形而上学	fsjn
 独到	hqdm
 冷汗	irnn
@@ -11796,7 +11796,7 @@ columns:
 风范	essn
 活生生	npps
 遵纪守法	qkin
-表哥	hgal
+表哥	hgjl
 充斥	andk
 接替	fkoo
 湿度	njms
@@ -11853,7 +11853,7 @@ columns:
 根治	agnn
 下沉	jxnx
 算命	gjra
-河床	nama
+河床	njma
 鉴赏	ugic
 姑妈	cjcb
 搀扶	fxfo
@@ -11861,7 +11861,7 @@ columns:
 列出	fxww
 杂种	raml
 病魔	mfmd
-订货	daen
+订货	djen
 风水	esns
 管教	gihk
 下课	jxdj
@@ -12120,7 +12120,7 @@ columns:
 勾画	wnfv
 湖畔	njvq
 纵火	krih
-何妨	eact
+何妨	ejct
 绵羊	kdqy
 接管	fkgi
 南美洲	gqnn
@@ -12293,7 +12293,7 @@ columns:
 搁浅	ftnf
 熟睡	akjm
 称霸	mxcs
-绿灯	kbia
+绿灯	kbij
 配角	poxs
 正道	fpqq
 粽子	qikz
@@ -12305,7 +12305,7 @@ columns:
 强项	blpv
 升官	gsib
 超脱	hmwq
-打针	faog
+打针	fjog
 面纱	smki
 出马	wwbm
 长空	ncip
@@ -12334,7 +12334,7 @@ columns:
 横竖	asub
 化疗	enmk
 腹泻	wgnx
-高歌	agal
+高歌	agjl
 奢望	ohtw
 无所作为	fdek
 虚荣	uisx
@@ -12345,7 +12345,7 @@ columns:
 印记	kfdo
 仓促	raep
 本分	afkm
-可乐	alki
+可乐	jlki
 骗局	bhby
 搭档	fsai
 日用品	jsll
@@ -12569,7 +12569,7 @@ columns:
 贬低	cgek
 刺眼	acjg
 回绝	wlkx
-打手	fafs
+打手	fjfs
 发散	wbsw
 西施	pxtg
 果敢	jayl
@@ -12580,7 +12580,7 @@ columns:
 圆润	wlnt
 圆心	wlri
 纷飞	kkyi
-护城河	fhna
+护城河	fhnj
 出错	wwos
 合约	rhkw
 触发	xswb
@@ -12608,7 +12608,7 @@ columns:
 足不出户	pgwh
 哺乳	lnuk
 聪慧	lqdd
-凯歌	uoal
+凯歌	uojl
 涟漪	nxnh
 强人	blre
 禅宗	jqij
@@ -12628,7 +12628,7 @@ columns:
 病榻	mfaj
 风衣	esag
 错落有致	osed
-打探	fafx
+打探	fjfx
 寒潮	isng
 骷髅	rjrq
 安培	ichk
@@ -12711,7 +12711,7 @@ columns:
 应验	mnbr
 前哨	qwli
 要价	pcer
-打字	faik
+打字	fjik
 大号	odlh
 拆毁	fddp
 婚纱	ckki
@@ -12759,7 +12759,7 @@ columns:
 论资排辈	difu
 逍遥法外	iunx
 黑幕	ghsj
-走马灯	hbia
+走马灯	hbij
 倒立	edkl
 仿照	etjm
 经书	kbyy
@@ -12877,7 +12877,7 @@ columns:
 翻车	gqxj
 风扇	eshv
 极品	agll
-牢不可破	igav
+牢不可破	igjv
 死水	fxns
 才学	hgnx
 短路	jfpt
@@ -12929,7 +12929,7 @@ columns:
 球鞋	jfsh
 电容	ddir
 人情世故	rrsj
-歌迷	alqo
+歌迷	jlqo
 久负盛名	xxkx
 拼接	fqfk
 童装	kvqh
@@ -12940,7 +12940,7 @@ columns:
 晕头转向	jixd
 赔礼	ckje
 洋洋得意	nnck
-引吭高歌	blaa
+引吭高歌	blaj
 子虚乌有	kume
 达官贵人	oilr
 调兵遣将	ddlq
@@ -12985,7 +12985,7 @@ columns:
 横行霸道	accq
 野火	vkih
 争权夺利	xaom
-门可罗雀	taui
+门可罗雀	tjui
 神气活现	jgnj
 雅兴	henk
 妇孺皆知	cknj
@@ -13004,7 +13004,7 @@ columns:
 裂口	fxlv
 拿手好戏	rfcb
 下不为例	jgke
-顶梁柱	anak
+顶梁柱	jnak
 添砖加瓦	nvsr
 转盘	xiuu
 自鸣得意	qlck
@@ -13222,7 +13222,7 @@ columns:
 狼子野心	hkvr
 立锥之地	kooh
 形单影只	fqjl
-秀色可餐	mxau
+秀色可餐	mxju
 寻花问柳	bsta
 摇尾乞怜	fbgr
 寒露	iscp
@@ -13233,7 +13233,7 @@ columns:
 珍禽异兽	jroq
 缠绵悱恻	kkrr
 大吹大擂	olof
-轻歌曼舞	xajg
+轻歌曼舞	xjjg
 绕口令	klrk
 斩尽杀绝	xbsk
 边框	soah
@@ -13266,7 +13266,7 @@ columns:
 水性杨花	nras
 障眼法	pjnh
 名扬四海	xfwn
-人言可畏	rbav
+人言可畏	rbjv
 如丧考妣	cghc
 虎口拔牙	ulfh
 画饼充饥	fxax
@@ -13281,7 +13281,7 @@ columns:
 众口难调	rlbd
 重温旧梦	mnua
 触类旁通	xqab
-顶呱呱	allu
+顶呱呱	jllu
 尸位素餐	behu
 投桃报李	fafa
 断垣残壁	qhfb
@@ -13297,8 +13297,8 @@ columns:
 淡而无味	nsfl
 猴年马月	hgbw
 绵里藏针	kvso
-无机可乘	faam
-奇货可居	oeab
+无机可乘	fajm
+奇货可居	oejb
 瑕不掩瑜	jgfj
 闲云野鹤	tivx
 备注	tvnk
@@ -13322,7 +13322,7 @@ columns:
 敝帚自珍	qbqj
 鸟尽弓藏	mbbs
 虾兵蟹将	qdxq
-孺子可教	kkah
+孺子可教	kkjh
 八拜之交	kfoa
 泰山北斗	ouqi
 九九归一	rrqf
@@ -13454,7 +13454,7 @@ columns:
 上岸	jvuv
 汉口	nblv
 湖水	njns
-小河	ivna
+小河	ivnj
 小站	ivku
 没法	nenh
 尚书	isyy
@@ -13492,8 +13492,8 @@ columns:
 探明	fxjw
 抓起	fuho
 李白	akdb
-顶部	avkl
-顶住	avek
+顶部	jvkl
+顶住	jvek
 标识	ajdl
 西山	pxus
 楼下	aqjx
@@ -13696,7 +13696,7 @@ columns:
 声称	hbmx
 读物	dgpw
 证件	dfep
-可知	aljl
+可知	jljl
 绿地	kbho
 献给	gckr
 离子	twkz
@@ -13713,7 +13713,7 @@ columns:
 主人公	krkn
 亚军	lqxx
 欣喜	dxhl
-歌剧	albj
+歌剧	jlbj
 分管	kmgi
 林区	aahs
 选票	pwpj
@@ -13745,7 +13745,7 @@ columns:
 官僚主义	iekk
 腊月	wswy
 长篇	ncgh
-可观	albc
+可观	jlbc
 前边	qwso
 晶体	jjea
 遇难	vobe
@@ -13815,7 +13815,7 @@ columns:
 强硬	blvf
 响声	ldhb
 瞩目	jbjm
-可疑	alnj
+可疑	jlnj
 洁净	nhix
 专政	iefp
 舞剧	gsbj
@@ -13884,7 +13884,7 @@ columns:
 到期	dmuw
 队友	preb
 放射性	tqrp
-可行性	acrp
+可行性	jcrp
 望见	twcj
 田地	vtho
 总计	qldg
@@ -14229,7 +14229,7 @@ columns:
 再生产	jpkg
 国籍	wjgd
 囚犯	wrha
-河谷	nakr
+河谷	njkr
 下流	jxna
 装扮	qhfk
 菜园	suwf
@@ -14305,7 +14305,7 @@ columns:
 基准	uhie
 尔后	xidf
 骨架	rgsl
-苛刻	satm
+苛刻	sjtm
 甲板	vjad
 牢骚	ipbb
 问答	tlgr
@@ -14374,7 +14374,7 @@ columns:
 起因	howo
 霸权	csab
 极地	agho
-宁肯	iapw
+宁肯	ijpw
 守卫	ihaf
 耸立	rrkl
 文风	tees
@@ -14395,7 +14395,7 @@ columns:
 匹配	lepo
 享用	aksy
 野草	vksj
-歌谣	aldu
+歌谣	jldu
 寒气	isgq
 阅历	tqvs
 麾下	mmjx
@@ -14469,7 +14469,7 @@ columns:
 机枪	aear
 路费	ptbk
 得体	cjea
-离奇	twoa
+离奇	twoj
 难听	beld
 修炼	euix
 狠心	hgri
@@ -14493,7 +14493,7 @@ columns:
 清秀	nhmg
 避难	blbe
 装束	qhal
-天河	fona
+天河	fonj
 以东	ekxi
 勾当	wnib
 借以	esek
@@ -14691,7 +14691,7 @@ columns:
 冷冰冰	iiin
 谦逊	dqki
 死守	fxih
-稀奇	msoa
+稀奇	msoj
 标榜	ajaa
 剖面	klsm
 外销	xuoi
@@ -14772,7 +14772,7 @@ columns:
 修辞	eulk
 用场	syhy
 殡葬	fxsf
-霓虹灯	cqia
+霓虹灯	cqij
 平分	nqkm
 港湾	nsnt
 朗朗	kbkb
@@ -14836,7 +14836,7 @@ columns:
 增补	hqxu
 三思	lavr
 信服	ebwa
-赞歌	pwal
+赞歌	pwjl
 罚金	udtj
 国语	wjdf
 刺绣	ackm
@@ -14856,7 +14856,7 @@ columns:
 靠得住	pcek
 试卷	dkqo
 血红	gukp
-打趣	fahl
+打趣	fjhl
 延迟	gpbk
 宝塔	ijhs
 落脚	snwh
@@ -14889,7 +14889,7 @@ columns:
 章节	kjsa
 缤纷	kikk
 传世	eisi
-打点	faul
+打点	fjul
 分摊	kmfb
 起哄	hols
 巧克力	pjsl
@@ -14917,7 +14917,7 @@ columns:
 吉他	hleo
 白领	dbrk
 卑劣	dgig
-顶点	avul
+顶点	jvul
 皇室	djid
 逃命	wira
 听讲	lddi
@@ -14947,7 +14947,7 @@ columns:
 清点	nhul
 驱散	bhsw
 钟爱	olux
-何止	eapi
+何止	ejpi
 浮肿	nuwl
 牢房	ipht
 随处	petu
@@ -15041,7 +15041,7 @@ columns:
 吃紧	lgub
 大修	odeu
 短处	jftu
-河川	nalc
+河川	njlc
 开火	fsih
 恶习	lqvx
 馈赠	xlcq
@@ -15093,7 +15093,7 @@ columns:
 候车	euxj
 领海	rkng
 书呆子	ylkz
-台灯	nlia
+台灯	nlij
 遗漏	ljnb
 大手笔	ofgm
 当夜	ibae
@@ -15188,7 +15188,7 @@ columns:
 无边无际	fsfp
 胆固醇	wwpa
 定心丸	irrk
-饭厅	xdva
+饭厅	xdvj
 挎包	fowo
 木雕	amwh
 取样	lbaq
@@ -15222,10 +15222,10 @@ columns:
 逆流	qwna
 棉布	adeu
 蚕食	foks
-顶替	avoo
+顶替	jvoo
 果汁	jang
 浩荡	npsn
-可口可乐	alak
+可口可乐	jljk
 口才	lvhg
 框框	ahah
 面谈	smdi
@@ -15261,7 +15261,7 @@ columns:
 冷藏	irsk
 陷落	pxsn
 车牌	xjdd
-丹顶鹤	waxe
+丹顶鹤	wjxe
 招架	fmsl
 改嫁	otci
 讨伐	dhek
@@ -15345,7 +15345,7 @@ columns:
 完蛋	ifyp
 造化	plen
 备份	tvek
-丁香	admj
+丁香	jdmj
 千里马	mvbm
 逃学	winx
 交加	aksl
@@ -15361,7 +15361,7 @@ columns:
 新手	kafs
 卑微	dgcf
 便当	efib
-歌喉	alle
+歌喉	jlle
 黑心	ghri
 梳妆	aaqc
 责骂	hcll
@@ -15469,14 +15469,14 @@ columns:
 精疲力竭	qmsk
 冗长	xenc
 死板	fxad
-顶撞	avfk
-毒打	hefa
+顶撞	jvfk
+毒打	hefj
 沸点	nbul
 风寒	esis
 偷窃	erix
 写真	xhgj
 高见	agcj
-打包	fawo
+打包	fjwo
 观感	bckf
 魔法	mdnh
 通天	bsfo
@@ -15571,7 +15571,7 @@ columns:
 迎头	kaio
 赌钱	chof
 战鼓	ulhg
-拔河	fena
+拔河	fenj
 裁剪	gkqw
 刀片	mddp
 顿然	xwwh
@@ -15619,7 +15619,7 @@ columns:
 搜罗	fdux
 定稿	ifma
 加法	slnh
-凉亭	iaaa
+凉亭	iaaj
 明眼人	jjre
 原价	vder
 整数	alqc
@@ -15631,7 +15631,7 @@ columns:
 勾搭	wnfs
 光辉灿烂	iiii
 木柴	ampn
-冰河	inna
+冰河	innj
 幻灭	nyfi
 浑圆	nxwl
 矩阵	jhpx
@@ -15803,7 +15803,7 @@ columns:
 脱销	wqoi
 背书	qnyy
 抽筋	fdgw
-灯罩	iauu
+灯罩	ijuu
 魔王	mdjw
 援救	fufn
 奔走相告	ohap
@@ -15935,7 +15935,7 @@ columns:
 封口	hhlv
 官能	ibnw
 一穷二白	fiid
-有机可乘	eaam
+有机可乘	eajm
 传宗接代	eife
 五花大绑	fsok
 原装	vdqh
@@ -15953,7 +15953,7 @@ columns:
 风凉话	eidl
 切记	xmdo
 暴风	jses
-对歌	bhal
+对歌	bhjl
 副产品	fkll
 偃旗息鼓	etqh
 本家	afit
@@ -15966,7 +15966,7 @@ columns:
 永垂不朽	kmga
 暗流	jkna
 儿女情长	wcrn
-蒙太奇	sooa
+蒙太奇	sooj
 转圈	xiwq
 渡轮	nmxr
 回程	wlml
@@ -16009,7 +16009,7 @@ columns:
 夏至	vjdz
 星宿	jpie
 哑铃	llor
-炙手可热	wfaf
+炙手可热	wfjf
 瘪三	mqla
 横财	asch
 酒足饭饱	npxx
@@ -16070,7 +16070,7 @@ columns:
 见机行事	cach
 旷课	jmdj
 投笔从戎	fgrk
-星河	jpna
+星河	jpnj
 伴娘	eqck
 持家	fhit
 校准	aaie
@@ -16093,7 +16093,7 @@ columns:
 崇洋媚外	uncx
 短见	jfcj
 老成持重	hkfm
-无可置疑	faun
+无可置疑	fjun
 珠算	jpgj
 嗷嗷待哺	llcl
 吊儿郎当	lwki
@@ -16148,7 +16148,7 @@ columns:
 文绉绉	tkkx
 国破家亡	wvit
 男尊女卑	vqcd
-千斤顶	mdav
+千斤顶	mdjv
 顺带	lvsx
 谈天说地	dfdh
 浑水摸鱼	nnfx
@@ -16194,7 +16194,7 @@ columns:
 陈皮	pxbp
 法号	nhlh
 果脯	jawn
-苛责	sahc
+苛责	sjhc
 清道夫	nqof
 插科打诨	fmfd
 横蛮	astq
@@ -16257,7 +16257,7 @@ columns:
 才高八斗	haki
 虎踞龙盘	upfu
 绝学	kxnx
-醍醐灌顶	ppna
+醍醐灌顶	ppnj
 虚位以待	ueec
 俯首帖耳	equl
 秦晋之好	oloc
@@ -16302,11 +16302,11 @@ columns:
 独木难支	habg
 纵虎归山	kuqu
 公报私仇	kfme
-可见一斑	acfj
+可见一斑	jcfj
 数以万计	qefd
 遍地开花	hhfs
 慕名而来	sxsf
-形迹可疑	ftan
+形迹可疑	ftjn
 青山绿水	hukn
 惊魂未定	rifi
 大开眼界	ofjv
@@ -16340,7 +16340,7 @@ columns:
 蛊惑人心	qkrr
 哀鸿遍野	anhv
 百花争艳	vsxd
-无可救药	fafs
+无可救药	fjfs
 血流成河	gnkn
 草草了事	sskh
 来者不善	fhgq
@@ -16369,7 +16369,7 @@ columns:
 是是非非	jjuu
 不知好歹	gjcf
 秋毫无犯	mafh
-长歌当哭	nail
+长歌当哭	njil
 好色之徒	cxoc
 富贵荣华	ilse
 百川归海	vlqn
@@ -16383,7 +16383,7 @@ columns:
 区长	hsnc
 随随便便	ppee
 陕北	poqn
-阿婆	panb
+阿婆	pjnb
 双喜	bbhl
 双臂	bbbl
 能不能	ngnw
@@ -16391,7 +16391,7 @@ columns:
 巴拿马	orbm
 大院	odpi
 大水	odns
-大河	odna
+大河	odnj
 三亚	lalq
 古语	jgdf
 龙井	fgik
@@ -16470,7 +16470,7 @@ columns:
 撤回	fawl
 相对论	abdr
 相片	ajdp
-可变	altb
+可变	jltb
 机理	aejv
 奥斯卡	duju
 行长	cinc
@@ -16534,9 +16534,9 @@ columns:
 十一月	gfwy
 省政府	ifme
 哺乳动物	luip
-尽可能	banw
+尽可能	bjnw
 植树造林	aapa
-可靠性	aprp
+可靠性	jprp
 准确性	ivrp
 灵活性	bnrp
 拿破仑	rvrn
@@ -16592,7 +16592,7 @@ columns:
 增长率	hnan
 检疫	arme
 景点	jaul
-可喜	alhl
+可喜	jlhl
 衷心	auri
 越是	hkjf
 植树	agab
@@ -16613,7 +16613,7 @@ columns:
 重任	mvem
 游人	ntre
 涵义	nyks
-订单	daqj
+订单	djqj
 任期	emuw
 总产值	qkeg
 违章	aykj
@@ -16662,7 +16662,7 @@ columns:
 联网	lqcs
 投向	fedx
 乡里	kgvl
-西宁	pxia
+西宁	pxij
 军营	xxsx
 建材	baah
 展览会	buri
@@ -16841,7 +16841,7 @@ columns:
 图谋	wtds
 一大早	fojz
 列席	fxms
-散打	swfa
+散打	swfj
 每每	gege
 演练	nikx
 做官	ejib
@@ -16856,7 +16856,7 @@ columns:
 文集	teea
 邦交	dpak
 首饰	qqxg
-可信	aleb
+可信	jleb
 入库	krmx
 求职	fnll
 新式	kakp
@@ -16876,16 +16876,16 @@ columns:
 留守	kvih
 诊所	drdd
 出战	wwul
-展厅	bsva
+展厅	bsvj
 抗争	faxb
 细雨	kvcy
 涉外	npxu
-讴歌	dhal
+讴歌	dhjl
 硅谷	vhkr
 会计师	rdqf
 热切	frxm
 元年	flga
-双打	bbfa
+双打	bbfj
 无缘	ffke
 通讯社	bdjh
 沉寂	nxij
@@ -16985,7 +16985,7 @@ columns:
 知晓	jljx
 自卫	qiaf
 适于	lofh
-订立	dakl
+订立	djkl
 巾帼	ujuw
 画卷	fvqo
 熏陶	mgpw
@@ -17066,7 +17066,7 @@ columns:
 屋檐	bdax
 稻谷	mukr
 触摸	xsfs
-呵护	lafh
+呵护	ljfh
 肖像	iwex
 悲愤	urrg
 食盐	kshu
@@ -17097,7 +17097,7 @@ columns:
 外币	xugu
 烧饼	ixxq
 巡查	loaj
-河畔	navq
+河畔	njvq
 书名	yyxl
 中世纪	lsko
 推举	fenk
@@ -17121,7 +17121,7 @@ columns:
 影院	japi
 起劲	hobp
 给以	krek
-可恨	alrg
+可恨	jlrg
 委派	mcnd
 偌大	esod
 忠臣	luhe
@@ -17191,7 +17191,7 @@ columns:
 黯淡	gkni
 孤寂	kuij
 空难	ipbe
-敲打	aufa
+敲打	aufj
 生力军	psxx
 法语	nhdf
 风潮	esng
@@ -17202,7 +17202,7 @@ columns:
 车道	xjqq
 潜入	nokr
 越野	hkvk
-打球	fajf
+打球	fjjf
 逆差	qwqp
 赏赐	iccj
 侄女	edcn
@@ -17283,7 +17283,7 @@ columns:
 一刀切	fmxm
 着装	qjqh
 惧怕	rjrd
-山歌	usal
+山歌	usjl
 畜生	anps
 底细	mkkv
 凉风	iaes
@@ -17309,7 +17309,7 @@ columns:
 捏造	fjpl
 坍塌	hwhj
 字画	ikfv
-顶尖	avio
+顶尖	jvio
 锐意	oqkj
 委婉	mcci
 杂物	rapw
@@ -17331,7 +17331,7 @@ columns:
 心坎	rihx
 长相	ncaj
 晨曦	jmjq
-可敬	alsw
+可敬	jlsw
 气节	gqsa
 调离	dwtw
 琐碎	jiva
@@ -17599,7 +17599,7 @@ columns:
 顺眼	lvjg
 酸性	pnrp
 停放	eatt
-补丁	xuad
+补丁	xujd
 紧凑	ubio
 引爆	buij
 成活	kynl
@@ -17744,17 +17744,17 @@ columns:
 毒瘤	hemk
 摄取	fllb
 夜景	aeja
-花灯	seia
+花灯	seij
 迁居	mobj
 指教	fnhk
 代代相传	eeae
 微波炉	cnih
 下颌	jxrv
 要领	pcrk
-乐呵呵	klla
+乐呵呵	kllj
 礼服	jewa
 淘金	nwtj
-打磨	famv
+打磨	fjmv
 披肩	fbhw
 齐备	tktv
 徒劳	chsx
@@ -17896,7 +17896,7 @@ columns:
 逐日	tojr
 不巧	guph
 淡泊	nind
-灯会	iari
+灯会	ijri
 抹布	ffeu
 退兵	godf
 邂逅	xsdf
@@ -18023,14 +18023,14 @@ columns:
 人犯	reha
 太阳穴	opix
 斜阳	rfpj
-装订	qhda
+装订	qhdj
 记过	doho
 同僚	cfeo
 躯干	qhng
 饶恕	xxcl
 受托	uxfg
 竹笋	gzgb
-打岔	fakm
+打岔	fjkm
 斗篷	iggt
 恶臭	lqqh
 风骨	esrg
@@ -18069,7 +18069,7 @@ columns:
 主语	kjdf
 恣意	ixkj
 作罢	eguh
-打气	fagq
+打气	fjgq
 粉刷	qkbu
 理当	jvib
 悄无声息	rfhq
@@ -18082,7 +18082,7 @@ columns:
 舍身	rlqs
 伸缩	edki
 卸任	gfem
-打鼓	fahg
+打鼓	fjhg
 凌驾	ihsl
 冒犯	ciha
 措辞	fslk
@@ -18139,7 +18139,7 @@ columns:
 有神	ewjd
 长进	ncik
 带电	sxdd
-奇葩	oasd
+奇葩	ojsd
 肉麻	crma
 凶杀	swsa
 野兔	vkxl
@@ -18153,14 +18153,14 @@ columns:
 动怒	incb
 齐心	tkri
 前奏	qwof
-笑呵呵	glla
+笑呵呵	gllj
 匀速	wial
 转学	xinx
 残杀	fxsa
 女皇	cndj
 招惹	fmse
 败绩	ctkh
-车灯	xjia
+车灯	xjij
 夹缝	oqkt
 坚挺	ubfm
 飘然	pjwh
@@ -18204,7 +18204,7 @@ columns:
 天真烂漫	fgin
 震怒	cmcb
 告密	plir
-街灯	chia
+街灯	chij
 马戏	bmbk
 跑马	pwbm
 手提包	ffwo
@@ -18220,7 +18220,7 @@ columns:
 长存	nceu
 云霄	inci
 傲气	ehgq
-不可逾越	garh
+不可逾越	gjrh
 天光	foil
 变卦	tbhh
 参差	noqp
@@ -18254,7 +18254,7 @@ columns:
 午休	ggea
 窈窕	iniw
 错字	osik
-歌坛	alhi
+歌坛	jlhi
 描画	fsfv
 香皂	mjdx
 变戏法	tbnh
@@ -18362,7 +18362,7 @@ columns:
 赌徒	chch
 反光	dbil
 胶水	wans
-军歌	xxal
+军歌	xxjl
 侵扰	ebff
 编组	khkj
 黄鼠狼	sdhk
@@ -18382,7 +18382,7 @@ columns:
 堤岸	hjuv
 纷纷扬扬	kkff
 干戈	ngkg
-奇遇	oavo
+奇遇	ojvo
 俏皮话	ebdl
 细软	kvxx
 羞惭	qbrx
@@ -18436,7 +18436,7 @@ columns:
 得宠	cjif
 割让	iddj
 减价	iker
-拷打	fhfa
+拷打	fhfj
 切换	xmfx
 粉条	qkta
 蓝本	suaf
@@ -18459,7 +18459,7 @@ columns:
 上手	jvfs
 终身大事	kqoh
 导出	ohww
-阿胶	pawa
+阿胶	pjwa
 合身	rhqs
 结亲	khka
 批文	fnte
@@ -18473,7 +18473,7 @@ columns:
 中档	luai
 橙色	abxo
 两回事	fwhl
-明灯	jwia
+明灯	jwij
 声带	hbsx
 游乐场	nkhy
 孱弱	bkbi
@@ -18524,7 +18524,7 @@ columns:
 养伤	qoeg
 一生一世	fpfs
 专修	ieeu
-悲歌	ural
+悲歌	urjl
 酬谢	pndq
 罹难	urbe
 名门	xltm
@@ -18565,7 +18565,7 @@ columns:
 王法	jwnh
 不以为意	gekk
 餐车	uxxj
-吊灯	luia
+吊灯	luij
 返工	dbpg
 莅临	seug
 山色	usxo
@@ -18613,7 +18613,7 @@ columns:
 灭火器	fill
 茉莉	sfsm
 映射	jcqh
-灯谜	iadq
+灯谜	ijdq
 晃悠	jieu
 货品	enll
 来劲	fqbp
@@ -18625,7 +18625,7 @@ columns:
 先兆	pwwi
 蓄谋	sads
 画布	fveu
-可憎	alrq
+可憎	jlrq
 路数	ptqc
 难为	beks
 通风报信	befe
@@ -18638,7 +18638,7 @@ columns:
 乱来	lefq
 乳腺	ukwd
 搜身	fdqs
-探照灯	fjia
+探照灯	fjij
 特例	phef
 天分	fokm
 为国捐躯	kwfq
@@ -18711,7 +18711,7 @@ columns:
 门市	tmau
 泡汤	nwny
 上联	jvlq
-无可争辩	faxk
+无可争辩	fjxk
 下马威	jbkf
 音律	kjcb
 尊容	qpir
@@ -18734,7 +18734,7 @@ columns:
 帮腔	dpwi
 绝地	kxho
 名菜	xlsu
-不可抗力	gafs
+不可抗力	gjfs
 国宾	wjid
 球拍	jffd
 晚安	jxic
@@ -18937,7 +18937,7 @@ columns:
 小数点	iqul
 朱雀	pkie
 愁绪	mikh
-高歌猛进	aahi
+高歌猛进	ajhi
 冷场	irhy
 蓓蕾	sesc
 疯癫	memg
@@ -19078,7 +19078,7 @@ columns:
 词不达意	dgok
 删繁就简	wgag
 实至名归	idxq
-泰山压顶	ouva
+泰山压顶	ouvj
 电钻	ddou
 红杏出墙	kawh
 名满天下	xnfj
@@ -19179,13 +19179,13 @@ columns:
 灭绝人性	fkrr
 长生不老	npgh
 龙马精神	fbqj
-富可敌国	ialw
+富可敌国	ijlw
 无出其右	fwue
 居心不良	brgk
 及时行乐	gjck
-臭不可闻	qgat
+臭不可闻	qgjt
 不堪入耳	ghkl
-弃之可惜	aoar
+弃之可惜	aojr
 面不改色	sgox
 如梦方醒	catp
 罪孽深重	usnm
@@ -19197,7 +19197,7 @@ columns:
 月黑风高	wgea
 替天行道	ofcq
 特立独行	pkhc
-楚楚可怜	aaar
+楚楚可怜	aajr
 骨肉相连	rcax
 愚昧无知	vjfj
 患难之交	lboa
@@ -19240,7 +19240,7 @@ columns:
 雅典	hecs
 薄冰	snin
 斯洛伐克	unej
-芝加哥	ssal
+芝加哥	ssjl
 区段	hsel
 随大流	pona
 出乎	wwgq
@@ -19279,7 +19279,7 @@ columns:
 事儿	hlwr
 刺史	acls
 亚太	lqok
-列宁	fxia
+列宁	fxij
 上上下下	jjjj
 点点滴滴	uunn
 小屋	ivbd
@@ -19289,7 +19289,7 @@ columns:
 漏气	nbgq
 党内	iwcr
 光度	ilms
-河水	nans
+河水	njns
 举出	nkww
 洞庭湖	nmnj
 明暗	jwjk
@@ -19337,9 +19337,9 @@ columns:
 年头	gaio
 拐棍	flaj
 白布	dbeu
-打碎	fava
-打滚	fana
-打乱	fale
+打碎	fjva
+打滚	fjna
+打乱	fjle
 推向	fedx
 杜甫	ahnf
 榜上有名	ajex
@@ -19387,7 +19387,7 @@ columns:
 让开	djfs
 让给	djkr
 应有	mnew
-摩洛哥	mnal
+摩洛哥	mnjl
 刘海	tmng
 高跟鞋	apsh
 调味品	dlll
@@ -19476,7 +19476,7 @@ columns:
 抢险	frpr
 反腐倡廉	dmem
 赛季	ismk
-河边	naso
+河边	njso
 接轨	fkxr
 廉洁	mqnh
 共计	skdg
@@ -19607,9 +19607,9 @@ columns:
 失信	goeb
 博士后	ghdf
 地税	homq
-河内	nacr
+河内	njcr
 心里话	rvdl
-打捞	fafs
+打捞	fjfs
 助长	jsnc
 独家	hqit
 去处	hntu
@@ -19746,7 +19746,7 @@ columns:
 统帅	kaqu
 点球	uljf
 卷入	qokr
-打消	fani
+打消	fjni
 骡子	bvkz
 星级	jpkg
 小溪	ivnu
@@ -19756,7 +19756,7 @@ columns:
 上扬	jvfy
 红星	kpjp
 后事	dfhl
-秧歌	mcal
+秧歌	mcjl
 稿费	mabk
 拐卖	flgy
 猛虎	hkuh
@@ -19782,7 +19782,7 @@ columns:
 超群	hmbg
 战俘	uleu
 区区	hshs
-预订	kvda
+预订	kvdj
 推卸	fegf
 评说	dndq
 应力	mnsl
@@ -19825,7 +19825,7 @@ columns:
 断流	qena
 友善	ebqq
 仿真	etgj
-可否	algl
+可否	jlgl
 多彩	xxua
 查实	ajii
 告急	plxb
@@ -19891,7 +19891,7 @@ columns:
 勘测	uenc
 湿漉漉	nnnm
 中草药	lssk
-阿妈	pacb
+阿妈	pjcb
 大不了	ogke
 成见	kycj
 面颊	smoq
@@ -19932,7 +19932,7 @@ columns:
 伎俩	egef
 讲师	diqf
 陆路	papt
-可汗	alnn
+可汗	jlnn
 王公	jwkn
 北国	qnwj
 财源	chnv
@@ -19989,7 +19989,7 @@ columns:
 歇息	jwqr
 稀饭	msxd
 飞越	yihk
-亭子	aakz
+亭子	ajkz
 遇险	vopr
 护法	fhnh
 伤痛	egmb
@@ -20000,7 +20000,7 @@ columns:
 土坯	hthg
 校正	aafp
 瞌睡	jhjm
-歌咏	allk
+歌咏	jllk
 雄浑	ennx
 资历	ixvs
 黯然	gkwh
@@ -20114,7 +20114,7 @@ columns:
 纵身	krqs
 兴亡	nktw
 研读	vfdg
-不可收拾	gawf
+不可收拾	gjwf
 红肿	kpwl
 石榴	vsak
 树冠	abxf
@@ -20215,7 +20215,7 @@ columns:
 刀刃	mdmk
 斗殴	ighs
 闷气	trgq
-信号灯	elia
+信号灯	elij
 学艺	nxsy
 动议	indk
 离异	twos
@@ -20283,7 +20283,7 @@ columns:
 高音	agkj
 出纳	wwkc
 猎枪	hsar
-园丁	wfad
+园丁	wfjd
 口感	lvkf
 末尾	fmbm
 泼辣	nwka
@@ -20304,7 +20304,7 @@ columns:
 狐疑	hunj
 喜酒	hlnp
 干练	ngkx
-抽打	fdfa
+抽打	fdfj
 放炮	ttiw
 且慢	jqrj
 傻笑	edgm
@@ -20334,7 +20334,7 @@ columns:
 阴历	pwvs
 专区	iehs
 边沿	sone
-打搅	fafn
+打搅	fjfn
 眼红	jgkp
 匾额	hhit
 富豪	ifat
@@ -20382,7 +20382,7 @@ columns:
 接生	fkps
 壮年	qhga
 追悼	doru
-呵斥	ladk
+呵斥	ljdk
 豁免	idxl
 清净	nhix
 水表	nshg
@@ -20413,7 +20413,7 @@ columns:
 淡雅	nihe
 石匠	vshd
 就寝	aiiq
-厅堂	vaih
+厅堂	vjih
 元月	flwy
 纸箱	kkga
 佛学	ebnx
@@ -20436,7 +20436,7 @@ columns:
 抄录	fibn
 平头	nqio
 春雷	ojcv
-打赌	fach
+打赌	fjch
 繁复	gegj
 日食	jrks
 佳音	ehkj
@@ -20444,10 +20444,10 @@ columns:
 临到	ugdm
 百灵	vjbi
 吃透	lgmg
-歌厅	alva
+歌厅	jlvj
 雕花	whse
 酣睡	psjm
-华灯	enia
+华灯	enij
 夹带	oqsx
 精制	qhpc
 铃铛	oroi
@@ -20466,8 +20466,8 @@ columns:
 煞白	xbdb
 月夜	wyae
 冲锋枪	ioar
-打铁	faog
-灯具	iajk
+打铁	fjog
+灯具	ijjk
 电离	ddtw
 晃荡	jisn
 裤脚	xmwh
@@ -20483,7 +20483,7 @@ columns:
 习作	vxeg
 向心力	drsl
 住家	ekit
-打转	faxi
+打转	fjxi
 马术	bmak
 甩手	wefs
 喜色	hlxo
@@ -20523,7 +20523,7 @@ columns:
 公牛	knpn
 逃税	wimq
 窄小	igiv
-顶棚	avaw
+顶棚	jvaw
 给养	krqo
 披挂	fbfh
 铺位	onek
@@ -20637,7 +20637,7 @@ columns:
 开怀	fsrg
 毛利	mmmm
 成衣	kyag
-河沟	nanw
+河沟	njnw
 墨汁	ghng
 热水瓶	fnqs
 温水	njns
@@ -20665,7 +20665,7 @@ columns:
 食物链	kpox
 怪诞	rbdg
 礼让	jedj
-螺丝钉	qkoa
+螺丝钉	qkoj
 煤球	isjf
 脱逃	wqwi
 凶器	swll
@@ -20681,7 +20681,7 @@ columns:
 名酒	xlnp
 配给	pokr
 调情	dwrh
-武打	fkfa
+武打	fkfj
 隐没	pxne
 真皮	gjbp
 真心话	grdl
@@ -20749,7 +20749,7 @@ columns:
 菜蔬	susy
 酒色	npxo
 拦路虎	fpuh
-无可非议	faud
+无可非议	fjud
 身姿	qsix
 深广	nxmg
 贤惠	ubdr
@@ -20873,7 +20873,7 @@ columns:
 顽抗	flfa
 多劳多得	xsxc
 浮标	nuaj
-国际歌	wpal
+国际歌	wpjl
 炮轰	iwxb
 切面	xmsm
 请帖	dhuu
@@ -20946,11 +20946,11 @@ columns:
 瞎话	jidl
 续集	kgea
 便服	efwa
-订正	dafp
+订正	djfp
 梦游	aant
 膜拜	wsff
 漂白	npdb
-挽歌	fxal
+挽歌	fxjl
 小腹	ivwg
 冰窖	inip
 高论	agdr
@@ -21104,7 +21104,7 @@ columns:
 镣铐	oooh
 沦丧	nrgq
 内奸	crcn
-扭打	fbfa
+扭打	fbfj
 事无巨细	hfhk
 胡桃	jwaw
 傻眼	edjg
@@ -21116,7 +21116,7 @@ columns:
 对门	bhtm
 恶感	lqkf
 和顺	mllv
-可好	alck
+可好	jlck
 灵位	biek
 岔路	kmpt
 楚楚动人	aair
@@ -21131,7 +21131,7 @@ columns:
 转租	ximj
 复工	gjpg
 隔夜	pfae
-幻灯	nyia
+幻灯	nyij
 嫉恨	cmrg
 安神	icjd
 草绿	sjkb
@@ -21192,7 +21192,7 @@ columns:
 活络	nlkt
 矿泉	vmdn
 赠言	cqby
-长明灯	njia
+长明灯	njij
 粗疏	qjyp
 坟茔	htsx
 荒诞不经	sdgk
@@ -21243,7 +21243,7 @@ columns:
 赔罪	ckuu
 仁厚	eivj
 宝典	ijcs
-不可胜数	gawq
+不可胜数	gjwq
 石笋	vsgb
 草芥	sjsr
 方步	tfpi
@@ -21289,7 +21289,7 @@ columns:
 蛇蝎	qiqj
 万里无云	fvfi
 帮会	dpri
-壁灯	blia
+壁灯	blij
 伯仲	edel
 留步	kvpi
 软和	xxml
@@ -21382,7 +21382,7 @@ columns:
 宽限	ispg
 色差	xoqp
 酥脆	pmwx
-尾灯	bmia
+尾灯	bmij
 痛觉	mbnx
 报数	faqc
 低烧	ekix
@@ -21503,7 +21503,7 @@ columns:
 卸磨杀驴	gmsb
 意气相投	kgaf
 百口莫辩	vlsk
-莫可名状	saxq
+莫可名状	sjxq
 破相	vbaj
 起笔	hogm
 气冲霄汉	gicn
@@ -21546,7 +21546,7 @@ columns:
 推而广之	fsmo
 上下一心	jjfr
 不声不响	ghgl
-不可限量	gapj
+不可限量	gjpj
 群雄逐鹿	betm
 连绵不绝	xkgk
 言无不尽	bfgb
@@ -21578,7 +21578,7 @@ columns:
 恶有恶报	lelf
 城门失火	htgi
 居功自傲	bpqe
-庖丁解牛	maxp
+庖丁解牛	mjxp
 志在千里	hemv
 河东狮吼	nxhl
 嫁祸于人	cjfr
@@ -21749,7 +21749,7 @@ columns:
 摆手	fufs
 所能	ddnw
 摇摇晃晃	ffjj
-打死	fafx
+打死	fjfx
 手上	fsjv
 手中	fslu
 殷红	dbkp
@@ -21762,9 +21762,9 @@ columns:
 想想	ajaj
 相公	ajkn
 李时珍	ajjr
-可逆	alqw
+可逆	jlqw
 格鲁吉亚	axhl
-哥白尼	adbn
+哥白尼	jdbn
 木质	amdg
 校外	aaxu
 长成	ncky
@@ -22116,7 +22116,7 @@ columns:
 街坊	chht
 纵观	krbc
 臭氧	qhgq
-打折	fafd
+打折	fjfd
 燃油	iwnd
 史册	lsww
 奋发	ovwb
@@ -22135,7 +22135,7 @@ columns:
 出局	wwby
 道家	qqit
 过半	hoqa
-歌星	aljp
+歌星	jljp
 银杏	ogal
 全额	rjit
 下载	jxgk
@@ -22158,9 +22158,9 @@ columns:
 进士	ikhs
 治学	nnnx
 城郊	hkak
-奇观	oabc
+奇观	ojbc
 石碑	vsvd
-河段	nael
+河段	njel
 扬言	fyby
 公墓	knsj
 内务	crts
@@ -22272,7 +22272,7 @@ columns:
 史书	lsyy
 美貌	qomd
 安居	icbj
-内河	crna
+内河	crnj
 失明	gojw
 滴水	nans
 忠心	luri
@@ -22394,7 +22394,7 @@ columns:
 落座	snmr
 国文	wjte
 阅兵	tqdf
-可亲	alka
+可亲	jlka
 赤诚	hkdk
 跌宕	pgiv
 水壶	nshx
@@ -22403,7 +22403,7 @@ columns:
 夜总会	aqri
 交还	akgo
 精光	qhil
-何其	eauq
+何其	ejuq
 伤疤	egmo
 收场	wthy
 售票员	eplc
@@ -22497,7 +22497,7 @@ columns:
 遗书	ljyy
 手写	fsxh
 徜徉	cicq
-呵欠	laxq
+呵欠	ljxq
 中意	lukj
 修长	eunc
 仪仗队	eepr
@@ -22603,7 +22603,7 @@ columns:
 粮草	qksj
 准予	ieky
 淡季	nimk
-灯塔	iahs
+灯塔	ijhs
 请安	dhic
 条幅	tauf
 听命	ldra
@@ -22621,7 +22621,7 @@ columns:
 地界	hovr
 偏颇	ehbv
 榕树	aiab
-河山	naus
+河山	njus
 课业	djie
 情妇	rhcb
 国都	wjhj
@@ -22768,7 +22768,7 @@ columns:
 蝶泳	qsnk
 夹子	oqkz
 日内	jrcr
-打住	faek
+打住	fjek
 吉凶	hlsw
 闪开	trfs
 调遣	dwlj
@@ -22813,7 +22813,7 @@ columns:
 有机体	eaea
 初创	xmra
 归类	qbqo
-苛求	safn
+苛求	sjfn
 嫖娼	cpcj
 自诩	qidv
 钻孔	ouke
@@ -23066,7 +23066,7 @@ columns:
 校训	aadl
 仰卧	ekhu
 导引	ohbu
-河豚	nawt
+河豚	njwt
 绝壁	kxbl
 母性	emrp
 揉搓	fkfq
@@ -23116,8 +23116,8 @@ columns:
 胡来	jwfq
 即席	bnms
 乐事	kihl
-奇才	oahg
-奇缺	oajb
+奇才	ojhg
+奇缺	ojjb
 天仙	foeu
 倭寇	emif
 武夫	fkof
@@ -23135,7 +23135,7 @@ columns:
 见习	cjvx
 律动	cbin
 门楣	tmab
-摔打	fafa
+摔打	fafj
 小农	ivxg
 廉耻	mqlp
 婶娘	cick
@@ -23250,7 +23250,7 @@ columns:
 电解	ddxs
 佛祖	ebjj
 黄油	sdnd
-奇兵	oadf
+奇兵	ojdf
 球面	jfsm
 铁索	oggx
 瞎眼	jijg
@@ -23284,7 +23284,7 @@ columns:
 冻伤	ixeg
 退换	gofx
 法门	nhtm
-岗亭	ucaa
+岗亭	ucaj
 泰然	onwh
 邮递	dpqb
 圆舞曲	wgcs
@@ -23479,7 +23479,7 @@ columns:
 点破	ulvb
 拱形	fsfs
 虎将	uhqx
-急不可待	xgac
+急不可待	xgjc
 气数	gqqc
 情网	rhcs
 一场空	fhip
@@ -23587,7 +23587,7 @@ columns:
 挑唆	fwln
 折腰	fdwp
 逞强	ljbl
-打桩	faam
+打桩	fjam
 端阳	kupj
 给水	krns
 冷僻	ireb
@@ -23678,7 +23678,7 @@ columns:
 驼铃	bior
 外勤	xusi
 无所不知	fdgj
-爱河	uxna
+爱河	uxnj
 包皮	wobp
 干脆利落	nwms
 货郎	enkb
@@ -23714,7 +23714,7 @@ columns:
 便宜行事	eich
 佛手	ebfs
 福尔马林	jxba
-点歌	ulal
+点歌	uljl
 封套	hhou
 干冷	ngir
 毁容	dpir
@@ -23781,7 +23781,7 @@ columns:
 暗语	jkdf
 茶汤	srny
 晨星	jmjp
-校订	aada
+校订	aadj
 生冷	psir
 薪资	skix
 游侠	nteo
@@ -23850,12 +23850,12 @@ columns:
 毫秒	ammi
 假条	ebta
 要事	pchl
-愚不可及	vgag
+愚不可及	vgjg
 中波	lunb
 补血	xugu
 荡妇	sncb
 根苗	agsv
-何曾	eaqj
+何曾	ejqj
 回车	wlxj
 荤菜	sxsu
 蚀本	xqaf
@@ -23974,7 +23974,7 @@ columns:
 少安毋躁	iiep
 言者无罪	bhfu
 引而不发	bsgw
-歌谱	aldq
+歌谱	jldq
 楷体	anea
 倾巢而出	elsw
 伴郎	eqkb
@@ -24034,7 +24034,7 @@ columns:
 艰苦朴素	bsah
 妙语连珠	cdxj
 四脚朝天	wwgf
-不可偏废	gaem
+不可偏废	gjem
 穷困潦倒	iwne
 璀璨夺目	jjoj
 升官发财	giwc
@@ -24051,7 +24051,7 @@ columns:
 大江东去	onxh
 文以载道	tegq
 白山黑水	dugn
-面目可憎	sjar
+面目可憎	sjjr
 风华绝代	eeke
 开卷有益	fqeq
 声如洪钟	hcno
@@ -24236,7 +24236,7 @@ columns:
 写入	xhkr
 寰宇	iuif
 塞内加尔	icsx
-安哥拉	iafk
+安哥拉	ijfk
 完好无损	icff
 铺平	onnq
 外侧	xuec
@@ -24262,10 +24262,10 @@ columns:
 摆摊	fufb
 掏出	fwww
 掀开	fdfs
-打散	fasw
-打出	faww
-打法	fanh
-打掉	fafu
+打散	fjsw
+打出	fjww
+打法	fjnh
+打掉	fjfu
 热汤	frny
 操作系统	fegk
 摄像头	feio
@@ -24335,7 +24335,7 @@ columns:
 伸长	ednc
 公安部	kikl
 像素	exho
-何方	eatf
+何方	ejtf
 舒舒服服	rrww
 化境	enhk
 售出	elww
@@ -24373,7 +24373,7 @@ columns:
 境外	hkxu
 实效	iiak
 政法	fpnh
-即可	bnal
+即可	bnjl
 总队	qlpr
 物流	pwna
 核查	ataj
@@ -24428,7 +24428,7 @@ columns:
 不法	gunh
 零部件	ckep
 专机	ieae
-何不	eagu
+何不	ejgu
 议事	dkhl
 排污	funf
 地委	homc
@@ -24459,7 +24459,7 @@ columns:
 首府	qqme
 考评	hhdn
 此人	pnre
-河滩	nanb
+河滩	njnb
 喜事	hlhl
 饮用	xxsy
 无序	ffmk
@@ -24493,7 +24493,7 @@ columns:
 高祖	agjj
 全集	rjea
 技工	fgpg
-不可或缺	gakj
+不可或缺	gjkj
 主力军	ksxx
 出示	wwjs
 历年	vsga
@@ -24633,7 +24633,7 @@ columns:
 说笑	dqgm
 书目	yyjm
 主妇	kjcb
-房顶	htav
+房顶	htjv
 家居	itbj
 全套	rjou
 瞎说	jidq
@@ -24672,7 +24672,7 @@ columns:
 剪彩	qwua
 送交	qoak
 法郎	nhkb
-顶级	avkg
+顶级	jvkg
 山水画	unfv
 总厂	qlvh
 本职	afll
@@ -24685,7 +24685,7 @@ columns:
 书斋	yyts
 寄宿	ioie
 良策	kgga
-先河	pwna
+先河	pwnj
 发包	wbwo
 几分	ejkm
 立意	klkj
@@ -24743,7 +24743,7 @@ columns:
 比作	nneg
 成事	kyhl
 命案	raic
-彩灯	uaia
+彩灯	uaij
 雾气	ctgq
 比划	nnkm
 应得	mncj
@@ -24751,7 +24751,7 @@ columns:
 盈余	gbrf
 止境	pihk
 助学金	jntj
-八哥	kaal
+八哥	kajl
 爹娘	ksck
 收款	wthj
 总参	qlno
@@ -24897,7 +24897,7 @@ columns:
 批驳	fnbs
 敌方	lttf
 巨著	hbsh
-岂可	uoal
+岂可	uojl
 特异	phos
 额角	itxs
 兴修	nkeu
@@ -24908,7 +24908,7 @@ columns:
 约莫	kwsj
 警备	swtv
 巨星	hbjp
-颂歌	knal
+颂歌	knjl
 樟树	akab
 草棚	sjaw
 人名	rexl
@@ -24966,7 +24966,7 @@ columns:
 四顾	wwva
 听任	ldem
 援兵	fudf
-何谓	eadv
+何谓	ejdv
 荣辱	sxmh
 败北	ctqn
 开道	fsqq
@@ -25157,7 +25157,7 @@ columns:
 悖论	rgdr
 顾全	varj
 临场	ughy
-奇闻	oatl
+奇闻	ojtl
 玻璃钢	jjoc
 鸟兽	mnqv
 午睡	ggjm
@@ -25219,7 +25219,7 @@ columns:
 拾遗	frlj
 讨债	dheh
 眼睑	jgjr
-封顶	hhav
+封顶	hhjv
 抚恤金	frtj
 煎饼	qwxq
 语种	dfml
@@ -25271,7 +25271,7 @@ columns:
 分内	kmcr
 国君	wjbg
 风口	eslv
-击打	awfa
+击打	awfj
 匠人	hdre
 猜忌	hhor
 平衡木	ncam
@@ -25339,7 +25339,7 @@ columns:
 上品	jvll
 营建	sxba
 暗笑	jkgm
-打垮	faho
+打垮	fjho
 复述	gjak
 驾照	sljm
 严刑	lqfs
@@ -25356,7 +25356,7 @@ columns:
 须眉	cvbj
 充气	angq
 代课	ekdj
-灯饰	iaxg
+灯饰	ijxg
 罗网	uxcs
 问罪	tluu
 吸吮	lgln
@@ -25482,7 +25482,7 @@ columns:
 往复	ckgj
 欲言又止	kbbp
 法家	nhit
-可信度	aems
+可信度	jems
 山脊	usii
 小名	ivxl
 政论	fpdr
@@ -25515,7 +25515,7 @@ columns:
 冥想	xjaj
 情态	rhok
 取道	lbqq
-日光灯	jiia
+日光灯	jiij
 凶犯	swha
 意趣	kjhl
 扯淡	fpni
@@ -25532,7 +25532,7 @@ columns:
 锅巴	olob
 活性炭	nrue
 溃败	nlct
-奇峰	oaut
+奇峰	ojut
 千斤	mqdj
 合璧	rhbl
 花样翻新	sagk
@@ -25544,13 +25544,13 @@ columns:
 盎司	coyf
 车位	xjek
 丑态	bcok
-牧歌	ptal
+牧歌	ptjl
 侨居	embj
 入土	krht
 堂兄	ihlw
 文秘	temr
 仙姑	eucj
-珍奇	jroa
+珍奇	jroj
 裨益	xdqk
 变体	tbea
 蟾蜍	qxqr
@@ -25637,13 +25637,13 @@ columns:
 讲评	didn
 劳顿	sxxw
 浅色	nfxo
-可卡因	ajwo
+可卡因	jjwo
 狂吠	hjlh
 墙脚	hgwh
 庶民	msox
 萎靡	smmu
 真品	gjll
-正厅	fpva
+正厅	fpvj
 拜寿	ffdh
 传阅	eitq
 扶正	fofp
@@ -25657,12 +25657,12 @@ columns:
 版税	ddmq
 保本	elaf
 别号	lslh
-打坐	farr
+打坐	fjrr
 官阶	ibpr
 合同工	rcpg
 胶布	waeu
 来由	fqdo
-能歌善舞	naqg
+能歌善舞	njqg
 逆反	qwdb
 女流	cnna
 童养媳	kqcq
@@ -25691,7 +25691,7 @@ columns:
 洋气	nqgq
 野果	vkja
 赤脚医生	hwhp
-打斗	faig
+打斗	fjig
 大白	oddb
 飞瀑	yinj
 股息	weqr
@@ -25717,7 +25717,7 @@ columns:
 拓荒	fvst
 走漏	hznb
 丰沛	dfnf
-猎奇	hsoa
+猎奇	hsoj
 全称	rjmx
 晚婚	jxck
 协约	gskw
@@ -25766,7 +25766,7 @@ columns:
 雪松	cbak
 仪态	ekok
 值日	egjr
-歌女	alcn
+歌女	jlcn
 凉拌	iafq
 炉膛	ihwi
 茅舍	skrl
@@ -25781,7 +25781,7 @@ columns:
 暴烈	jsfx
 反目	dbjm
 高估	agej
-奇袭	oafg
+奇袭	ojfg
 刑具	fsjk
 暴戾	jshh
 波峰	nbut
@@ -25798,13 +25798,13 @@ columns:
 残阳	fxpj
 旁白	aqdb
 曙色	juxo
-塔顶	hsav
+塔顶	hsjv
 蚊香	qtmj
 相持不下	afgj
 韵致	kjdt
 出彩	wwua
 底稿	mkma
-矿灯	vmia
+矿灯	vmij
 莲蓬	sxst
 练武	kxfk
 余缺	rfjb
@@ -25818,7 +25818,7 @@ columns:
 对号	bhlh
 令尊	rkqp
 盼头	jkio
-人丁	read
+人丁	rejd
 息怒	qrcb
 研磨	vfmv
 多灾多难	xixb
@@ -25830,7 +25830,7 @@ columns:
 详述	dqak
 小春	ivoj
 彩照	uajm
-打理	fajv
+打理	fjjv
 肥壮	woqh
 纲纪	kcko
 轮休	xrea
@@ -25843,8 +25843,8 @@ columns:
 痛击	mbaw
 纤纤	kmkm
 怠工	nlpg
-灯丝	iakk
-急不可耐	xgas
+灯丝	ijkk
+急不可耐	xgjs
 入魔	krmd
 山药	ussk
 兴利除弊	nmpq
@@ -25900,7 +25900,7 @@ columns:
 封装	hhqh
 肝火	wnih
 揩油	fnnd
-可怜虫	arqc
+可怜虫	jrqc
 淋病	namf
 特种兵	pmdf
 剃刀	qbmd
@@ -25913,7 +25913,7 @@ columns:
 明澈	jwna
 神清气爽	jngo
 血库	gumx
-顶嘴	avlp
+顶嘴	jvlp
 过眼烟云	hjii
 加仑	slrn
 屈尊	bwqp
@@ -25932,8 +25932,8 @@ columns:
 肉搏	crfn
 辱没	mhne
 腾跃	wqpm
-不可终日	gakj
-灯油	iand
+不可终日	gjkj
+灯油	ijnd
 姑嫂	cjcd
 画稿	fvma
 鸡肋	bmws
@@ -26035,7 +26035,7 @@ columns:
 奸佞	cnei
 开球	fsjf
 马帮	bmdp
-苏打	ssfa
+苏打	ssfj
 酸味	pnlf
 接合	fkrh
 就手	aifs
@@ -26059,7 +26059,7 @@ columns:
 握别	fbls
 无所用心	fdsr
 败阵	ctpx
-灯头	iaio
+灯头	ijio
 间杂	tjra
 救生圈	fpwq
 墨家	ghit
@@ -26126,7 +26126,7 @@ columns:
 品貌	llmd
 成数	kyqc
 对光	bhil
-螺钉	qvoa
+螺钉	qvoj
 满打满算	nfng
 秋分	mikm
 阳伞	pjrq
@@ -26175,7 +26175,7 @@ columns:
 拙作	fweg
 抄送	fiqo
 红眼病	kjmf
-铆钉	okoa
+铆钉	okoj
 从良	rrkg
 昏眩	kxja
 马失前蹄	bgqp
@@ -26250,7 +26250,7 @@ columns:
 争名夺利	xxom
 安贫乐道	ikkq
 横排	asfu
-奇数	oaqc
+奇数	ojqc
 词根	dyag
 黄道	sdqq
 罗曼史	ujls
@@ -26439,13 +26439,13 @@ columns:
 成吉思汗	khvn
 三峡	lauo
 砂石	vivs
-有法可依	enae
+有法可依	enje
 百科	vjmi
-布丁	euad
+布丁	eujd
 牵手	oxfs
 原点	vdul
 原位	vdek
-大可不必	oagr
+大可不必	ojgr
 百灵鸟	vbmn
 秦汉	omnb
 龙凤	fgeb
@@ -26503,7 +26503,7 @@ columns:
 点点	ulul
 餐风宿露	ueic
 卢森堡	uael
-盯住	jaek
+盯住	jjek
 柴门	pntm
 江东	npxi
 池水	nons
@@ -26631,14 +26631,14 @@ columns:
 白点	dbul
 折回	fdwl
 白衣	dbag
-打伤	faeg
-拉丁文	fate
+打伤	fjeg
+拉丁文	fjte
 手里	fsvl
 投资者	fihj
 手续费	fkbk
 李大钊	aoom
 极大	agod
-可比	alnn
+可比	jlnn
 梦里	aavl
 松花	akse
 升起	gsho
@@ -26688,7 +26688,7 @@ columns:
 侵略者	evhj
 假货	eben
 仰角	ekxs
-何种	eaml
+何种	ejml
 作图	egwt
 伤病	egmf
 斜纹	rfkt
@@ -26734,7 +26734,7 @@ columns:
 年均	gahw
 申办	dssk
 一家人	fire
-严打	lqfa
+严打	lqfj
 丛书	rryy
 信用社	esjh
 小声	ivhb
@@ -26942,7 +26942,7 @@ columns:
 信得过	echo
 探听	fxld
 彩旗	uatg
-河堤	nahj
+河堤	njhj
 器件	llep
 书局	yyby
 跺脚	pewh
@@ -26984,7 +26984,7 @@ columns:
 殊不知	fgjl
 私事	mnhl
 长于	ncfh
-顶风	aves
+顶风	jves
 蓄积	saml
 不测	gunc
 举杯	nkag
@@ -27095,9 +27095,9 @@ columns:
 稀缺	msjb
 过激	hond
 成形	kyfs
-缘何	keea
+缘何	keej
 魂灵	inbi
-均可	hwal
+均可	hwjl
 火堆	ihhe
 警服	swwa
 特技	phfg
@@ -27219,7 +27219,7 @@ columns:
 送葬	qosf
 无礼	ffje
 斩断	xdqe
-绝顶	kxav
+绝顶	kxjv
 万众	fwrr
 阳春	pjoj
 腹痛	wgmb
@@ -27304,7 +27304,7 @@ columns:
 议院	dkpi
 作假	egeb
 报业	faie
-灯盏	iafk
+灯盏	ijfk
 枯草	ajsj
 甚或	uekl
 祝词	jldy
@@ -27447,7 +27447,7 @@ columns:
 出苗	wwsv
 婉言	ciby
 引线	bukf
-鞭打	sefa
+鞭打	sefj
 病程	mfml
 缓期	kuuw
 木桥	amam
@@ -27478,7 +27478,7 @@ columns:
 烦人	ivre
 借重	esmv
 绮丽	kofc
-打雷	facv
+打雷	fjcv
 脑际	wtpj
 棋艺	ausy
 韧劲	aybp
@@ -27507,7 +27507,7 @@ columns:
 真意	gjkj
 拜读	ffdg
 次品	ixll
-打压	favh
+打压	fjvh
 非礼	ufje
 教化	hken
 沙盘	niuu
@@ -27539,7 +27539,7 @@ columns:
 短视	jfjc
 罚球	udjf
 了却	kehn
-痛打	mbfa
+痛打	mbfj
 场院	hypi
 错综	oski
 积劳成疾	mskm
@@ -27549,7 +27549,7 @@ columns:
 地磁	hovq
 上菜	jvsu
 衰微	afcf
-秃顶	meav
+秃顶	mejv
 藏语	skdf
 转录	xibn
 皑皑	dudu
@@ -27567,7 +27567,7 @@ columns:
 工笔	pggm
 寄信	ioeb
 篇目	ghjm
-奇景	oaja
+奇景	ojja
 幽香	unmj
 地心	hori
 地衣	hoag
@@ -27712,11 +27712,11 @@ columns:
 塔楼	hsaq
 校规	aaoc
 错开	osfs
-打靶	faso
+打靶	fjso
 悼词	rudy
 辅料	xnqi
 古刹	jgsa
-何须	eacv
+何须	ejcv
 悔罪	rguu
 僧尼	eqbn
 松绑	akkd
@@ -27825,14 +27825,14 @@ columns:
 耐烦	shiv
 檀木	aaam
 震源	cmnv
-公子哥儿	kkaw
+公子哥儿	kkjw
 会餐	riux
 美艳	qodx
 烧瓶	ixqs
 提神	fjjd
-毋宁	eeia
+毋宁	eeij
 操控	flfi
-到顶	dmav
+到顶	dmjv
 文治	tenn
 中低档	leai
 避难所	bbdd
@@ -27926,7 +27926,7 @@ columns:
 结语	khdf
 据传	fbei
 枯槁	ajaa
-扑打	fufa
+扑打	fufj
 气宇轩昂	gixj
 血书	guyy
 赘述	hwak
@@ -28013,7 +28013,7 @@ columns:
 叠嶂	bbuk
 枯骨	ajrg
 生分	pskm
-帅哥	qual
+帅哥	qujl
 五讲四美	fdwq
 香菜	mjsu
 暗室	jkid
@@ -28070,7 +28070,7 @@ columns:
 田鸡	vtbm
 佳酿	ehpk
 嫁娶	cilb
-可叹	allb
+可叹	jllb
 填料	hgqi
 作保	egel
 成年累月	kgvw
@@ -28081,7 +28081,7 @@ columns:
 强心剂	brtk
 杏黄	alsd
 彻悟	cxrf
-打滑	fanr
+打滑	fjnr
 附上	pejv
 喊冤	lkxx
 凉意	iakj
@@ -28435,7 +28435,7 @@ columns:
 双眼	bbjg
 又是	bojf
 双肩	bbhw
-圣地亚哥	bhla
+圣地亚哥	bhlj
 对齐	bhtk
 马鬃	bmui
 巴林	obaa
@@ -28463,7 +28463,7 @@ columns:
 成双	kybb
 有惊无险	erfp
 克拉	jwfk
-厅长	vanc
+厅长	vjnc
 春兰秋菊	oqms
 大个子	orkz
 脚上	whjv
@@ -28656,7 +28656,7 @@ columns:
 拍片	fddp
 热热闹闹	fftt
 拆分	fdkm
-打杂	fara
+打杂	fjra
 插件	fmep
 拉动	fkin
 拉平	fknq
@@ -28813,7 +28813,7 @@ columns:
 无人	ffre
 奖项	qxpv
 评奖	dnqx
-歌舞团	agwh
+歌舞团	jgwh
 窑洞	ijnc
 到会	dmri
 经销商	koaq
@@ -28836,7 +28836,7 @@ columns:
 即位	bnek
 珍稀	jrms
 勤政	sifp
-拨打	fwfa
+拨打	fwfj
 年画	gafv
 怀有	rgew
 副官	flib
@@ -28900,7 +28900,7 @@ columns:
 嬉戏	chbk
 硬要	vfpc
 高寒	agis
-可巧	alph
+可巧	jlph
 密集型	iefs
 女将	cnqx
 广袤	mgak
@@ -28916,7 +28916,7 @@ columns:
 地膜	hows
 远望	fltw
 中用	lusy
-无话可说	fdad
+无话可说	fdjd
 举证	nkdf
 清退	nhgo
 咱家	lqit
@@ -28998,7 +28998,7 @@ columns:
 惘然	rcwh
 体校	eaaa
 夹攻	oqpt
-点灯	ulia
+点灯	ulij
 让利	djmm
 试剂	dktk
 遥遥	ujuj
@@ -29064,7 +29064,7 @@ columns:
 认准	drie
 创优	raef
 祭祖	wjjj
-拟订	feda
+拟订	fedj
 忠义	luks
 把式	fokp
 毒贩	hecd
@@ -29248,7 +29248,7 @@ columns:
 反哺	dbln
 幕府	sjme
 盛衰	kyaf
-打翻	fagq
+打翻	fjgq
 风蚀	esxq
 解忧	xsrf
 卵石	kkvs
@@ -29288,8 +29288,8 @@ columns:
 靠岸	pluv
 苦处	sjtu
 单亲	qjka
-顶头	avio
-尖顶	ioav
+顶头	jvio
+尖顶	iojv
 原物	vdpw
 酒意	npkj
 时隐时现	jpjj
@@ -29385,10 +29385,10 @@ columns:
 时弊	jhqu
 优生	efps
 不肖	guiw
-奇功	oaps
+奇功	ojps
 迎击	kaaw
 划线	kmkf
-灭顶	fiav
+灭顶	fijv
 旗手	tgfs
 眼目	jgjm
 贫弱	kmbi
@@ -29542,7 +29542,7 @@ columns:
 名位	xlek
 末后	fmdf
 雄健	eneb
-打劫	fahn
+打劫	fjhn
 肺泡	wfnw
 心志	rihr
 鼻翼	qvvv
@@ -29563,7 +29563,7 @@ columns:
 健美操	eqfl
 庸人	mbre
 锥子	oekz
-可气	algq
+可气	jlgq
 佩刀	eemd
 随员	pelc
 许配	dgpo
@@ -29597,7 +29597,7 @@ columns:
 新宠	kaif
 遗容	ljir
 炸雷	igcv
-打眼	fajg
+打眼	fjjg
 哪吒	lylg
 收归	wtqb
 唐装	mbqh
@@ -29621,7 +29621,7 @@ columns:
 释义	gqks
 形制	fspc
 自燃	qiiw
-白炽灯	diia
+白炽灯	diij
 滴答	nagr
 皓月	dpwy
 缓坡	kuhb
@@ -29696,7 +29696,7 @@ columns:
 负心	xcri
 开本	fsaf
 良友	kgeb
-奇效	oaak
+奇效	ojak
 投注	fenk
 丹参	wano
 定编	ifkh
@@ -29714,7 +29714,7 @@ columns:
 规约	ockw
 男声	vshb
 凝思	invr
-奇幻	oany
+奇幻	ojny
 双关	bbqo
 炎夏	iivj
 渔具	nxjk
@@ -29739,7 +29739,7 @@ columns:
 月宫	wyil
 触须	xscv
 从略	rrvt
-打拼	fafq
+打拼	fjfq
 海味	nglf
 礼数	jeqc
 逆耳	qwle
@@ -29764,7 +29764,7 @@ columns:
 印鉴	kfug
 远祖	fljj
 报偿	faei
-订户	dahh
+订户	djhh
 劲射	bpqh
 迷彩服	quwa
 气阀	gqte
@@ -29786,7 +29786,7 @@ columns:
 字义	ikks
 总汇	qlnh
 财帛	chdu
-打烊	faiq
+打烊	fjiq
 定数	ifqc
 父系	ksgo
 高寿	agdh
@@ -29853,7 +29853,7 @@ columns:
 痛痒	mbmq
 陷坑	pxha
 血洗	gunp
-打火	faih
+打火	fjih
 交班	akjq
 让贤	djub
 元音	flkj
@@ -29886,7 +29886,7 @@ columns:
 贻害无穷	cifi
 隘口	pqlv
 彩笔	uagm
-顶板	avad
+顶板	jvad
 负极	xcag
 玄乎	angq
 补养	xuqo
@@ -29905,7 +29905,7 @@ columns:
 半票	qapj
 菜油	sund
 畅达	dyoo
-盯梢	jaai
+盯梢	jjai
 逆水	qwns
 情夫	rhof
 拾取	frlb
@@ -29934,14 +29934,14 @@ columns:
 窘况	ibil
 绢花	klse
 仪表堂堂	ehii
-责打	hcfa
+责打	hcfj
 操演	flni
 弹坑	bqha
 对证	bhdf
 风挡	esfi
 家贼	itck
 例假	efeb
-灯芯	iasr
+灯芯	ijsr
 法名	nhxl
 概莫能外	asnx
 造谣惑众	pdkr
@@ -29970,7 +29970,7 @@ columns:
 隔板	pfad
 规整	ocal
 简体	gtea
-苛政	safp
+苛政	sjfp
 曼妙	juci
 瞳仁	jkei
 油性	ndrp
@@ -29982,10 +29982,10 @@ columns:
 艺名	syxl
 备料	tvqi
 病患	mfll
-灯座	iamr
+灯座	ijmr
 炮灰	iwei
 染发	nrwb
-五雷轰顶	fcxa
+五雷轰顶	fcxj
 西洋参	pnno
 显影	jija
 眼袋	jgek
@@ -30104,7 +30104,7 @@ columns:
 誓愿	fdvd
 约数	kwqc
 橘红	akkp
-顶针	avog
+顶针	jvog
 逃婚	wick
 握手言欢	ffbb
 蒸锅	syol
@@ -30248,7 +30248,7 @@ columns:
 敢作敢当	yeyi
 单刀赴会	qmhr
 比上不足	njgp
-不可企及	garg
+不可企及	gjrg
 图财害命	wcir
 罪责难逃	uhbw
 金无足赤	tfph
@@ -30278,7 +30278,7 @@ columns:
 风中之烛	eloi
 肉眼凡胎	cjew
 豺狼当道	mhiq
-一无可取	ffal
+一无可取	ffjl
 悔之不及	rogg
 出没无常	wnfi
 授受不亲	fugk
@@ -30301,7 +30301,7 @@ columns:
 孙膑	kiwi
 阳宅	pjig
 聚乙烯	lyis
-辽河	kona
+辽河	konj
 联办	lqsk
 马戏团	bbwh
 双人	bbre
@@ -30332,7 +30332,7 @@ columns:
 成份	kyek
 达摩	oomf
 秦皇岛	odmu
-大哥大	oaod
+大哥大	ojod
 有根有据	eaef
 太行山	ocus
 灰姑娘	ecck
@@ -30364,7 +30364,7 @@ columns:
 南宫	gcil
 南充	gcan
 声频	hbpi
-过河	hona
+过河	honj
 过得	hocj
 远去	flhn
 无极	ffag
@@ -30554,8 +30554,8 @@ columns:
 近人	dore
 抱住	fwek
 白光	dbil
-打盹	fajx
-打分	fakm
+打盹	fjjx
+打分	fjkm
 拖垮	fgho
 接龙	fkfg
 抛出	frww
@@ -30577,16 +30577,16 @@ columns:
 想要	ajpc
 桃园	awwf
 西游记	pndo
-可达	aloo
-可得	alcj
-哥们	alet
+可达	jloo
+可得	jlcj
+哥们	jlet
 林则徐	accr
 核爆炸	aiig
-楼顶	aqav
+楼顶	aqjv
 板车	adxj
 攀枝花	aase
 模模糊糊	aaqq
-哥伦布	aeeu
+哥伦布	jeeu
 松下	akjx
 松木	akam
 长出	ncww
@@ -30706,7 +30706,7 @@ columns:
 说好	dqck
 良师	kgqf
 夜光	aeil
-摩纳哥	mkal
+摩纳哥	mkjl
 该项	dtpv
 文莱	tesf
 文联	telq
@@ -30716,7 +30716,7 @@ columns:
 言词	bydy
 信息化	eqen
 节水	sans
-办公厅	skva
+办公厅	skvj
 主教练	khkx
 仅有	ebew
 维权	keab
@@ -30814,7 +30814,7 @@ columns:
 勤于	sifh
 收视率	wjan
 怎奈	guoj
-功不可没	pgan
+功不可没	pgjn
 淋漓	nant
 核销	atoi
 闭会	thri
@@ -30895,7 +30895,7 @@ columns:
 脸子	wrkz
 副标题	fajf
 核燃料	aiqi
-壮丁	qhad
+壮丁	qhjd
 阻击	pjaw
 手迹	fsto
 黑洞洞	gnnc
@@ -30970,7 +30970,7 @@ columns:
 幽会	unri
 授粉	fuqk
 肃然	bkwh
-河蟹	naxs
+河蟹	njxs
 解题	xsjf
 油井	ndik
 边民	soox
@@ -31097,7 +31097,7 @@ columns:
 爬坡	uohb
 寒噤	isla
 经济法	knnh
-龙灯	fgia
+龙灯	fgij
 跑动	pwin
 青蒿	hwsa
 伏法	ehnh
@@ -31125,8 +31125,8 @@ columns:
 巨子	hbkz
 万古	fwjg
 宅门	igtm
-打枪	faar
-顶层	avbi
+打枪	fjar
+顶层	jvbi
 封冻	hhix
 密植	irag
 远隔	flpf
@@ -31150,11 +31150,11 @@ columns:
 脑膜炎	wwii
 用钱	syof
 浮想	nuaj
-打闹	fata
+打闹	fjta
 仿冒	etci
 击掌	awif
 旧历	ujvs
-奇事	oahl
+奇事	ojhl
 肃反	bkdb
 衣橱	agav
 电击	ddaw
@@ -31188,7 +31188,7 @@ columns:
 炼丹	ixwa
 胃炎	vwii
 显见	jicj
-打车	faxj
+打车	fjxj
 干果	ngja
 企望	rptw
 青龙	hwfg
@@ -31259,9 +31259,9 @@ columns:
 呢喃	lblg
 头盖骨	iqrg
 零头	crio
-捶打	fmfa
-顶用	avsy
-对打	bhfa
+捶打	fmfj
+顶用	jvsy
+对打	bhfj
 光焰	ilix
 青纱帐	hkun
 夜猫子	ahkz
@@ -31271,14 +31271,14 @@ columns:
 弟媳	qbcq
 入时	krjh
 塞上	isjv
-厮打	vufa
+厮打	vufj
 夜莺	aesx
 又红又专	bkbi
 焊工	ijpg
 年谱	gadq
 弃置	anug
 类人猿	qrhh
-投河	fena
+投河	fenj
 疑案	njic
 浓妆	nxqc
 奢靡	ohmu
@@ -31291,7 +31291,7 @@ columns:
 视界	jcvr
 慵懒	rmra
 预支	kvgb
-叮咬	lala
+叮咬	ljla
 小姨子	ickz
 烟丝	iwkk
 悲泣	urnk
@@ -31386,7 +31386,7 @@ columns:
 贤明	ubjw
 用脑	sywt
 坐席	rrms
-迪厅	dova
+迪厅	dovj
 跟风	pges
 两面派	fsnd
 临阵	ugpx
@@ -31396,7 +31396,7 @@ columns:
 文人墨客	trgi
 娴静	cthw
 阴柔	pwkg
-掌灯	ifia
+掌灯	ifij
 志愿兵	hvdf
 砥砺	vkvv
 讲习	divx
@@ -31440,7 +31440,7 @@ columns:
 枕巾	axuj
 癌变	mltb
 泉源	dnnv
-尚可	isal
+尚可	isjl
 毒杀	hesa
 末世	fmsi
 请便	dhef
@@ -31503,7 +31503,7 @@ columns:
 首犯	qqha
 私了	mnke
 瞎闹	jita
-报亭	faaa
+报亭	faaj
 冰峰	inut
 黑斑	ghjt
 美玉	qojk
@@ -31688,7 +31688,7 @@ columns:
 助产	jskg
 财阀	chte
 层峦叠嶂	btbu
-灯草	iasj
+灯草	ijsj
 独木舟	hauo
 巨擘	hbbl
 叶轮	lgxr
@@ -31724,7 +31724,7 @@ columns:
 摄录	flbn
 寅吃卯粮	ilkq
 抓拍	fufd
-打结	fakh
+打结	fjkh
 单簧管	qggi
 敦实	akii
 复诊	gjdr
@@ -31805,7 +31805,7 @@ columns:
 腐乳	meuk
 告罪	pluu
 股骨	werg
-奇谋	oads
+奇谋	ojds
 誓不罢休	fgue
 戏码	bkvb
 遗腹子	lwkz
@@ -31857,7 +31857,7 @@ columns:
 花眼	sejg
 结晶体	kjea
 口译	lvdb
-奎宁	ohia
+奎宁	ohij
 晚班	jxjq
 择善而从	fqsr
 长袖善舞	nxqg
@@ -31889,7 +31889,7 @@ columns:
 怪论	rbdr
 横队	aspr
 空幻	ipny
-阿门	patm
+阿门	pjtm
 娥眉	cgbj
 发蒙	wbsx
 孤魂野鬼	kivd
@@ -31904,17 +31904,17 @@ columns:
 执牛耳	fple
 终老	kthn
 并蒂莲	qssx
-风灯	esia
+风灯	esij
 股利	wemm
 寒苦	issj
 焊枪	ijar
 遗照	ljjm
-钉耙	oadk
+钉耙	ojdk
 国色	wjxo
 跷跷板	ppad
 宅邸	igkx
 搬移	fumx
-歌本	alaf
+歌本	jlaf
 官运	ibin
 冷餐	irux
 毛糙	mmqp
@@ -32039,7 +32039,7 @@ columns:
 余音袅袅	rkmm
 趁人之危	hrox
 逆我者亡	qght
-不可言喻	gabl
+不可言喻	gjbl
 似笑非笑	egug
 忠肝义胆	lwkw
 小康之家	imoi
@@ -32048,7 +32048,7 @@ columns:
 恒河沙数	rnnq
 掎角之势	fxof
 妙手偶得	cfec
-不可言状	gabq
+不可言状	gjbq
 不关痛痒	gqmm
 久闻大名	xtox
 光风霁月	iecw
@@ -32173,7 +32173,7 @@ columns:
 教给	hkkr
 零售商	ceaq
 开源	fsnv
-开灯	fsia
+开灯	fsij
 天晴	fojh
 天门	fotm
 一堆	fihe
@@ -32201,7 +32201,7 @@ columns:
 开发商	fwaq
 来者	fqhj
 一年级	fgkg
-平顶山	naus
+平顶山	njus
 不复存在	ggee
 一番话	fgdl
 平白	nqdb
@@ -32232,7 +32232,7 @@ columns:
 水粉	nsqk
 混血	njgu
 温婉	njci
-没顶	neav
+没顶	nejv
 党外	iwxu
 掌门	iftm
 泡茶	nwsr
@@ -32329,7 +32329,7 @@ columns:
 收下	wtjx
 收摊	wtfb
 慢跑	rjpw
-尼罗河	buna
+尼罗河	bunj
 快去	rbhn
 怕死	rdfx
 恨死	rgfx
@@ -32416,8 +32416,8 @@ columns:
 抓取	fulb
 指指点点	ffuu
 拍拖	fdfg
-打落	fasn
-打孔	fake
+打落	fjsn
+打孔	fjke
 挺胸	fmww
 手动	fsin
 接过	fkho
@@ -32428,17 +32428,17 @@ columns:
 棋坛	auhi
 李逵	akhk
 树下	abjx
-顶盖	avqu
+顶盖	jvqu
 棒冰	aoin
 极小	agiv
 飘来	pjfq
 飘香	pjmj
 本刊	afnm
-丁当	adib
+丁当	jdib
 本案	afic
-可用	alsy
+可用	jlsy
 机芯	aesr
-歌剧院	abpi
+歌剧院	jbpi
 检察长	ainc
 村委会	amri
 榜眼	aajg
@@ -32575,7 +32575,7 @@ columns:
 反恐	dbpe
 禽流感	rnkf
 维和	keml
-打假	faeb
+打假	fjeb
 纪实	koii
 满堂	nsih
 馆长	xinc
@@ -32761,7 +32761,7 @@ columns:
 洋行	nqci
 混账	njcn
 推定	feif
-兵丁	dfad
+兵丁	dfjd
 街景	chja
 抓举	funk
 定势	iffr
@@ -32788,7 +32788,7 @@ columns:
 磁化	vqen
 营盘	sxuu
 主楼	kjaq
-咖啡厅	llva
+咖啡厅	llvj
 挂断	fhqe
 家什	iteg
 违心	ayri
@@ -32805,7 +32805,7 @@ columns:
 动漫	innj
 空无一人	iffr
 立宪	klip
-铁打	ogfa
+铁打	ogfj
 洋货	nqen
 沿革	nesg
 兵员	dflc
@@ -32828,7 +32828,7 @@ columns:
 几许	ejdg
 黎族	mwtg
 上下级	jjkg
-主打	kjfa
+主打	kjfj
 互派	fend
 商机	aqae
 土气	htgq
@@ -32954,7 +32954,7 @@ columns:
 心率	rian
 油饼	ndxq
 军威	xxkf
-门厅	tmva
+门厅	tmvj
 益智	qkjl
 积德	mlcg
 求新	fnka
@@ -33019,7 +33019,7 @@ columns:
 瘦身	mdqs
 退赔	gock
 围堵	wahh
-打炮	faiw
+打炮	fjiw
 国父	wjks
 女眷	cnqo
 泼洒	nwnp
@@ -33052,7 +33052,7 @@ columns:
 泳池	nkno
 本年	afga
 抚爱	ffux
-界河	vrna
+界河	vrnj
 农艺	xgsy
 失笑	gogm
 停发	eawb
@@ -33077,7 +33077,7 @@ columns:
 图册	wtww
 远游	flnt
 笔力	gmsl
-顶楼	avaq
+顶楼	jvaq
 论说	drdq
 强渡	blnm
 上锁	jvoi
@@ -33096,7 +33096,7 @@ columns:
 皮货	bpen
 侠义	eoks
 标定	ajif
-灯节	iasa
+灯节	ijsa
 恩宠	woif
 苟安	swic
 忌妒	orch
@@ -33136,7 +33136,7 @@ columns:
 查访	ajdt
 机群	aebg
 教父	hkks
-挑灯	fwia
+挑灯	fwij
 行色匆匆	cxww
 译稿	dbma
 主营	kjsx
@@ -33206,7 +33206,7 @@ columns:
 咯吱	ltlg
 贺年	slga
 旧俗	ujek
-无利可图	fmaw
+无利可图	fmjw
 吸盘	lguu
 挟制	fopc
 渔利	nxmm
@@ -33278,7 +33278,7 @@ columns:
 施教	tghk
 蜕皮	qqbp
 邮筒	dpgc
-打药	fask
+打药	fjsk
 兑奖	qlqx
 附小	peiv
 红果	kpja
@@ -33321,7 +33321,7 @@ columns:
 奔命	ogra
 横暴	asjs
 敬奉	swoa
-恋歌	tral
+恋歌	trjl
 蜜桃	iraw
 批件	fnep
 上供	jves
@@ -33371,12 +33371,12 @@ columns:
 结婚照	kcjm
 来潮	fqng
 欺瞒	uxjs
-奇趣	oahl
+奇趣	ojhl
 土拨鼠	hfdb
 猩红热	hkfr
 瘀血	mtgu
 证物	dfpw
-哀歌	agal
+哀歌	agjl
 板书	adyy
 币制	gupc
 电弧	ddbu
@@ -33388,7 +33388,7 @@ columns:
 轻闲	xbta
 围猎	wahs
 传略	eivt
-订金	datj
+订金	djtj
 立新	klka
 柔肠	kgwy
 以防不测	epgn
@@ -33595,7 +33595,7 @@ columns:
 旁支	aqgb
 蓄势待发	sfcw
 绑带	kdsx
-打卡	faju
+打卡	fjju
 旷世	jmsi
 指骨	fnrg
 鞍马劳顿	sbsx
@@ -33704,7 +33704,7 @@ columns:
 备忘	tvtr
 短袜	jfxf
 函购	yncw
-憨态可掬	yoaf
+憨态可掬	yojf
 一字一句	fifw
 头痛医头	imhi
 一问三不知	ftlj
@@ -33907,7 +33907,7 @@ columns:
 画纸	fvkk
 两种	fcml
 不定期	giuw
-不可能	ganw
+不可能	gjnw
 互为因果	fkwj
 一夜之间	faot
 颇有	bvew
@@ -33946,7 +33946,7 @@ columns:
 涩味	nmlf
 梁祝	nmjl
 渡江	nmnp
-渡河	nmna
+渡河	nmnj
 暴民	jsox
 紧接	ubfk
 明码标价	jvae
@@ -33975,7 +33975,7 @@ columns:
 哪种	lyml
 哪位	lyek
 中文版	ltdd
-黑河	ghna
+黑河	ghnj
 黑炭	ghue
 团购	whcw
 围护	wafh
@@ -34013,7 +34013,7 @@ columns:
 刚柔	cskg
 见机	cjae
 购房	cwht
-山顶洞人	uanr
+山顶洞人	ujnr
 几百	ejvj
 几十	ejgi
 败走	cthz
@@ -34049,11 +34049,11 @@ columns:
 粗口	qjlv
 业者	iehj
 爆料	ijqi
-灯下	iajx
+灯下	ijjx
 炸伤	igeg
 割肉	idcr
 家中	itlu
-家丁	itad
+家丁	itjd
 富士通	ihbs
 塞进	isik
 冠冕	xfci
@@ -34080,7 +34080,7 @@ columns:
 外地人	xhre
 乐于助人	kfjr
 铺开	onfs
-多瑙河	xjna
+多瑙河	xjnj
 钱袋	ofek
 铺床	onma
 外墙	xuhg
@@ -34123,10 +34123,10 @@ columns:
 换行	fxci
 白干	dbng
 扳平	fdnq
-打非	fauf
-打进	faik
-打骂	fall
-打完	faif
+打非	fjuf
+打进	fjik
+打骂	fjll
+打完	fjif
 挺起	fmho
 插上	fmjv
 拉近	fkdo
@@ -34136,7 +34136,7 @@ columns:
 横波	asnb
 横滨	asni
 格陵兰	apqi
-顶上	avjv
+顶上	jvjv
 枯木	ajam
 极少	agig
 极性	agrp
@@ -34148,14 +34148,14 @@ columns:
 本应	afmn
 相框	ajah
 极少数	aiqc
-可选	alpw
+可选	jlpw
 木雕泥塑	awnq
 柳腰	akwp
 禁军	aaxx
 木栅	amaw
 李自成	aqky
 枪管	argi
-可比性	anrp
+可比性	jnrp
 长驱	ncbh
 长石	ncvs
 长青	nchw
@@ -34217,12 +34217,12 @@ columns:
 总参谋部	qndk
 减去	ikhn
 羊城	qyhk
-关灯	qoia
+关灯	qoij
 新春佳节	koes
 前置	qwug
 北爱尔兰	quxq
 半场	qahy
-北戴河	qgna
+北戴河	qgnj
 疲累	mbvo
 前瞻性	qjrp
 单凭	qjem
@@ -34281,10 +34281,10 @@ columns:
 侧边	ecso
 华灯初上	eixj
 体院	eapi
-何地	eaho
-何物	eapw
+何地	ejho
+何物	ejpw
 体委	eamc
-何人	eare
+何人	ejre
 斜边	rfso
 余数	rfqc
 坐台	rrnl
@@ -34322,14 +34322,14 @@ columns:
 刻印	tmkf
 永乐	knki
 鸾凤	tmeb
-亦可	tyal
+亦可	tyjl
 变身	tbqs
 豪赌	atch
 放牛	ttpn
 盲人瞎马	trjb
 夜夜	aeae
 训练场	dkhy
-方可	tfal
+方可	tfjl
 有的	ewdw
 一日	fijr
 税费	mqbk
@@ -34338,7 +34338,7 @@ columns:
 怕是	rdjf
 增值税	hemq
 本市	afau
-打的	fadw
+打的	fjdw
 台商	nlaq
 多层	xxbi
 沙尘暴	nijs
@@ -34381,7 +34381,7 @@ columns:
 儿时	wrjh
 枣树	acab
 党群	iwbg
-未可	fwal
+未可	fwjl
 伤人	egre
 切齿	xmpr
 大政方针	ofto
@@ -34389,7 +34389,7 @@ columns:
 儒学	ecnx
 中古	lujg
 快车道	rxqq
-老哥	hnal
+老哥	hnjl
 殷墟	dbhu
 乘胜	mqwp
 封山育林	huaa
@@ -34400,7 +34400,7 @@ columns:
 混双	njbb
 免受	xlux
 远销	floi
-何如	eacl
+何如	ejcl
 几近	ejdo
 本校	afaa
 未然	fwwh
@@ -34414,7 +34414,7 @@ columns:
 肉牛	crpn
 年夜饭	gaxd
 分厂	kmvh
-自打	qifa
+自打	qifj
 白脸	dbwr
 拼装	fqqh
 致癌	dtml
@@ -34422,7 +34422,7 @@ columns:
 防患	ptll
 几度	ejms
 扑鼻	fuqv
-音乐厅	kkva
+音乐厅	kkvj
 悚然	rawh
 唱法	ljnh
 潮头	ngio
@@ -34432,7 +34432,7 @@ columns:
 机井	aeik
 扩招	fmfm
 计议	dgdk
-有章可循	ekac
+有章可循	ekjc
 血汗钱	gnof
 主事	kjhl
 因循	wocd
@@ -34484,11 +34484,11 @@ columns:
 雄鸡	enbm
 积肥	mlwo
 肠道	wyqq
-订票	dapj
+订票	djpj
 掘进	fbik
 七彩	xiua
 挺举	fmnk
-可怜巴巴	aroo
+可怜巴巴	jroo
 相像	ajex
 丰腴	dfwd
 评弹	dnbq
@@ -34517,7 +34517,7 @@ columns:
 堪忧	hurf
 救亡	fntw
 幼时	nsjh
-透顶	mgav
+透顶	mgjv
 下述	jxak
 牙缝	hykt
 更易	fjjw
@@ -34559,7 +34559,7 @@ columns:
 做戏	ejbk
 请命	dhra
 宫室	ilid
-马灯	bmia
+马灯	bmij
 情由	rhdo
 失当	goib
 同姓	cfcp
@@ -34608,7 +34608,7 @@ columns:
 心仪	riek
 摇撼	fufk
 分洪	kmns
-歌舞剧	agbj
+歌舞剧	jgbj
 死战	fxul
 污物	nfpw
 义父	ksks
@@ -34648,7 +34648,7 @@ columns:
 乱麻	lema
 塑性	qwrp
 相面	ajsm
-闯红灯	tkia
+闯红灯	tkij
 美人鱼	qrxv
 熬煎	hwqw
 难友	beeb
@@ -34760,7 +34760,7 @@ columns:
 谐调	dndw
 子房	kzht
 彩球	uajf
-打胎	fawn
+打胎	fjwn
 环游	jgnt
 今宵	rkii
 灵犀	bibn
@@ -34864,7 +34864,7 @@ columns:
 木排	amfu
 肉感	crkf
 战史	ulls
-打颤	faaw
+打颤	fjaw
 解劝	xsbs
 搔痒	fbmq
 覆没	pcne
@@ -34877,7 +34877,7 @@ columns:
 尽数	bkqc
 限时	pgjh
 瞻望	jxtw
-灯市	iaau
+灯市	ijau
 翻地	gqho
 归位	qbek
 酒钱	npof
@@ -34929,7 +34929,7 @@ columns:
 兜底	dkmk
 卷心菜	qrsu
 入流	krna
-渔歌	nxal
+渔歌	nxjl
 逐鹿	toml
 吊丧	lugq
 悱恻	rurc
@@ -34939,14 +34939,14 @@ columns:
 天帝	foaq
 占先	ulpw
 筹组	gdkj
-顶灯	avia
+顶灯	jvij
 概貌	abmd
-灌顶	nsav
+灌顶	nsjv
 花镜	seok
 枪眼	arjg
 丧服	gqwa
 束腰	alwp
-战歌	ulal
+战歌	uljl
 猪崽	hhuv
 病夫	mfof
 古拙	jgfw
@@ -35015,7 +35015,7 @@ columns:
 跛脚	pbwh
 车况	xjil
 和数	mlqc
-汽灯	ngia
+汽灯	ngij
 瘙痒	mbmq
 追尾	dobm
 竞拍	klfd
@@ -35062,19 +35062,19 @@ columns:
 低度	ekms
 海沟	ngnw
 寒士	ishs
-河网	nacs
+河网	njcs
 夹心	oqri
-师哥	qfal
+师哥	qfjl
 土里土气	hvhg
 相恋	ajtr
 舱室	urid
-钉鞋	oash
+钉鞋	ojsh
 脊椎骨	iarg
 凝脂	inwn
 平底	nqmk
 测字	ncik
 女家	cnit
-图钉	wtoa
+图钉	wtoj
 洋财	nqch
 遗精	ljqh
 遗赠	ljcq
@@ -35088,7 +35088,7 @@ columns:
 黄麻	sdma
 炉台	ihnl
 炮车	iwxj
-书亭	yyaa
+书亭	yyaj
 招领	fmrk
 主题词	kjdy
 搓揉	fqfk
@@ -35109,7 +35109,7 @@ columns:
 清寒	nhis
 脱氧	wqgq
 烟煤	iwis
-增订	hqda
+增订	hqdj
 重聚	mvlb
 浮生	nups
 近景	doja
@@ -35146,7 +35146,7 @@ columns:
 拆线	fdkf
 触网	xscs
 灯芯绒	iskk
-吊顶	luav
+吊顶	lujv
 断代史	qels
 繁难	gebe
 金曲	tjcs
@@ -35200,7 +35200,7 @@ columns:
 挂牵	fhox
 名产	xlkg
 色拉	xofk
-势不可当	fgai
+势不可当	fgji
 套服	ouwa
 佚名	egxl
 幽门	untm
@@ -35216,7 +35216,7 @@ columns:
 益虫	qkqc
 柚木	adam
 庇佑	mnee
-灯管	iagi
+灯管	ijgi
 高视阔步	ajtp
 画具	fvjk
 回绕	wlkx
@@ -35252,7 +35252,7 @@ columns:
 瘟病	mjmf
 直肠子	gwkz
 吊床	luma
-顶班	avjq
+顶班	jvjq
 接缝	fkkt
 迷彩	qoua
 消磁	nivq
@@ -35281,7 +35281,7 @@ columns:
 温书	njyy
 星图	jpwt
 医理	hjjv
-打底	famk
+打底	fjmk
 留底	kvmk
 撤防	fapt
 口快	lvrb
@@ -35298,7 +35298,7 @@ columns:
 炒勺	iiwk
 穿帮	ihdp
 胶合	warh
-可圈可点	awau
+可圈可点	jwju
 茫然若失	swsg
 顺和	lvml
 帮主	dpkj
@@ -35397,7 +35397,7 @@ columns:
 闭口不言	tlgb
 人非圣贤	rubu
 安然无事	iwfh
-有案可查	eiaa
+有案可查	eija
 排除异己	fpoo
 安家立业	iiki
 甜酸苦辣	lpsk
@@ -35456,7 +35456,7 @@ columns:
 辽西	kopx
 出手不凡	wfge
 孤女	kucn
-阿公	pakn
+阿公	pjkn
 降雪	ptcb
 聊斋志异	ltho
 马鞍山	bsus
@@ -35485,7 +35485,7 @@ columns:
 有助	ewjs
 有失	ewgo
 有个	ewru
-有何	ewea
+有何	ewej
 奔向	ogdx
 三百	lavj
 感喟	kflv
@@ -35510,7 +35510,7 @@ columns:
 原图	vdwt
 原处	vdtu
 克林顿	jaxw
-奇人	oare
+奇人	ojre
 春秋战国	omuw
 龙腾	fgwq
 龙虎	fguh
@@ -35558,7 +35558,7 @@ columns:
 远近闻名	fdtx
 考研	hhvf
 煮饭	hjxd
-老歌	hnal
+老歌	hnjl
 老妪	hnch
 才会	hgri
 煮熟	hjak
@@ -35615,7 +35615,7 @@ columns:
 一枝独秀	fahm
 理想主义	jakk
 麦加	htsl
-平顶	nqav
+平顶	nqjv
 妻儿	gbwr
 琼瑶	jaju
 玉溪	jknu
@@ -35629,7 +35629,7 @@ columns:
 卡带	jusx
 点出	ulww
 颅腔	ubwi
-盯着	jaqj
+盯着	jjqj
 此项	pnpv
 紫光	pnil
 此岸	pnuv
@@ -35645,7 +35645,7 @@ columns:
 浅红	nfkp
 泪光	njil
 水气	nsgq
-渭河	nvna
+渭河	nvnj
 没想	neaj
 油价	nder
 淡月	niwy
@@ -35727,7 +35727,7 @@ columns:
 围住	waek
 办不到	sgdm
 国风	wjes
-车顶	xjav
+车顶	xjjv
 回函	wlyn
 加成	slky
 架起	slho
@@ -35747,7 +35747,7 @@ columns:
 曲江	csnp
 曲轴	csxd
 同台	cfnl
-贝宁	cbia
+贝宁	cbij
 贴纸	cukk
 同学们	cnet
 则是	cmjf
@@ -35875,7 +35875,7 @@ columns:
 换个	fxru
 摇摆不定	ffgi
 拍档	fdai
-打来	fafq
+打来	fjfq
 搬走	fuhz
 手摇	fsfu
 插槽	fmas
@@ -35889,7 +35889,7 @@ columns:
 抗菌	fasw
 护罩	fhuu
 权证	abdf
-顶天	avfo
+顶天	jvfo
 极易	agjw
 棚架	awsl
 极乐	agki
@@ -35900,9 +35900,9 @@ columns:
 本乡	afkg
 想过	ajho
 李清照	anjm
-可要	alpc
-可供	ales
-可就	alai
+可要	jlpc
+可供	jles
+可就	jlai
 林肯	aapw
 样儿	aqwr
 梯次	aqix
@@ -35939,7 +35939,7 @@ columns:
 我俩	gfef
 笔划	gmkm
 简则	gtcm
-乏善可陈	gqap
+乏善可陈	gqjp
 乘积	mqml
 很薄	cgsn
 很有	cgew
@@ -36000,7 +36000,7 @@ columns:
 仍要	egpc
 传开	eifs
 传回	eiwl
-伟哥	eaal
+伟哥	eajl
 仁德	eicg
 全区	rjhs
 使出	efww
@@ -36012,7 +36012,7 @@ columns:
 介怀	rkrg
 伸延	edgp
 伽马	esbm
-追打	dofa
+追打	dofj
 保护区	efhs
 体弱	eabi
 合格率	raan
@@ -36098,7 +36098,7 @@ columns:
 大有	odew
 岂不是	ugjf
 义军	ksxx
-打赢	fatc
+打赢	fjtc
 红卫兵	kadf
 发兵	wbdf
 万国	fwwj
@@ -36115,7 +36115,7 @@ columns:
 亦即	tybn
 税源	mqnv
 科委	mimc
-征订	cfda
+征订	cfdj
 展位	bsek
 三包	lawo
 欠账	xqcn
@@ -36228,20 +36228,20 @@ columns:
 官爵	ibuu
 下端	jxku
 任由	emdo
-奇想	oaaj
+奇想	ojaj
 愤激	rgnd
 节育	saan
 自保	qiel
 流离	natw
 油坊	ndht
-宫灯	ilia
+宫灯	ilij
 开标	fsaj
 肉制品	cpll
 谛听	dald
 胸闷	wwtr
 玳瑁	jejc
 统管	kagi
-灯箱	iaga
+灯箱	ijga
 井台	iknl
 盐业	huie
 对本	bhaf
@@ -36402,7 +36402,7 @@ columns:
 测距	ncph
 腌菜	wosu
 败兴	ctnk
-打紧	faub
+打紧	fjub
 酒兴	npnk
 旧友	ujeb
 流脑	nawt
@@ -36562,7 +36562,7 @@ columns:
 心浮	rinu
 油桶	ndab
 鱼钩	xvow
-奇巧	oaph
+奇巧	ojph
 岂知	uojl
 劝诫	bsdk
 双拐	bbfl
@@ -36578,7 +36578,7 @@ columns:
 纱锭	kioi
 出操	wwfl
 满门	nstm
-奇丽	oafc
+奇丽	ojfc
 天人合一	frrf
 通例	bsef
 芜杂	sfra
@@ -36624,7 +36624,7 @@ columns:
 油泥	ndnb
 招认	fmdr
 假案	ebic
-笙歌	gpal
+笙歌	gpjl
 绦虫	ktqc
 小卒	ivar
 绑扎	kdfe
@@ -36696,7 +36696,7 @@ columns:
 六亲	akka
 收服	wtwa
 疏解	ypxs
-校歌	aaal
+校歌	aajl
 依此类推	epqf
 月半	wyqa
 怔忡	rfrl
@@ -36887,7 +36887,7 @@ columns:
 板式	adkp
 查寻	ajbh
 触目皆是	xjnj
-河运	nain
+河运	njin
 虎钳	uhos
 简装	gtqh
 借支	esgb
@@ -36939,7 +36939,7 @@ columns:
 茱萸	spsd
 惯用语	rsdf
 过谦	hodq
-何许	eadg
+何许	ejdg
 红壤	kpha
 考期	hhuw
 膨化	when
@@ -36970,7 +36970,7 @@ columns:
 通假	bseb
 外耳	xule
 笔友	gmeb
-顶角	avxs
+顶角	jvxs
 即景生情	bjpr
 开溜	fsnk
 矿层	vmbi
@@ -36987,7 +36987,7 @@ columns:
 石女	vscn
 牙垢	hyhd
 词类	dyqo
-盲打	tjfa
+盲打	tjfj
 年久失修	gxge
 民以食为天	oekf
 确有其事	veuh
@@ -37021,7 +37021,7 @@ columns:
 空谷幽兰	ikuq
 加官进爵	siiu
 山摇地动	ufhi
-垂手可得	mfac
+垂手可得	mfjc
 略高一筹	vafg
 打铁趁热	fohf
 人心叵测	rrhn
@@ -37069,13 +37069,13 @@ columns:
 也有	oeew
 也不	oegu
 孔明	kejw
-也可	oeal
+也可	oejl
 也算	oegj
 也该	oedt
 院内	picr
 院所	pidd
-阿里	pavl
-阿伯	paed
+阿里	pjvl
+阿伯	pjed
 降解	ptxs
 坠机	prae
 防滑	ptnr
@@ -37089,7 +37089,7 @@ columns:
 台前	nlqw
 巴尔干	oxng
 鸡爪	bmuz
-欢歌	bxal
+欢歌	bxjl
 马拉多纳	bfxk
 骠骑	bpbo
 圣彼得堡	bcce
@@ -37329,7 +37329,7 @@ columns:
 呕心	lhri
 叶肉	lgcr
 中英	lusc
-踢打	pjfa
+踢打	pjfj
 中签	lugr
 吵醒	lipj
 哨音	likj
@@ -37341,10 +37341,10 @@ columns:
 噗嗤	lilw
 吹散	lxsw
 吹干	lxng
-吹打	lxfa
+吹打	lxfj
 吹箫	lxgb
 听完	ldif
-听歌	ldal
+听歌	ldjl
 川江	lcnp
 只需	lkcs
 只看	lkfj
@@ -37363,7 +37363,7 @@ columns:
 加粗	slqj
 加数	slqc
 加持	slfh
-甲乙丙丁	vyfa
+甲乙丙丁	vyfj
 思亲	vrka
 罗丹	uxwa
 软垫	xxfr
@@ -37422,8 +37422,8 @@ columns:
 烘箱	isga
 烧结	ixkh
 精雕细琢	qwkj
-灯影	iaja
-灯柱	iaak
+灯影	ijja
+灯柱	ijak
 炸酱面	iqsm
 数百	qcvj
 数理	qcjv
@@ -37468,7 +37468,7 @@ columns:
 金门	tjtm
 金华	tjen
 多高	xxag
-铁钉	ogoa
+铁钉	ogoj
 忽闻	wctl
 杀出	saww
 杀掉	safu
@@ -37526,7 +37526,7 @@ columns:
 拆解	fdxs
 折衷	fdau
 白底	dbmk
-打到	fadm
+打到	fjdm
 卑职	dgll
 撬开	fmfs
 手眼	fsjg
@@ -37538,8 +37538,8 @@ columns:
 李世民	asox
 枢机	ahae
 树上	abjv
-顶礼	avje
-棒打	aofa
+顶礼	jvje
+棒打	aofj
 酸碱度	pvms
 极速	agal
 极差	agqp
@@ -37551,9 +37551,9 @@ columns:
 本周	afwh
 本季	afmk
 相克	ajjw
-可看	alfj
+可看	jlfj
 杏林	alaa
-可调	aldw
+可调	jldw
 机箱	aega
 楼盖	aqqu
 横空出世	aiws
@@ -37615,7 +37615,7 @@ columns:
 并没	qsne
 善用	qqsy
 关紧	qoub
-拳打	qofa
+拳打	qofj
 前事	qwhl
 前因	qwwo
 前轮	qwxr
@@ -37638,7 +37638,7 @@ columns:
 新出	kaww
 新派	kand
 新车	kaxj
-新歌	kaal
+新歌	kajl
 首页	qqvc
 首钢	qqoc
 闪闪发光	ttwi
@@ -37691,11 +37691,11 @@ columns:
 人见人爱	rcru
 低地	ekho
 佳木斯	eaud
-何用	easy
-何干	eang
+何用	ejsy
+何干	ejng
 体协	eags
-何事	eahl
-何日	eajr
+何事	ejhl
+何日	ejjr
 倍速	ekal
 位图	ekwt
 分到	kmdm
@@ -37812,7 +37812,7 @@ columns:
 招降	fmpt
 重压	mvvh
 棉田	advt
-峰顶	utav
+峰顶	utjv
 内控	crfi
 军衣	xxag
 纪行	koci
@@ -37854,7 +37854,7 @@ columns:
 续建	kgba
 整人	alre
 出警	wwsw
-花厅	seva
+花厅	sevj
 虚掩	uifo
 正房	fpht
 房管	htgi
@@ -37925,7 +37925,7 @@ columns:
 稀泥	msnb
 翻卷	gqqo
 排他	fueo
-打拳	faqo
+打拳	fjqo
 免予	xlky
 长啸	nclb
 号啕	lhlw
@@ -38016,10 +38016,10 @@ columns:
 悲悼	urru
 催办	eusk
 横断	asqe
-订约	dakw
+订约	djkw
 撷取	fhlb
 粪肥	qswo
-可曾	alqj
+可曾	jlqj
 糅合	qkrh
 末叶	fmlg
 胜率	wpan
@@ -38042,7 +38042,7 @@ columns:
 绣鞋	kmsh
 洞天	ncfo
 佛殿	ebbs
-穹顶	ibav
+穹顶	ibjv
 心包	riwo
 百闻不如一见	vtgc
 车轴	xjxd
@@ -38073,9 +38073,9 @@ columns:
 裹脚	ajwh
 核糖	atqm
 期房	uwht
-青灯	hwia
+青灯	hwij
 贬斥	cgdk
-灯台	ianl
+灯台	ijnl
 球菌	jfsw
 洗练	npkx
 卑怯	dgrh
@@ -38112,9 +38112,9 @@ columns:
 徽号	cflh
 手令	fsrk
 机种	aeml
-可鄙	allg
+可鄙	jllg
 台步	nlpi
-无可挑剔	fafj
+无可挑剔	fjfj
 纤尘	kmih
 斩获	xdsh
 置备	ugtv
@@ -38126,7 +38126,7 @@ columns:
 欢唱	bxlj
 喧腾	liwq
 硬拼	vffq
-顶事	avhl
+顶事	jvhl
 赌球	chjf
 复现	gjjc
 胜迹	wpto
@@ -38380,7 +38380,7 @@ columns:
 尿检	bnar
 评阅	dntq
 软梯	xxaq
-编订	khda
+编订	khdj
 毁家纾难	dikb
 离弃	twan
 密件	irep
@@ -38469,7 +38469,7 @@ columns:
 审校	idaa
 原唱	vdlj
 坐骨	rrrg
-阿嚏	palg
+阿嚏	pjlg
 稗官野史	mivl
 赤忱	hkrx
 烘云托月	iifw
@@ -38577,12 +38577,12 @@ columns:
 台山	nlus
 马场	bmhy
 马祖	bmjj
-马可波罗	banu
+马可波罗	bjnu
 难辞其咎	blut
 难得一见	bcfc
 难易	bejw
 骗得	bhcj
-达芬奇	osoa
+达芬奇	osoj
 碟片	vsdp
 友协	ebgs
 大区	odhs
@@ -38599,7 +38599,7 @@ columns:
 咸味	kflf
 三等	lagh
 在此	eupn
-秦淮河	onna
+秦淮河	onnj
 百世	vjsi
 百态	vjok
 悲喜	urhl
@@ -38618,7 +38618,7 @@ columns:
 三角架	lxsl
 砍杀	vxsa
 原味	vdlf
-奇偶	oaev
+奇偶	ojev
 硬生生	vpps
 碰触	vqxs
 春水	ojns
@@ -38634,7 +38634,7 @@ columns:
 月租	wymj
 貌美	mdqo
 脚夫	whof
-遥不可及	ugag
+遥不可及	ugjg
 助人	jsre
 县市	jnau
 股指	wefn
@@ -38709,7 +38709,7 @@ columns:
 不求	gufn
 不眠	gujo
 不惯	gure
-不宁	guia
+不宁	guij
 还钱	goof
 不愁	gumi
 不值	gueg
@@ -38728,7 +38728,7 @@ columns:
 两家	fcit
 两道	fcqq
 两位	fcek
-严苛	lqsa
+严苛	lqsj
 晋见	lqcj
 与狼共舞	hhsg
 麦克	htjw
@@ -38807,11 +38807,11 @@ columns:
 小白脸	idwr
 淋雨	nacy
 洒下	npjx
-河里	navl
+河里	njvl
 酒仙	npeu
-温哥华	naen
+温哥华	njen
 活到	nldm
-海河	ngna
+海河	ngnj
 省时	igjh
 泛音	ngkj
 省立	igkl
@@ -38885,7 +38885,7 @@ columns:
 加元	slfl
 加多	slxx
 田联	vtlq
-男丁	vsad
+男丁	vsjd
 转败为胜	xckw
 思科	vrmi
 回收站	wwku
@@ -38976,12 +38976,12 @@ columns:
 审案	idic
 军界	xxvr
 军统	xxka
-官厅	ibva
+官厅	ibvj
 灾后	iidf
 之日	ozjr
 之心	ozri
 之势	ozfr
-之歌	ozal
+之歌	ozjl
 富兰克林	iqja
 被扣	xbfl
 安庆	icmo
@@ -39056,9 +39056,9 @@ columns:
 拆掉	fdfu
 抓痕	fumg
 白纱	dbki
-打成	faky
-打昏	fakx
-打好	fack
+打成	fjky
+打昏	fjkx
+打好	fjck
 插进	fmik
 搬来	fufq
 接驳	fkbs
@@ -39073,7 +39073,7 @@ columns:
 扩音	fmkj
 桡骨	axrg
 横飞	asyi
-李宁	akia
+李宁	akij
 杜马	ahbm
 飘过	pjho
 飘渺	pjnj
@@ -39088,13 +39088,13 @@ columns:
 查到	ajdm
 查理	ajjv
 查案	ajic
-可别	alls
+可别	jlls
 机架	aesl
 模糊不清	aqgn
 楼主	aqkj
 检察员	ailc
-歌舞厅	agva
-杨振宁	afia
+歌舞厅	jgvj
+杨振宁	afij
 榻榻米	aaqm
 木条	amta
 格物	atpw
@@ -39222,7 +39222,7 @@ columns:
 倒地	edho
 例规	efoc
 分不开	kgfs
-便可	efal
+便可	efjl
 修持	eufh
 贪污罪	rnuu
 但因	ejwo
@@ -39398,7 +39398,7 @@ columns:
 复电	gjdd
 和面	mlsm
 发痒	wbmq
-打中	falu
+打中	fjlu
 如前所述	cqda
 断续	qekg
 披靡	fbmu
@@ -39427,7 +39427,7 @@ columns:
 疾走	mjhz
 嘶叫	lulw
 四溅	wwnc
-阿谀	padd
+阿谀	pjdd
 嶙峋	uquw
 魔芋	mdsf
 纸面	kksm
@@ -39458,10 +39458,10 @@ columns:
 历久	vsxk
 晴好	jhck
 荣登	sxbf
-欢歌笑语	bagd
+欢歌笑语	bjgd
 提篮	fjgu
 安适	iclo
-若何	seea
+若何	seej
 复函	gjyn
 米老鼠	qhdb
 内省	crig
@@ -39533,7 +39533,7 @@ columns:
 报丧	fagq
 卫护	affh
 撑船	fiue
-灯花	iase
+灯花	ijse
 法式	nhkp
 肥效	woak
 袅娜	macy
@@ -39632,7 +39632,7 @@ columns:
 归化	qben
 纪纲	kokc
 姜汤	qcny
-两可	fcal
+两可	fcjl
 飘移	pjmx
 铅印	oekf
 实价	iier
@@ -39692,7 +39692,7 @@ columns:
 凉台	ianl
 抛却	frhn
 艳遇	dxvo
-长亭	ncaa
+长亭	ncaj
 悍将	rjqx
 强固	blwj
 蛇行	qici
@@ -39774,7 +39774,7 @@ columns:
 访查	dtaj
 篮筐	gugh
 判词	qady
-傻呵呵	ella
+傻呵呵	ellj
 威迫	kfdo
 触痛	xsmb
 崔嵬	ueud
@@ -39887,7 +39887,7 @@ columns:
 别绪	lskh
 绝经	kxkb
 俊雅	enhe
-肉丁	crad
+肉丁	crjd
 赊购	crcw
 挖补	fixu
 要言不烦	pbgi
@@ -39927,7 +39927,7 @@ columns:
 拙见	fwcj
 餐点	uxul
 面瘫	smmb
-喷灯	lgia
+喷灯	lgij
 耳垢	lehd
 骑缝	bokt
 血崩	guuw
@@ -40166,7 +40166,7 @@ columns:
 形如	fscl
 静观其变	hbut
 不大不小	gogi
-天顶	foav
+天顶	fojv
 天谴	fodl
 更胜一筹	fwfg
 青蛇	hwqi
@@ -40237,7 +40237,7 @@ columns:
 旧诗	ujdh
 眼见为实	jcki
 瞎搞	jifa
-盯上	jajv
+盯上	jjjv
 眼眸	jgjn
 紫金	pntj
 此文	pnte
@@ -40276,7 +40276,7 @@ columns:
 光脚	ilwh
 沃尔沃	nxnm
 派到	nddm
-河上	najv
+河上	njjv
 源程序	nmmk
 涕零	nqcr
 当机	ibae
@@ -40285,7 +40285,7 @@ columns:
 虹桥	qpam
 晓谕	jxdr
 最轻	jlxb
-紧盯	ubja
+紧盯	ubjj
 最大化	joen
 日月星辰	jwjm
 里海	vlng
@@ -40399,7 +40399,7 @@ columns:
 慎用	rgsy
 层楼	biaq
 层析	biad
-恒河	rfna
+恒河	rfnj
 屋梁	bdnm
 飞来飞去	yfyh
 悟空	rfip
@@ -40551,8 +40551,8 @@ columns:
 白炽	dbil
 抓狂	fuhj
 白种	dbml
-打坏	fahg
-打嗝	falf
+打坏	fjhg
+打嗝	fjlf
 手拿	fsrf
 拉出	fkww
 接上	fkjv
@@ -40583,12 +40583,12 @@ columns:
 相安	ajic
 桃源	awnv
 西沙群岛	pnbm
-可有	alew
-可畏	alvm
-可言	alby
+可有	jlew
+可畏	jlvm
+可言	jlby
 椎心泣血	arng
 杰克	aijw
-可燃性	airp
+可燃性	jirp
 贾宝玉	pijk
 攀上	asjv
 柳叶	aklg
@@ -40641,7 +40641,7 @@ columns:
 每户	gehh
 并有	qsew
 并提	qsfj
-并可	qsal
+并可	qsjl
 并处	qstu
 并将	qsqx
 美联社	qljh
@@ -40745,7 +40745,7 @@ columns:
 但能	ejnw
 但却	ejhn
 保时捷	ejff
-但丁	ejad
+但丁	ejjd
 但要	ejpc
 含糊不清	rqgn
 住宅楼	eiaq
@@ -40753,14 +40753,14 @@ columns:
 人多地少	rxhi
 低点	ekul
 父权	ksab
-何来	eafq
+何来	ejfq
 分站	kmku
 侵华	eben
 人样	reaq
 欲绝	krkx
 化蝶	enqs
 华纳	enkc
-会议厅	rdva
+会议厅	rdvj
 偏私	ehmn
 练成	kxky
 红杉	kpac
@@ -40811,7 +40811,7 @@ columns:
 这类	toqo
 这群	tobg
 这会	tori
-亭亭	aaaa
+亭亭	ajaj
 放散	ttsw
 度德量力	mcjs
 广告词	mpdy
@@ -40880,7 +40880,7 @@ columns:
 职教	llhk
 滴落	nasn
 离乡	twkg
-圆顶	wlav
+圆顶	wljv
 艳红	dxkp
 哨声	lihb
 羊倌	qyei
@@ -40905,7 +40905,7 @@ columns:
 麻脸	mawr
 排戏	fubk
 贻害	cnid
-组歌	kjal
+组歌	kjjl
 查缉	ajkl
 御敌	cglt
 引自	buqi
@@ -40965,7 +40965,7 @@ columns:
 数罪并罚	ququ
 吐丝	lhkk
 不管三七二十一	gglf
-打尖	faio
+打尖	fjio
 巨制	hbpc
 诗兴	dhnk
 司炉	yfih
@@ -41088,7 +41088,7 @@ columns:
 旧学	ujnx
 坛坛罐罐	hhjj
 采录	uabn
-吹灯	lxia
+吹灯	lxij
 接办	fksk
 常服	iuwa
 催熟	euak
@@ -41121,7 +41121,7 @@ columns:
 显效	jiak
 硬实	vfii
 高参	agno
-奇文	oate
+奇文	ojte
 骑术	boak
 秃鹰	meme
 卓见	ujcj
@@ -41159,7 +41159,7 @@ columns:
 蓄势	safr
 译制	dbpc
 嘴笨	lpga
-拱顶	fsav
+拱顶	fsjv
 扭结	fbkh
 讨嫌	dhcq
 诚朴	dkau
@@ -41246,7 +41246,7 @@ columns:
 痛恶	mblq
 恬适	rllo
 艺妓	sycg
-邮亭	dpaa
+邮亭	dpaj
 争战	xbul
 笔译	gmdb
 敞车	itxj
@@ -41278,7 +41278,7 @@ columns:
 见危授命	cxfr
 廊檐	mkax
 屈驾	bwsl
-审订	idda
+审订	iddj
 雄威	enkf
 耳屎	lebq
 混充	njan
@@ -41404,7 +41404,7 @@ columns:
 斯坦福	uhjf
 鞋柜	shah
 七天	xifo
-荆轲	sfxa
+荆轲	sfxj
 七情	xirh
 卧式	hukp
 牙线	hykf
@@ -41419,7 +41419,7 @@ columns:
 荧惑	sxkl
 共进	skik
 花枝	seag
-陕甘宁	psia
+陕甘宁	psij
 子曰	kzjy
 随喜	pehl
 阻尼	pjbn
@@ -41454,8 +41454,8 @@ columns:
 驶去	blhn
 劝劝	bsbs
 马来	bmfq
-马可	bmal
-鸡丁	bmad
+马可	bmjl
+鸡丁	bmjd
 难测	benc
 难住	beek
 双引号	bblh
@@ -41496,7 +41496,7 @@ columns:
 秦楼楚馆	oaax
 三极管	lagi
 三权分立	lakk
-奇缘	oake
+奇缘	ojke
 古香古色	jmjx
 寿数	dhqc
 三门峡	ltuo
@@ -41558,7 +41558,7 @@ columns:
 朝中	gjlu
 朝外	gjxu
 嘉陵	hsph
-无路可走	fpah
+无路可走	fpjh
 露背	cpqn
 喜怒	hlcb
 雷劈	cvbl
@@ -41701,7 +41701,7 @@ columns:
 省电	igdd
 少吃	iglg
 海贼	ngck
-海宁	ngia
+海宁	ngij
 洗掉	npfu
 滴下	najx
 润喉	ntle
@@ -41843,7 +41843,7 @@ columns:
 炽盛	ilky
 炊烟袅袅	iimm
 火鸟	ihmn
-灯烛	iaiq
+灯烛	ijiq
 炸开	igfs
 娄子	qckz
 数十	qcgi
@@ -41883,10 +41883,10 @@ columns:
 被杀	xbsa
 裤袋	xmek
 安达	icoo
-宴会厅	irva
+宴会厅	irvj
 容得	ircj
 窗体	idea
-神灯	jdia
+神灯	jdij
 福报	jffa
 祝辞	jllk
 名花有主	xsek
@@ -41970,8 +41970,8 @@ columns:
 白做	dbej
 拆伙	fdei
 折弯	fdtb
-打退	fago
-拉丁语	fadf
+打退	fjgo
+拉丁语	fjdf
 拖长	fgnc
 手绘	fskr
 接茬	fkse
@@ -42001,7 +42001,7 @@ columns:
 核裂变	aftb
 相国	ajwj
 相拥	ajfs
-歌名	alxl
+歌名	jlxl
 机库	aemx
 栩栩	avav
 楼面	aqsm
@@ -42009,7 +42009,7 @@ columns:
 橡木	axam
 板桥	adam
 格林威治	aakn
-柯南	aagc
+柯南	ajgc
 禁制	aapc
 林间	aatj
 松赞干布	apne
@@ -42076,7 +42076,7 @@ columns:
 朔州	qwnl
 交叉点	abul
 头屑	iobi
-前厅	qwva
+前厅	qwvj
 剪下	qwjx
 前些	qwpn
 前车	qwxj
@@ -42145,7 +42145,7 @@ columns:
 俊男	envs
 公投	knfe
 公权	knab
-倚马可待	ebac
+倚马可待	ebjc
 公仔	knek
 做大	ejod
 祭日	wjjr
@@ -42209,7 +42209,7 @@ columns:
 绿竹	kbgz
 纵隔	krpf
 丝质	kkdg
-皆可	nnal
+皆可	nnjl
 缠着	kmqj
 席上	msjv
 试驾	dksl
@@ -42242,8 +42242,8 @@ columns:
 就业率	aian
 这段	toel
 磨蚀	mvxq
-订报	dafa
-订制	dapc
+订报	djfa
+订制	djpc
 记录片	dbdp
 文化节	tesa
 认股	drwe
@@ -42319,7 +42319,7 @@ columns:
 疑惧	njrj
 拂面	fbsm
 育林	anaa
-冷不丁	igad
+冷不丁	igjd
 细腰	kvwp
 未详	fwdq
 水荒	nsst
@@ -42361,7 +42361,7 @@ columns:
 忠勇	lubs
 种猪	mlhh
 丑话	bcdl
-订做	daej
+订做	djej
 写景	xhja
 延揽	gpfu
 定当	ifib
@@ -42379,7 +42379,7 @@ columns:
 钢琴曲	ojcs
 缺阵	jbpx
 形影	fsja
-孤灯	kuia
+孤灯	kuij
 进占	ikul
 趋附	hxpe
 叠翠	bbvv
@@ -42431,7 +42431,7 @@ columns:
 公爹	knks
 披甲	fbvj
 鼠窜	dbil
-照明灯	jjia
+照明灯	jjij
 受援	uxfu
 官印	ibkf
 默诵	ghdb
@@ -42477,7 +42477,7 @@ columns:
 数说	qcdq
 啸聚	lblb
 淡青	nihw
-河蚌	naqd
+河蚌	njqd
 见诸	cjdh
 情杀	rhsa
 剧终	bjkt
@@ -42500,7 +42500,7 @@ columns:
 胡子拉碴	jkfv
 女奴	cncb
 消愁	nimi
-打擂	fafc
+打擂	fjfc
 怕生	rdps
 媾和	csml
 整训	aldl
@@ -42546,7 +42546,7 @@ columns:
 抵销	fkoi
 狐群狗党	hbhi
 哀恸	agri
-碑亭	vdaa
+碑亭	vdaj
 口形	lvfs
 谄笑	dxgm
 螟蛉	qxqr
@@ -42557,7 +42557,7 @@ columns:
 刺字	acik
 发薪	wbsk
 耿介	lirk
-考订	hhda
+考订	hhdj
 三叉戟	lbgj
 徐缓	crku
 怡人	rnre
@@ -42582,13 +42582,13 @@ columns:
 群婚	bgck
 易帜	jwul
 银粉	ogqk
-有隙可乘	epam
+有隙可乘	epjm
 支应	gbmn
 篆文	gete
 帮佣	dpes
 颤悠	aweu
 初会	xmri
-奇秀	oamg
+奇秀	ojmg
 试映	dkjc
 孀居	ccbj
 田赛	vtis
@@ -42626,7 +42626,7 @@ columns:
 显耀	jiil
 延后	gpdf
 闭经	thkb
-顶罪	avuu
+顶罪	jvuu
 互勉	fexl
 或然	klwh
 金粉	tjqk
@@ -42898,7 +42898,7 @@ columns:
 无痛	ffmb
 地铁站	hoku
 二氧化氮	igeg
-无可辩驳	fakb
+无可辩驳	fjkb
 教过	hkho
 老抽	hnfd
 才好	hgck
@@ -43009,10 +43009,10 @@ columns:
 逃开	wifs
 派息	ndqr
 酒友	npeb
-河中	nalu
+河中	njlu
 酒神	npjd
 酒保	npel
-河底	namk
+河底	njmk
 沙特阿拉伯	nppe
 洗胃	npvw
 活检	nlar
@@ -43029,7 +43029,7 @@ columns:
 明德	jwcg
 是个	jfru
 量级	jfkg
-冒顶	ciav
+冒顶	cijv
 最小化	jien
 日新	jrka
 愚痴	vrmj
@@ -43272,7 +43272,7 @@ columns:
 拍砖	fdvi
 白雾	dbct
 白鹅	dbgf
-打给	fakr
+打给	fjkr
 插在	fmeu
 托架	fgsl
 摘花	fase
@@ -43301,18 +43301,18 @@ columns:
 本队	afpr
 配图	powt
 本轮	afxr
-西餐厅	puva
+西餐厅	puvj
 朴拙	aufw
 李小龙	aifg
 查毒	ajhe
-可视	aljc
+可视	jljc
 株连九族	axrt
 杨浦	aynn
 楼内	aqcr
 杨家将	aiqx
 构词	awdy
 梦露	aacp
-楚歌	aaal
+楚歌	aajl
 林冲	aail
 榜单	aaqj
 升序	gsmk
@@ -43371,7 +43371,7 @@ columns:
 姜子牙	qkhy
 养蜂	qoqt
 卷纸	qokk
-遂宁	qtia
+遂宁	qtij
 斗勇	igbs
 总教练	qhkx
 美分	qokm
@@ -43452,7 +43452,7 @@ columns:
 做空	ejip
 仍在	egeu
 仍需	egcs
-仍可	egal
+仍可	egjl
 仍将	egqx
 舍去	rlhn
 佳美	ehqo
@@ -43585,7 +43585,7 @@ columns:
 长程	ncml
 湖光	njil
 小叔	ivji
-可燃	aliw
+可燃	jliw
 椰树	alab
 轻抚	xbff
 史论	lsdr
@@ -43598,15 +43598,15 @@ columns:
 根须	agcv
 绝收	kxwt
 坐堂	rrih
-不可同日而语	gacd
+不可同日而语	gjcd
 小引	ivbu
 晨雾	jmct
 效尤	akfo
 职校	llaa
-冲顶	ilav
-打柴	fapn
+冲顶	iljv
+打柴	fjpn
 地矿	hovm
-宁日	iajr
+宁日	ijjr
 训诂	dldj
 农膜	xgws
 妄加	tcsl
@@ -43698,9 +43698,9 @@ columns:
 以工代赈	epec
 政区	fphs
 自检	qiar
-奇绝	oakx
+奇绝	ojkx
 开释	fsgq
-弦歌	baal
+弦歌	bajl
 报修	faeu
 编舞	khgs
 虫蛀	qcqk
@@ -43732,7 +43732,7 @@ columns:
 约计	kwdg
 底版	mkdd
 柴刀	pnmd
-改订	otda
+改订	otdj
 身手不凡	qfge
 隙缝	pikt
 码放	vbtt
@@ -43768,7 +43768,7 @@ columns:
 搭售	fsel
 负约	xckw
 规制	ocpc
-镁光灯	oiia
+镁光灯	oiij
 拿手戏	rfbk
 缺斤少两	jdif
 晒场	jphy
@@ -43794,13 +43794,13 @@ columns:
 正宫	fpil
 蹲坑	pqha
 概说	abdq
-奇案	oaic
+奇案	ojic
 像话	exdl
 旦夕祸福	jxjj
 奉祀	oajo
 哈喇	lrla
 皮相	bpaj
-奇志	oahr
+奇志	ojhr
 小聚	ivlb
 宴客	ijit
 发水	wbns
@@ -43912,7 +43912,7 @@ columns:
 吃准	lgie
 耳饰	lexg
 鸡奸	bmcn
-劲歌	bpal
+劲歌	bpjl
 烧心	ixri
 痈疽	msmj
 圆钢	wloc
@@ -44063,7 +44063,7 @@ columns:
 三两	lafc
 三步	lapi
 古法	jgnh
-咸宁	kfia
+咸宁	kfij
 硬质	vfdg
 夏利	vjmm
 大小写	oixh
@@ -44083,7 +44083,7 @@ columns:
 砍死	vxfx
 确是	vxjf
 硒鼓	vphg
-奇招	oafm
+奇招	ojfm
 故称	jtmx
 泰铢	onop
 秦桧	omar
@@ -44253,7 +44253,7 @@ columns:
 浪得虚名	ncux
 海归	ngqb
 省掉	igfu
-滚打	nafa
+滚打	nafj
 洋枪	nqar
 满意度	nkms
 当此	ibpn
@@ -44262,7 +44262,7 @@ columns:
 汴梁	nanm
 虹吸	qplg
 虹口	qplv
-暴打	jsfa
+暴打	jsfj
 最酷	jlpp
 紧挨	ubfn
 最大值	joeg
@@ -44311,7 +44311,7 @@ columns:
 围成	waky
 围脖	wawg
 黑风	ghes
-置顶	ugav
+置顶	ugjv
 车迷	xjqo
 国强	wjbl
 车底	xjmk
@@ -44330,7 +44330,7 @@ columns:
 较广	xamg
 罚钱	udof
 默认值	gdeg
-曲奇	csoa
+曲奇	csoj
 骨龄	rgpr
 赌城	chhk
 雕镂	whoq
@@ -44434,7 +44434,7 @@ columns:
 免掉	xlfu
 铜陵	ocph
 钢梁	ocnm
-钠灯	ocia
+钠灯	ocij
 包拯	wofy
 多起	xxho
 多赚	xxcq
@@ -44510,7 +44510,7 @@ columns:
 抓贼	fuck
 拍完	fdif
 抓得	fucj
-打平	fanq
+打平	fjnq
 手部	fskl
 殷商	dbaq
 扮成	fkky
@@ -44532,7 +44532,7 @@ columns:
 想找	ajfk
 想说	ajdq
 查杀	ajsa
-可算	algj
+可算	jlgj
 机上	aejv
 构型	awfs
 禁受	aaux
@@ -44688,8 +44688,8 @@ columns:
 亿元	eyfl
 追还	dogo
 仰起	ekho
-何者	eahj
-何年	eaga
+何者	ejhj
+何年	ejga
 休市	eaau
 傻蛋	edyp
 作诗	egdh
@@ -44766,7 +44766,7 @@ columns:
 说清	dqnh
 腐熟	meak
 广受	mgux
-诗词歌赋	ddac
+诗词歌赋	ddjc
 访华	dten
 一通	fibs
 准是	iejf
@@ -44796,8 +44796,8 @@ columns:
 板眼	adjg
 盈门	gbtm
 堆笑	hegm
-悬河	jnna
-雄奇	enoa
+悬河	jnnj
+雄奇	enoj
 岂肯	uopw
 书场	yyhy
 稍事	mihl
@@ -44818,7 +44818,7 @@ columns:
 京官	aiib
 盖碗	quvi
 溢美	nqqo
-开河	fsna
+开河	fsnj
 翻耕	gqdk
 长脸	ncwr
 内画	crfv
@@ -44849,7 +44849,7 @@ columns:
 小月	ivwy
 震感	cmkf
 缩手	kifs
-打场	fahy
+打场	fjhy
 台柱	nlak
 香艳	mjdx
 自戕	qidk
@@ -44867,8 +44867,8 @@ columns:
 观览	bcug
 缴付	kdeh
 晤面	jfsm
-压顶	vhav
-无可无不可	fafa
+压顶	vhjv
+无可无不可	fjfj
 出缺	wwjb
 林莽	aash
 实诚	iidk
@@ -44904,7 +44904,7 @@ columns:
 本业	afie
 刻刀	tmmd
 御赐	cgcj
-打蜡	faqs
+打蜡	fjqs
 劳军	sxxx
 磷光	vqil
 幽居	unbj
@@ -44914,7 +44914,7 @@ columns:
 家严	itlq
 射猎	qhhs
 萧疏	sbyp
-续订	kgda
+续订	kgdj
 意表	kjhg
 荒丘	stdf
 求欢	fnbx
@@ -44960,7 +44960,7 @@ columns:
 果核	jaat
 清逸	nhxl
 温酒	njnp
-奇诡	oadx
+奇诡	ojdx
 大我	odgf
 奸恶	cnlq
 见景生情	cjpr
@@ -45002,7 +45002,7 @@ columns:
 飘曳	pjdg
 欠安	xqic
 退亲	goka
-硬顶	vfav
+硬顶	vfjv
 弛缓	boku
 里层	vlbi
 萎黄	smsd
@@ -45088,7 +45088,7 @@ columns:
 车到山前必有路	xdup
 轻如鸿毛	xcnm
 名师出高徒	xqwc
-人不可貌相	rgaa
+人不可貌相	rgja
 另请高明	ldaj
 杯酒释兵权	anga
 百年之好	vgoc
@@ -45196,7 +45196,7 @@ columns:
 达旦	oojf
 砍下	vxjx
 克拉玛依	jfje
-厅局	vaby
+厅局	vjby
 胡椒粉	jaqk
 故名	jtxl
 磁道	vqqq
@@ -45280,7 +45280,7 @@ columns:
 一两	fifc
 一愣	firu
 一米	fiqm
-一打	fifa
+一打	fifj
 不受	guux
 不归	guqb
 不辍	guxb
@@ -45464,7 +45464,7 @@ columns:
 赚得	cqcj
 肉店	crmu
 见诸报端	cdfk
-敢打	ylfa
+敢打	ylfj
 怪谈	rbdi
 居前	bjqw
 层峦	bitu
@@ -45480,7 +45480,7 @@ columns:
 刷掉	bufu
 书友	yyeb
 书坊	yyht
-快打	rbfa
+快打	rbfj
 快如	rbcl
 屡获	bqsh
 惶然	rdwh
@@ -45514,7 +45514,7 @@ columns:
 牢狱之灾	ihoi
 家乐福	ikjf
 空格键	iaob
-宁为	iaks
+宁为	ijks
 额前	itqw
 初到	xmdm
 被拒	xbfh
@@ -45538,7 +45538,7 @@ columns:
 句话	wldl
 外围赛	xwis
 负累	xcvo
-钢钉	ocoa
+钢钉	ocoj
 钢制	ocpc
 钢种	ocml
 包里	wovl
@@ -45549,7 +45549,7 @@ columns:
 多产	xxkg
 铁床	ogma
 杀鸡	sabm
-钉上	oajv
+钉上	ojjv
 弑父	saks
 狼孩	hkkt
 猪脚	hhwh
@@ -45591,7 +45591,7 @@ columns:
 掐断	fxqe
 拍出	fdww
 拍岸	fduv
-打满	fans
+打满	fjns
 返朴归真	daqg
 拖地	fgho
 手纹	fskt
@@ -45606,8 +45606,8 @@ columns:
 挤入	ftkr
 横山	asus
 树形	abfs
-顶戴	avgk
-顶好	avck
+顶戴	jvgk
+顶好	jvck
 极有	agew
 飘柔	pjkg
 村务	ahts
@@ -45620,8 +45620,8 @@ columns:
 相成	ajky
 想做	ajej
 西洋镜	pnok
-可贺	alsl
-可图	alwt
+可贺	jlsl
+可图	jlwt
 森罗万象	aufx
 机降	aept
 楼价	aqer
@@ -45650,7 +45650,7 @@ columns:
 笛声	gdhb
 身无	qsff
 身披	qsfb
-长恨歌	nral
+长恨歌	nrjl
 自导自演	qoqn
 翻唱	gqlj
 翻倍	gqek
@@ -45678,7 +45678,7 @@ columns:
 剪成	qwky
 前所	qwdd
 兰溪	qinu
-壮歌	qhal
+壮歌	qhjl
 决不会	igri
 美语	qodf
 站到	kudm
@@ -45754,7 +45754,7 @@ columns:
 作鸟兽散	emqs
 八抬大轿	kfox
 何年何月	egew
-何足	eapz
+何足	ejpz
 体癣	eamx
 傻劲	edbp
 八强	kabl
@@ -45819,7 +45819,7 @@ columns:
 诉权	ddab
 磨石	mvvs
 磨杵成针	mako
-订餐	daux
+订餐	djux
 魔道	mdqq
 旋翼	tgvv
 刘德华	tcen
@@ -45843,7 +45843,7 @@ columns:
 抛荒	frst
 乡党	kgiw
 杏树	alab
-打胜	fawp
+打胜	fjwp
 了当	keib
 球市	jfau
 上脸	jvwr
@@ -45864,7 +45864,7 @@ columns:
 主罚	kjud
 诛戮	dpvv
 吐字	lhik
-河心	nari
+河心	njri
 和衣	mlag
 全优	rjef
 存贷	euek
@@ -46032,7 +46032,7 @@ columns:
 投师	feqf
 饮宴	xxij
 招纳	fmkc
-河系	nago
+河系	njgo
 苦短	sjjf
 连番	xogq
 旁路	aqpt
@@ -46050,7 +46050,7 @@ columns:
 话外音	dxkj
 缙绅	klkd
 刊本	nmaf
-可望而不可即	atsb
+可望而不可即	jtsb
 盘货	uuen
 书迷	yyqo
 抱恨终天	frkf
@@ -46070,7 +46070,7 @@ columns:
 人造棉	rpad
 征聘	cfld
 单号	qjlh
-丁克	adjw
+丁克	jdjw
 含垢忍辱	rhmm
 结彩	khua
 纳罕	kcxk
@@ -46134,7 +46134,7 @@ columns:
 卫浴	afnk
 耳蜗	leql
 耳旁	leaq
-孔明灯	kjia
+孔明灯	kjij
 随风而去	pesh
 院中	pilu
 隆昌	ptjj
@@ -46333,8 +46333,8 @@ columns:
 光敏	ilge
 派给	ndkr
 酒肆	npub
-河池	nano
-省厅	igva
+河池	njno
+省厅	igvj
 海天	ngfo
 海信	ngeb
 滴定	naif
@@ -46462,7 +46462,7 @@ columns:
 飞鸿	yinp
 情绪化	rken
 惊为天人	rkfr
-尽可	bkal
+尽可	bkjl
 心生	rips
 煤厂	isvh
 烧录	ixbn
@@ -46512,7 +46512,7 @@ columns:
 鹤岗	xeuc
 突飞	ihyi
 穿线	ihkf
-塞纳河	ikna
+塞纳河	iknj
 神伤	jdeg
 错用	ossy
 错杀	ossa
@@ -46606,9 +46606,9 @@ columns:
 相背	ajqn
 飘洋过海	pnhn
 查表	ajhg
-歌者	alhj
-可想	alaj
-可读	aldg
+歌者	jlhj
+可想	jlaj
+可读	jldg
 樱唇	acml
 机壳	aehx
 楼前	aqqw
@@ -46657,7 +46657,7 @@ columns:
 瘫坐	mbrr
 差旅	qptg
 前款	qwhj
-前灯	qwia
+前灯	qwij
 装到	qhdm
 壮怀	qhrg
 阔叶	tnlg
@@ -46717,7 +46717,7 @@ columns:
 像个	exru
 贫铀弹	kobq
 休兵	eadf
-何意	eakj
+何意	ejkj
 傻了	edke
 余姚	rfcw
 倍频	ekpi
@@ -46803,7 +46803,7 @@ columns:
 言之	byoz
 该批	dtfn
 言道	byqq
-谷歌	kral
+谷歌	krjl
 京东	aixi
 凡尔赛	exis
 真气	gjgq
@@ -46884,7 +46884,7 @@ columns:
 慢待	rjch
 锁国	oiwj
 月产	wykg
-可意	alkj
+可意	jlkj
 妻小	gbiv
 爽气	osgq
 画夹	fvoq
@@ -47020,7 +47020,7 @@ columns:
 搜缴	fdkd
 瓶胆	qswj
 粟子	pqkz
-谢顶	dqav
+谢顶	dqjv
 了账	kecn
 领罪	rkuu
 热锅上的蚂蚁	fojq
@@ -47068,10 +47068,10 @@ columns:
 院外	pixu
 院线	pikf
 聊起	lkho
-阿叔	paji
+阿叔	pjji
 降世	ptsi
 陪我	pkgf
-队歌	pral
+队歌	prjl
 附记	pedo
 双号	bblh
 双侧	bbec
@@ -47110,8 +47110,8 @@ columns:
 达理	oojv
 克难	jwbe
 原为	vdks
-厅内	vacr
-厅外	vaxu
+厅内	vjcr
+厅外	vjxu
 百舸争流	vuxn
 古生代	jpek
 磁鼓	vqhg
@@ -47216,7 +47216,7 @@ columns:
 点开	ulfs
 贞德	uccg
 餐椅	uxao
-盯防	japt
+盯防	jjpt
 卤化物	uepw
 港式	nskp
 江堤	nphj
@@ -47290,7 +47290,7 @@ columns:
 喷上	lgjv
 喘不过气	lghg
 吓到	ljdm
-中厅	luva
+中厅	luvj
 啮齿	lppr
 跨界	povr
 跳票	pwpj
@@ -47354,7 +47354,7 @@ columns:
 敢言	ylby
 司职	yfll
 收付	wteh
-展览厅	buva
+展览厅	buvj
 以力服人	eswr
 懒懒散散	rrss
 已尽	ovbk
@@ -47377,7 +47377,7 @@ columns:
 火机	ihae
 烷烃	iiib
 糖原	qmvd
-宝莲灯	isia
+宝莲灯	isij
 字元	ikfl
 家乐	itki
 家主	itkj
@@ -47398,7 +47398,7 @@ columns:
 被罚	xbud
 视如草芥	jcss
 窦娥冤	icxx
-安可	ical
+安可	icjl
 窜到	ildm
 容让	irdj
 昏晕	kxjx
@@ -47452,8 +47452,8 @@ columns:
 抱定	fwif
 掀翻	fdgq
 白给	dbkr
-打湿	fanj
-打谱	fadq
+打湿	fjnj
+打谱	fjdq
 卑躬屈节	dqbs
 托钵	fgoa
 插柳	fmak
@@ -47473,7 +47473,7 @@ columns:
 棋院	aupi
 权钱	abof
 桶装	abqh
-顶芽	avsh
+顶芽	jvsh
 枯涸	ajnw
 标上	ajjv
 标贴	ajcu
@@ -47483,9 +47483,9 @@ columns:
 酸腐	pnme
 相扣	ajfl
 相斗	ajig
-歌艺	alsy
-可及	algk
-可辨	alkq
+歌艺	jlsy
+可及	jlgk
+可辨	jlkq
 楼里	aqvl
 楼座	aqmr
 柳青	akhw
@@ -47538,7 +47538,7 @@ columns:
 闻之	tloz
 前蹄	qwpa
 装料	qhqi
-兰亭	qiaa
+兰亭	qiaj
 盖楼	quaq
 盖板	quad
 站直	kugj
@@ -47610,8 +47610,8 @@ columns:
 低飞	ekyi
 你想	exaj
 件数	epqc
-何愁	eami
-何谈	eadi
+何愁	ejmi
+何谈	ejdi
 傻逼	edfl
 低头不语	eigd
 位高	ekag
@@ -47663,7 +47663,7 @@ columns:
 记数	doqc
 弯下	tbjx
 变音	tbkj
-亮灯	aeia
+亮灯	aeij
 床脚	mawh
 磨削	mviw
 施予	tgky
@@ -47714,7 +47714,7 @@ columns:
 梁柱	nmak
 弃官	anib
 倒灌	edns
-奇伟	oaea
+奇伟	ojea
 熹微	hlcf
 震灾	cmii
 家蚕	itfo
@@ -47729,7 +47729,7 @@ columns:
 自矜	qikg
 暗绿	jkkb
 草垫	sjfr
-打拐	fafl
+打拐	fjfl
 下任	jxem
 兵灾	dfii
 凌汛	ihny
@@ -47765,7 +47765,7 @@ columns:
 凶煞	swxb
 彩练	uakx
 崇仰	uiek
-打援	fafu
+打援	fjfu
 怜恤	rrrg
 纺机	ktae
 听审	ldid
@@ -47810,7 +47810,7 @@ columns:
 妙品	cill
 蓄发	sawb
 夜阑	aeta
-黄灯	sdia
+黄灯	sdij
 孟秋	kumi
 灭杀	fisa
 明抢	jwfr
@@ -47902,7 +47902,7 @@ columns:
 承转	ynxi
 耳科	lemi
 耳部	lekl
-孟轲	kuxa
+孟轲	kuxj
 耽于	lxfh
 辽源	konv
 院部	pikl
@@ -47957,7 +47957,7 @@ columns:
 砍去	vxhn
 砍到	vxdm
 砍头	vxio
-厅级	vakg
+厅级	vjkg
 龚自珍	fqjr
 春蕾	ojsc
 春雪	ojcb
@@ -47982,7 +47982,7 @@ columns:
 裁量	gkjf
 云涛	innd
 喜马拉雅山	hbfu
-云顶	inav
+云顶	injv
 动刀	inmd
 老三届	hlbd
 堵嘴	hhlp
@@ -48042,8 +48042,8 @@ columns:
 恶声	lqhb
 列宁格勒	fias
 一批批	fffn
-一丁点	faul
-不可知	gajl
+一丁点	fjul
+不可知	gjjl
 一站式	fkkp
 颊骨	oqrg
 素鸡	hobm
@@ -48101,7 +48101,7 @@ columns:
 影讯	jady
 中共党员	lsil
 叩开	lafs
-喊打	lkfa
+喊打	lkfj
 吸出	lgww
 啃噬	lplg
 踢爆	pjij
@@ -48206,7 +48206,7 @@ columns:
 冤鬼	xxdg
 宛似	ixee
 空手而归	ifsq
-宁要	iapc
+宁要	ijpc
 实达	iioo
 安能	icnw
 穷于	isfh
@@ -48271,14 +48271,14 @@ columns:
 捡来	frfq
 推给	fekr
 扩增	fmhq
-哥斯达黎加	auos
+哥斯达黎加	juos
 模态	asok
 柜门	ahtm
 模组	askj
 树德	abcg
-顶起	avho
-顶下	avjx
-顶门	avtm
+顶起	jvho
+顶下	jvjx
+顶门	jvtm
 村霸	ahcs
 飘进	pjik
 村外	ahxu
@@ -48289,7 +48289,7 @@ columns:
 想定	ajif
 档口	ailv
 档位	aiek
-可做	alej
+可做	jlej
 枕芯	axsr
 枕上	axjv
 木匣	amhv
@@ -48359,7 +48359,7 @@ columns:
 北冥	qnxj
 六旬	akwj
 六种	akml
-退订	goda
+退订	godj
 那匹	yale
 妙传	ciei
 如因	clwo
@@ -48397,7 +48397,7 @@ columns:
 伞降	rqpt
 从紧	rrub
 坐拥	rrfs
-售货亭	eeaa
+售货亭	eeaj
 华服	enwa
 华容	enir
 货损	enfl
@@ -48439,7 +48439,7 @@ columns:
 变位	tbek
 底纹	mkkt
 广西壮族自治区	mpqh
-订座	damr
+订座	djmr
 州县	nljn
 诈死	dgfx
 施乐	tgki
@@ -48733,7 +48733,7 @@ columns:
 熬粥	hwbq
 珠饰	jpxg
 一木难支	fabg
-不可小觑	gaiu
+不可小觑	gjiu
 一根根	faag
 下笔成章	jgkk
 一前一后	fqfd
@@ -48815,7 +48815,7 @@ columns:
 哪管	lygi
 忠诚度	ldms
 听说读写	lddx
-轻打	xbfa
+轻打	xbfj
 轻缓	xbku
 固原	wjvd
 车影	xjja
@@ -48841,7 +48841,7 @@ columns:
 岗前	ucqw
 网际	cspj
 网联	cslq
-见顶	cjav
+见顶	cjjv
 购货	cwen
 网店	csmu
 内聚	crlb
@@ -48882,7 +48882,7 @@ columns:
 军内	xxcr
 之和	ozml
 牢头	ipio
-宁死	iafx
+宁死	ijfx
 被爱	xbux
 补位	xuek
 空屋	ipbd
@@ -48942,8 +48942,8 @@ columns:
 气势如虹	gfcq
 白粥	dbbq
 白亮	dbae
-打圈	fawq
-打穿	faih
+打圈	fjwq
+打穿	fjih
 搬掉	fufu
 手创	fsra
 挺住	fmek
@@ -48960,12 +48960,12 @@ columns:
 梭罗	anux
 飘向	pjdx
 西甲	pxvj
-丁烯	adis
+丁烯	jdis
 本我	afgf
 本会	afri
 相吸	ajlg
 查号	ajlh
-歌后	aldf
+歌后	jldf
 机锋	aeot
 栅极	awag
 木塞	amis
@@ -49133,7 +49133,7 @@ columns:
 底土	mkht
 靡丽	mufc
 魔镜	mdok
-订造	dapl
+订造	djpl
 认明	drjw
 夜视	aejc
 玄秘	anmr
@@ -49194,7 +49194,7 @@ columns:
 转引	xibu
 拙著	fwsh
 吵人	lire
-奇技	oafg
+奇技	ojfg
 稔熟	mrak
 扔弃	fgan
 精编	qhkh
@@ -49398,7 +49398,7 @@ columns:
 旧恨新仇	urke
 瞎蒙	jisx
 点钞机	uoae
-盯紧	jaub
+盯紧	jjub
 眼瞅	jgjm
 紫黑	pngh
 涉世未深	nsfn
@@ -49469,7 +49469,7 @@ columns:
 史载	lsgk
 鸣唱	lmlj
 吃饱穿暖	lxij
-呵气	lagq
+呵气	ljgq
 响马	ldbm
 喉镜	leok
 只配	lkpo
@@ -49529,7 +49529,7 @@ columns:
 宽赦	ishk
 家犬	ithq
 完形	iffs
-定可	ifal
+定可	ifjl
 军体	xxea
 蜜源	irnv
 官报私仇	ifme
@@ -49605,13 +49605,13 @@ columns:
 持证上岗	fdju
 西藏自治区	psqh
 椰菜	alsu
-树顶	abav
+树顶	abjv
 树篱	abgt
 树状	abqh
 桶盖	abqu
 树旁	abaq
 椅套	aoou
-顶珠	avjp
+顶珠	jvjp
 标段	ajel
 西东	pxxi
 西归	pxqb
@@ -49644,7 +49644,7 @@ columns:
 物欲横流	pkan
 入到	krdm
 瘫倒	mbed
-差可	qpal
+差可	qpjl
 前定	qwif
 前个	qwru
 半旧	qauj
@@ -49706,7 +49706,7 @@ columns:
 继女	kqcn
 纸业	kkie
 纸篓	kkgq
-张灯	bnia
+张灯	bnij
 张数	bnqc
 弹到	bqdm
 弱光	biil
@@ -49738,7 +49738,7 @@ columns:
 变凉	tbia
 底图	mkwt
 义弟	ksqb
-订好	dack
+订好	djck
 府内	mecr
 方有	tfew
 微信	cfeb
@@ -49755,8 +49755,8 @@ columns:
 吃拿卡要	lrjp
 屈死	bwfx
 准定	ieif
-盯视	jajc
-可溶	alni
+盯视	jjjc
+可溶	jlni
 前汉	qwnb
 屡禁不绝	bagk
 管账	gicn
@@ -49801,7 +49801,7 @@ columns:
 耕织	dkkl
 柳杉	akac
 坐守	rrih
-锤打	omfa
+锤打	omfj
 低限	ekpg
 篷布	gteu
 误期	dluw
@@ -49840,7 +49840,7 @@ columns:
 新人新事	krkh
 借古喻今	ejlr
 四面受敌	wsul
-前车可鉴	qxau
+前车可鉴	qxju
 人人得而诛之	rrco
 成败利钝	kcmo
 眼明心亮	jjra
@@ -49893,7 +49893,7 @@ columns:
 原在	vdeu
 原田	vdvt
 原属	vdbg
-奇山	oaus
+奇山	ojus
 故曰	jtjy
 雁北	veqn
 龙阳	fgpj
@@ -49967,7 +49967,7 @@ columns:
 治所	nndd
 尖角	ioxs
 淹留	nokv
-清歌	nhal
+清歌	nhjl
 清俊	nhen
 小有	ivew
 小坑	ivha
@@ -50005,7 +50005,7 @@ columns:
 嗑药	lhsk
 喷砂	lgvi
 吓昏	ljkx
-跳河	pwna
+跳河	pwnj
 忠君	lubg
 咒符	llge
 另觅	lsuc
@@ -50122,9 +50122,9 @@ columns:
 探马	fxbm
 近忧	dorf
 擦抹	fiff
-打鸣	falm
-打单	faqj
-打浆	faqx
+打鸣	fjlm
+打单	fjqj
+打浆	fjqx
 手控	fsfi
 手挽	fsfx
 接掌	fkif
@@ -50170,7 +50170,7 @@ columns:
 半时	qajh
 斗败	igct
 凄风	iges
-盖顶	quav
+盖顶	qujv
 冰肌	inwe
 音形	kjfs
 章回	kjwl
@@ -50217,15 +50217,15 @@ columns:
 倚官仗势	eief
 低凹	ekcf
 信手涂鸦	efnh
-何去	eahn
-何惧	earj
+何去	ejhn
+何惧	ejrj
 斜塔	rfhs
 分身乏术	kqga
 分省	kmig
 颁授	kmfu
 人贩	recd
 食素	ksho
-毕达哥拉斯	noau
+毕达哥拉斯	noju
 母盘	emuu
 纱衣	kiag
 绘影绘声	kjkh
@@ -50269,11 +50269,11 @@ columns:
 永眠	knjo
 话锋一转	dofx
 义拍	ksfd
-订亲	daka
+订亲	djka
 施力	tgsl
 详加	dqsl
 诠注	drnk
-夜灯	aeia
+夜灯	aeij
 腐生	meps
 文翰	tegj
 反切	dbxm
@@ -50359,7 +50359,7 @@ columns:
 山高皇帝远	uadf
 做一天和尚撞一天钟	effo
 先入之见	pkoc
-可乘之隙	amop
+可乘之隙	jmop
 其名	uqxl
 落地有声	sheh
 雅丽	hefc
@@ -50396,7 +50396,7 @@ columns:
 布衫	euxc
 灰雾	eict
 确应	vxmn
-奇侠	oaeo
+奇侠	ojeo
 磁漆	vqna
 秦陵	omph
 奏本	ofaf
@@ -50457,8 +50457,8 @@ columns:
 战情	ulrh
 战端	ulku
 餐会	uxri
-柴可夫斯基	paou
-盯死	jafx
+柴可夫斯基	pjou
+盯死	jjfx
 瞧去	jehn
 此帖	pnuu
 江郎	npkb
@@ -50609,8 +50609,8 @@ columns:
 挥军	fxxx
 探析	fxad
 誓不	fdgu
-打杀	fasa
-打铃	faor
+打杀	fjsa
+打铃	fjor
 插满	fmns
 手抓	fsfu
 热阻	frpj
@@ -50629,14 +50629,14 @@ columns:
 相簿	ajgn
 查字	ajik
 查税	ajmq
-歌友	aleb
+歌友	jleb
 横加指责	asfh
 板载	adgk
 林壑	aaux
 林边	aaso
-可亲可敬	akas
+可亲可敬	jkjs
 长川	nclc
-长钉	ncoa
+长钉	ncoj
 升斗	gsig
 季初	mkxm
 敌营	ltsx
@@ -50679,8 +50679,8 @@ columns:
 仙童	eukv
 侯门	ebtm
 侯爷	ebks
-何需	eacs
-何患	eall
+何需	ejcs
+何患	ejll
 作派	egnd
 依随	eape
 储钱	edof
@@ -50704,7 +50704,7 @@ columns:
 谜案	dqic
 弯管	tbgi
 底楼	mkaq
-订书	dayy
+订书	djyy
 良驹	kgbw
 方显	tfji
 她的	codw
@@ -50730,7 +50730,7 @@ columns:
 细柔	kvkg
 招干	fmng
 参谒	nodj
-封河	hhna
+封河	hhnj
 聘问	ldtl
 割弃	idan
 撤免	faxl
@@ -50814,7 +50814,7 @@ columns:
 不拒	gufh
 速达	aloo
 再掀	jcfd
-死盯	fxja
+死盯	fxjj
 死定	fxif
 来样加工	fasp
 夹上	oqjv
@@ -50887,7 +50887,7 @@ columns:
 烟杆	iwan
 熔接	iifk
 炮响	iwld
-灯展	iabs
+灯展	ijbs
 数错	qcos
 粉妆	qkqc
 煽起	ihho
@@ -50907,7 +50907,7 @@ columns:
 馏分	xkkm
 多在	xxeu
 勿动	wcin
-狂顶	hjav
+狂顶	hjjv
 争逐	xbto
 争优	xbef
 留取	kvlb
@@ -50929,7 +50929,7 @@ columns:
 指说	fndq
 抗非	fauf
 擅闯	fatb
-顶包	avwo
+顶包	jvwo
 极处	agtu
 标下	ajjx
 本专科	aimi
@@ -50993,7 +50993,7 @@ columns:
 假腿	ebwg
 低格	ekat
 休矣	eanj
-何至	eadz
+何至	ejdz
 任取	emlb
 人微权轻	rcax
 倍添	eknf
@@ -51018,7 +51018,7 @@ columns:
 斋主	tskj
 主键	kjob
 京杭	aiaa
-误打	dlfa
+误打	dlfj
 识谱	dldq
 为非	ksuf
 禀奏	awof
@@ -51136,9 +51136,9 @@ columns:
 嚼烂	luiq
 叶尖	lgio
 哭肿	llwl
-听打	ldfa
+听打	ldfj
 中科大	lmod
-固顶	wjav
+固顶	wjjv
 连呼	xolg
 黑白不分	gdgk
 力撑	slfi
@@ -51205,7 +51205,7 @@ columns:
 抗逆	faqw
 椭球	apjf
 权倾	aben
-顶破	avvb
+顶破	jvvb
 飘满	pjns
 标间	ajtj
 村夫俗子	aoek
@@ -51408,7 +51408,7 @@ columns:
 慢工出细活	rpwn
 情切	rhxm
 情牵	rhox
-收订	wtda
+收订	wtdj
 快译	rbdb
 心脾	riwd
 烧出	ixww
@@ -51441,7 +51441,7 @@ columns:
 猜枚行令	hacr
 镜筒	okgc
 急煞	xbxb
-争顶	xbav
+争顶	xbjv
 锻模	oeas
 外引内联	xbcl
 技压群芳	fvbs
@@ -51453,10 +51453,10 @@ columns:
 撑地	fiho
 扣划	flkm
 所引	ddbu
-打对	fabh
-打叉	fabk
+打对	fjbh
+打叉	fjbk
 播客	fgit
-拦河	fqna
+拦河	fqnj
 抛妻	frgb
 垫钱	frof
 指涉	fnnp
@@ -51465,7 +51465,7 @@ columns:
 查勤	ajsi
 西电东送	pdxq
 查知	ajjl
-机顶	aeav
+机顶	aejv
 梦神	aajd
 校容	aair
 样报	aqfa
@@ -51529,7 +51529,7 @@ columns:
 褒赏	aeic
 躺平	qinq
 仵作	egeg
-打私	famn
+打私	fjmn
 禀明	awjw
 查缴	ajkd
 清库	nhmx
@@ -51544,7 +51544,7 @@ columns:
 撩逗	fofl
 守擂	ihfc
 家景	itja
-顶岗	avuc
+顶岗	jvuc
 内眷	crqo
 胶丸	wark
 印玺	kfxi
@@ -51566,7 +51566,7 @@ columns:
 芳魂	stin
 荒置	stug
 随记	pedo
-阿婶	paci
+阿婶	pjci
 孤傲不群	kegb
 除旧	pruj
 戏场	bkhy
@@ -51585,7 +51585,7 @@ columns:
 布纹	eukt
 大发脾气	owwg
 有损无益	effq
-奇香	oamj
+奇香	ojmj
 须菩提	csfj
 助困	jswa
 胆颤	wjaw
@@ -51634,7 +51634,7 @@ columns:
 唱喏	ljls
 串接	llfk
 吃惯	lgre
-哼歌	laal
+哼歌	lajl
 轻量	xbjf
 罢笔	uhgm
 囤聚	wxlb
@@ -51754,7 +51754,7 @@ columns:
 雅洁	henh
 孽情	sdrh
 取词	lbdy
-阿囡	pawc
+阿囡	pjwc
 障眼	pkjg
 防湿	ptnj
 骚气	bbgq
@@ -51839,7 +51839,7 @@ columns:
 退离	gotw
 嫁掉	cifu
 代卖	ekgy
-合订	rhda
+合订	rhdj
 登山临水	buun
 伴月	eqwy
 绑牢	kdip
@@ -51851,10 +51851,10 @@ columns:
 肩垫	hwfr
 词调	dydw
 庭外和解	mxmx
-订数	daqc
+订数	djqc
 施术	tgak
 诊查	draj
-立等可取	kgal
+立等可取	kgjl
 屯积	xwml
 委决不下	migj
 拌料	fqqi
@@ -51878,7 +51878,7 @@ columns:
 阴沟翻船	pngu
 院宅	piig
 孤子	kukz
-阿附	pape
+阿附	pjpe
 矜夸	kgof
 难咽	belw
 压纹	vhkt
@@ -51898,12 +51898,12 @@ columns:
 不敏	guge
 画瓢	fvpj
 素问	hotl
-虐打	ubfa
+虐打	ubfj
 桌底	ujmk
 学艺不精	nsgq
 泯然	nowh
 派队	ndpr
-激打	ndfa
+激打	ndfj
 当推	ibfe
 涨高	nbag
 时和年丰	jmgd
@@ -51921,7 +51921,7 @@ columns:
 必纠	rgkw
 烦腻	ivwk
 焊割	ijid
-燃灯	iwia
+燃灯	iwij
 宁夏省	ivig
 宠惯	ifre
 富比	ifnn
@@ -52020,7 +52020,7 @@ columns:
 悚惧	rarj
 昼日	bkjr
 心轴	rixd
-精奇	qhoa
+精奇	qhoj
 烟客	iwit
 断章摘句	qkfw
 割脉	idwk
@@ -52036,7 +52036,7 @@ columns:
 搭桥铺路	faop
 年高望重	gatm
 楼院	aqpi
-楼亭	aqaa
+楼亭	aqaj
 木尺	ambk
 校中	aalu
 检务	arts
@@ -52110,7 +52110,7 @@ columns:
 横纵	askr
 橘树	akab
 板画	adfv
-可望而不可及	atsg
+可望而不可及	jtsg
 入梅	krag
 头晚	iojx
 送伞	qorq
@@ -52121,7 +52121,7 @@ columns:
 绛色	ktxo
 弃于	anfh
 诛心	dpri
-订满	dans
+订满	djns
 率然	anwh
 置诸高阁	udat
 伞骨	rqrg
@@ -52190,7 +52190,7 @@ columns:
 难卜	beub
 马绍尔群岛	bkxm
 破题儿第一遭	vjws
-页顶	vcav
+页顶	vcjv
 戍卫	kkaf
 脆爽	wxos
 舀汤	udny
@@ -52250,7 +52250,7 @@ columns:
 淡食	niks
 肾部	ubkl
 喂料	lvqi
-几可	ejal
+几可	ejjl
 忌酒	ornp
 忧心如捣	rrcf
 割离	idtw
@@ -52300,7 +52300,7 @@ columns:
 对的	bhdw
 安庆市	imau
 小友	iveb
-其情可悯	urar
+其情可悯	urjr
 盛季	kymk
 幽绿	unkb
 比诸	nndh
@@ -52353,16 +52353,16 @@ columns:
 赵孟頫	hkwi
 二向箔	idgn
 通用规范汉字表	bsoh
-阿訇	pawb
-阿斗	paig
-阿飞	payi
+阿訇	pjwb
+阿斗	pjig
+阿飞	pjyi
 肥腴	wowd
 恭称	skmx
-阿曼	paju
-阿拉	pafk
-阿哥	paal
-阿姐	pacj
-阿妹	pacf
+阿曼	pjju
+阿拉	pjfk
+阿哥	pjjl
+阿姐	pjcj
+阿妹	pjcf
 惊愣	raru
 提押	fjfv
 拗劲	fnbp
@@ -52475,7 +52475,7 @@ columns:
 锤子	omkz
 鸟巢	mnlj
 踏板	pnad
-老大哥	hoal
+老大哥	hojl
 泡菜	nwsu
 前列腺	qfwd
 大麦	odht
@@ -52487,13 +52487,13 @@ columns:
 公文包	ktwo
 半边天	qsfo
 着凉	qjia
-可见光	acil
+可见光	jcil
 古琴	jgjj
 迎头赶上	kihj
 短跑	jfpw
 猝死	hafx
 传家宝	eiij
-可塑性	aqrp
+可塑性	jqrp
 雪莲	cbsx
 耳膜	lews
 行话	cidl
@@ -52617,7 +52617,7 @@ columns:
 新德里	kcvl
 学风	nxes
 强制性	bprp
-打牌	fadd
+打牌	fjdd
 方面军	tsxx
 规律性	ocrp
 责任心	heri
@@ -52639,7 +52639,7 @@ columns:
 车主	xjkj
 天井	foik
 年货	gaen
-歌唱家	alit
+歌唱家	jlit
 愈演愈烈	rnrf
 征战	cful
 走过场	hhhy
@@ -52689,7 +52689,7 @@ columns:
 花椒	seaj
 佳人	ehre
 降生	ptps
-可读性	adrp
+可读性	jdrp
 相仿	ajet
 水兵	nsdf
 恶人	lqre
@@ -52881,7 +52881,7 @@ columns:
 得益	cjqk
 禁不住	agek
 供销社	eojh
-可望	altw
+可望	jltw
 经济特区	knph
 羽毛球	vmjf
 京师	aiqf
@@ -52997,7 +52997,7 @@ columns:
 工程兵	pmdf
 引文	bute
 气团	gqwh
-冰灯	inia
+冰灯	inij
 大做文章	oetk
 生姜	psqc
 蝎子	qjkz
@@ -53044,7 +53044,7 @@ columns:
 青云	hwin
 学生证	npdf
 在行	euci
-聚光灯	liia
+聚光灯	liij
 盘古	uujg
 长吁短叹	nljl
 防腐剂	pmtk
@@ -53053,7 +53053,7 @@ columns:
 哈尼族	lbtg
 独生女	hpcn
 司仪	yfek
-叮咚	lalt
+叮咚	ljlt
 触手	xsfs
 饭堂	xdih
 拘押	fwfv
@@ -53375,7 +53375,7 @@ columns:
 寡人	ivre
 钻心	ouri
 生物钟	ppol
-顶头上司	aijy
+顶头上司	jijy
 多管闲事	xgth
 风湿病	enmf
 偿命	eira
@@ -53544,7 +53544,7 @@ columns:
 项羽	pvvv
 驴子	bhkz
 大成	odky
-不可避免	gabx
+不可避免	gjbx
 毛主席	mkms
 进场	ikhy
 平平安安	nnii
@@ -53709,7 +53709,7 @@ columns:
 天幕	fosj
 警戒线	skkf
 学部	nxkl
-河马	nabm
+河马	njbm
 辈出	uxww
 反作用	desy
 高升	aggs
@@ -53871,7 +53871,7 @@ columns:
 蝼蚁	qqqk
 知根知底	jajm
 甘休	siea
-白丁	dbad
+白丁	dbjd
 轮转	xrxi
 贫病交加	kmas
 就地正法	ahfn
@@ -53938,8 +53938,8 @@ columns:
 旁观者	abhj
 普鲁士	qxhs
 修理工	ejpg
-刘少奇	tioa
-切实可行	xiac
+刘少奇	tioj
+切实可行	xijc
 孙子兵法	kkdn
 骄阳似火	bpei
 春花	ojse
@@ -54141,7 +54141,7 @@ columns:
 劫机	hnae
 自下而上	qjsj
 相中	ajlu
-河源	nanv
+河源	njnv
 使团	efwh
 浅海	nfng
 总的说来	qddf
@@ -54278,7 +54278,7 @@ columns:
 飞渡	yinm
 蒜苗	sjsv
 山冈	uscs
-荧光灯	siia
+荧光灯	siij
 单眼皮	qjbp
 海王星	njjp
 猎户	hshh
@@ -54291,7 +54291,7 @@ columns:
 华盖	enqu
 绕圈子	kwkz
 洪福	nsjf
-尼古丁	bjad
+尼古丁	bjjd
 偏食	ehks
 拼死拼活	fffn
 使坏	efhg
@@ -54355,7 +54355,7 @@ columns:
 龙行虎步	fcup
 通俗易懂	bejr
 证据确凿	dfvi
-触手可及	xfag
+触手可及	xfjg
 漫天要价	nfpe
 动荡不安	isgi
 大快朵颐	oreh
@@ -54456,11 +54456,11 @@ columns:
 不利于	gmfh
 豆腐脑	fmwt
 尘埃落定	ihsi
-流行歌曲	ncac
+流行歌曲	ncjc
 电容器	dill
 听听	ldld
 黑山	ghus
-密不可分	igak
+密不可分	igjk
 安全性	irrp
 神经系统	jkgk
 久经考验	xkhb
@@ -54522,7 +54522,7 @@ columns:
 先人	pwre
 人民公社	rokj
 结核病	kamf
-可不是	agjf
+可不是	jgjf
 初二	xmir
 电气化	dgen
 评点	dnul
@@ -54531,7 +54531,7 @@ columns:
 怔怔	rfrf
 镯子	oukz
 奋发有为	owek
-可可	alal
+可可	jljl
 原则性	vcrp
 以西	ekpx
 生根	psag
@@ -54642,14 +54642,14 @@ columns:
 干净利落	nims
 水坑	nsha
 领情	rkrh
-打头	faio
+打头	fjio
 大吉	odhl
 定购	ifcw
 蒲扇	snhv
 指挥棒	ffao
 侧重点	emul
 倚靠	eopl
-主题歌	kjal
+主题歌	kjjl
 动气	ingq
 委托书	mfyy
 袖章	xdkj
@@ -54761,7 +54761,7 @@ columns:
 为民请命	kodr
 闲钱	taof
 集大成	eoky
-沙丁鱼	naxv
+沙丁鱼	njxv
 毛裤	mmxm
 孽种	sdml
 贱人	cfre
@@ -54772,7 +54772,7 @@ columns:
 薄饼	snxq
 牵引力	obsl
 夜明珠	ajjp
-可人	alre
+可人	jlre
 启明星	hjjp
 视神经	jjkb
 双关语	bqdf
@@ -54780,7 +54780,7 @@ columns:
 丢丑	mnbc
 剑侠	rfeo
 落地窗	shid
-灯彩	iaua
+灯彩	ijua
 多嘴多舌	xlxl
 干瞪眼	njjg
 年事	gahl
@@ -54863,7 +54863,7 @@ columns:
 薪尽火传	sbie
 不露锋芒	gcos
 爱钱如命	uocr
-顶牛	avpn
+顶牛	jvpn
 基辅	uhxn
 散兵	swdf
 蓦然回首	swwq
@@ -54964,7 +54964,7 @@ columns:
 游走	nthz
 汉语拼音	ndfk
 国防部长	wpkn
-财政厅	cfva
+财政厅	cfvj
 屋里	bdvl
 初见成效	xcka
 农业部	xikl
@@ -55206,7 +55206,7 @@ columns:
 派发	ndwb
 附会	peri
 花鼓戏	shbk
-指示灯	fjia
+指示灯	fjij
 合二为一	rikf
 蓖麻	sdma
 神经错乱	jkol
@@ -55269,14 +55269,14 @@ columns:
 风雪交加	ecas
 孩子王	kkjw
 蜂王浆	qjqx
-水银灯	noia
+水银灯	noij
 头角	ioxs
 哑巴亏	lofh
 反咬一口	dlfl
 中间派	ltnd
 靠垫	plfr
 衬裤	xhxm
-光可鉴人	iaur
+光可鉴人	ijur
 倒班	edjq
 耳背	leqn
 不知就里	gjav
@@ -55346,7 +55346,7 @@ columns:
 专案组	iikj
 二等奖	igqx
 都灵	hjbi
-不可不	gagu
+不可不	gjgu
 不念旧恶	grul
 武侠小说	feid
 步长	pinc
@@ -55355,7 +55355,7 @@ columns:
 江泽民	nnox
 洞察力	nisl
 光是	iljf
-渣打	nafa
+渣打	nafj
 号召力	lmsl
 发起人	whre
 安拉	icfk
@@ -55395,7 +55395,7 @@ columns:
 天时地利	fjhm
 残障	fxpk
 战神	uljd
-济宁	ntia
+济宁	ntij
 贵国	ljwj
 跪倒	pxed
 墨子	ghkz
@@ -55438,7 +55438,7 @@ columns:
 黄土高原	shav
 工程学	pmnx
 出厂价	wver
-随处可见	ptac
+随处可见	ptjc
 难以忘怀	betr
 大虫	odqc
 砖墙	vihg
@@ -55511,7 +55511,7 @@ columns:
 杆子	ankz
 建筑业	bgie
 主要矛盾	kpkd
-可不	algu
+可不	jlgu
 过大	hood
 原则上	vcjv
 信教	ebhk
@@ -55870,8 +55870,8 @@ columns:
 凤冠霞帔	excu
 大恩大德	owoc
 冷眼相待	ijac
-绝顶聪明	kalj
-只可意会	lakr
+绝顶聪明	kjlj
+只可意会	ljkr
 身无长物	qfnp
 废话连篇	mdxg
 惠而不费	dsgb
@@ -55922,7 +55922,7 @@ columns:
 发了	wbke
 摄制组	fpkj
 李鹏	akww
-哥本哈根	aala
+哥本哈根	jala
 奥斯陆	dupa
 闯过	tbho
 头一回	ifwl
@@ -55973,7 +55973,7 @@ columns:
 礼盒	jeru
 包钢	wooc
 多远	xxfl
-猛打	hkfa
+猛打	hkfj
 看开	fjfs
 搬到	fudm
 横流	asna
@@ -56065,7 +56065,7 @@ columns:
 高效率	aaan
 讨论会	ddri
 人人	rere
-可以说	aedq
+可以说	jedq
 成员国	klwj
 指挥部	ffkl
 年年	gaga
@@ -56098,7 +56098,7 @@ columns:
 化学武器	enfl
 归功于	qpfh
 出租汽车	wmnx
-河面	nasm
+河面	njsm
 一朝	figj
 育才	anhg
 躬身	qbqs
@@ -56139,7 +56139,7 @@ columns:
 原动力	visl
 野狗	vkhw
 运输机	ixae
-河套	naou
+河套	njou
 分权	kmab
 初四	xmww
 重读	mvdg
@@ -56175,7 +56175,7 @@ columns:
 土语	htdf
 抚弄	ffjs
 下坡	jxhb
-电话亭	ddaa
+电话亭	ddaj
 印度教	kmhk
 培土	hkht
 沙洲	ninn
@@ -56323,7 +56323,7 @@ columns:
 大舅子	odkz
 盗卖	ixgy
 快嘴	rblp
-人丁兴旺	ranj
+人丁兴旺	rjnj
 北极光	qail
 汗珠子	njkz
 进深	iknx
@@ -56457,7 +56457,7 @@ columns:
 撒切尔	fxxi
 批评家	fdit
 相去无几	ahfe
-可使	alef
+可使	jlef
 札幌	aeuj
 舰炮	uciw
 行政院	cfpi
@@ -56497,7 +56497,7 @@ columns:
 不容忽视	giwj
 县令	jnrk
 土墙	hthg
-未尝不可	figa
+未尝不可	figj
 雷鸟	cvmn
 无异于	fofh
 场上	hyjv
@@ -56533,7 +56533,7 @@ columns:
 飘飘	pjpj
 本想	afaj
 想哭	ajll
-长宁	ncia
+长宁	ncij
 知事	jlhl
 牛腩	pnwg
 重活	mvnl
@@ -56560,7 +56560,7 @@ columns:
 聚氯乙烯	lgyi
 也就是	oajf
 参政议政	nfdf
-马丁	bmad
+马丁	bmjd
 大屏幕	obsj
 戴上	gkjv
 真棒	gjao
@@ -56624,7 +56624,7 @@ columns:
 人寿保险	rdep
 登天	bffo
 分理处	kjtu
-公安厅	kiva
+公安厅	kivj
 弥足珍贵	bpjl
 绿色植物	kxap
 组织者	kkhj
@@ -56742,7 +56742,7 @@ columns:
 三弦	laba
 荷塘	sehm
 无缺	ffjb
-放歌	ttal
+放歌	ttjl
 太古	okjg
 单兵	qjdf
 笤帚	gmbx
@@ -56919,7 +56919,7 @@ columns:
 榛子	aokz
 美人蕉	qrse
 蘑菇云	ssin
-小可	ival
+小可	ivjl
 猪蹄	hhpa
 课间操	dtfl
 咋呼	lglg
@@ -57035,13 +57035,13 @@ columns:
 别无长物	lfnp
 晓行夜宿	jcai
 行房	ciht
-不可忽视	gawj
+不可忽视	gjwj
 公平合理	knrj
 摸不着头脑	fgqw
 一针一线	fofk
 谆谆教导	ddho
 为国为民	kwko
-寥寥可数	iiaq
+寥寥可数	iijq
 男女有别	vcel
 魔高一尺	mafb
 功名利禄	pxmj
@@ -57077,7 +57077,7 @@ columns:
 楼花	aqse
 斯巴达	uooo
 苦参	sjno
-切不可	xgal
+切不可	xgjl
 东线	xikf
 黄白	sddb
 蒙上	sxjv
@@ -57114,7 +57114,7 @@ columns:
 五笔字型	fgif
 不经一事	gkfh
 眼不见	jgcj
-卡拉奇	jfoa
+卡拉奇	jfoj
 济南市	ngau
 小村	ivah
 汽油机	nnae
@@ -57217,11 +57217,11 @@ columns:
 挥之不去	fogh
 擦汗	finn
 按着	fiqj
-打水	fans
+打水	fjns
 捕头	fnio
-打人	fare
+打人	fjre
 飘泊	pjnd
-丁字	adik
+丁字	jdik
 梧州	afnl
 木床	amma
 短剑	jfrf
@@ -57244,7 +57244,7 @@ columns:
 低效	ekak
 分枝	kmag
 停手	eafs
-红河	kpna
+红河	kpnj
 试着	dkqj
 刘备	tmtv
 高三	agla
@@ -57275,7 +57275,7 @@ columns:
 勃勃生机	ggpa
 二次	irix
 越大	hkod
-无可	ffal
+无可	ffjl
 无机化学	faen
 武学	fknx
 吞下	fojx
@@ -57328,7 +57328,7 @@ columns:
 拉起	fkho
 配饰	poxg
 林芝	aaso
-机顶盒	aaru
+机顶盒	ajru
 很难说	cbdq
 移动硬盘	mivu
 算算	gjgj
@@ -57336,7 +57336,7 @@ columns:
 梨子	mmkz
 特别是	pljf
 向南	dxgc
-很可能	canw
+很可能	cjnw
 各部门	tktm
 牧羊人	pqre
 等价交换	geaf
@@ -57465,7 +57465,7 @@ columns:
 御医	cghj
 五帝	fbaq
 封疆	hhbh
-开绿灯	fkia
+开绿灯	fkij
 临了	ugke
 惊涛	rand
 摩托艇	mfum
@@ -57587,7 +57587,7 @@ columns:
 滋补品	nxll
 怒号	cblh
 指甲油	fvnd
-不可知论	gajd
+不可知论	gjjd
 步话机	pdae
 电锯	ddob
 鸡毛信	bmeb
@@ -57653,7 +57653,7 @@ columns:
 外存	xueu
 赌窝	chil
 验钞机	boae
-余勇可贾	rbap
+余勇可贾	rbjp
 电磁炉	dvih
 棉毛衫	amxc
 收银台	wonl
@@ -57765,7 +57765,7 @@ columns:
 斤斗	djig
 播放器	ftll
 极板	agad
-丁丑	adbc
+丁丑	jdbc
 本报讯	afdy
 德比	cgnn
 第一步	gfpi
@@ -57893,7 +57893,7 @@ columns:
 低吟	eklr
 风神	esjd
 爸妈	kscb
-何为	eaks
+何为	ejks
 几位	ejek
 伴儿	eqwr
 邻村	rkah
@@ -57932,7 +57932,7 @@ columns:
 教学楼	hnaq
 无性	ffrp
 都是	hjjf
-教育厅	hava
+教育厅	havj
 南京路	gapt
 天师	foqf
 不确定性	gvir
@@ -57947,7 +57947,7 @@ columns:
 恶补	lqxu
 不然的话	gwdd
 开拓者	ffhj
-不可否认	gagd
+不可否认	gjgd
 两极分化	fake
 不稳定	gmif
 副总裁	fqgk
@@ -57997,7 +57997,7 @@ columns:
 拉回	fkwl
 拉车	fkxj
 操作员	felc
-歌德	alcg
+歌德	jlcg
 西门子	ptkz
 机关干部	aqnk
 第三方	gltf
@@ -58226,7 +58226,7 @@ columns:
 注目礼	njje
 舟桥	uoam
 飞地	yiho
-开打	fsfa
+开打	fsfj
 小百货	iven
 珠帘	jpiu
 昧心	jfri
@@ -58326,7 +58326,7 @@ columns:
 心中有鬼	rled
 一笔抹杀	fgfs
 嘴甜	lpls
-打闪	fatr
+打闪	fjtr
 空口	iplv
 秘本	mraf
 译制片	dpdp
@@ -58550,7 +58550,7 @@ columns:
 清远	nhfl
 举着	nkqj
 湿透	njmg
-漯河	nvna
+漯河	nvnj
 洞烛其奸	niuc
 泡泡	nwnw
 没空	neip
@@ -58593,7 +58593,7 @@ columns:
 所为	ddks
 探底	fxmk
 抓阄	futx
-打烂	faiq
+打烂	fjiq
 撞死	fkfx
 抢断	frqe
 摔坏	fahg
@@ -58635,7 +58635,7 @@ columns:
 藏在	skeu
 某一	sifi
 基本国策	uawg
-卫生厅	apva
+卫生厅	apvj
 出问题	wtjf
 阶段性	perp
 又一次	bfix
@@ -58733,7 +58733,7 @@ columns:
 白白胖胖	ddww
 西城区	phhs
 档案室	aiid
-可视化	ajen
+可视化	jjen
 楚辞	aalk
 本单位	aqek
 长时间	njtj
@@ -58815,7 +58815,7 @@ columns:
 茉莉花	ssse
 射入	qhkr
 岩画	uvfv
-可控	alfi
+可控	jlfi
 力主	slkj
 赏花	icse
 搭话	fsdl
@@ -58847,7 +58847,7 @@ columns:
 表演赛	hnis
 苦口	sjlv
 体征	eacf
-打更	fafj
+打更	fjfj
 复式	gjkp
 从艺	rrsy
 小心眼儿	irjw
@@ -58855,7 +58855,7 @@ columns:
 别论	lsdr
 金贵	tjlj
 火力发电	iswd
-称奇	mxoa
+称奇	mxoj
 越野赛	hvis
 大年三十	oglg
 经验主义	kbkk
@@ -58886,7 +58886,7 @@ columns:
 作践	egpf
 孬种	gcml
 习得	vxcj
-打鼾	faqv
+打鼾	fjqv
 飘拂	pjfb
 三下五除二	ljfi
 闲居	tabj
@@ -58894,7 +58894,7 @@ columns:
 屋宇	bdif
 压垮	vhho
 肥胖症	wwmf
-一丁点儿	fauw
+一丁点儿	fjuw
 重拳	mvqo
 流变	natb
 马刀	bmmd
@@ -58959,7 +58959,7 @@ columns:
 乱弹琴	lbjj
 瓶瓶罐罐	qqjj
 熟地	akho
-无可指责	fafh
+无可指责	fjfh
 遗稿	ljma
 下品	jxll
 血液病	gnmf
@@ -59115,7 +59115,7 @@ columns:
 散了	swke
 莱特	sfph
 或用	klsy
-营业厅	siva
+营业厅	sivj
 劳拉	sxfk
 擎天	swfo
 子孙万代	kkfe
@@ -59124,7 +59124,7 @@ columns:
 也别	oels
 也挺	oefm
 也称	oemx
-阿诺	pads
+阿诺	pjds
 耳鼻喉科	lqlm
 孔繁森	kgaa
 耳闻目见	ltjc
@@ -59192,10 +59192,10 @@ columns:
 摇身	fuqs
 乒坛	dfhi
 年近	gado
-打过	faho
-丁卯	adkm
+打过	fjho
+丁卯	jdkm
 梦游症	anmf
-可向	aldx
+可向	jldx
 算了吧	gklo
 盘根	uuag
 特洛伊	pneb
@@ -59210,7 +59210,7 @@ columns:
 问心有愧	trer
 北京城	qahk
 即用	bnsy
-那可	yaal
+那可	yajl
 灵妙	bici
 借了	eske
 候机室	eaid
@@ -59312,7 +59312,7 @@ columns:
 写着	xhqj
 家住	itek
 官人	ibre
-宁德	iacg
+宁德	ijcg
 被骗	xbbh
 实拍	iifd
 补语	xudf
@@ -59344,7 +59344,7 @@ columns:
 抢钱	frof
 指路	fnpt
 杯中	aglu
-顶着	avqj
+顶着	jvqj
 杜牧	ahpt
 覆雨翻云	pcgi
 西路	pxpt
@@ -59449,7 +59449,7 @@ columns:
 法线	nhkf
 小花	ivse
 波导	nboh
-沙河	nina
+沙河	ninj
 满江红	nnkp
 光明日报	ijjf
 泼水	nwns
@@ -59484,7 +59484,7 @@ columns:
 看得	fjcj
 白羊	dbqy
 手提袋	ffek
-打着	faqj
+打着	fjqj
 桂阳	ahpj
 柳江	aknp
 舰长	ucnc
@@ -59564,7 +59564,7 @@ columns:
 盖房	quht
 民智	oxjl
 注水	nkns
-登顶	bfav
+登顶	bfjv
 第一产业	gfki
 贴心人	crre
 旗人	tgre
@@ -59665,7 +59665,7 @@ columns:
 再三再四	jljw
 处子	tukz
 寸步不让	hpgd
-苦丁茶	sasr
+苦丁茶	sjsr
 颂词	kndy
 唯心史观	lrlb
 洗发水	nwns
@@ -59688,7 +59688,7 @@ columns:
 珊瑚岛	jjmu
 拖船	fgue
 根瘤	agmk
-呵责	lahc
+呵责	ljhc
 京族	aitg
 宽银幕	iosj
 拳手	qofs
@@ -59733,7 +59733,7 @@ columns:
 指证	fndf
 八字步	kipi
 哭腔	llwi
-落地灯	shia
+落地灯	shij
 坑口	halv
 软硬不吃	xvgl
 藤子	swkz
@@ -59771,7 +59771,7 @@ columns:
 喜联	hllq
 赤地千里	hhmv
 宵衣旰食	iajk
-无可讳言	fadb
+无可讳言	fjdb
 走眼	hzjg
 病句	mfwl
 命门	ratm
@@ -59799,7 +59799,7 @@ columns:
 腓骨	wurg
 坤表	hdhg
 群言堂	bbih
-小苏打	isfa
+小苏打	isfj
 害人虫	irqc
 一无所求	ffdf
 滚刀肉	nmcr
@@ -59809,7 +59809,7 @@ columns:
 放眼世界	tjsv
 天时地利人和	fjhm
 舟车劳顿	uxsx
-不可抗拒	gaff
+不可抗拒	gjff
 素未谋面	hfds
 崎岖不平	uugn
 树欲静而风不止	akhp
@@ -59959,7 +59959,7 @@ columns:
 机动性	airp
 李嘉诚	ahdk
 机师	aeqf
-可以攻玉	aepj
+可以攻玉	jepj
 徐志摩	chmf
 笛卡尔	gjxi
 特稿	phma
@@ -59975,7 +59975,7 @@ columns:
 保皇派	ednd
 伯恩	edwo
 侨办	emsk
-伊宁	ebia
+伊宁	ebij
 坐过	rrho
 坐困	rrwa
 偏不	ehgu
@@ -60031,7 +60031,7 @@ columns:
 小树	ivab
 学妹	nxcf
 滨州	ninl
-河西	napx
+河西	njpx
 湘西	napx
 海神	ngjd
 沧浪	nrnk
@@ -60079,14 +60079,14 @@ columns:
 兵部	dfkl
 抗性	farp
 想笑	ajgm
-可当	alib
+可当	jlib
 乱流	lena
 等边	ghso
 德军	cgxx
 先手	pwfs
 重置	mvug
 生米	psqm
-重打	mvfa
+重打	mvfj
 迭代	goek
 重做	mvej
 秒杀	misa
@@ -60133,7 +60133,7 @@ columns:
 莫说	sjdq
 巨蟒	hbqs
 基本原则	uavc
-斯德哥尔摩	ucam
+斯德哥尔摩	ucjm
 切身利益	xqmq
 工商银行	paoc
 孤男寡女	kvic
@@ -60207,8 +60207,8 @@ columns:
 卡门	jutm
 占了	ulke
 睡吧	jmlo
-漠河	nsna
-清河	nhna
+漠河	nsnj
+清河	nhnj
 小嘴	ivlp
 小鸭	ivvm
 尚在	iseu
@@ -60264,7 +60264,7 @@ columns:
 气象局	gxby
 手拉手	fffs
 白手	dbfs
-打起	faho
+打起	fjho
 批处理	ftjv
 看得见	fccj
 拉下	fkjx
@@ -60273,7 +60273,7 @@ columns:
 李明	akjw
 酸酸	pnpn
 西行	pxci
-顶不住	agek
+顶不住	jgek
 想用	ajsy
 想听	ajld
 根目录	ajbn
@@ -60335,7 +60335,7 @@ columns:
 谁要	depc
 言传	byei
 平等互利	ngfm
-可操作性	afer
+可操作性	jfer
 不实	guii
 灌区	nshs
 六一	akfi
@@ -60348,7 +60348,7 @@ columns:
 实感	iikf
 责任状	heqh
 不依	guea
-煤油灯	inia
+煤油灯	inij
 绿色食品	kxkl
 得人心	crri
 皇城	djhk
@@ -60398,7 +60398,7 @@ columns:
 本位主义	aekk
 自视	qijc
 警报器	sfll
-内陆河	cpna
+内陆河	cpnj
 白鳍豚	dxwt
 北疆	qnbh
 老资格	hiat
@@ -60457,7 +60457,7 @@ columns:
 禅学	jqnx
 螺旋体	qtea
 簪子	ghkz
-沉疴	nxma
+沉疴	nxmj
 听其自然	luqw
 指靠	fnpl
 荷载	segk
@@ -60507,7 +60507,7 @@ columns:
 快当	rbib
 钱柜	ofah
 伟绩	eakh
-短打	jffa
+短打	jffj
 累年	voga
 破网	vbcs
 权杖	abae
@@ -60692,7 +60692,7 @@ columns:
 齿条	prta
 港区	nshs
 灌录	nsbn
-游戏厅	nbva
+游戏厅	nbvj
 党政军	ifxx
 混帐	njun
 滑过	nrho
@@ -60729,9 +60729,9 @@ columns:
 反转片	dxdp
 扬名天下	fxfj
 抢过	frho
-丁玲	adjr
+丁玲	jdjr
 查过	ajho
-柯达	aaoo
+柯达	ajoo
 格拉	atfk
 李登辉	abil
 私德	mncg
@@ -60765,7 +60765,7 @@ columns:
 施瓦辛格	trka
 库恩	mxwo
 高过	agho
-谈何	diea
+谈何	diej
 高官显爵	aiju
 这叫	tolw
 这身	toqs
@@ -60782,7 +60782,7 @@ columns:
 大佬	odeh
 压电	vhdd
 三金	latj
-奇门	oatm
+奇门	ojtm
 磁能	vqnw
 肥牛	wopn
 加满	slns
@@ -60857,7 +60857,7 @@ columns:
 所料	ddqi
 抱有	fwew
 抓人	fure
-打鱼	faxv
+打鱼	fjxv
 撞到	fkdm
 接引	fkbu
 指着	fnqj
@@ -60984,7 +60984,7 @@ columns:
 晋江	lqnp
 来呀	fqlh
 碧水	jdns
-还可以	gaek
+还可以	gjek
 不等于	ggfh
 副处长	ftnc
 不值得	gecj
@@ -61113,7 +61113,7 @@ columns:
 比较好	nxck
 纽曼	kbju
 经久耐用	kxss
-张宁	bnia
+张宁	bnij
 良苦用心	kssr
 应用于	msfh
 主干道	knqq
@@ -61171,7 +61171,7 @@ columns:
 保守主义	eikk
 中转站	lxku
 反超	dbhm
-节能灯	snia
+节能灯	snij
 兔崽子	xukz
 中和	luml
 田赋	vtcf
@@ -61218,7 +61218,7 @@ columns:
 钱款	ofhj
 谈兴	dink
 不虞	guul
-河渠	nanh
+河渠	njnh
 火烧云	iiin
 间架	tjsl
 唬人	lure
@@ -61324,7 +61324,7 @@ columns:
 盲棋	tjau
 水蛇腰	nqwp
 抽缩	fdki
-极顶	agav
+极顶	agjv
 间苗	tjsv
 金橘	tjak
 叙别	rfls
@@ -61460,7 +61460,7 @@ columns:
 嘉年华	hgen
 雪佛兰	ceqi
 博施济众	gtnr
-无言可对	fbab
+无言可对	fbjb
 表笔	hggm
 一元	fifl
 王小波	jinb
@@ -61498,7 +61498,7 @@ columns:
 心不烦	rgiv
 性知识	rjdl
 烂尾楼	ibaq
-灯语	iadf
+灯语	ijdf
 寒武纪	ifko
 安枕	icax
 它用	insy
@@ -61517,8 +61517,8 @@ columns:
 氯苯	gbsa
 魁北克	dqjw
 本真	afgj
-可数	alqc
-可将	alqx
+可数	jlqc
+可将	jlqx
 查尔顿	axxw
 格林	ataa
 先验论	pbdr
@@ -61667,9 +61667,9 @@ columns:
 棚车	awxj
 本区	afhs
 相救	ajfn
-歌王	aljw
+歌王	jljw
 整晚	aljx
-可循	alcd
+可循	jlcd
 速录	albn
 要去	pchn
 彼时	cbjh
@@ -61679,7 +61679,7 @@ columns:
 靠前	plqw
 处级	tukg
 稍好	mick
-射灯	qhia
+射灯	qhij
 躺着	qiqj
 向善	dxqq
 乐果	kija
@@ -61717,7 +61717,7 @@ columns:
 裹住	ajek
 词尾	dybm
 亳州	agnl
-订房	daht
+订房	djht
 方知	tfjl
 斯基	uduh
 莱茵	sfsw
@@ -61727,11 +61727,11 @@ columns:
 花样年华	sage
 花城	sehk
 花旗银行	stoc
-聪明绝顶	ljka
+聪明绝顶	ljkj
 阿凡提	pefj
 也被	oexb
 也为	oeks
-阿拉丁	pfad
+阿拉丁	pfjd
 除此	prpn
 双城	bbhk
 鸡同鸭讲	bcvd
@@ -61773,7 +61773,7 @@ columns:
 致伤	dteg
 互帮互助	fdfj
 天心	fori
-不大可能	goan
+不大可能	gojn
 天龙八部	ffkk
 青青	hwhw
 靓妹	hwcf
@@ -61810,7 +61810,7 @@ columns:
 浙江大学	nnon
 法国人	nwre
 注册码	nwvb
-沿河	nena
+沿河	nenj
 沁阳	nrpj
 浣熊	ninw
 深得	nxcj
@@ -61860,7 +61860,7 @@ columns:
 牛头	pnio
 擦去	fihn
 抱抱	fwfw
-的哥	dwal
+的哥	dwjl
 白塔	dbhs
 手提电脑	ffdw
 势单力薄	fqss
@@ -61933,7 +61933,7 @@ columns:
 市场价	aher
 请于	dhfh
 魔法师	mnqf
-就可	aial
+就可	aijl
 请注意	dnkj
 文学作品	tnel
 永丰	kndf
@@ -61953,7 +61953,7 @@ columns:
 责任书	heyy
 冠军赛	xxis
 网络游戏	cknb
-打黑	fagh
+打黑	fjgh
 送电	qodd
 新老交替	khao
 内资	crix
@@ -62132,7 +62132,7 @@ columns:
 出脱	wwwq
 灌制	nspc
 偶一为之	efko
-添丁	nfad
+添丁	nfjd
 羊毫	qyam
 插条	fmta
 海獭	ngha
@@ -62219,7 +62219,7 @@ columns:
 防民之口	pool
 安家乐业	iiki
 无敌于天下	flfj
-不知其可	gjua
+不知其可	gjuj
 甘居人后	sbrd
 瞠乎其后	jgud
 易地而处	jhst
@@ -62275,14 +62275,14 @@ columns:
 天哪	foly
 表姑	hgcj
 一岁	fiux
-亚平宁	lnia
+亚平宁	lnij
 画虎类犬	fuqh
 王国维	jwke
 瑞星	jujp
 五内如焚	fcca
-不可向迩	gadx
+不可向迩	gjdx
 一等品	fgll
-不识一丁	gdfa
+不识一丁	gdfj
 玉佛	jkeb
 上虞	jvul
 上举	jvnk
@@ -62401,9 +62401,9 @@ columns:
 计将安出	dqiw
 郎舅	kbdv
 谁不	degu
-七台河	xnna
+七台河	xnnj
 菜子	sukz
-苏宁	ssia
+苏宁	ssij
 莱阳	sfpj
 七点	xiul
 东夷	xiob
@@ -62431,7 +62431,7 @@ columns:
 厚颜	vjkg
 大富大贵	oiol
 威迫利诱	kdmd
-不可缺少	gaji
+不可缺少	gjji
 不离不弃	gtga
 太师	okqf
 胰岛	womu
@@ -62459,7 +62459,7 @@ columns:
 一文	fite
 一派胡言	fnjb
 死前	fxqw
-盯人	jare
+盯人	jjre
 清零	nhcr
 学了	nxke
 常乐	iuki
@@ -62531,13 +62531,13 @@ columns:
 标配	ajpo
 西游	pxnt
 想得	ajcj
-歌儿	alwr
-哥俩	alef
+歌儿	jlwr
+哥俩	jlef
 赖以生存	aepe
 柏杨	aday
 要按	pcfi
 短款	jfhj
-乱打	lefa
+乱打	lefj
 行不行	cgci
 待见	chcj
 缺钱	jbof
@@ -62674,7 +62674,7 @@ columns:
 一个字	frik
 一分钟	fkol
 玉环	jkjg
-卡丁车	jaxj
+卡丁车	jjxj
 紫衣	pnag
 江海	npng
 江中	nplu
@@ -62761,12 +62761,12 @@ columns:
 搞出	faww
 李敖	akhw
 李四	akww
-可能会	anri
+可能会	jnri
 醉拳	paqo
 酸化	pnen
 想些	ajpn
-可在	aleu
-可他	aleo
+可在	jleu
+可他	jleo
 机台	aenl
 楚留香	akmj
 机构改革	aaos
@@ -62816,7 +62816,7 @@ columns:
 建有	baew
 那股	yawe
 那副	yafl
-建宁	baia
+建宁	baij
 好学生	cnps
 好几次	ceix
 群号	bglh
@@ -62851,7 +62851,7 @@ columns:
 谜题	dqjf
 郭富城	aihk
 这辆	toxf
-这可	toal
+这可	tojl
 主要是	kpjf
 谁呀	delh
 为人民服务	krot
@@ -62881,7 +62881,7 @@ columns:
 整版	aldd
 所部	ddkl
 自然美	qwqo
-茶亭	sraa
+茶亭	sraj
 中耕	ludk
 相送	ajqo
 夜饭	aexd
@@ -62937,7 +62937,7 @@ columns:
 保票	elpj
 童车	kvxj
 应否	mngl
-打伞	farq
+打伞	fjrq
 礼拜堂	jfih
 契税	dmmq
 空竹	ipgz
@@ -62951,7 +62951,7 @@ columns:
 蒜薹	sjsh
 大数	odqc
 隐逸	pxxl
-打制	fapc
+打制	fjpc
 瞎火	jiih
 底漆	mkna
 合金钢	rtoc
@@ -63018,7 +63018,7 @@ columns:
 追本溯源	dann
 皇储	djed
 寄售	ioel
-歌诀	aldb
+歌诀	jldb
 誊清	qonh
 戡乱	uele
 扑粉	fuqk
@@ -63026,7 +63026,7 @@ columns:
 权门	abtm
 水警	nssw
 洗面奶	nscg
-拉丁舞	fags
+拉丁舞	fjgs
 名讳	xlda
 撒赖	fsal
 生土	psht
@@ -63052,7 +63052,7 @@ columns:
 圆领衫	wrxc
 占山为王	uukj
 抻面	fdsm
-吊打	lufa
+吊打	lufj
 奉赠	oacq
 寿面	dhsm
 疏理	ypjv
@@ -63285,7 +63285,7 @@ columns:
 橙黄橘绿	asak
 配平	ponq
 李洪志	anhr
-丁是丁	ajad
+丁是丁	jjjd
 西柏坡	pahb
 长活	ncnl
 称臣纳贡	mhkp
@@ -63411,7 +63411,7 @@ columns:
 咬破	lavb
 咩咩	lqlq
 啸叫	lblw
-只可	lkal
+只可	lkjl
 车斗	xjig
 鸭掌	vmif
 略高	vtag
@@ -63430,7 +63430,7 @@ columns:
 精虫	qhqc
 精减	qhik
 爆头	ijio
-灯心	iari
+灯心	ijri
 摩羯	mfqj
 数秒	qcmi
 米芾	qmsf
@@ -63468,7 +63468,7 @@ columns:
 飘着	pjqj
 西沙	pxni
 本店	afmu
-丁烷	adii
+丁烷	jdii
 相求	ajfn
 相减	ajik
 速食	alks
@@ -63509,7 +63509,7 @@ columns:
 使你	efex
 但她	ejco
 风大	esod
-何求	eafn
+何求	ejfn
 侨界	emvr
 凡此	ekpn
 强电	bldd
@@ -63537,7 +63537,7 @@ columns:
 陈氏	pxkx
 阿迪达斯	pdou
 也够	oewl
-阿宝	paij
+阿宝	pjij
 降魔	ptmd
 双节棍	bsaj
 又在	boeu
@@ -63684,7 +63684,7 @@ columns:
 之身	ozqs
 之作	ozeg
 之比	oznn
-宁海	iang
+宁海	ijng
 宽衣解带	iaxs
 神剑	jdrf
 视讯	jcdy
@@ -63704,12 +63704,12 @@ columns:
 所困	ddwa
 控制面板	fpsa
 白沙	dbni
-打错	faos
+打错	fjos
 挺有	fmew
 打麻将	fmqx
 本专业	aiie
 西单	pxqj
-可按	alfi
+可按	jlfi
 想办法	asnh
 机械厂	aavh
 彬彬	aaaa
@@ -63763,7 +63763,7 @@ columns:
 借此机会	epar
 你也	exoe
 您的	exdw
-创可贴	racu
+创可贴	rjcu
 八年	kaga
 八次	kaix
 八九	karj
@@ -63783,7 +63783,7 @@ columns:
 高品质	aldg
 褒贬不一	acgf
 市局	auby
-永宁	knia
+永宁	knij
 亮起	aeho
 这只	tolk
 这口	tolv
@@ -63830,7 +63830,7 @@ columns:
 赤卫队	hapr
 感慨万端	krfk
 自由体操	qdef
-警灯	swia
+警灯	swij
 相邀	ajdt
 被面	xbsm
 天晓得	fjcj
@@ -63854,7 +63854,7 @@ columns:
 淡水鱼	nnxv
 殿后	bsdf
 归纳法	qknh
-河槽	naas
+河槽	njas
 裂化	fxen
 京胡	aijw
 紫竹	pngz
@@ -63914,7 +63914,7 @@ columns:
 品目	lljm
 歃血	mdgu
 赞佩	pwee
-奇珍	oajr
+奇珍	ojjr
 俏货	eien
 意见簿	kcgn
 影印本	jkaf
@@ -64010,7 +64010,7 @@ columns:
 鸡犬相闻	bhat
 骄慢	bmrj
 招眼	fmjg
-打样	faaq
+打样	fjaq
 卷帘门	qitm
 套衫	ouxc
 不蔓不枝	gsga
@@ -64018,7 +64018,7 @@ columns:
 具文	jkte
 来件	fqep
 稳便	mxef
-打钩	faow
+打钩	fjow
 贡奉	pcoa
 挂斗	fhig
 疾风骤雨	mebc
@@ -64177,11 +64177,11 @@ columns:
 摆桌	fuuj
 投以	feek
 势穷力竭	fisk
-打叠	fabb
+打叠	fjbb
 拂过	fbho
 挤对	ftbh
 护封	fhhh
-歌台舞榭	anga
+歌台舞榭	jnga
 配曲	pocs
 杨尚昆	aijn
 杯酒言欢	anbb
@@ -64217,7 +64217,7 @@ columns:
 仔畜	ekan
 信用证	esdf
 传过	eiho
-依违两可	eafa
+依违两可	eafj
 保监会	euri
 保长	elnc
 侧线	eckf
@@ -64295,8 +64295,8 @@ columns:
 满了	nske
 滑盖	nrqu
 漏嘴	nblp
-堂哥	ihal
-河图	nawt
+堂哥	ihjl
+河图	njwt
 憋着	quqj
 没味	nelf
 流着	naqj
@@ -64351,9 +64351,9 @@ columns:
 模版	asdd
 梭哈	anlr
 本品	afll
-酩酊	pxpa
+酩酊	pxpj
 想死	ajfx
-可塑	alqw
+可塑	jlqw
 赖着	alqj
 榨汁	aing
 禁酒	aanp
@@ -64391,7 +64391,7 @@ columns:
 傻冒	edci
 伊甸	ebwv
 贫道	kmqq
-从何	rrea
+从何	rrej
 众位	rrek
 集萃	easa
 今春	rkoj
@@ -64413,9 +64413,9 @@ columns:
 苍南	srgc
 取水	lbns
 阿玛尼	pjbn
-阿坝	pahc
-也可以	oaek
-阿信	paeb
+阿坝	pjhc
+也可以	ojek
+阿信	pjeb
 马英九	bsrj
 又再	bojc
 又见	bocj
@@ -64478,7 +64478,7 @@ columns:
 两行	fcci
 两组	fckj
 亚东	lqxi
-不可靠	gapl
+不可靠	gjpl
 一千万	fmfw
 夹在	oqeu
 平谷	nqkr
@@ -64555,7 +64555,7 @@ columns:
 本版	afdd
 本尊	afqp
 想通	ajbs
-歌姬	alch
+歌姬	jlch
 桐柏	acad
 杨过	ayho
 杨澜	aynt
@@ -64673,7 +64673,7 @@ columns:
 双人舞	brgs
 来不得	fgcj
 马尾松	bbak
-打油	fand
+打油	fjnd
 碳水化合物	vnep
 高纬度	akms
 作数	egqc
@@ -64740,10 +64740,10 @@ columns:
 茶庄	srmh
 聚赌	lbch
 三好生	lcps
-打诨	fadx
+打诨	fjdx
 二胎	irwn
 桀纣	xakh
-纱灯	kiia
+纱灯	kiij
 裕固族	xwtg
 注疏	nkyp
 坟丘	htdf
@@ -64802,7 +64802,7 @@ columns:
 仡佬族	eetg
 末座	fmmr
 寻隙	bhpi
-打夯	faos
+打夯	fjos
 队日	prjr
 浑朴	nxau
 蒸饺	syxa
@@ -64836,7 +64836,7 @@ columns:
 筒裤	gcxm
 恤金	rgtj
 槽牙	ashy
-打横	faas
+打横	fjas
 甘醇	sipa
 阁僚	tteo
 球果	jfja
@@ -64847,7 +64847,7 @@ columns:
 盐卤	huuw
 得亏	cjfh
 汇费	nhbk
-可兰经	aqkb
+可兰经	jqkb
 投畀豺虎	fvmu
 序目	mkjm
 吹冷风	lies
@@ -64874,7 +64874,7 @@ columns:
 去芜存菁	hses
 色酒	xonp
 阴电	pwdd
-打春	faoj
+打春	fjoj
 典押	csfv
 附后	pedf
 家慈	itqn
@@ -64967,19 +64967,19 @@ columns:
 鹏城	wwhk
 悬钟	jnol
 腕足	wipz
-爱丁堡	uael
+爱丁堡	ujel
 裁制	gkpc
 霄壤	ciha
 地滚球	hnjf
 喜看	hlfj
 违误	aydl
 赤热	hkfr
-无何	ffea
+无何	ffej
 霜害	caid
 坟包	htwo
 天幸	fohq
 靓车	hwxj
-一顶	fiav
+一顶	fijv
 不专	guie
 丙寅	fcif
 两相	fcaj
@@ -65008,10 +65008,10 @@ columns:
 逃亡者	wthj
 日来	jrfq
 蛇口	qilv
-归宁	qbia
+归宁	qbij
 呕气	lhgq
 跨平台	pnnl
-足可	pzal
+足可	pzjl
 另定	lsif
 吸风饮露	lexc
 品竹弹丝	lgbk
@@ -65028,7 +65028,7 @@ columns:
 见罪	cjuu
 异父	osks
 心存侥幸	reeh
-展示厅	bjva
+展示厅	bjvj
 必杀技	rsfg
 火硝	ihvi
 粉面	qksm
@@ -65050,14 +65050,14 @@ columns:
 银枪	ogar
 拉斐尔	fuxi
 气促	gqep
-打勾	fawn
+打勾	fjwn
 兵微将寡	dcqi
 挺像	fmex
 提笔忘字	fgti
 热泵	frvn
 横逆	asqw
 极圈	agwq
-丁零当啷	acil
+丁零当啷	jcil
 本杰明	aajw
 身子骨	qkrg
 生业	psie
@@ -65182,7 +65182,7 @@ columns:
 庙号	mdlh
 磨房	mvht
 庭前	mmqw
-唐河	mbna
+唐河	mbnj
 米脂	qmwn
 宝钗	ijob
 定婚	ifck
@@ -65204,7 +65204,7 @@ columns:
 近半	doqa
 抱头	fwio
 白活	dbnl
-打门	fatm
+打门	fjtm
 接活	fknl
 接盘	fkuu
 拴住	frek
@@ -65217,7 +65217,7 @@ columns:
 缺钙	jboj
 稍小	miiv
 管治	ginn
-很可能是	canj
+很可能是	cjnj
 盘片	uudp
 委靡	mcmu
 黏合	mrrh
@@ -65283,15 +65283,15 @@ columns:
 也才	oehg
 了解到	kxdm
 限制级	ppkg
-阿甘	pasi
-阿尔	paxi
+阿甘	pjsi
+阿尔	pjxi
 出生年月	wpgw
 队里	prvl
 陈奕迅	ptyg
 巴菲特	osph
 参天大树	nfoa
 台湾人	nnre
-难打	befa
+难打	befj
 验证码	bdvb
 大肚	odwh
 大一	odfi
@@ -65306,7 +65306,7 @@ columns:
 面面	smsm
 而归	srqb
 破解版	vxdd
-奇石	oavs
+奇石	ojvs
 石头记	vido
 大姨妈	occb
 万人迷	frqo
@@ -65368,7 +65368,7 @@ columns:
 晋阳	lqpj
 列印	fxkf
 碧落	jdsn
-一首歌	fqal
+一首歌	fqjl
 下个星期	jrju
 上一次	jfix
 眼前一亮	jqfa
@@ -65454,9 +65454,9 @@ columns:
 西江	pxnp
 本社	afjh
 榨汁机	anae
-可去	alhn
+可去	jlhn
 机器猫	alhs
-可以吗	aelb
+可以吗	jelb
 覆手为雨	pfkc
 要在	pceu
 奥巴马	dobm
@@ -65550,7 +65550,7 @@ columns:
 飒飒	keke
 吃大锅饭	loox
 上口	jvlv
-钉螺	oaqv
+钉螺	ojqv
 泥水匠	nnhd
 背风	qnes
 团练	whkx
@@ -65727,8 +65727,8 @@ columns:
 养痈遗患	qmll
 默默无语	ggfd
 苦乐不均	skgh
-可望不可即	atgb
-慷慨悲歌	rrua
+可望不可即	jtgb
+慷慨悲歌	rruj
 少壮不努力	iqgs
 人怕出名猪怕壮	rrwq
 螳臂挡车	qbfx
@@ -65741,7 +65741,7 @@ columns:
 吃软不吃硬	lxgv
 翩若惊鸿	hsrn
 有其父必有其子	eukk
-来者可追	fhad
+来者可追	fhjd
 鼻青眼肿	qhjw
 真人不露相	grga
 凤凰来仪	eefe
@@ -65771,7 +65771,7 @@ columns:
 也向	oedx
 阿尔卡特	pxjp
 隐然	pxwh
-耵聍	lali
+耵聍	ljli
 对其	bhuq
 对分	bhkm
 马王堆	bjhe
@@ -65848,7 +65848,7 @@ columns:
 暂短	xdjf
 困人	ware
 思如泉涌	vcdn
-软弱可欺	xbau
+软弱可欺	xbju
 帽沿	ucne
 骨软筋酥	rxgp
 山草	ussj
@@ -65878,12 +65878,12 @@ columns:
 外舅	xudv
 金沙萨	tnsp
 尔耳	xile
-乐歌	kial
+乐歌	kijl
 负案	xcic
 多财善贾	xcqp
 多到	xxdm
 杀场	sahy
-锻打	oefa
+锻打	oefj
 托勒密	fsir
 拱抱	fsfw
 排到	fudm
@@ -65927,7 +65927,7 @@ columns:
 体惜	ears
 分作	kmeg
 红角	kpxs
-引河	buna
+引河	bunj
 幻像	nyex
 纸鹞	kkuj
 疑人不用	nrgs
@@ -65955,9 +65955,9 @@ columns:
 子金	kztj
 子部	kzkl
 耳洞	lenc
-耳钉	leoa
+耳钉	leoj
 出活	wwnl
-阿三	pala
+阿三	pjla
 陪她	pkco
 及物	gkpw
 参预	nokv
@@ -65969,7 +65969,7 @@ columns:
 不慌	gurs
 右移	elmx
 布艺	eusy
-奇痒	oamq
+奇痒	ojmq
 太乙	okyi
 爱车	uxxj
 垮了	hoke
@@ -66069,7 +66069,7 @@ columns:
 白璧	dbbl
 乒乒乓乓	dddd
 拍着	fdqj
-打小	faiv
+打小	fjiv
 杀软	saxx
 撞衫	fkxc
 垫片	frdp
@@ -66078,7 +66078,7 @@ columns:
 招商银行	faoc
 护手	fhfs
 本页	afvc
-本可	afal
+本可	afjl
 西京	pxai
 速归	alqb
 赖床	alma
@@ -66185,7 +66185,7 @@ columns:
 击杀	awsa
 过劲	hobp
 无界	ffvr
-无可替代	faoe
+无可替代	fjoe
 老妖	hncm
 开单	fsqj
 青花瓷	hsix
@@ -66281,7 +66281,7 @@ columns:
 西楼	pxaq
 梦溪笔谈	angd
 枯燥乏味	aigl
-丁字裤	aixm
+丁字裤	jixm
 禁播	aafg
 木盒	amru
 本部门	aktm
@@ -66302,12 +66302,12 @@ columns:
 总在	qleu
 总把	qlfo
 普桑	qibb
-普宁	qiia
+普宁	qiij
 帝皇	aqdj
 净资产	iikg
 六条	akta
-好歌	ckal
-既可	bnal
+好歌	ckjl
+既可	bnjl
 好成绩	ckkh
 那才	yahg
 那类	yaqo
@@ -66372,7 +66372,7 @@ columns:
 水线	nskf
 眼快	jgrb
 猪头肉	hicr
-可心	alri
+可心	jlri
 血防	gupt
 竹杠	gzap
 盗印	ixkf
@@ -66401,7 +66401,7 @@ columns:
 摆酒	funp
 回采	wlua
 蓬蒿	stsa
-河狸	nahv
+河狸	njhv
 火炽	ihil
 题签	jfgr
 暴敛	jsrf
@@ -66477,7 +66477,7 @@ columns:
 拒载	fhgk
 开锣	fsou
 莲蓬头	ssio
-门钉	tmoa
+门钉	tmoj
 渔妇	nxcb
 淡妆浓抹	nqnf
 红案	kpic
@@ -66547,7 +66547,7 @@ columns:
 色衰爱弛	xaub
 押队	fvpr
 酥松	pmak
-可写	alxh
+可写	jlxh
 重报	mvfa
 塑化	qwen
 继后	kqdf
@@ -66629,7 +66629,7 @@ columns:
 小圆	ivwl
 涉枪	npar
 小旗	ivtg
-河粉	naqk
+河粉	njqk
 海棉	ngad
 澄莹	nbsx
 游踪	ntpi
@@ -66692,11 +66692,11 @@ columns:
 拟合	ferh
 白刀子进	dmki
 想问	ajtl
-哥弟	alqb
+哥弟	jlqb
 西气东输	pgxx
 木石	amvs
 检查员	aalc
-哥德巴赫	acoh
+哥德巴赫	jcoh
 梅县	agjn
 梅尔	agxi
 生情	psrh
@@ -66856,8 +66856,8 @@ columns:
 换证	fxdf
 白鹿	dbml
 折抵	fdfk
-打怪	farb
-打钱	faof
+打怪	fjrb
+打钱	fjof
 拉皮	fkbp
 拉人	fkre
 招录	fmbn
@@ -66925,15 +66925,15 @@ columns:
 营业所	sidd
 蒙山	sxus
 匹克	lejw
-英文歌	stal
+英文歌	stjl
 陈伟	pxea
 职数	llqc
 陈冠希	pxse
 隐者	pxhj
-阿瑟	pajj
-阿呆	pala
-阿杜	paah
-阿娇	pacm
+阿瑟	pjjj
+阿呆	pjla
+阿杜	pjah
+阿娇	pjcm
 双月	bbwy
 又像	boex
 巴萨	obsp
@@ -67005,12 +67005,12 @@ columns:
 学弟	nxqb
 学文	nxte
 泊头	ndio
-小可爱	iaux
+小可爱	ijux
 海苔	ngsn
 海北	ngqn
 兴城	nkhk
 澄江	nbnp
-兴宁	nkia
+兴宁	nkij
 汴京	naai
 蝶恋	qstr
 最凶	jlsw
@@ -67058,7 +67058,7 @@ columns:
 质谱	dgdq
 牛股	pnwe
 看我	fjgf
-鬼吹灯	dlia
+鬼吹灯	dlij
 折成	fdky
 白石	dbvs
 白皮	dbbp
@@ -67071,12 +67071,12 @@ columns:
 李敏	akge
 西街	pxch
 标题栏	ajaq
-可怜兮兮	arkk
+可怜兮兮	jrkk
 林业局	aiby
 材料费	aqbk
 柳林	akaa
 要将	pcqx
-长歌	ncal
+长歌	ncjl
 长庆	ncmo
 第三天	glfo
 敏感性	gkrp
@@ -67092,7 +67092,7 @@ columns:
 美少年	qiga
 单孔	qjke
 普罗旺斯	quju
-新墨西哥	kgpa
+新墨西哥	kgpj
 将从	qxrr
 将你	qxex
 音乐盒	kkru
@@ -67292,7 +67292,7 @@ columns:
 荤油	sxnd
 贫矿	kmvm
 抽考	fdhh
-灯标	iaaj
+灯标	ijaj
 掉膘	fuwp
 接驾	fksl
 近古	dojg
@@ -67318,13 +67318,13 @@ columns:
 人间天堂	rtfi
 人逢喜事精神爽	rtho
 东风压倒西风	xeve
-无可奈何花落去	faoh
+无可奈何花落去	fjoh
 士为知己者死	hkjf
 一朝天子一朝臣	fgfh
 不见棺材不落泪	gcan
 口含天宪	lrfi
 磁学	vqnx
-春歌	ojal
+春歌	ojjl
 滚入	nakr
 时近	jhdo
 职前	llqw
@@ -67359,7 +67359,7 @@ columns:
 阶下	prjx
 戏照	bkjm
 巴斯德	oucg
-参订	noda
+参订	nodj
 通统	bska
 骄躁	bmpl
 有血	ewgu
@@ -67436,7 +67436,7 @@ columns:
 断过	qeho
 焰心	ixri
 粉线	qkkf
-炉顶	ihav
+炉顶	ihjv
 粮袋	qkek
 家累	itvo
 容不下	igjx
@@ -67446,7 +67446,7 @@ columns:
 补西墙	xphg
 鳞波	xqnb
 龟山	xdus
-钉帽	oauc
+钉帽	ojuc
 措大	fsod
 拜识	ffdl
 遁逃	dgwi
@@ -67456,9 +67456,9 @@ columns:
 近作	doeg
 朱镕基	pouh
 播种期	fmuw
-哥萨克	asjw
+哥萨克	jsjw
 校友录	aebn
-标灯	ajia
+标灯	ajij
 栅门	awtm
 杜拉斯	afud
 长影	ncja
@@ -67494,7 +67494,7 @@ columns:
 纱橱	kiav
 织工	klpg
 绍介	kmrk
-维柯	keaa
+维柯	keaj
 比干	nnng
 诧愕	dirl
 庭上	mmjv
@@ -67504,7 +67504,7 @@ columns:
 燕雀安知鸿鹄之志	siih
 落红	snkp
 莫笑	sjgm
-或可	klal
+或可	kljl
 巨鹿	hbml
 蒙胧	sxwf
 隔层	pfbi
@@ -67673,7 +67673,7 @@ columns:
 陈涛	pxnd
 孙悦	kirq
 聚氨酯	lgpn
-阿迪	pado
+阿迪	pjdo
 出入口	wklv
 双胞	bbww
 双汇	bbnh
@@ -67703,13 +67703,13 @@ columns:
 腿软	wgxx
 十号	gilh
 真让	gjdj
-朝歌	gjal
+朝歌	gjjl
 南园	gcwf
 亏钱	fhof
 超链接	hofk
 无颜	ffkg
 都来	hjfq
-雾灯	ctia
+雾灯	ctij
 才要	hgpc
 到那	dmya
 青木	hwam
@@ -67788,10 +67788,10 @@ columns:
 恨得	rgcj
 心脑	riwt
 燃料油	iqnd
-米奇	qmoa
+米奇	qmoj
 宽甸	iswv
 富士康	ihmb
-宁河	iana
+宁河	ijnj
 福利费	jmbk
 被逼	xbfl
 空出	ipww
@@ -67843,7 +67843,7 @@ columns:
 全包	rjwo
 保龄	elpr
 保定市	eiau
-何炅	eaji
+何炅	ejji
 偷欢	erbx
 华阳	enpj
 华润	ennt
@@ -67857,7 +67857,7 @@ columns:
 张斌	bntf
 给人	krre
 试吃	dklg
-离歌	twal
+离歌	twjl
 谢霆锋	dcot
 市场部	ahkl
 高速路	aapt
@@ -68008,7 +68008,7 @@ columns:
 阴门	pwtm
 追奔逐北	dotq
 冰挂	infh
-打泡	fanw
+打泡	fjnw
 对流层	bnbi
 禁律	aacb
 弱不胜衣	bgwa
@@ -68048,7 +68048,7 @@ columns:
 吹糠见米	lqcq
 举止大方	npot
 五福临门	fjut
-水可载舟	nagu
+水可载舟	njgu
 看菜吃饭	fslx
 春满人间	onrt
 饱汉不知饿汉饥	xngx
@@ -68128,14 +68128,14 @@ columns:
 下下	jxjx
 不群	gubg
 来日大难	fjob
-灭灯	fiia
+灭灯	fiij
 来想	fqaj
 一句句	fwwl
 一争高下	fxaj
 末笔	fmgm
 天公不作美	fkgq
 凸镜	ufok
-桌灯	ujia
+桌灯	ujij
 此唱彼和	plcm
 治平	nnnq
 尖石	iovs
@@ -68203,7 +68203,7 @@ columns:
 搭钩	fsow
 皂隶	dxbn
 排律	fucb
-后灯	dfia
+后灯	dfij
 后会	dfri
 扑蝶	fuqs
 爪儿	uzwr
@@ -68213,15 +68213,15 @@ columns:
 制发	pcwb
 拍门	fdtm
 折刀	fdmd
-打道	faqq
-报告厅	fpva
+打道	fjqq
+报告厅	fpvj
 兵行诡道	dcdq
 白头如新	dick
 热障	frpk
 护壁	fhbl
 橘柑	akas
-丁未	adfw
-丁忧	adrf
+丁未	jdfw
+丁忧	jdrf
 桐城	achk
 柳下	akjx
 私蓄	mnsa
@@ -68299,7 +68299,7 @@ columns:
 月嫂	wycd
 甩尾	webm
 脏活	wmnl
-无药可救	fsaf
+无药可救	fsjf
 地柜	hoah
 运功	inps
 真题	gjjf
@@ -68353,7 +68353,7 @@ columns:
 完璧	ifbl
 军绿	xxkb
 宰相肚里能撑船	iawu
-宁和	iaml
+宁和	ijml
 裸聊	xjlk
 裙摆	xbfu
 安卓	icuj
@@ -68364,13 +68364,13 @@ columns:
 包年	woga
 金蝉	tjqq
 金甲	tjvj
-钉死	oafx
+钉死	ojfx
 独显	hqji
 镍氢	oqgb
 银镜	ogok
 挂架	fhsl
 反璞归真	djqg
-提灯	fjia
+提灯	fjij
 提振	fjfm
 换鞋	fxsh
 搀假	fxeb
@@ -68441,8 +68441,8 @@ columns:
 陈小春	pioj
 孙策	kiga
 阳城	pjhk
-阿城	pahk
-阿牛	papn
+阿城	pjhk
+阿牛	pjpn
 联社	lqjh
 阿童木	pkam
 限值	pgeg
@@ -68454,7 +68454,7 @@ columns:
 马凯	bmuo
 难写	bexh
 大中	odlu
-大打	odfa
+大打	odfj
 大单	odqj
 三防	lapt
 三份	laek
@@ -68483,7 +68483,7 @@ columns:
 志远	hrfl
 专情	ierh
 无计	ffdg
-都可以	haek
+都可以	hjek
 才够	hgwl
 老房	hnht
 喜结连理	hkxj
@@ -68501,7 +68501,7 @@ columns:
 更累	fjvo
 不明就里	gjav
 豆粕	flqd
-副歌	flal
+副歌	fljl
 王力宏	jsie
 两双	fcbb
 两方	fctf
@@ -68534,7 +68534,7 @@ columns:
 星尘	jpih
 照得	jmcj
 吸光	lgil
-哈士奇	lhoa
+哈士奇	lhoj
 路虎	ptuh
 中国式	lwkp
 听我说	lgdq
@@ -68607,7 +68607,7 @@ columns:
 单双	qjbb
 童言	kvby
 将我	qxgf
-道奇	qqoa
+道奇	qqoj
 痛彻心扉	mcrh
 北碚	qnvk
 六次	akix
@@ -68739,7 +68739,7 @@ columns:
 拿架子	rskz
 风钻	esou
 枉自	ajqi
-桅灯	axia
+桅灯	axij
 连冠	xoxf
 相纸	ajkk
 橡子	axkz
@@ -69077,11 +69077,11 @@ columns:
 分则	kmcm
 俗艳	ekdx
 化之	enoz
-华亭	enaa
+华亭	enaj
 念给	rkkr
 红教	kphk
 弗莱堡	bsel
-约旦河	kjna
+约旦河	kjnj
 丝虫病	kqmf
 细针密缕	koik
 红刀子出	kmkw
@@ -69200,11 +69200,11 @@ columns:
 鬼物	dgpw
 兜儿	dkwr
 捭阖	fdth
-打晕	fajx
+打晕	fjjx
 推着	feqj
 醒世	pjsi
 板寸	adhc
-可丁可卯	aaak
+可丁可卯	jjjk
 覆膜	pcws
 机柜	aeah
 长路	ncpt
@@ -69276,7 +69276,7 @@ columns:
 叉烧包	biwo
 大雁塔	ovhs
 大港	odns
-胡歌	jwal
+胡歌	jwjl
 三山	laus
 古天乐	jfki
 大开方便之门	oftt
@@ -69313,9 +69313,9 @@ columns:
 卓尔	ujxi
 战警	ulsw
 点上	uljv
-此情可待	prac
+此情可待	prjc
 眯眼	jqjg
-睢宁	jeia
+睢宁	jeij
 法阵	nhpx
 小乔	ivmk
 激活码	nnvb
@@ -69377,9 +69377,9 @@ columns:
 容祖儿	ijwr
 祝福语	jjdf
 宾果	idja
-宁津	ianb
+宁津	ijnb
 宋国	iawj
-宁安	iaic
+宁安	ijic
 安踏	icpn
 福清	jfnh
 神龟	jdxd
@@ -69441,7 +69441,7 @@ columns:
 那在	yaeu
 那层	yabi
 好地方	chtf
-肃宁	bkia
+肃宁	bkij
 好兄弟	clqb
 婚生	ckps
 女儿红	cwkp
@@ -69458,7 +69458,7 @@ columns:
 低音炮	ekiw
 休闲裤	etxm
 华荣	ensx
-集宁	eaia
+集宁	eaij
 念念	rkrk
 红塔	kphs
 张韶涵	bkny
@@ -69558,7 +69558,7 @@ columns:
 悬想	jnaj
 养廉	qomq
 操典	flcs
-磕打	vhfa
+磕打	vhfj
 律例	cbef
 氢氧化物	ggep
 喧笑	ligm
@@ -69566,7 +69566,7 @@ columns:
 看风使舵	feeu
 裤线	xmkf
 涨风	nbes
-钉锤	oaom
+钉锤	ojom
 法螺	nhqv
 后账	dfcn
 蜀锦	uwod
@@ -69595,7 +69595,7 @@ columns:
 峻拔	unfe
 拢共	ffsk
 攀扯	asfp
-诡奇	dxoa
+诡奇	dxoj
 积食	mlks
 乐悠悠	keeu
 秋裤	mixm
@@ -69613,7 +69613,7 @@ columns:
 缠手	kmfs
 蛋粉	ypqk
 电钟	ddol
-脚灯	whia
+脚灯	whij
 密封圈	ihwq
 下欠	jxxq
 租佃	mjev
@@ -69647,7 +69647,7 @@ columns:
 谓予不信	dkge
 露水夫妻	cnog
 持盈保泰	fgeo
-有案可稽	eiam
+有案可稽	eijm
 进身之阶	iqop
 宠辱皆忘	imnt
 人多口杂	rxlr
@@ -69684,7 +69684,7 @@ columns:
 荣格	sxat
 欧安会	hiri
 蓟门	sxtm
-苛捐	safl
+苛捐	sjfl
 革新派	sknd
 切细	xmkv
 东食西宿	xkpi
@@ -69710,13 +69710,13 @@ columns:
 非比	ufnn
 三岁小孩	luik
 碾平	vbnq
-万宁	fwia
+万宁	fwij
 万望	fwtw
 磷虾	vqqj
 万象森罗	fxau
 有错就改	eoao
 百年偕老	vgeh
-奇崛	oaub
+奇崛	ojub
 百身莫赎	vqsc
 成交价	kaer
 矿盐	vmhu
@@ -69817,7 +69817,7 @@ columns:
 龟鉴	xdug
 链结	oxkh
 负屈含冤	xbrx
-钱可通神	oabj
+钱可通神	ojbj
 镜匣	okhv
 争衡	xbcx
 狗娘养的	hcqd
@@ -69831,8 +69831,8 @@ columns:
 手闸	fstv
 势派	frnd
 拱肩缩背	fhkq
-顶托	avfg
-可成	alky
+顶托	jvfg
+可成	jlky
 棉兰	adqi
 杜门谢客	atdi
 松嘴	aklp
@@ -69970,7 +69970,7 @@ columns:
 炔烃	ibib
 火烤	ihih
 宅心仁厚	irev
-被打	xbfa
+被打	xbfj
 补妆	xuqc
 安防	icpt
 昏头	kxio
@@ -69994,13 +69994,13 @@ columns:
 捉鬼	fpdg
 挖坟	fiht
 鬼叫	dglw
-打表	fahg
+打表	fjhg
 拉过	fkho
 搞大	faod
 挤爆	ftij
 树懒	abra
 树精	abqh
-顶缸	avjp
+顶缸	jvjp
 飘雨	pjcy
 飘窗	pjid
 桃心	awri
@@ -70129,7 +70129,7 @@ columns:
 光良	ilkg
 洗牙	nphy
 明水	jwns
-昌河	jjna
+昌河	jjnj
 日系	jrgo
 昭阳	jmpj
 最高人民法院	jarp
@@ -70149,7 +70149,7 @@ columns:
 定陶	ifpw
 定值	ifeg
 宝安区	iihs
-宁乡	iakg
+宁乡	ijkg
 被虐	xbub
 乐高	kiag
 金鼎	tjjd
@@ -70175,7 +70175,7 @@ columns:
 攀钢	asoc
 橡筋	axgw
 板楼	adaq
-可持续发展	afkb
+可持续发展	jfkb
 栖霞	apcb
 酸辣粉	pkqk
 松嫩	akca
@@ -70376,7 +70376,7 @@ columns:
 畏友	vmeb
 专差	ieqp
 方向舵	tdui
-夯歌	osal
+夯歌	osjl
 壕堑	haxd
 普快	qirb
 偷营	ersx
@@ -70491,7 +70491,7 @@ columns:
 百多	vjxx
 耍闹	scta
 万源	fwnv
-灰顶	eiav
+灰顶	eijv
 破家县令	vijr
 百衲衣	vxag
 布鲁诺	exds
@@ -70587,11 +70587,11 @@ columns:
 输导	xroh
 炭精	ueqh
 几十年如一日	eggj
-内流河	cnna
+内流河	cnnj
 风水轮流转	enxx
 风樯阵马	eapb
 山高路远	uapf
-居奇	bjoa
+居奇	bjoj
 改辕易辙	oxjx
 慷慨陈辞	rrpl
 慢慢地	rrho
@@ -70607,9 +70607,9 @@ columns:
 穿壁引光	ibbi
 空包弹	iwbq
 宾服	idwa
-初哥	xmal
+初哥	xmjl
 角锥	xsoe
-销钉	oioa
+销钉	oioj
 鱼游釜中	xnkl
 包席	woms
 钦仰	oxek
@@ -70706,7 +70706,7 @@ columns:
 鹿寨	mlis
 毫分	amkm
 良金美玉	ktqj
-订出	daww
+订出	djww
 为德不卒	kcga
 谙达	dkoo
 工位	pgek
@@ -70808,8 +70808,8 @@ columns:
 打破砂锅问到底	fvvm
 近情	dorh
 白绫	dbkh
-打赏	faic
-打饭	faxd
+打赏	fjic
+打饭	fjxd
 手速	fsal
 拼车	fqxj
 西岳	pxdf
@@ -70850,7 +70850,7 @@ columns:
 欧尚	hsis
 取款机	lhae
 孟婆	kunb
-阿金	patj
+阿金	pjtj
 陈楚生	paps
 能开	nwfs
 台办	nlsk
@@ -70877,7 +70877,7 @@ columns:
 万亩	fwav
 压寨夫人	vior
 达利	oomm
-奇虎	oauh
+奇虎	ojuh
 胡彦斌	jktf
 泰达	onoo
 奉化	oaen
@@ -70902,7 +70902,7 @@ columns:
 无铅	ffoe
 无梦	ffaa
 无牌	ffdd
-无可否认	fagd
+无可否认	fjgd
 煮面	hjsm
 都去	hjhn
 都匀	hjwi
@@ -70985,7 +70985,7 @@ columns:
 补集	xuea
 安吉	ichl
 神经兮兮	jkkk
-乐亭	kiaa
+乐亭	kiaj
 负分	xckm
 金水	tjns
 多挣	xxfx
@@ -71003,7 +71003,7 @@ columns:
 朴树	auab
 楼长	aqnc
 棋牌室	adid
-丁俊晖	aejx
+丁俊晖	jejx
 松山	akus
 长肉	nccr
 辞职信	lleb
@@ -71077,7 +71077,7 @@ columns:
 暖阁	jutt
 事体	hlea
 效死	akfx
-打问	fatl
+打问	fjtl
 田径运动	vcii
 税目	mqjm
 西画	pxfv
@@ -71120,7 +71120,7 @@ columns:
 奶羊	cgqy
 清夜	nhae
 丹方	watf
-打卦	fahh
+打卦	fjhh
 别集	lsea
 刊头	nmio
 公之于世	kofs
@@ -71173,7 +71173,7 @@ columns:
 电焊机	diae
 缓气	kugq
 摹绘	sjkr
-奇勋	oalc
+奇勋	ojlc
 珠蚌	jpqd
 封火	hhih
 皮试	bpdk
@@ -71221,7 +71221,7 @@ columns:
 拐棒	flao
 弹指一挥间	bfft
 反复推敲	dgfa
-可怜天下父母心	arfr
+可怜天下父母心	jrfr
 语不惊人死不休	dgre
 吃一堑长一智	lfxj
 一元复始	ffgc
@@ -71254,7 +71254,7 @@ columns:
 甚受	ueux
 鞣料	skqi
 欺上罔下	ujcj
-雅歌	heal
+雅歌	hejl
 莫须	sjcv
 草尖	sjio
 草种	sjml
@@ -71415,7 +71415,7 @@ columns:
 鬼迷	dgqo
 挣得	fxcj
 返本还原	dagv
-打酒	fanp
+打酒	fjnp
 拌蒜	fqsj
 损益表	fqhg
 拼刺	fqac
@@ -71426,7 +71426,7 @@ columns:
 权诈	abdg
 枯肠	ajwy
 醇酒妇人	pncr
-可心如意	arck
+可心如意	jrck
 样册	aqww
 松缓	akku
 长有	ncew
@@ -71469,7 +71469,7 @@ columns:
 创业垂统	rimk
 拿糖作醋	rqep
 父执	ksfr
-何啻	eaaq
+何啻	ejaq
 倦态	eqok
 从轮	rrxr
 领扣	rkfl
@@ -71604,14 +71604,14 @@ columns:
 剑魂	rfin
 合纵	rhkr
 保金	eltj
-何解	eaxs
+何解	ejxs
 作贱	egcf
 傻妞	edcb
 坐实	rrii
 令亲	rkka
 领证	rkdf
 绞碎	kava
-试打	dkfa
+试打	dkfj
 哀鸿	agnp
 衣锦	agod
 调货	dwen
@@ -71632,7 +71632,7 @@ columns:
 陈好	pxck
 出出进进	wwii
 联轴器	lxll
-阿雅	pahe
+阿雅	pjhe
 又去	bohn
 通稿	bsma
 劲舞团	bgwh
@@ -71646,7 +71646,7 @@ columns:
 耐脏	shwm
 有害物质	eipd
 克山	jwus
-奇强	oabl
+奇强	ojbl
 磁环	vqjg
 成绩表	kkhg
 太没	okne
@@ -71675,7 +71675,7 @@ columns:
 博尔塔拉	gxhf
 无骨	ffrg
 救援队	ffpr
-都可	hjal
+都可	hjjl
 青阳	hwpj
 青县	hwjn
 五届	fbbd
@@ -71691,7 +71691,7 @@ columns:
 紫电	pndd
 洪都	nshj
 汇源	nhnv
-浏阳河	npna
+浏阳河	npnj
 洁面	nhsm
 尚雯婕	iccf
 涉县	npjn
@@ -71732,17 +71732,17 @@ columns:
 煤电	isdd
 炒肉	iicr
 烦心事	irhl
-灯架	iasl
+灯架	ijsl
 糖醋鱼	qpxv
 塞纳	iskc
-宁化	iaen
+宁化	ijen
 安监	icug
 勾三搭四	wlfw
 解离	xstw
 外展	xubs
 名儿	xlwr
 金塔	tjhs
-金河	tjna
+金河	tjnj
 捞面	fssm
 返点	dbul
 把他	foeo
@@ -71806,7 +71806,7 @@ columns:
 拿点	rful
 候命	eura
 任贤齐	eutk
-人尽可夫	rbao
+人尽可夫	rbjo
 分割线	kikf
 你去	exhn
 爹地	ksho
@@ -71843,7 +71843,7 @@ columns:
 惯养	reqo
 灶火	ihih
 吁吁	lflf
-可欺	alux
+可欺	jlux
 寄宿生	iips
 增拨	hqfw
 离心机	trae
@@ -71869,7 +71869,7 @@ columns:
 狡计	hadg
 窝铺	ilon
 修竹	eugz
-煤气灯	igia
+煤气灯	igij
 串案	llic
 代耕	ekdk
 猛不防	hgpt
@@ -71923,7 +71923,7 @@ columns:
 絮烦	cliv
 直接经验	gfkb
 寡合	ivrh
-瑰奇	jdoa
+瑰奇	jdoj
 失脚	gowh
 谐剧	dnbj
 休刊	eanm
@@ -71980,7 +71980,7 @@ columns:
 晕血	jxgu
 恶意中伤	lkle
 一不做二不休	fgee
-亦可覆舟	tapu
+亦可覆舟	tjpu
 大头小尾	oiib
 聪明睿智	ljuj
 上无片瓦	jfdr
@@ -72069,7 +72069,7 @@ columns:
 事不师古	hgqj
 与此无关	hpfq
 歪缠	gfkm
-副厅	flva
+副厅	flvj
 整建	alba
 带引	sxbu
 瓦器	rwll
@@ -72194,8 +72194,8 @@ columns:
 飘坠	pjpr
 西祠	pxjy
 查私	ajmn
-歌碟	alvs
-可转	alxi
+歌碟	jlvs
+可转	jlxi
 机套	aeou
 格杀不论	asgd
 棉胎	adwn
@@ -72208,7 +72208,7 @@ columns:
 筋节	gwsa
 徒涉	chnp
 行贩	cicd
-臭不可当	qgai
+臭不可当	qgji
 自刭	qibp
 箔条	gnta
 奥姆	dqce
@@ -72279,7 +72279,7 @@ columns:
 高法	agnh
 市树	auab
 庙主	mdkj
-诺丁汉	danb
+诺丁汉	djnb
 谚曰	dkjy
 文君新寡	tbki
 鞋城	shhk
@@ -72365,11 +72365,11 @@ columns:
 捏捏	fjfj
 操神	fljd
 按序	fimk
-打脸	fawr
+打脸	fjwr
 接旨	fknj
 擅离	fatw
 醋溜	psnk
-柳丁	akad
+柳丁	akjd
 根骨	agrg
 季春	mkoj
 牛屎	pnbq
@@ -72446,9 +72446,9 @@ columns:
 非我	ufgf
 非处	uftu
 克林	jwaa
-奇美	oaqo
+奇美	ojqo
 大盘鸡	oubm
-春哥	ojal
+春哥	ojjl
 龙川	fglc
 碎碎	vava
 碎冰	vain
@@ -72500,7 +72500,7 @@ columns:
 小眼睛	ijjh
 小沈阳	inpj
 沙宣	niif
-常宁	iuia
+常宁	iuij
 澳网	ndcs
 海康	ngmb
 汉化版	nedd
@@ -72555,15 +72555,15 @@ columns:
 铁山	ogus
 银海	ogng
 把我	fogf
-抚宁	ffia
+抚宁	ffij
 失不再来	ggjf
 技术科	fami
 拉姆	fkce
 李咏	aklk
 桂城	ahhk
-西河	pxna
-可也	aloe
-歌神	aljd
+西河	pxnj
+可也	jloe
+歌神	jljd
 核保	atel
 德芙	cgso
 德勤	cgsi
@@ -72589,7 +72589,7 @@ columns:
 她是	cojf
 寻秦记	bodo
 姨婆	conb
-录歌	bnal
+录歌	bnjl
 傻孩子	ekkz
 舒城	rlhk
 供电局	edby
@@ -72628,7 +72628,7 @@ columns:
 招贴画	fcfv
 返照	dbjm
 米袋子	qekz
-歌子	alkz
+歌子	jlkz
 洋油	nqnd
 高效能	aanw
 须生	cvps
@@ -72708,7 +72708,7 @@ columns:
 穷乏	isgo
 曲笔	csgm
 下劲	jxbp
-顶账	avcn
+顶账	jvcn
 良才	kghg
 朴厚	auvj
 投映	fejc
@@ -72725,7 +72725,7 @@ columns:
 汗斑	nnjt
 夹板气	oagq
 销子	oikz
-顶格	avat
+顶格	jvat
 褒词	aedy
 平月	nqwy
 犹抱琵琶半遮面	hfjs
@@ -72738,7 +72738,7 @@ columns:
 王顾左右而言他	jvee
 击楫中流	aaln
 斜风细雨	rekc
-士可杀不可辱	hasm
+士可杀不可辱	hjsm
 开国元老	fwfh
 穷山僻壤	iueh
 等因奉此	gwop
@@ -72760,9 +72760,9 @@ columns:
 蒙事	sxhl
 蔻丹	siwa
 营商	sxaq
-警亭	swaa
+警亭	swaj
 甘瓜苦蒂	suss
-苛待	sach
+苛待	sjch
 切纸	xmkk
 颞颥	lbcs
 随常	peiu
@@ -72775,9 +72775,9 @@ columns:
 勇冠	bsxf
 通年	bsga
 双声道	bhqq
-骊歌	bfal
+骊歌	bfjl
 驯熟	blak
-观灯	bcia
+观灯	bcij
 欢欣若狂	bdsh
 难胞	beww
 顾准	vaie
@@ -72838,7 +72838,7 @@ columns:
 晋冀鲁豫	lqxk
 皮耶罗	blux
 歧出	pgww
-上灯	jvia
+上灯	jvij
 颦蹙	pikj
 旧雨	ujcy
 此呼彼应	plcm
@@ -72855,7 +72855,7 @@ columns:
 涉笔	npgm
 小衣	ivag
 泼油救火	nnfi
-混打	njfa
+混打	njfj
 溃军	nlxx
 激波	ndnb
 流溪	nanu
@@ -72890,7 +72890,7 @@ columns:
 导标	ohaj
 丑样	bcaq
 恒齿	rfpr
-情不可却	rgah
+情不可却	rgjh
 戕贼	dkck
 收管	wtgi
 疏阔	yptn
@@ -72938,7 +72938,7 @@ columns:
 金印紫绶	tkpk
 钧座	owmr
 杀去	sahn
-逛灯	hjia
+逛灯	hjij
 钻头觅缝	oiuk
 锐增	oqhq
 匀实	wiii
@@ -72951,7 +72951,7 @@ columns:
 爬泳	uonk
 排中律	flcb
 抽球	fdjf
-氖灯	ggia
+氖灯	ggij
 挽具	fxjk
 拼缀	fqkb
 牛刀割鸡	pmib
@@ -72965,7 +72965,7 @@ columns:
 桃林	awaa
 检举人	anre
 禁飞区	ayhs
-桅顶	axav
+桅顶	axjv
 检束	aral
 科工委	mpmc
 私有权	meab
@@ -73083,7 +73083,7 @@ columns:
 蛇妖	qicm
 别过	lsho
 别介	lsrk
-跟打	pgfa
+跟打	pgfj
 足足有余	pper
 品色	llxo
 喂狗	lvhw
@@ -73121,8 +73121,8 @@ columns:
 手滑	fsnr
 手游	fsnt
 棱形	ahfs
-可遇不可求	avgf
-可我	algf
+可遇不可求	jvgf
+可我	jlgf
 校草	aasj
 机考	aehh
 机主	aekj
@@ -73178,8 +73178,8 @@ columns:
 卫衣	afag
 阿肯色	ppxo
 阿拉巴马	pfob
-阿莲	pasx
-阿伦	paer
+阿莲	pjsx
+阿伦	pjer
 马萨诸塞	bsdi
 双阳	bbpj
 双卡	bbju
@@ -73293,7 +73293,7 @@ columns:
 几顿	ejxw
 周立波	wknb
 嵩县	uajn
-怀宁	rgia
+怀宁	rgij
 心静如水	rhcn
 快得	rbcj
 乙等	yigh
@@ -73458,7 +73458,7 @@ columns:
 花椰菜	sasu
 熟菜	aksu
 包心菜	wrsu
-顶数	avqc
+顶数	jvqc
 腹股沟	wwnw
 换肩	fxhw
 漏夜	nbae
@@ -73473,7 +73473,7 @@ columns:
 矮墩墩	jhha
 司药	yfsk
 出徒	wwch
-未可厚非	favu
+未可厚非	fjvu
 顾恋	vatr
 桥基	amuh
 调唆	dwln
@@ -73484,7 +73484,7 @@ columns:
 不无小补	gfix
 浮词	nudy
 敬颂	swkn
-可着	alqj
+可着	jlqj
 马弁	bmns
 啪嚓	lfli
 牵记	oxdo
@@ -73497,7 +73497,7 @@ columns:
 借代	esek
 一来一往	fffc
 无远弗届	ffbb
-是可忍孰不可忍	jamm
+是可忍孰不可忍	jjmm
 薄情寡义	srik
 毫无逊色	afkx
 整旧如新	auck
@@ -73571,7 +73571,7 @@ columns:
 赤卫军	haxx
 二进位	iiek
 博友	gneb
-无不可	fgal
+无不可	fgjl
 霜鬓	caui
 无往而不利	fcsm
 圪塔	hghs
@@ -73612,7 +73612,7 @@ columns:
 吊盘	luuu
 听阈	ldtk
 啸鸣	lblm
-吹弹歌舞	lbag
+吹弹歌舞	lbjg
 恩斯特	wuph
 轻悄	xbri
 固陋	wjpf
@@ -73681,7 +73681,7 @@ columns:
 按金	fitj
 白翳	dbhj
 白绢	dbkl
-打和	faml
+打和	fjml
 插言	fmby
 接榫	fkae
 蛰虫	frqc
@@ -73727,7 +73727,7 @@ columns:
 如狼牧羊	chpq
 娇丽	cmfc
 群丑	bgbc
-九九歌	rral
+九九歌	rrjl
 倚马千言	ebmb
 信而好古	escj
 会规	rioc
@@ -73847,7 +73847,7 @@ columns:
 奶牙	cghy
 妹纸	cfkk
 巡山	lous
-代打	ekfa
+代打	ekfj
 公输	knxr
 做种	ejml
 仁道	eiqq
@@ -74027,7 +74027,7 @@ columns:
 总金额	qtit
 交单	akqj
 益达	qkoo
-闪灯	tria
+闪灯	trij
 北苑	qnsx
 她能	conw
 好到	ckdm
@@ -74036,7 +74036,7 @@ columns:
 俄勒冈	escs
 佐助	eejs
 个旧市	ruau
-阜宁	dgia
+阜宁	dgij
 伤到	egdm
 华晨	enjm
 红名	kpxl
@@ -74068,7 +74068,7 @@ columns:
 电化教育	deha
 署理	uhjv
 质对	dgbh
-鹦哥	ccal
+鹦哥	ccjl
 年礼	gaje
 五里雾	fvct
 淅淅	nana
@@ -74118,7 +74118,7 @@ columns:
 姨妹	cocf
 吃大户	lohh
 放账	ttcn
-哥老会	ahri
+哥老会	jhri
 景慕	jasj
 凭恃	emrh
 深耕细作	ndke
@@ -74148,7 +74148,7 @@ columns:
 愚妄	vrtc
 半休	qaea
 大天白日	ofdj
-歌带	alsx
+歌带	jlsx
 鸡内金	bctj
 脑体倒挂	weef
 劬劳	wlsx
@@ -74185,7 +74185,7 @@ columns:
 巨澜	hbnt
 黄宗羲	siqm
 蘸满	spns
-莫可究诘	said
+莫可究诘	sjid
 斯特劳斯	upsu
 菲利浦	smnn
 花繁叶茂	sgls
@@ -74300,7 +74300,7 @@ columns:
 崭然	uxwh
 购销两旺	cofj
 风炉	esih
-见可而进	casi
+见可而进	cjsi
 罔替	cqoo
 肉赘	crhw
 惨苦	rnsj
@@ -74345,8 +74345,8 @@ columns:
 捏积	fjml
 措置裕如	fuxc
 投缳	feku
-打网	facs
-打比	fann
+打网	fjcs
+打比	fjnn
 拉秧	fkmc
 搜剿	fdlj
 扫倒	fbed
@@ -74354,7 +74354,7 @@ columns:
 撤标	faaj
 橘络	akkt
 橡皮管	abgi
-顶视图	ajwt
+顶视图	jjwt
 枢密使	aief
 板鼓	adhg
 权欲熏心	akmr
@@ -74436,7 +74436,7 @@ columns:
 除妖	prcm
 有氧	ewgq
 厘正	vvfp
-碘酊	vcpa
+碘酊	vcpj
 甩货	ween
 爱她	uxco
 妥妥	ucuc
@@ -74472,7 +74472,7 @@ columns:
 民资	oxix
 那谁	yade
 刷钱	buof
-必可	rgal
+必可	rgjl
 煤堆	ishe
 火舞	ihgs
 宝图	ijwt
@@ -74490,11 +74490,11 @@ columns:
 挡位	fiek
 拟物	fepw
 扬扬	fyfy
-打款	fahj
+打款	fjhj
 扫码	fbvb
 抢戏	frbk
 横屏	asbq
-顶配	avpo
+顶配	jvpo
 醉驾	pasl
 季夏	mkvj
 私钥	mnow
@@ -74534,7 +74534,7 @@ columns:
 花开富贵	sfil
 东村	xiah
 莫斯	sjud
-蓝灯	suia
+蓝灯	suij
 蓝底	sumk
 艺考	syhh
 营销部	sokl
@@ -74545,10 +74545,10 @@ columns:
 陈慧琳	pdja
 辽大	kood
 陶喆	pwhl
-阿布	paeu
-阿紫	papn
+阿布	pjeu
+阿紫	pjpn
 隆平	ptnq
-双河	bbna
+双河	bbnj
 又和	boml
 通城	bshk
 观月	bcwy
@@ -74648,8 +74648,8 @@ columns:
 冠县	xfjn
 赛迪	isdo
 宾县	idjn
-宁阳	iapj
-宁晋	ialq
+宁阳	ijpj
+宁晋	ijlq
 锚杆	osan
 乐美	kiqo
 钢炮	ociw
@@ -74674,7 +74674,7 @@ columns:
 飘去	pjhn
 西数	pxqc
 配电箱	pdga
-可没	alne
+可没	jlne
 机炮	aeiw
 杞县	aojn
 杨村	ayah
@@ -74687,7 +74687,7 @@ columns:
 午马	ggbm
 千龙	mqfg
 行测	cinc
-生无可恋	pfat
+生无可恋	pfjt
 第一卷	gfqo
 生死离别	pftl
 复变	gjtb
@@ -74698,7 +74698,7 @@ columns:
 前海	qwng
 美菱	qosh
 资源部	inkl
-曾哥	qjal
+曾哥	qjjl
 美宝莲	qisx
 闲云	tain
 道题	qqjf
@@ -74719,7 +74719,7 @@ columns:
 信息港	eqns
 货期	enuw
 红石	kpvs
-绥芬河	ksna
+绥芬河	ksnj
 弘毅	bnkt
 缩量	kijf
 综指	kifn
@@ -74823,7 +74823,7 @@ columns:
 折福	fdjf
 泊地	ndho
 陈账	pxcn
-丁字街	aich
+丁字街	jich
 欠火	xqih
 伤耗	egdk
 宿疾	iemj
@@ -74840,7 +74840,7 @@ columns:
 笃爱	gbux
 笃诚	gbdk
 惊怪	rarb
-叩打	lafa
+叩打	lafj
 匿报	hsfa
 一而再再而三	fsjl
 不值一驳	gefb
@@ -74875,7 +74875,7 @@ columns:
 胡缠	jwkm
 压队	vhpr
 大都是	ohjf
-艳歌	dxal
+艳歌	dxjl
 悲哉	urgk
 历本	vsaf
 面禀	smaw
@@ -74977,7 +74977,7 @@ columns:
 定眼	ifjg
 定相	ifaj
 神号鬼哭	jldl
-福柯	jfaa
+福柯	jfaj
 铸字	odik
 解教	xshk
 久悬不决	xjgi
@@ -75003,13 +75003,13 @@ columns:
 披拂	fbfb
 抵掌而谈	fisd
 拘挛	fwtf
-打蔫	fasf
+打蔫	fjsf
 热劲	frbp
 扫瞄	fbjs
 挥毫落纸	fask
 横档	asai
 椰油	alnd
-顶台	avnl
+顶台	jvnl
 醒眼	pjjg
 杜口裹足	alap
 椭圆体	awea
@@ -75175,7 +75175,7 @@ columns:
 陈红	pxkp
 随堂	peih
 防辐射	pxqh
-阿姆	pace
+阿姆	pjce
 降分	ptkm
 预埋	kvhv
 双控	bbfi
@@ -75195,7 +75195,7 @@ columns:
 磷化	vqen
 原单	vdqj
 万利达	fmoo
-帮顶	dpav
+帮顶	dpjv
 非奸即盗	ucbi
 有缘无份	ekfe
 太严	oklq
@@ -75271,7 +75271,7 @@ columns:
 几折	ejfd
 嵊州	umnl
 恒昌	rfjj
-快歌	rbal
+快歌	rbjl
 属鼠	bgdb
 烟厂	iwvh
 火炬手	iifs
@@ -75284,7 +75284,7 @@ columns:
 宣导	ifoh
 容积率	iman
 补眠	xujo
-安亭	icaa
+安亭	icaj
 祁东	jpxi
 勾缝	wnkt
 外键	xuob
@@ -75432,7 +75432,7 @@ columns:
 勤读	sidg
 巨翼	hbvv
 劳步	sxpi
-苛细	sakv
+苛细	sjkv
 茶寮	srio
 英语角	sdxs
 陈套	pxou
@@ -75480,8 +75480,8 @@ columns:
 来鸿	fqnp
 死耗	fxdk
 来犯之敌	fhol
-玎玲	jajr
-不可数	gaqc
+玎玲	jjjr
+不可数	gjqc
 夷族	obtg
 卓而不群	usgb
 虚盈实亏	ugif
@@ -75654,7 +75654,7 @@ columns:
 诱胁	dmws
 施诊	tgdr
 戈多	kgxx
-汞灯	pnia
+汞灯	pnij
 黄网	sdcs
 取整	lbal
 戏骨	bkrg
@@ -75745,7 +75745,7 @@ columns:
 营养师	sqqf
 陕汽	pong
 职院	llpi
-阿狸	pahv
+阿狸	pjhv
 降妖除魔	pcpm
 双井	bbik
 巴厘岛	ovmu
@@ -75767,11 +75767,11 @@ columns:
 封测	hhnc
 求其	fnuq
 露阴	cppw
-南河	gcna
+南河	gcnj
 南星	gcjp
 专四	ieww
 塘桥	hmam
-武宁	fkia
+武宁	fkij
 玛尼	jbbn
 天福	fojf
 王英	jwsc
@@ -75807,7 +75807,7 @@ columns:
 暴汗	jsnn
 时隙	jhpi
 昌乐	jjki
-蛟河	qana
+蛟河	qanj
 跑过来	phfq
 贵店	ljmu
 路易斯安那	pjuy
@@ -75819,12 +75819,12 @@ columns:
 四核	wwat
 男版	vsdd
 罗尼	uxbn
-置顶帖	uauu
+置顶帖	ujuu
 囚鸟	wrmn
 山寨机	uiae
 内业	crie
 凡品	ekll
-慢歌	rjal
+慢歌	rjjl
 烤翅	ihgb
 米娜	qmcy
 穿越火线	ihik
@@ -75845,8 +75845,8 @@ columns:
 岳池	dfno
 挑战杯	fuag
 后怕虎	druh
-换歌	fxal
-打在	faeu
+换歌	fxjl
+打在	fjeu
 投标人	fare
 热刺	frac
 提供商	feaq
@@ -75945,7 +75945,7 @@ columns:
 多幕剧	xsbj
 回销	wloi
 活地狱	nhhd
-太阳灯	opia
+太阳灯	opij
 采景	uaja
 重霄	mvci
 抽肥补瘦	fwxm
@@ -75979,7 +75979,7 @@ columns:
 莫负	sjxc
 堇色	sixo
 巨祸	hbjl
-蒙顶	sxav
+蒙顶	sxjv
 雅各布森	htea
 花蝶	seqs
 薄伽丘	sedf
@@ -75994,8 +75994,8 @@ columns:
 布洛赫	enhk
 百念	vjrk
 灰紫	eipn
-奇耻	oalp
-奇作	oaeg
+奇耻	ojlp
+奇作	ojeg
 碰锁	vqoi
 奉敬	oasw
 垄作	fgeg
@@ -76007,7 +76007,7 @@ columns:
 越显	hkji
 无何有之乡	feek
 索绪尔	gkxi
-勃郎宁	gkia
+勃郎宁	gkij
 老调重谈	hdmd
 开叫	fslw
 顿住	xwek
@@ -76021,7 +76021,7 @@ columns:
 小熊座	inmr
 尖脸	iowr
 水鞋	nssh
-省油灯	inia
+省油灯	inij
 激光刀	nimd
 淘箩	nwgu
 小泉纯一郎	idkk
@@ -76029,7 +76029,7 @@ columns:
 晓雾	jxct
 贤劳	ubsx
 显位	jiek
-歇顶	jwav
+歇顶	jwjv
 晒烟	jpiw
 照眼	jmjg
 旷荡	jmsn
@@ -76078,7 +76078,7 @@ columns:
 搭脉	fswk
 措意	fskj
 年约	gakw
-朱顶	pkav
+朱顶	pkjv
 提制	fjpc
 握权	fbab
 抵数	fkqc
@@ -76139,7 +76139,7 @@ columns:
 亵慢	afrj
 谢病	dqmf
 良深	kgnx
-苦丁	sjad
+苦丁	sjjd
 蒲墩	snha
 警监	swug
 子畜	kzan
@@ -76193,7 +76193,7 @@ columns:
 擦手	fifs
 手残	fsfx
 扫听	fbld
-可乎	algq
+可乎	jlgq
 千术	mqak
 年休	gaea
 香木	mjam
@@ -76230,8 +76230,8 @@ columns:
 花刺	seac
 陆小凤	pieb
 聊友	lkeb
-阿斯	paud
-阿大	paod
+阿斯	pjud
+阿大	pjod
 双黄	bbsd
 双安	bbic
 对面鼓	bshg
@@ -76336,7 +76336,7 @@ columns:
 报名表	fxhg
 手机费	fabk
 李东	akxi
-李奇	akoa
+李奇	akoj
 李志	akhr
 李佳	akeh
 柘城	avhk
@@ -76348,14 +76348,14 @@ columns:
 矮油	jmnd
 重色	mvxo
 片石	dpvs
-香河	mjna
+香河	mjnj
 各店	tlmu
 血族	gutg
 科达	mioo
 科林	miaa
 笋岗	gbuc
 律所	cbdd
-交通厅	abva
+交通厅	abvj
 前四	qwww
 美资	qoix
 商贸城	akhk
@@ -76364,7 +76364,7 @@ columns:
 公明	knjw
 侠盗	eoix
 全家桶	riab
-何洁	eanh
+何洁	ejnh
 傻猪	edhh
 傻比	ednn
 体育部	eakl
@@ -76378,7 +76378,7 @@ columns:
 不经一事不长一智	gkfj
 要言	pcby
 有奖销售	eqoe
-奇计	oadg
+奇计	ojdg
 以近	ekdo
 麻酥酥	mppm
 大田作物	ovep
@@ -76396,7 +76396,7 @@ columns:
 耍笔杆	sgan
 死信	fxeb
 大脑炎	owii
-灯蛾	iaqg
+灯蛾	ijqg
 汤料	nyqi
 白报纸	dfkk
 吃不透	lgmg
@@ -76476,12 +76476,12 @@ columns:
 虚肿	uiwl
 虚渺	uinj
 虚誉	uink
-上可	jval
+上可	jvjl
 上闩	jvtf
 步韵	pikj
 渗出物	nwpw
 浅耕	nfdk
-水泥钉	nnoa
+水泥钉	nnoj
 水标	nsaj
 溃围	nlwa
 酒母	npem
@@ -76525,7 +76525,7 @@ columns:
 框在	aheu
 朴雅	auhe
 梦系	aago
-顶刮刮	allm
+顶刮刮	jllm
 校监	aaug
 梳起	aaho
 长列	ncfx
@@ -76600,7 +76600,7 @@ columns:
 面酱	smqx
 碎料	vaqi
 填单	hgqj
-起钉	hooa
+起钉	hooj
 过屠门而大嚼	hbtl
 才华超众	hehr
 天牢	foip
@@ -76672,7 +76672,7 @@ columns:
 出到	wwdm
 出火	wwih
 阿拉蕾	pfsc
-阿卡	paju
+阿卡	pjju
 附院	pepi
 防损	ptfl
 双儿	bbwr
@@ -76799,7 +76799,7 @@ columns:
 群雄争霸	bexc
 奶片	cgdp
 建国大业	bwoi
-妮可	cbal
+妮可	cbjl
 九尾	rjbm
 公考	knhh
 信用度	esms
@@ -76873,7 +76873,7 @@ columns:
 桂剧	ahbj
 不孚众望	gurt
 底样	mkaq
-俚歌	eval
+俚歌	evjl
 鱼花	xvse
 重孙女	mkcn
 兜捕	dkfn
@@ -76899,7 +76899,7 @@ columns:
 面目皆非	sjnu
 灰垢	eihd
 有错必纠	eork
-奇谲	oadk
+奇谲	ojdk
 袭占	fgul
 用非所长	sudn
 悬壁	jnbl
@@ -76907,7 +76907,7 @@ columns:
 受惩	uxcf
 遥祭	ujwj
 干干巴巴	nnoo
-直盯	gjja
+直盯	gjjj
 雷轰电闪	cxdt
 过称	homx
 南柯梦	gaaa
@@ -76955,7 +76955,7 @@ columns:
 快像	rbex
 飞迸	yiqs
 惯骗	rebh
-灯前	iaqw
+灯前	ijqw
 炕床	iama
 寡陋	ivpf
 家进	itik
@@ -77042,7 +77042,7 @@ columns:
 混元	njfl
 泥石	nbvs
 派件	ndep
-河田	navt
+河田	njvt
 滋滋	nqnq
 竖屏	ubbq
 冒菜	cisu
@@ -77290,7 +77290,7 @@ columns:
 老鼠过街人人喊打	hdhf
 成事不足败事有余	khgr
 言之谆谆	bodd
-丁是丁卯是卯	ajak
+丁是丁卯是卯	jjjk
 逸趣横生	xhap
 心病还须心药医	rmgh
 芽尖	shio
@@ -77383,7 +77383,7 @@ columns:
 气煤	gqis
 拨粮	fwqk
 拥军爱民	fxuo
-打禅	fajq
+打禅	fjjq
 挺然	fmwh
 拉罐	fkjs
 抢步	frpi
@@ -77498,8 +77498,8 @@ columns:
 散粉	swqk
 暮光之城	sioh
 陶粒	pwqk
-阿旺	pajj
-阿米	paqm
+阿旺	pjjj
+阿米	pjqm
 联票	lqpj
 限选	pgpw
 马庄	bmmh
@@ -77532,7 +77532,7 @@ columns:
 雪龙	cbfg
 天罗	foux
 王东	jwxi
-五哥	fbal
+五哥	fbjl
 五羊	fbqy
 再转	jcxi
 两居	fcbj
@@ -77541,7 +77541,7 @@ columns:
 瞎跑	jipw
 瞎侃	jiel
 餐卡	uxju
-盯盘	jauu
+盯盘	jjuu
 睫毛膏	jmaw
 江桥	npam
 汉源	nbnv
@@ -77561,7 +77561,7 @@ columns:
 思政	vrfp
 圈梁	wqnm
 周渝民	wnox
-凯奇	uooa
+凯奇	uooj
 几班	ejjq
 迟点	bkul
 粽叶	qilg
@@ -77581,9 +77581,9 @@ columns:
 捡起来	fhfq
 挂壁	fhbl
 掉钱	fuof
-哥斯拉	aufk
+哥斯拉	jufk
 李春	akoj
-李哥	akal
+李哥	akjl
 林正英	afsc
 杨磊	ayvv
 榆中	arlu
@@ -77605,7 +77605,7 @@ columns:
 赣榆	kjar
 六人行	arci
 北塔	qnhs
-人事厅	rhva
+人事厅	rhvj
 代表处	ehtu
 全智贤	rjub
 信息网	eqcs
@@ -77616,7 +77616,7 @@ columns:
 绝不后悔	kgdr
 维萨	kesp
 谍影	dsja
-讨打	dhfa
+讨打	dhfj
 京哈	ailr
 康宝莱	misf
 康城	mbhk
@@ -77633,7 +77633,7 @@ columns:
 挽幛	fxuk
 郁愤	ewrg
 花纱布	skeu
-丁字形	aifs
+丁字形	jifs
 单季稻	qmmu
 巧劲儿	pbwr
 蛋青	yphw
@@ -77685,7 +77685,7 @@ columns:
 素缎	hoke
 凸角	ufxs
 点档	ulai
-浚河	nnna
+浚河	nnnj
 泪盈盈	nggb
 浮升	nugs
 浓霜	nxca
@@ -77706,7 +77706,7 @@ columns:
 黑招	ghfm
 轨度	xrms
 办置	skug
-囚歌	wral
+囚歌	wrjl
 邮商	dpaq
 盎斯	coud
 岩滩	uvnb
@@ -77829,13 +77829,13 @@ columns:
 陈静	pxhw
 陈俊	pxen
 聚能	lbnw
-阿蒙	pasx
+阿蒙	pjsx
 限重	pgmv
 附二	peir
 队标	praj
 双扣	bbfl
 双底	bbmk
-通河	bsna
+通河	bsnj
 鸡脚	bmwh
 左海	epng
 有限元	epfl
@@ -77847,7 +77847,7 @@ columns:
 丰华	dfen
 大染坊	onht
 历城	vshk
-耐打	shfa
+耐打	shfj
 达斯	ooud
 春香	ojmj
 龙湖	fgnj
@@ -77879,7 +77879,7 @@ columns:
 汇总表	nqhg
 梁园	nmwf
 兴达	nkoo
-流亭	naaa
+流亭	naaj
 明湖	jwnj
 电芯	ddsr
 易居	jwbj
@@ -77927,7 +77927,7 @@ columns:
 第二层	gibi
 片材	dpah
 版头	ddio
-筒灯	gcia
+筒灯	gcij
 移门	mxtm
 特曼	phju
 第六个	garu
@@ -78006,7 +78006,7 @@ columns:
 满席	nsms
 治绩	nnkh
 溪泉	nudn
-河闸	natv
+河闸	njtv
 量在	jfeu
 晃出	jiww
 螺壳	qvhx
@@ -78022,10 +78022,10 @@ columns:
 心物	ripw
 类次	qoix
 精切	qhxm
-灯捻	iafr
+灯捻	ijfr
 熵增	iahq
 数头	qcio
-宴厅	ijva
+宴厅	ijvj
 祀奉	jooa
 杀鸡用牛刀	sbsm
 蟹膏	xsaw
@@ -78110,7 +78110,7 @@ columns:
 恨着	rgqj
 性命关天	rrqf
 迷妹	qocf
-灯珠	iajp
+灯珠	ijjp
 迷途知反	qrjd
 补档	xuai
 够着	wlqj
@@ -78119,7 +78119,7 @@ columns:
 提额	fjit
 提行	fjci
 押镖	fvop
-打怵	fara
+打怵	fjra
 热缩	frki
 拴着	frqj
 林阴	aapw
@@ -78154,7 +78154,7 @@ columns:
 三鑫	latt
 三刀	lamd
 破法	vbnh
-夏河	vjna
+夏河	vjnj
 百福	vjjf
 百阅	vjtq
 原片	vddp
@@ -78182,7 +78182,7 @@ columns:
 枣强	acbl
 残体	fxea
 紫雪	pncb
-小马哥	ibal
+小马哥	ibjl
 小套	ivou
 水票	nspj
 清洗剂	nntk
@@ -78219,7 +78219,7 @@ columns:
 拜月	ffwy
 反病毒	dmhe
 报关员	fqlc
-横河	asna
+横河	asnj
 李天	akfo
 李正	akfp
 梭织	ankl
@@ -78245,7 +78245,7 @@ columns:
 建外	baxu
 邵东	mlxi
 刀模	mdas
-建设厅	bdva
+建设厅	bdvj
 追求者	dfhj
 低值	ekeg
 使我们	eget
@@ -78326,16 +78326,16 @@ columns:
 狄尔泰	hxon
 金镑	tjoa
 报禁	faaa
-排打	fufa
+排打	fufj
 抚孤	ffku
 抚背	ffqn
 所道	ddqq
 探友	fxeb
 挤榨	ftai
-歌仙	aleu
+歌仙	jleu
 机窗	aeid
 机译	aedb
-楼厅	aqva
+楼厅	aqvj
 香台	mjnl
 秘旨	mrnj
 剪床	qwma
@@ -78347,7 +78347,7 @@ columns:
 冀盼	qnjk
 巡边员	lslc
 旮旮旯旯	rrjj
-何极	eaag
+何极	ejag
 俯首就擒	eqaf
 络纱	ktki
 绞手	kafs
@@ -78408,7 +78408,7 @@ columns:
 艾弗森	sbaa
 陈辰	pxmc
 阳逻	pjux
-阿衰	paaf
+阿衰	pjaf
 隆鑫	pttt
 巴蒂尔	osxi
 驻澳	bknd
@@ -78496,7 +78496,7 @@ columns:
 魏县	mcjn
 第八届	gkbd
 翔升	qvgs
-商河	aqna
+商河	aqnj
 资粮	ixqk
 次氯酸钠	igpo
 新服	kawa
@@ -78518,7 +78518,7 @@ columns:
 伏牛山	epus
 信息费	eqbk
 众泰	rron
-华宁	enia
+华宁	enij
 信宜	ebij
 红英	kpsc
 张小龙	bifg
@@ -78533,7 +78533,7 @@ columns:
 行不更名坐不改姓	cgfc
 石子儿	vkwr
 黔剧	grbj
-秧歌剧	mabj
+秧歌剧	mjbj
 婆婆嘴	nnlp
 跑圆场	pwhy
 邮售	dpel
@@ -78557,7 +78557,7 @@ columns:
 淫画	nufv
 清儒	nhec
 光像	ilex
-河埠	nahd
+河埠	njhd
 染丝	nrkk
 师严	qflq
 里比多	vnxx
@@ -78585,7 +78585,7 @@ columns:
 狄俄尼索斯	hebu
 抬步	fnpi
 近晚	dojx
-顶名	avxl
+顶名	jvxl
 楷字	anik
 私益	mnqk
 生煤	psis
@@ -78740,7 +78740,7 @@ columns:
 见木不见林	caga
 猛将如云	hqci
 反独促统	dhek
-可擦写	afxh
+可擦写	jfxh
 人心思治	rrvn
 弹不虚发	bguw
 广开财路	mfcp
@@ -78886,7 +78886,7 @@ columns:
 宇智波	ijnb
 牛二	pnir
 白虎堂	duih
-哥布林	aeaa
+哥布林	jeaa
 西三旗	pltg
 配电室	pdid
 配电柜	pdah
@@ -79049,7 +79049,7 @@ columns:
 千里之堤溃于蚁穴	mvoi
 顺我者昌逆我者亡	lght
 不能登大雅之堂	gnbi
-水可载舟亦可覆舟	nagu
+水可载舟亦可覆舟	njgu
 失之东隅收之桑榆	goxa
 放下屠刀立地成佛	tjbe
 得道多助失道寡助	cqxj
@@ -79183,7 +79183,7 @@ columns:
 攻无不克战无不胜	pfgw
 工欲善其事必先利其器	pkql
 独此一家别无分店	hpfm
-机不可失失不再来	agaf
+机不可失失不再来	agjf
 千军易得一将难求	mxjf
 失之毫厘差以千里	goav
 善有善报恶有恶报	qeqf
@@ -79220,7 +79220,7 @@ columns:
 爱词霸	udcs
 武器店	flmu
 涂鸦板	nhad
-小情歌	iral
+小情歌	irjl
 咳咳咳	lllt
 黑涩会	gnri
 赛尔号	ixlh
@@ -79238,7 +79238,7 @@ columns:
 留得青山在不怕没柴烧	kchi
 读书百遍其义自见	dyvc
 魔高一尺道高一丈	mafe
-丁子霖	akca
+丁子霖	jkca
 含含混混	rrnn
 再接再砺	jfjv
 唯女子与小人难养也	lcko
@@ -79288,7 +79288,7 @@ columns:
 文字链	tiox
 爱之欲其生恶之欲其死	uokf
 无源之水无本之末	fnof
-此而可忍孰不可忍	psam
+此而可忍孰不可忍	psjm
 好事不出门恶事行千里	chgv
 召之即来挥之即去	mobh
 佛是金装人是衣装	ejtq
@@ -79332,13 +79332,13 @@ columns:
 任凭风浪起稳坐钓鱼船	eeeu
 山上无老虎猴子称大王	ujfj
 怒从心上起恶向胆边生	crrp
-阿爸	paks
+阿爸	pjks
 官了	ibke
-呵叱	laln
+呵叱	ljln
 敢是	yljf
 转呈	xilj
 摊放	fbtt
-打票	fapj
+打票	fjpj
 爆仗	ijee
 屈心	bwri
 发蔫	wbsf
@@ -79369,7 +79369,7 @@ columns:
 隐蕴	pxsk
 陶锅	pwol
 孤楼	kuaq
-阿片	padp
+阿片	pjdp
 联供	lqes
 附骥	pebq
 险夷	prob
@@ -79406,7 +79406,7 @@ columns:
 脖间	wgtj
 县院	jnpi
 助恶	jslq
-悬灯	jnia
+悬灯	jnij
 腥咸	wjkf
 臊臭	wlqh
 胁制	wspc
@@ -79431,7 +79431,7 @@ columns:
 雾珠	ctjp
 教棒	hkao
 堆载	hegk
-坟顶	htav
+坟顶	htjv
 开购	fscw
 顿释	xwgq
 表奖	hgqx
@@ -79479,7 +79479,7 @@ columns:
 沟床	nwma
 汽门	ngtm
 漂越	nphk
-河殇	nafx
+河殇	njfx
 渊默	nkgh
 活瓣	nlku
 省编	igkh
@@ -79559,7 +79559,7 @@ columns:
 火灶	ihih
 火烙	ihit
 粼光	qxil
-灯壳	iahx
+灯壳	ijhx
 烙烫	itny
 粉板	qkad
 糖片	qmdp
@@ -79649,7 +79649,7 @@ columns:
 橱架	avsl
 梆梆	adad
 椅座	aomr
-可钻	alou
+可钻	jlou
 攀索	asgx
 栖落	apsn
 林际	aapj
@@ -79771,7 +79771,7 @@ columns:
 诉至	dddz
 诛连	dpxo
 诉累	ddvo
-订址	dahp
+订址	djhp
 谫陋	dqpf
 良训	kgdl
 论艺	drsy
@@ -79795,7 +79795,7 @@ columns:
 耳螨	leqs
 陆禽	part
 出栈	wwaf
-阿呀	palh
+阿呀	pjlh
 陪它	pkin
 双骑	bbbo
 对端	bhku
@@ -79881,7 +79881,7 @@ columns:
 轴体	xdea
 软媒	xxcs
 曲种	csml
-由打	dofa
+由打	dofj
 网工	cspg
 败势	ctfr
 幽隐	unpx
@@ -79917,7 +79917,7 @@ columns:
 米白	qmdb
 寒铁	isog
 灾备	iitv
-宁可玉碎不为瓦全	iajr
+宁可玉碎不为瓦全	ijjr
 被窃	xbix
 裸着	xjqj
 裸退	xjgo
@@ -79939,7 +79939,7 @@ columns:
 银鹭	ogpt
 银轴	ogxd
 键准	obie
-留灯	kvia
+留灯	kvij
 铱金	oatj
 挠着	fxqj
 拒婚	fhck
@@ -79981,11 +79981,11 @@ columns:
 西歧	pxpg
 酸曲	pncs
 桠杈	alab
-栈顶	afav
+栈顶	afjv
 梢公	aikn
 整字	alik
 速推	alfe
-歌诵	aldb
+歌诵	jldb
 柳婚	akck
 棉婚	adck
 木婚	amck
@@ -80097,16 +80097,16 @@ columns:
 辽化	koen
 陶氏	pwkx
 隐杀	pxsa
-阿萨	pasp
-阿达	paoo
-阿土	paht
-阿雪	pacb
-阿武	pafk
-阿星	pajp
-阿凯	pauo
-阿福	pajf
-阿娜	pacy
-阿维	pake
+阿萨	pjsp
+阿达	pjoo
+阿土	pjht
+阿雪	pjcb
+阿武	pjfk
+阿星	pjjp
+阿凯	pjuo
+阿福	pjjf
+阿娜	pjcy
+阿维	pjke
 联盛	lqky
 联强	lqbl
 附一	pefi
@@ -80177,7 +80177,7 @@ columns:
 原包	vdwo
 原材	vdah
 原机	vdae
-奇客	oait
+奇客	ojit
 硚口	vmlv
 邦购	dpcw
 肆佰	ubev
@@ -80316,7 +80316,7 @@ columns:
 小蛋	ivyp
 波仔	nbek
 沙角	nixs
-水哥	nsal
+水哥	nsjl
 泥质	nbdg
 棠下	iajx
 深棕	nxai
@@ -80439,8 +80439,8 @@ columns:
 煤泥	isnb
 类图	qowt
 爆机	ijae
-灯片	iadp
-灯牌	iadd
+灯片	ijdp
+灯牌	ijdd
 烂人	iqre
 粉晶	qkjj
 粉体	qkea
@@ -80506,7 +80506,7 @@ columns:
 换枪	fxar
 换偶	fxev
 魅魔	dfmd
-白宁	dbia
+白宁	dbij
 白牛	dbpn
 插片	fmdp
 热工	frpg
@@ -80754,12 +80754,12 @@ columns:
 灿烂辉煌	iiii
 千里之堤	mvoh
 火上加油	ijsn
-不可捉摸	gaff
+不可捉摸	gjff
 学海无涯	nnfn
 宁为玉碎	ikjv
 风月无边	ewfs
 含英咀华	rsle
-不可估量	gaej
+不可估量	gjej
 并肩作战	qheu
 低级趣味	ekhl
 不破不立	gvgk
@@ -80813,7 +80813,7 @@ columns:
 敲骨吸髓	arlr
 骨肉至亲	rcdk
 心神恍惚	rjrr
-不可动摇	gaif
+不可动摇	gjif
 栋梁之才	anoh
 一波未平	fnfn
 令人满意	rrnk
@@ -80842,7 +80842,7 @@ columns:
 庐山真面目	mugj
 打破常规	fvio
 号啕大哭	llol
-百事可乐	vhak
+百事可乐	vhjk
 畅行无阻	dcfp
 振兴中华	fnle
 消极怠工	nanp
@@ -80894,7 +80894,7 @@ columns:
 病魔缠身	mmkq
 国将不国	wqgw
 自由放任	qdte
-孰不可忍	agam
+孰不可忍	agjm
 后浪推前浪	dnfn
 后人乘凉	drmi
 驰骋疆场	bbbh
@@ -80954,7 +80954,7 @@ columns:
 忿忿不平	kkgn
 救人一命	frfr
 靠水吃水	pnln
-水调歌头	ndai
+水调歌头	ndji
 只此一家	lpfi
 面目狰狞	sjhh
 依样画葫芦	eafs
@@ -80978,7 +80978,7 @@ columns:
 一箭之地	fgoh
 餐风饮露	uexc
 日月无光	jwfi
-历历可数	vvaq
+历历可数	vvjq
 勃然变色	gwtx
 重建家园	mbiw
 重新做人	mker
@@ -81007,7 +81007,7 @@ columns:
 万语千言	fdmb
 穷奢极侈	ioae
 得意之色	ckox
-无可名状	faxq
+无可名状	fjxq
 昏头转向	kixd
 耸入云霄	rkic
 不知肉味	gjcl
@@ -81199,7 +81199,7 @@ columns:
 丑态毕露	bonc
 不求闻达	gfto
 杀鸡骇猴	sbbh
-油光可鉴	niau
+油光可鉴	niju
 清闲自在	ntqe
 异香扑鼻	omfq
 能者为师	nhkq
@@ -81312,7 +81312,7 @@ columns:
 公说公有理	kdkj
 一花独放	fsht
 不问青红皂白	gthd
-无迹可寻	ftab
+无迹可寻	ftjb
 满腔热血	nwfg
 落日余晖	sjrj
 后来者居上	dfhj
@@ -81736,7 +81736,7 @@ columns:
 慎重其事	rmuh
 旭日初升	rjxg
 青枝绿叶	hakl
-莫可奈何	saoe
+莫可奈何	sjoe
 称心满意	mrnk
 置之死地而后快	uofr
 文采风流	tuen
@@ -81855,13 +81855,13 @@ columns:
 孔雀东南飞	kixy
 窥见一斑	icfj
 贯彻始终	ecck
-无可匹敌	fall
+无可匹敌	fjll
 有百害而无一利	evim
 昼夜兼程	baqm
 渔翁之利	nkom
 没有不透风的墙	negh
 灯火阑珊处	iitt
-会当凌绝顶	riia
+会当凌绝顶	riij
 从善如登	rqcb
 暧昧不明	jjgj
 温文儒雅	nteh
@@ -82046,7 +82046,7 @@ columns:
 草蛇灰线	sqek
 烈士暮年	fhsg
 有耻且格	elja
-丁丁当当	aaii
+丁丁当当	jjii
 几度夕阳红	emxk
 公道合理	kqrj
 不幸而言中	ghsl
@@ -82078,7 +82078,7 @@ columns:
 翩翩风度	hhem
 耿耿忠心	lllr
 龙精虎猛	fquh
-不可胜计	gawd
+不可胜计	gjwd
 民膏民脂	oaow
 脸红耳热	wklf
 一丘一壑	fdfu
@@ -82155,7 +82155,7 @@ columns:
 天清气朗	fngk
 议论纷纭	ddkk
 进道若退	iqsg
-大有可观	oeab
+大有可观	oejb
 不测之忧	gnor
 名山胜水	xuwn
 深山幽谷	nuuk
@@ -82234,10 +82234,10 @@ columns:
 挂冠求去	fxfh
 克己慎行	jorc
 人来客往	rfic
-未为不可	fkga
+未为不可	fkgj
 意义深长	kknn
 牛之一毛	pofm
-历历可见	vvac
+历历可见	vvjc
 刀光血影	migj
 一言中的	fbld
 诚心正意	drfk
@@ -82526,7 +82526,7 @@ columns:
 人生若只如初见	rpsc
 弃笔从戎	agrk
 举杯邀明月	nadw
-只可意会不可言传	lake
+只可意会不可言传	ljke
 狼狈逃窜	hhwi
 近乡情更怯	dkrr
 云深不知处	ingt
@@ -82553,7 +82553,7 @@ columns:
 仇人相见分外眼红	erak
 追风逐日	detj
 言有尽而意无穷	bebi
-可笑不自量	aggj
+可笑不自量	jggj
 泰山不让土壤	ough
 惟精惟一	rqrf
 三元及第	lfgg
@@ -82583,17 +82583,17 @@ columns:
 独钓寒江雪	hoic
 日出江花红胜火	jwni
 春来江水绿如蓝	ofns
-无可置喙	faul
+无可置喙	fjul
 离离原上草	ttvs
 上穷碧落下黄泉	jijd
-此情可待成追忆	prar
+此情可待成追忆	prjr
 上知天文下知地理	jjfj
 红豆生南国	kfpw
 春城无处不飞花	ohfs
 千金不换	mtgf
 视死如生	jfcp
 所答非所问	dgut
-一蹴可几	fpae
+一蹴可几	fpje
 中外合璧	lxrb
 好学深思	cnnv
 失败为成功之母	gcke
@@ -82612,8 +82612,8 @@ columns:
 念念不舍	rrgr
 胸有丘壑	wedu
 一画开天	ffff
-逸豫可以亡身	xkaq
-忧劳可以兴国	rsaw
+逸豫可以亡身	xkjq
+忧劳可以兴国	rsjw
 孤帆远影碧空尽	kufb
 月落乌啼霜满天	wsmf
 未成曲调先有情	fkcr
@@ -82702,7 +82702,7 @@ columns:
 遍插茱萸少一人	hfsr
 笑问客从何处来	gtif
 竹外桃花三两枝	gxaa
-不可沽名学霸王	ganj
+不可沽名学霸王	gjnj
 不足为道	gpkq
 古来征战几人回	jfcw
 信口胡诌	eljd
@@ -82821,7 +82821,7 @@ columns:
 江清月近人	nnwr
 深林人不知	narj
 闲来垂钓碧溪上	tfmj
-行不得也哥哥	cgca
+行不得也哥哥	cgcj
 上有黄鹂深树鸣	jesl
 但愿长醉不愿醒	evnp
 云雨巫山枉断肠	icpw
@@ -82832,7 +82832,7 @@ columns:
 潮平两岸阔	nnft
 功夫之王	pooj
 年年岁岁花相似	ggue
-无可估量	faej
+无可估量	fjej
 青山遮不住	hume
 衣食足而知荣辱	akpm
 落霞与孤鹜齐飞	schy
@@ -82930,7 +82930,7 @@ columns:
 松鹤延年	axgg
 千里江陵一日还	mvng
 学海无涯苦作舟	nnfu
-高不可及	agag
+高不可及	agjg
 铁面无情	osfr
 故人西辞黄鹤楼	jrpa
 红泥小火炉	knii
@@ -83125,7 +83125,7 @@ columns:
 风烟望五津	eitn
 玉容寂寞泪阑干	jiin
 分明怨恨曲中论	kjxd
-对此可以酣高楼	bpaa
+对此可以酣高楼	bpja
 春心莫共花争发	orsw
 苦恨年年压金线	srgk
 忽见陌头杨柳色	wcpx
@@ -83160,7 +83160,7 @@ columns:
 山外青山楼外楼	uxha
 王师北定中原日	jqqj
 最是一年春好处	jjft
-曲项向天歌	cpda
+曲项向天歌	cpdj
 事了拂衣去	hkfh
 二月春风似剪刀	iwom
 东风第一枝	xega
@@ -83178,7 +83178,7 @@ columns:
 嬉笑怒骂皆成文章	cgck
 煮豆燃豆萁	hfis
 无边光景一时新	fsik
-机不可失时不再来	agaf
+机不可失时不再来	agjf
 渭城朝雨浥轻尘	nhgi
 即从巴峡穿巫峡	brou
 月涌大江流	wnon
@@ -83226,12 +83226,12 @@ columns:
 青霭入看无	hckf
 蓬莱文章建安骨	sstr
 欲将轻骑逐	kqxt
-凤歌笑孔丘	eagd
+凤歌笑孔丘	ejgd
 青山横北郭	huaa
 灭烛怜光满	firn
 阴阳割昏晓	ppij
 艰难苦恨繁霜鬓	bbsu
-与君歌一曲	hbac
+与君歌一曲	hbjc
 名成八阵图	xkkw
 侍儿扶起娇无力	ewfs
 悔教夫婿觅封侯	rhoe
@@ -83467,7 +83467,7 @@ columns:
 红掌拨清波	kifn
 不知何处是他乡	gjek
 阅尽人间春色	tbrx
-可怜夜半虚前席	aram
+可怜夜半虚前席	jram
 欢呼雷动	blci
 小人之交甘若醴	irop
 白发三千丈	dwle
@@ -83488,7 +83488,7 @@ columns:
 云中谁寄锦书来	ildf
 铜雀春深锁二乔	oiom
 万里悲秋常作客	fvui
-登幽州台歌	buna
+登幽州台歌	bunj
 一吟双泪流	flbn
 人生不相见	rpgc
 骤雨不终日	bcgj
@@ -83525,7 +83525,7 @@ columns:
 地崩山摧壮士死	huuf
 战士军前半死生	uhxp
 西北望长安	pqti
-我歌月徘徊	gawc
+我歌月徘徊	gjwc
 应是绿肥红瘦	mjkm
 居人共住武陵源	brsn
 君子忧道不忧贫	bkrk
@@ -83547,13 +83547,13 @@ columns:
 中间多少行人泪	ltxn
 明月楼高休独倚	jwae
 钟山只隔数重山	oulu
-歌尽桃花扇底风	abae
+歌尽桃花扇底风	jbae
 人世几回伤往事	rseh
 萋萋满别情	ssnr
 寥落古行宫	isji
 细草微风岸	kscu
 我欲因之梦吴越	gkwh
-可怜九月初三夜	arra
+可怜九月初三夜	jrra
 先遣小姑尝	plii
 初日照高林	xjja
 看你横行到几时	feaj
@@ -83627,7 +83627,7 @@ columns:
 非淡泊无以明志	unnh
 以及人之幼	egrn
 仕而优则学	esen
-往来无白丁	cffa
+往来无白丁	cffj
 多费口舌	xbll
 国人皆曰可杀	wrns
 光荣岁月	isuw
@@ -83651,7 +83651,7 @@ columns:
 日日思君不见君	jjvb
 乃敢与君绝	gyhk
 双管猎枪	bgha
-三军可夺帅也	lxao
+三军可夺帅也	lxjo
 飞雪迎春到	yckd
 坐收渔人之利	rwnm
 铁马冰河入梦来	obif
@@ -83672,7 +83672,7 @@ columns:
 夹道欢呼	oqbl
 春江潮水连海平	onnn
 鸟鸣山更幽	mluu
-可远观而不可亵玩焉	afbf
+可远观而不可亵玩焉	jfbf
 龙生龙凤生凤	fpfe
 子在川上曰	kelj
 只有香如故	lemj
@@ -83718,7 +83718,7 @@ columns:
 心似双丝网	rebc
 孤云独去闲	kiht
 平沙莽莽黄入天	nnsf
-可怜无定河边骨	arfr
+可怜无定河边骨	jrfr
 马作的卢飞快	bedr
 终南阴岭秀	kgpm
 尔来四万八千岁	xfwu
@@ -83759,7 +83759,7 @@ columns:
 了却君王天下事	khbh
 一曲红绡不知数	fckq
 却看妻子愁何在	hfge
-可怜无数山	arfu
+可怜无数山	jrfu
 如听仙乐耳暂明	clej
 山随平野尽	upnb
 丹青不知老将至	whgd
@@ -83827,7 +83827,7 @@ columns:
 今夜闻君琵琶语	ratd
 对此欲倒东南倾	bpke
 干戈寥落四周星	nkij
-歌管楼台声细细	agak
+歌管楼台声细细	jgak
 耿耿星河欲曙天	lljf
 芙蓉塘外有轻雷	sshc
 缺月挂疏桐	jwfa
@@ -83947,7 +83947,7 @@ columns:
 便纵有千种风情	eker
 万里赴戎机	fvha
 野径云俱黑	vcig
-零丁洋里叹零丁	cana
+零丁洋里叹零丁	cjnj
 家家扶得醉人归	iifq
 三国周郎赤壁	lwwb
 无言独上西楼	fbha
@@ -83970,7 +83970,7 @@ columns:
 孤城遥望玉门关	khuq
 云母屏风烛影深	iebn
 寂寞开无主	iifk
-可怜白发生	ardp
+可怜白发生	jrdp
 农夫犹饿死	xohf
 更在斜阳外	ferx
 有暗香盈袖	ejmx
@@ -84054,7 +84054,7 @@ columns:
 高楼当此夜	aaia
 古木无人径	jafc
 香雾云鬟湿	mcin
-缓歌慢舞凝丝竹	karg
+缓歌慢舞凝丝竹	kjrg
 昔日横波目	sjaj
 洞庭秋水远连天	nmmf
 云边雁断胡天月	isvw
@@ -84142,7 +84142,7 @@ columns:
 在乎山水之间也	eguo
 宛在水中央	ienc
 北方有佳人	qter
-白雪歌送武判官归京	dcaa
+白雪歌送武判官归京	dcja
 孟母择邻	kefr
 带月荷锄归	swsq
 奉命于危难之间	orft
@@ -84180,7 +84180,7 @@ columns:
 不戚戚于贫贱	gkkc
 忍顾鹊桥归路	mvsp
 直把杭州作汴州	gfan
-西湖歌舞几时休	pnae
+西湖歌舞几时休	pnje
 荷尽已无擎雨盖	sboq
 我辈复登临	gugu
 一日难再晨	fjbj
@@ -84292,7 +84292,7 @@ columns:
 顾我无衣搜荩箧	vgfg
 天上人间会相见	fjrc
 莫辞更坐弹一曲	slfc
-可怜飞燕倚新妆	aryq
+可怜飞燕倚新妆	jryq
 奴为出来难	ckwb
 三年谪宦此栖迟	lgdb
 我闻琵琶已叹息	gtjq
@@ -84323,7 +84323,7 @@ columns:
 徒令上将挥神笔	crjg
 傍花随柳过前川	espl
 今日花开又一年	rjsg
-哥舒夜带刀	aram
+哥舒夜带刀	jram
 月露谁教桂叶香	wcdm
 人间亦自有丹丘	rttd
 万里归心对月明	fvqj
@@ -84347,12 +84347,12 @@ columns:
 踏遍青山人未老	phhh
 君子喻于义	bklk
 长太息以掩涕兮	noqk
-士不可以不弘毅	hgak
+士不可以不弘毅	hgjk
 海上升明月	njgw
 千淘万漉虽辛苦	mnfs
 极目楚天舒	ajar
 雏凤清于老凤声	xenh
-不可不察也	gago
+不可不察也	gjgo
 莲叶何田田	slev
 千门万户曈曈日	mtfj
 成如容易却艰辛	kcik
@@ -84369,7 +84369,7 @@ columns:
 万物生光辉	fppi
 惊起一滩鸥鹭	rhfp
 当时只道是寻常	ijli
-江南可采莲	ngas
+江南可采莲	ngjs
 蒌蒿满地芦芽短	ssnj
 今日长缨在手	rjnf
 何时缚住苍龙	ejkf
@@ -84443,7 +84443,7 @@ columns:
 又疑瑶台镜	bnjo
 泪满春衫袖	nnox
 鱼戏莲叶西	xbsp
-峨眉山月歌	ubua
+峨眉山月歌	ubuj
 有约不来过夜半	ekgq
 一一生绿苔	ffps
 铁马秋风大散关	obmq
@@ -84551,12 +84551,12 @@ columns:
 坐断东南战未休	rqxe
 深柳读书堂	nadi
 青泥何盘盘	hneu
-炙手可热势绝伦	wfae
+炙手可热势绝伦	wfje
 预将书报家	kqyi
 信知生男恶	ejpl
 以手抚膺坐长叹	effl
 五千仞岳上摩天	fmef
-可怜后主还祠庙	ardm
+可怜后主还祠庙	jrdm
 无家问死生	fitp
 寒林空见日斜时	iaij
 莫道不消魂	sqgi
@@ -84647,9 +84647,9 @@ columns:
 瑞脑消金兽	jwnq
 他生缘会更难期	epku
 不带走一片云彩	gshu
-可上九天揽月	ajrw
+可上九天揽月	jjrw
 通古今之变	bjrt
-歌诗合为事而作	adre
+歌诗合为事而作	jdre
 千里马常有	mvbe
 一日看尽长安花	fjfs
 使老有所终	ehek
@@ -84658,7 +84658,7 @@ columns:
 荆楚岁时记	saud
 得道者多助	cqhj
 金猴奋起千钧棒	thoa
-民可使由之	oaeo
+民可使由之	ojeo
 万类霜天竞自由	fqcd
 凌寒独自开	iihf
 所以动心忍性	deir
@@ -84711,7 +84711,7 @@ columns:
 身后有余忘缩手	qdef
 等闲变却故人心	gttr
 凤去台空江自流	ehnn
-学不可以已	ngao
+学不可以已	ngjo
 胡马依北风	jbee
 江上数峰青	njqh
 捻断数茎须	fqqc
@@ -84719,7 +84719,7 @@ columns:
 见我应如是	cgmj
 人似浮云影不留	renk
 满架蔷薇一院香	nssm
-可以为师矣	aekn
+可以为师矣	jekn
 雄鸡一声天下白	ebfd
 三杯吐然诺	lald
 满眼风光北固楼	njea
@@ -84758,7 +84758,7 @@ columns:
 细雨鱼儿出	kcxw
 长烟落日孤城闭	nist
 四面边声连角起	wssh
-而后可以有为	sdak
+而后可以有为	sdjk
 少年辛苦终身事	igkh
 弟子服其劳	qkws
 凉风起天末	iehf
@@ -84898,14 +84898,14 @@ columns:
 无言谁会凭阑意	fbdk
 当年不肯嫁春风	igge
 迢递三巴路	mqlp
-可以横绝峨眉巅	aeau
+可以横绝峨眉巅	jeau
 意欲凌风翔	kkiq
-忽闻歌古调	wtad
+忽闻歌古调	wtjd
 石矶西畔问渔船	vvpu
 偏惊物候新	erpk
 自清凉无汗	qnin
 清川澹如此	nlnp
-可以无饥矣	aefn
+可以无饥矣	jefn
 几曾识干戈	eqdk
 百年都是几多时	vghj
 忍能对面为盗贼	mnbc
@@ -85164,13 +85164,13 @@ columns:
 一轮秋影转金波	fxmn
 携来百侣曾游	ffvn
 赠卫八处士	cakh
-可怜今夕月	arrw
+可怜今夕月	jrrw
 人间那得几回闻	rtyt
 苟余心之端直兮	srrk
 肯爱千金轻一笑	pumg
 感时思报国	kjvw
 还似旧时游上苑	geus
-何方可化身千亿	etae
+何方可化身千亿	etje
 乡心新岁切	krkx
 银汉迢迢暗度	onmm
 日暮东风怨啼鸟	jsxm
@@ -85280,7 +85280,7 @@ columns:
 万事随转烛	fhpi
 招魂楚些何嗟及	fiag
 愁肠待酒舒	mwcr
-教坊犹奏离别歌	hhha
+教坊犹奏离别歌	hhhj
 不薄今人爱古人	gsrr
 五更疏欲断	ffyq
 嗟尔远道之人	lxfr
@@ -85326,7 +85326,7 @@ columns:
 判司卑官不堪说	qydd
 五千貂锦丧胡尘	fmmi
 少小虽非投笔吏	iilf
-君歌且休听我歌	baja
+君歌且休听我歌	bjjj
 别有人间行路难	lerb
 宜人独桂林	irha
 即公孙可知矣	bkkn
@@ -85359,9 +85359,9 @@ columns:
 不义而富且贵	gksl
 本立而道生	aksp
 九万里风鹏正举	rfvn
-不可居无竹	gabg
+不可居无竹	gjbg
 鳏寡孤独废疾者皆有所养	xikq
-可以知得失	aejg
+可以知得失	jejg
 结庐在人境	kmeh
 暮色苍茫看劲松	sxsa
 春有百花秋有月	oevw
@@ -85483,7 +85483,7 @@ columns:
 无友不如己者	fegh
 长恨人心不如水	nrrn
 新沐者必弹冠	knhx
-可怜身上衣正单	arqq
+可怜身上衣正单	jrqq
 山有木兮木有枝	ueaa
 古之学者必有师	jonq
 快走踏清秋	rhpm
@@ -85599,7 +85599,7 @@ columns:
 又得浮生一日凉	bcni
 山石荦确行径微	uvsc
 人皆苦炎热	rnsf
-长歌怀采薇	nars
+长歌怀采薇	njrs
 长亭酒一瓢	nanp
 正故国晚秋	fjwm
 忠愤气填膺	lrgm
@@ -85680,7 +85680,7 @@ columns:
 青天无片云	hffi
 管竹管山管水	gggn
 感子故意长	kkjn
-一杯相属君当歌	faaa
+一杯相属君当歌	faaj
 苍然满关中	swnl
 舞困榆钱自落	gwas
 时见松枥皆十围	jcaw
@@ -85703,7 +85703,7 @@ columns:
 愁还随我上高楼	mgpa
 阵马檐间铁	pbao
 经行几处江山改	kceo
-君歌声酸辞且苦	bahs
+君歌声酸辞且苦	bjhs
 今夜鄜州月	ramw
 不会得青青如此	grcp
 清风吹空月舒波	neln
@@ -85734,7 +85734,7 @@ columns:
 香在无寻处	meft
 黄花白发相牵挽	ssdf
 欹枕江南烟雨	oanc
-可怜青冢已芜没	arhn
+可怜青冢已芜没	jrhn
 东风袅袅泛崇光	xemi
 尚有哀弦留至今	iear
 一霎清明雨	fcnc
@@ -85768,7 +85768,7 @@ columns:
 迟日江山暮	bjns
 群彦今汪洋	bkrn
 赦书一日行万里	hyfv
-我歌今与君殊科	garm
+我歌今与君殊科	gjrm
 天涯哭此时	fnlj
 千丈岩瀑布	meue
 乍富不知新受用	gigs
@@ -85779,7 +85779,7 @@ columns:
 下床畏蛇食畏药	jmvs
 孤负当年林下意	kxik
 牛渚西江夜	pnpa
-长歌吟松风	nale
+长歌吟松风	njle
 遥寄海西头	uini
 野老念牧童	vhrk
 是以陷邻境	jeph
@@ -85805,7 +85805,7 @@ columns:
 莫见长安行乐处	scnt
 聚散真容易	lsgj
 宾从杂沓实要津	irrn
-可以荐嘉客	aesi
+可以荐嘉客	jesi
 认得醉翁语	dcpd
 夜深儿女灯前	anwq
 长于春梦几多时	nfoj
@@ -85866,7 +85866,7 @@ columns:
 以百姓心为心	evcr
 见善如不及	cqcg
 唤起工农千百万	lhpf
-可下五洋捉鳖	ajfq
+可下五洋捉鳖	jjfq
 壮观天下无	qbff
 于我如浮云	fgci
 一年十二月	fggw
@@ -85877,7 +85877,7 @@ columns:
 吾道一以贯之	fqfo
 为之于未有	kofe
 此之谓大丈夫	podo
-不可使知之	gaeo
+不可使知之	gjeo
 不见当年秦始皇	gcid
 截断巫山云雨	gqpc
 手把红旗旗不湿	ffkn
@@ -85932,7 +85932,7 @@ columns:
 桂子月中落	akws
 五音令人耳聋	fkrf
 天时人事日相催	fjre
-可以濯我足	aenp
+可以濯我足	jenp
 山寺月中寻桂子	uhwk
 流水前波让后波	nnqn
 江城五月落梅花	nhfs
@@ -85948,7 +85948,7 @@ columns:
 南国有佳人	gwer
 化为绕指柔	ekkk
 万户千门入画图	fhmw
-可以濯我缨	aenk
+可以濯我缨	jenk
 无灾无难到公卿	fifk
 郁郁乎文哉	eegg
 黄鹤楼中吹玉笛	sxag
@@ -85956,7 +85956,7 @@ columns:
 必也使无讼乎	roeg
 人皆有不忍人之心	rner
 无竹令人俗	fgre
-万户萧疏鬼唱歌	fhsa
+万户萧疏鬼唱歌	fhsj
 一雷惊蛰始	fcrc
 柳絮飞时花满城	acyh
 为大于其细	kofk
@@ -85972,7 +85972,7 @@ columns:
 居简而行简	bgsg
 糟丘是蓬莱	qdjs
 且须饮美酒	jcxn
-不可一日无此君	gafb
+不可一日无此君	gjfb
 图难于其易	wbfj
 驰骋天下之至坚	bbfu
 大地微微暖气吹	ohcl
@@ -85980,7 +85980,7 @@ columns:
 八月十五夜	kwga
 君孰与不足	bahp
 此去泉台招旧部	phdk
-不可不知也	gago
+不可不知也	gjgo
 清江一曲抱村流	nnfn
 北上太行山	qjou
 不使胜食气	gewg
@@ -86050,7 +86050,7 @@ columns:
 生离与死别	pthl
 未足与议也	fpho
 性本爱丘山	rauu
-可爱深红爱浅红	aunk
+可爱深红爱浅红	junk
 少无适俗韵	iflk
 赣水那边红一角	knyx
 翩翩佳公子	hhek
@@ -86067,7 +86067,7 @@ columns:
 于斯三者何先	fulp
 必也狂狷乎	rohg
 而耻恶衣恶食者	sllh
-孰不可忍也	agao
+孰不可忍也	agjo
 娉娉袅袅十三余	ccmr
 平平仄仄平平仄	nnvv
 两人对酌山花开	frbf
@@ -86107,7 +86107,7 @@ columns:
 勿临渴而掘井	wuni
 身上衣裳口中食	qjak
 将船买酒白云边	quys
-可以寄百里之命	aeir
+可以寄百里之命	jeir
 善抱者不脱	qfhw
 心事恐蹉跎	rhpp
 暮云收尽溢清寒	siwi
@@ -86116,7 +86116,7 @@ columns:
 惟愿孩儿愚且鲁	rvkx
 臣事君以忠	hhbl
 刺破青天锷未残	avhf
-富而可求也	isao
+富而可求也	isjo
 笑入胡姬酒肆中	gkjl
 等闲平地起波澜	gtnn
 字余曰灵均	irjh
@@ -86216,7 +86216,7 @@ columns:
 经冬复历春	ktgo
 忘了除非醉	tkpp
 百啭千声随意移	vlmm
-何可一日无此君	eafb
+何可一日无此君	ejfb
 昭阳殿里第一人	jpbr
 有吏夜捉人	efar
 转益多师是汝师	xqxq
@@ -86239,9 +86239,9 @@ columns:
 一棹碧涛春水路	fajp
 东城渐觉风光好	xhnc
 名与身孰亲	xhqk
-可怜无补费精神	arfj
+可怜无补费精神	jrfj
 熟读而精思	adsv
-可惜一溪风月	arfw
+可惜一溪风月	jrfw
 莫教踏碎琼瑶	shpj
 此身虽在堪惊	pqlr
 匹马戍梁州	lbkn
@@ -86392,7 +86392,7 @@ columns:
 只有兴亡满目	lenj
 莫负东篱菊蕊黄	sxxs
 四足无一蹶	wpfp
-可惜风流总闲却	areh
+可惜风流总闲却	jreh
 人言头上发	rbiw
 随君直到夜郎西	pbgp
 记得小苹初见	dcic
@@ -86481,7 +86481,7 @@ columns:
 宝钗楼外秋深	ioan
 必浚其泉源	rnun
 衙斋卧听萧萧竹	cthg
-可以正衣冠	aefx
+可以正衣冠	jefx
 相知无远近	ajfd
 见不善如探汤	cgqn
 长沙马王堆汉墓	nnbs
@@ -86603,7 +86603,7 @@ columns:
 先王之道斯为美	pjoq
 天下莫能与之争	fjsx
 红旗卷起农奴戟	ktqg
-山顶千门次第开	uamf
+山顶千门次第开	ujmf
 窗外疏梅筛月影	ixyj
 泛爱众而亲仁	nure
 无所不至矣	fdgn
@@ -86793,7 +86793,7 @@ columns:
 携手日同行	ffjc
 人生如逆旅	rpct
 明年人日知何处	jgrt
-可以托六尺之孤	aefk
+可以托六尺之孤	jefk
 矮纸斜行闲作草	jkrs
 醉眠秋共被	pjmx
 共看明月皆如此	sfjp
@@ -86851,7 +86851,7 @@ columns:
 以其不自生	eugp
 如此风波不可行	cpec
 小人求诸人	irfr
-可谓仁之方也已	adeo
+可谓仁之方也已	jdeo
 吊古战场文	ljut
 花发江边二月晴	swnj
 问今是何世	trjs
@@ -86867,7 +86867,7 @@ columns:
 不辞冰雪为卿热	glif
 有志在四方	ehet
 不贵难得之货	glbe
-露顶洒松风	cane
+露顶洒松风	cjne
 照横塘半天残月	jahw
 人瘦尚可肥	rmiw
 岂云惮险艰	uirb
@@ -86892,7 +86892,7 @@ columns:
 我非生而知之者	guph
 晓战随金鼓	juph
 南园春半踏青时	gwoj
-求为可知也	fkao
+求为可知也	fkjo
 秋空明月悬	mijj
 蜀国多仙山	uwxu
 天下万物生于有	fjfe
@@ -86948,7 +86948,7 @@ columns:
 公私仓廪俱丰实	kmri
 举头望山月	nitw
 雨色秋来寒	cxmi
-歌吹孙楚楼	alka
+歌吹孙楚楼	jlka
 天河挂绿水	fnfn
 洒向人间都是怨	ndrx
 来看南山冷翠微	ffgc
@@ -86999,10 +86999,10 @@ columns:
 不惭世上英	grss
 况属高风晚	ibaj
 锦里开芳宴	ovfi
-耐可乘流直上天	samf
+耐可乘流直上天	sjmf
 我书意造本无法	gykn
 杜宇一声春晓	aifj
-不可得而利	gacm
+不可得而利	gjcm
 飞蝗来时半天黑	yqfg
 直为斩楼兰	gkxq
 薰风初入弦	sexb
@@ -87027,7 +87027,7 @@ columns:
 白首相知犹按剑	dqar
 暮婚晨告别	scjl
 户庭无尘杂	hmfr
-不可得而害	gaci
+不可得而害	gjci
 暮及陇山头	sgpi
 化人似驯鸥	ereh
 长使英雄泪沾襟	nesx
@@ -87052,9 +87052,9 @@ columns:
 山桃红花满上头	uaki
 光景不待人	ijgr
 定知玉兔十分圆	ijjw
-不可得而疏	gacy
+不可得而疏	gjcy
 但奏无弦琴	eofj
-不可得而闻也	gaco
+不可得而闻也	gjco
 平明发咸阳	njwp
 红稻白鱼饱儿女	kmdc
 住也如何住	eoce
@@ -87064,8 +87064,8 @@ columns:
 遗民泪尽胡尘里	lonv
 功成身不退	pkqg
 百花潭水即沧浪	vsnn
-故不可得而亲	jgak
-不可得而贱	gacc
+故不可得而亲	jgjk
+不可得而贱	gjcc
 尘暗旧貂裘	ijuf
 乱蝉衰草小池塘	lqah
 小邑犹藏万家室	ilhi
@@ -87089,7 +87089,7 @@ columns:
 玉山高并两峰寒	juai
 杂树晚相迷	rajq
 田家占气候	viue
-可谓好学也已	adco
+可谓好学也已	jdco
 瓮牖绳枢之子	kdkk
 功名只向马上取	pxll
 寄与陇头人	ihpr
@@ -87142,7 +87142,7 @@ columns:
 泪痕红浥鲛绡透	nmkm
 雨洗娟娟净	cnci
 常于几成而败之	ifeo
-不可得而贵	gacl
+不可得而贵	gjcl
 笔所未到气已吞	gdff
 驿骑如星流	bbcn
 喜见外弟又言别	hcxl
@@ -87152,15 +87152,15 @@ columns:
 长吟望浊泾	nltn
 入则无法家拂士	kcfh
 扁舟共济与君同	husc
-达人无不可	orfa
+达人无不可	orfj
 常羡人间琢玉郎	iqrk
 各复归其根	tgqa
 自矜者不长	qkhn
 西园翰墨林	pwga
 非世俗之所服	usew
 今岁今宵尽	rurb
-可使食无肉	aekc
-亦不可行也	tgao
+可使食无肉	jekc
+亦不可行也	tgjo
 只有天在上	lefj
 千千石楠树	mmva
 共说此年丰	sdpd
@@ -87175,8 +87175,8 @@ columns:
 当垆笑春风	ihge
 沧海横流安足虑	nnau
 使民不为盗	eogi
-万里可横行	fvac
-始可与言诗已矣	cahn
+万里可横行	fvjc
+始可与言诗已矣	cjhn
 金陵凤凰台	tpen
 送李愿归盘谷序	qavm
 分我一杯羹	kgfq
@@ -87184,7 +87184,7 @@ columns:
 使民如承大祭	eocw
 五陵年少金市东	fpgx
 不失其所者久	ggux
-可以为天地母	aeke
+可以为天地母	jeke
 俯仰天地间	eeft
 焦遂五斗方卓然	eqfw
 舒而脱脱兮	rswk
@@ -87203,8 +87203,8 @@ columns:
 乡人皆好之	krno
 不炼金丹不坐禅	gitj
 到处潜悲辛	dtnk
-未可与适道	fahq
-君行吾为发浩歌	bcfa
+未可与适道	fjhq
+君行吾为发浩歌	bcfj
 邂逅五湖乘兴往	xdfc
 欲以观其徼	kebc
 南湖秋水夜无烟	gnmi
@@ -87219,7 +87219,7 @@ columns:
 为伴宿清溪	kein
 老去新诗谁与传	hhke
 陌上看花人	pjfr
-雍也可使南面	aoas
+雍也可使南面	aojs
 唤作拒霜知未称	lefm
 殊异乎公行	fogc
 汩余若将不及兮	nrsk
@@ -87302,7 +87302,7 @@ columns:
 淡扫明湖开玉镜	nfjo
 五株桃树亦从遮	faam
 红衣浅复深	kann
-行歌尽落梅	caba
+行歌尽落梅	cjba
 吾不欲观之矣	fgkn
 不如向帘儿底下	gcdj
 蜀国曾闻子规鸟	uwqm
@@ -87454,7 +87454,7 @@ columns:
 征帆一片绕蓬壶	cufh
 在德不在险	ecgp
 春水船如天上坐	onur
-悲歌为黎元	uakf
+悲歌为黎元	ujkf
 麝香眠石竹	mmjg
 环佩空归月夜魂	jeii
 幽处欲生云	utki
@@ -87479,7 +87479,7 @@ columns:
 赤叶枫林百舌鸣	hlal
 寂寞山城人老也	iiuo
 清筝何缭绕	ngek
-乐其可知也	kuao
+乐其可知也	kujo
 风动护花铃	eifo
 玉面耶溪女	jslc
 波澜独老成	nnhk
@@ -87491,7 +87491,7 @@ columns:
 儿女嬉笑牵人衣	wcca
 燕诗示刘叟	sdjd
 繁枝容易纷纷落	gais
-亦可以弗畔矣夫	taeo
+亦可以弗畔矣夫	tjeo
 闻君话我为官在	tbde
 极眺金陵城	ajth
 万里犹比邻	fvhr
@@ -87504,7 +87504,7 @@ columns:
 如上九天游	cjrn
 有鄙夫问于我	elog
 举觞白眼望青天	nxdf
-可得而闻也	acso
+可得而闻也	jcso
 宣城还见杜鹃花	ihgs
 泣尽继以血	nbkg
 神妙独难忘	jcht
@@ -87534,7 +87534,7 @@ columns:
 徒此揖清芬	cpfs
 王孙贾问曰	jkpj
 志士惜日短	hhrj
-可以无大过矣	aefn
+可以无大过矣	jefn
 不与我食兮	ghgk
 贯薜荔之落蕊	esss
 人家帘幕垂	riim
@@ -87629,7 +87629,7 @@ columns:
 曙光初照演兵场	jixh
 观鱼胜过富春江	bxwn
 百年魔怪舞翩跹	vgmp
-闻歌始觉有人来	tacf
+闻歌始觉有人来	tjcf
 鲲鹏水击三千里	xwnv
 千岩万壑不辞劳	mufs
 长岛人歌动地诗	nmrd
@@ -87829,7 +87829,7 @@ columns:
 君子学以致其道	bknq
 樊哙覆其盾于地	alph
 新丰美酒斗十千	kdqm
-清歌妙舞落花前	nacq
+清歌妙舞落花前	njcq
 独恨无人作郑笺	hrfg
 折芳馨兮遗所思	fshv
 金谷时危悟惜才	tkjh
@@ -87861,7 +87861,7 @@ columns:
 库中先散与金钱	mlpo
 哭宣城善酿纪叟	lihd
 白玉堂前一树梅	djia
-高楼歌酒换离颜	aaak
+高楼歌酒换离颜	aajk
 子张问仁于孔子	kbtk
 浙江八月何如此	nnkp
 犹吊遗踪一泫然	hllw
@@ -88006,10 +88006,10 @@ columns:
 斗水何直百忧宽	inei
 桃李无言一队春	aafo
 童子解吟长恨曲	kkxc
-朝闻游子唱离歌	gtna
+朝闻游子唱离歌	gtnj
 始共春风容易别	csol
 履至尊而制六合	bdqr
-丁香空结雨中愁	amim
+丁香空结雨中愁	jmim
 何处黄云是陇间	etst
 醉中往往爱逃禅	plcj
 门外白袍如立鹄	txdp
@@ -88112,7 +88112,7 @@ columns:
 予观夫巴陵胜状	kboq
 费心劳神	brsj
 食洋不化	knge
-可以濯吾缨	aenk
+可以濯吾缨	jenk
 然后有千里马	wdeb
 魂魄毅兮为鬼雄	idke
 昔贤多使气	suxg
@@ -88124,7 +88124,7 @@ columns:
 步履艰辛	pbbk
 神清气和	jngm
 天地与我并生	fhhp
-他人亦已歌	erta
+他人亦已歌	ertj
 朝饮木兰之坠露兮	gxak
 六经责我开生面	akhs
 判若霄壤	qsch
@@ -88137,7 +88137,7 @@ columns:
 官至礼部尚书	idjy
 白首偕老	dqeh
 轮流做庄	xnem
-可以濯吾足	aenp
+可以濯吾足	jenp
 冷暖不相知	ijgj
 故人何寂寞	jrei
 毁誉听之于人	dnlr
@@ -88222,7 +88222,7 @@ columns:
 和郭沫若同志	manh
 桃花源里可耕田	asnv
 断头今日意如何	qire
-歌声振林樾	ahfa
+歌声振林樾	jhfa
 此地有崇山峻岭	pheu
 清风朗月不用一钱买	neky
 淮水东边旧时月	nnxw
@@ -88305,7 +88305,7 @@ columns:
 窃国者为诸侯	iwhe
 清十二帝疑案	ngii
 每依北斗望京华	geqe
-谷不可胜食也	kgao
+谷不可胜食也	kgjo
 七十者可以食肉矣	xghn
 吾不能学太上之忘情也	fgno
 沅有芷兮澧有兰	nesq
@@ -88404,7 +88404,7 @@ columns:
 谁人曾与评说	drqd
 潦水尽而寒潭清	nnbn
 愁噪夕阳枝	mlxa
-可以调素琴	aedj
+可以调素琴	jedj
 去去醉吟高卧	hhph
 翼若垂天之云	vsmi
 红星乱紫烟	kjli
@@ -88419,10 +88419,10 @@ columns:
 八月十五日夜湓亭望月	kwgw
 春风二三月	oeiw
 花之富贵者也	soio
-歌声逐流水	ahtn
+歌声逐流水	jhtn
 孟子见梁惠王	kkcj
 如今安在哉	crig
-名不可以虚作	xgae
+名不可以虚作	xgje
 满堂兮美人	nikr
 愁思看春不当春	mvfo
 公子南桥应尽兴	kkgn
@@ -88474,7 +88474,7 @@ columns:
 英俊沉下僚	sene
 鸟倦飞而知还	meyg
 见与儿童邻	chwr
-只可自怡悦	laqr
+只可自怡悦	ljqr
 正是浴兰时节动	fjni
 越罗衫袂迎春风	huxe
 江色鲜明海气凉	nxxi
@@ -88524,7 +88524,7 @@ columns:
 思君令人老	vbrh
 李侯有佳句	aeew
 不使人间造孽钱	gero
-不可以为子	gaek
+不可以为子	gjek
 族与万物并	thfq
 鬓云欲度香腮雪	uikc
 回到天上去	wdfh
@@ -88559,7 +88559,7 @@ columns:
 抟扶摇而上者九万里	fffv
 此抵有千金	pfet
 不知何处吊湘君	gjeb
-请为父老歌	dkka
+请为父老歌	dkkj
 沽酒市脯不食	nnak
 如欲平治天下	cknj
 山南山北雪晴	uguj
@@ -88571,7 +88571,7 @@ columns:
 妾当作蒲苇	kies
 不周山下红旗乱	gwul
 若白驹之过隙	sdbp
-不惜歌者苦	gras
+不惜歌者苦	grjs
 当今世界殊	irsf
 此物真绝伦	ppge
 念之断人肠	roqw
@@ -88647,7 +88647,7 @@ columns:
 江上早闻齐和声	njjh
 绝不学痴情的鸟儿	kgnw
 异日图将好景	ojwj
-盗贼可以死	icaf
+盗贼可以死	icjf
 路远莫致之	pfso
 叶下洞庭初	ljnx
 照耀如雪天	jicf
@@ -88684,7 +88684,7 @@ columns:
 今日何日兮	rjek
 子非三闾大夫与	kulh
 用之所趋异也	sodo
-天灾可以死	fiaf
+天灾可以死	fijf
 天下云集响应	fjim
 波光里的艳影	nivj
 今之从政者殆而	rors
@@ -88738,7 +88738,7 @@ columns:
 天下之善士	fjoh
 荷衣兮蕙带	saks
 黄衣使者白衫儿	saew
-歌曲动寒川	acil
+歌曲动寒川	jcil
 何莫学夫诗	esnd
 我亦是行人	gtjr
 无地不相宜	fhgi
@@ -88880,7 +88880,7 @@ columns:
 以不忍人之心	egmr
 重湖叠巘清嘉	mnbh
 把意念沉潜得下	fkrj
-其他可能也	ueao
+其他可能也	uejo
 何理不可得	ejgc
 红花初绽雪花繁	ksxg
 自喻适志与	qllh
@@ -88888,7 +88888,7 @@ columns:
 是以君子远庖厨也	jebo
 自笑平生为口忙	qgnr
 送刘贡甫谪官衡阳	qtpp
-最可惜一片江山	jaru
+最可惜一片江山	jjru
 画桥南畔倚胡床	fagm
 凉生为室空	ipki
 榈庭多落叶	amxl
@@ -88995,7 +88995,7 @@ columns:
 山月不知心里事	uwgh
 井蛙不可以语于海者	iqgh
 今天下三分	rfjk
-笙歌归院落	gaqs
+笙歌归院落	gjqs
 悠悠沧海情	eenr
 月给亦有余	wktr
 先帝不以臣卑鄙	pagl
@@ -89032,7 +89032,7 @@ columns:
 江娥啼竹素女愁	nclm
 雪晴云淡日光寒	cjii
 山川奇气曾钟此	ulop
-西山兰若试茶歌	puqa
+西山兰若试茶歌	puqj
 还知一勺可延龄	gjfp
 中有银河倾	leoe
 必先斯四者	rpuh
@@ -89066,7 +89066,7 @@ columns:
 水尽南天不见云	nbgi
 笋柱秋千游女并	gamq
 目极千里兮	jamk
-耐可乘明月	samw
+耐可乘明月	sjmw
 而况于明哲乎	sifg
 江鸟飞入帘	nmyi
 出门无所见	wtfc
@@ -89223,9 +89223,9 @@ columns:
 爱汝玉山草堂静	unjh
 放浪形骸之外	tnfx
 畏天者保其国	vfhw
-在星辉斑斓里放歌	ejia
+在星辉斑斓里放歌	ejij
 老妻画纸为棋局	hgfb
-必有可观者焉	reaf
+必有可观者焉	rejf
 一章三遍读	fkld
 寂然坐空林	iwra
 寒梅着花未	iaqf
@@ -89292,7 +89292,7 @@ columns:
 长看天西万叠青	nffh
 出自苎萝山	wqsu
 尽是洛阳人旧墓	bjns
-可以赋新诗	aecd
+可以赋新诗	jecd
 林空鹿饮溪	aimn
 材与不材之间	ahgt
 好着丹青图画取	cqwl
@@ -89353,10 +89353,10 @@ columns:
 青山缭绕疑无路	hukp
 芳菲歇去何须恨	ssjr
 桃花净尽菜花开	asif
-君子可逝也	bkao
-一可以为法则	faec
+君子可逝也	bkjo
+一可以为法则	fjec
 反第一次大围剿	dgfl
-亦可以为成人矣	taen
+亦可以为成人矣	tjen
 舜不告而娶	ugpl
 云居寺孤桐	ibha
 齐吴榜以击汰	tlan
@@ -89370,8 +89370,8 @@ columns:
 强秦之所以不敢加兵于赵者	booh
 茅屋四五间	sbwt
 无人争晓渡	frxn
-可以弹素琴	aebj
-清歌一曲梁尘起	nafh
+可以弹素琴	jebj
+清歌一曲梁尘起	njfh
 细雨无人我独来	kcff
 吾今不能见汝矣	frgn
 飞龙兮翩翩	yfkh
@@ -89431,7 +89431,7 @@ columns:
 刚健含婀娜	cerc
 庭前八月梨枣熟	mqka
 量入以为出	jkew
-不可以为人	gaer
+不可以为人	gjer
 翩翩两骑来是谁	hhfd
 黄州寒食诗帖	sniu
 手指不可屈伸	ffge
@@ -89535,7 +89535,7 @@ columns:
 则天下之士	cfjh
 如斯而已乎	cusg
 社稷依明主	jmek
-不可徒行也	gaco
+不可徒行也	gjco
 首夏犹清和	qvhm
 齐有倜傥生	teep
 岩树红离离	uakt
@@ -89553,7 +89553,7 @@ columns:
 亚父南向坐	lkgr
 何事拘形役	ehfc
 盖竹柏影也	qgao
-可以见兴替	aeco
+可以见兴替	jeco
 异事惊倒百岁翁	ohrk
 斯须炒成满室香	ucim
 是亦不可以已乎	jtgg
@@ -89635,7 +89635,7 @@ columns:
 大旱金石流	ojtn
 前世德云今我是	qscj
 没个人堪寄	nrri
-不可以久处约	gaek
+不可以久处约	gjek
 一杯春露冷如冰	faoi
 民听了民怕	olkr
 首身离兮心不惩	qqtc
@@ -89716,7 +89716,7 @@ columns:
 何事当年不见收	ehiw
 解缆及流潮	xkgn
 徒以吾两人在也	cefo
-亦可以胜残去杀矣	taen
+亦可以胜残去杀矣	tjen
 以力假仁者霸	esec
 四月熟黄梅	wwaa
 铺田绿茸茸	ovks
@@ -89733,7 +89733,7 @@ columns:
 五十以学易	fgej
 非练实不食	ukik
 载云旗之委蛇	gitq
-与歌者米嘉荣	hahs
+与歌者米嘉荣	hjhs
 谁令骑马客京华	drbe
 明足以察秋毫之末	jpef
 挽戴安澜将军	fgix
@@ -89913,7 +89913,7 @@ columns:
 世味年来薄似纱	slgk
 白日发光彩	djwu
 风浪与云平	enhn
-不可以作巫医	gaeh
+不可以作巫医	gjeh
 曲江池畔杏园边	cnns
 仄仄平平仄仄	vvnv
 进退迹遂殊	igtf
@@ -89946,7 +89946,7 @@ columns:
 艰难愧深情	bbrr
 甘心赴国忧	srhr
 身在度鸟上	qemj
-不可以长处乐	gaek
+不可以长处乐	gjek
 氛埃辟而清凉	ghbi
 群凶嗜欲肥	bslw
 以为无益而舍之者	ekfh
@@ -89989,7 +89989,7 @@ columns:
 感吾生之行休	kfpe
 君子有终身之忧	bker
 既含睇兮又宜笑	brjg
-骚人可煞无情思	brav
+骚人可煞无情思	brjv
 唯有门前镜湖水	letn
 野旷沙岸净	vjni
 学则三代共之	nclo
@@ -90080,7 +90080,7 @@ columns:
 好著丹青图画取	cswl
 以俟夫观人风者得焉	eeof
 关河梦断何处	qnat
-不可胜用也	gawo
+不可胜用也	gjwo
 更无须欢喜	ffch
 江头潮已平	ninn
 两章对秋月	fkbw
@@ -90187,7 +90187,7 @@ columns:
 残暑蝉催尽	fjqb
 芳洲拾翠暮忘归	snfq
 不与徐凝洗恶诗	ghcd
-箫鼓鸣兮发棹歌	ghla
+箫鼓鸣兮发棹歌	ghlj
 而或长烟一空	skni
 有攻城野战之大功	ephp
 百姓如丧考妣	vccc
@@ -90202,7 +90202,7 @@ columns:
 纱窗醉梦中	kipl
 因招樊哙出	wfaw
 人间物类无可比	rtpn
-可爱者甚蕃	auhs
+可爱者甚蕃	juhs
 玉真公主别馆苦雨	jgkc
 且相如素贱人	jacr
 山行十日雨沾衣	ucga
@@ -90243,7 +90243,7 @@ columns:
 道路迢迢一月程	qpmm
 乘清气兮御阴阳	mngp
 料钱随月用	qops
-不可与言而与之言	gahb
+不可与言而与之言	gjhb
 忽有人家笑语声	werh
 一年居梓州	fgbn
 老而无夫曰寡	hsfi
@@ -90282,7 +90282,7 @@ columns:
 衔得锦标第一归	ccoq
 闲居非吾志	tbuh
 莫叹韶华容易逝	slkf
-是则可忧也	jcao
+是则可忧也	jcjo
 圣之时者也	bojo
 断肢体受辱	qwem
 初宵鼓大炉	xihi
@@ -90353,7 +90353,7 @@ columns:
 是非君子之道	jubq
 独树老夫家	hahi
 轻裾随风还	xxpg
-片言可以折狱者	dbah
+片言可以折狱者	dbjh
 先王有不忍人之心	pjer
 试灯无意思	difv
 中有尺素书	leby
@@ -90527,7 +90527,7 @@ columns:
 竹竿何袅袅	ggem
 炎风吹沙埃	ielh
 夫三年之丧	olgg
-有钱可使鬼	eoad
+有钱可使鬼	eojd
 为天下笑者	kfjh
 人生归有道	rpqq
 仙人王子乔	erjm
@@ -90549,7 +90549,7 @@ columns:
 则失者十一	cghf
 尧曰第二十	xjgg
 浮长川而忘反	nnld
-却因歌舞破除休	hwae
+却因歌舞破除休	hwje
 能使枉者直	neag
 劝君终日酩酊醉	bbkp
 几许渔人飞短艇	ednu
@@ -90766,14 +90766,14 @@ columns:
 今听玄蝉我却回	rlaw
 而束君归赵矣	sabn
 泄香银囊破	nmov
-月照高楼一曲歌	wjaa
+月照高楼一曲歌	wjaj
 秋宵月色胜春宵	miwi
 即今河畔冰开日	brnj
 泣珠报恩君莫辞	njfl
 彭祖巫咸几回死	hjpf
 遥遥至西荆	uuds
 不能发声哭	gnwl
-可以语上也	aedo
+可以语上也	jedo
 疑是天边十二峰	njfu
 曲岸深潭一山叟	cund
 拙诗在壁无人爱	fdeu
@@ -90941,10 +90941,10 @@ columns:
 低回愧人子	ewrk
 然而夜半有力者负之而走	wsah
 坐久灯烬落	rxis
-虎可搏兮牛可触	uafx
+虎可搏兮牛可触	ujfx
 数有所不逮	qedb
 四者孰知天下之正色哉	whag
-县小更无丁	jifa
+县小更无丁	jifj
 羿工乎中微而拙乎使人无己誉	vpgn
 不几乎一言而丧邦乎	gegg
 不必若余之手录	grsb
@@ -91061,9 +91061,9 @@ columns:
 则荒烟野草	csis
 三春行乐在谁边	locs
 邑人相将浮彩舟	lrau
-竹枝歌送菊花杯	gaaa
+竹枝歌送菊花杯	gaja
 云亦随君渡湘水	itpn
-百钱可得酒斗许	voad
+百钱可得酒斗许	vojd
 绵绵思远道	kkvq
 苍然玉一堆	swjh
 一种爱鱼心各异	fmuo
@@ -91085,7 +91085,7 @@ columns:
 桃花历乱李花香	asvm
 何必膏粱珍	eraj
 埋血空生碧草愁	hgim
-然后可以为民父母	wdae
+然后可以为民父母	wdje
 欹岸侧岛秋毫末	ouef
 惟有柳湖万株柳	reaa
 墙上多高树	hjxa
@@ -91142,9 +91142,9 @@ columns:
 想见先生未病时	acpj
 帐下佳人拭泪痕	ujem
 分湖便是子陵滩	knen
-纷其可喜兮	kuak
+纷其可喜兮	kujk
 斟酌姮娥寡	upci
-美行可以加人	qcar
+美行可以加人	qcjr
 不知云雨散	gjis
 江南王气系疏襟	ngjx
 杏花消息雨声中	asnl
@@ -91215,7 +91215,7 @@ columns:
 不过三十日	ghlj
 盘出高门行白玉	uwaj
 吾父死于是	fkfj
-可使治其赋也	aeno
+可使治其赋也	jeno
 淼南渡之焉如	ngnc
 世之议者皆曰	sodj
 市人行尽野人行	arcc
@@ -91417,7 +91417,7 @@ columns:
 邺县见公孙大娘舞西河剑器	ijcl
 沾余襟之浪浪	nrxn
 因宾客至蔺相如门谢罪	wiiu
-则凡可以得生者	ceah
+则凡可以得生者	cejh
 而编之以发	skow
 人生感意气	rpkg
 人相忘乎道术	rata
@@ -91425,7 +91425,7 @@ columns:
 今君与廉颇同列	rbhf
 桃叶一枝开	alff
 自庇一身青箬笠	qmfg
-又鼓盆而歌	bhka
+又鼓盆而歌	bhkj
 物心不可知	prgj
 吴盐如花皎白雪	lhcc
 到此令人诗思迷	dprq
@@ -91511,7 +91511,7 @@ columns:
 若共吴王斗百草	ssls
 自古有羁旅	qjet
 栩栩然胡蝶也	aawo
-放歌颇愁绝	tabk
+放歌颇愁绝	tjbk
 钟鼓楼中刻漏长	ohan
 春风吹酒熟	oela
 头白好归来	idcf
@@ -91583,8 +91583,8 @@ columns:
 尘中见月心亦闲	ilct
 正月端门夜	fwka
 风光和暖胜三秦	eimo
-杨柳可藏乌	aaam
-人歌人哭水声中	rarl
+杨柳可藏乌	aajm
+人歌人哭水声中	rjrl
 只将菱角与鸡头	lqsi
 笑整香云缕	gamk
 故旷日长久而社稷安矣	jjjn
@@ -91609,7 +91609,7 @@ columns:
 夜倾闽酒赤如丹	aetw
 俯仰两青空	eefi
 揉碎在浮藻间	fvet
-庄子则方箕踞鼓盆而歌	mkca
+庄子则方箕踞鼓盆而歌	mkcj
 金风玉露一相逢便	teje
 百感中来不自由	vkld
 泪下如迸泉	njcd
@@ -91628,7 +91628,7 @@ columns:
 映竹水穿沙	jgnn
 一入凄凉耳	fkil
 灵光何足贵	biel
-短歌微吟不能长	jacn
+短歌微吟不能长	jjcn
 要自拨其根	pqfa
 而不失豪芒	sggs
 回雪飘摇转蓬舞	wcpg
@@ -91652,7 +91652,7 @@ columns:
 后进于礼乐	difk
 不念居安思危	grbx
 散关三尺雪	sqlc
-丁壮在南冈	aqec
+丁壮在南冈	jqec
 筠焙熟香茶	gias
 自引壶觞自醉	qbhp
 细思皆幸矣	kvnn
@@ -91705,11 +91705,11 @@ columns:
 览民德焉错辅	uocx
 见说风流极	cdea
 道傍榆荚仍似钱	qeao
-前丁后蔡相笼加	qads
+前丁后蔡相笼加	qjds
 手捋红杏蕊	ffks
 最是一年秋好处	jjft
 此去声名不厌低	phhe
-薄俸可资家	seai
+薄俸可资家	seji
 个个公卿欲梦刀	rrkm
 此其志不在小	puhi
 是以圣人抱一为天下式	jebk
@@ -91752,7 +91752,7 @@ columns:
 今夕不知何夕	rxgx
 今为宫室之美为之	rkio
 老阮不狂谁会得	hpgc
-此情可待万追忆	prar
+此情可待万追忆	prjr
 工匠之罪也	phoo
 桃胶迎夏香琥珀	awkj
 移我琉璃榻	mgja
@@ -91764,7 +91764,7 @@ columns:
 纪信等四人持剑盾步走	kegh
 何事辛苦怨斜晖	ehkj
 南风不用蒲葵扇	gegh
-歌蹋柳枝春暗来	apaf
+歌蹋柳枝春暗来	jpaf
 反绾头髻盘旋风	dkie
 莺语和人诗	sdmd
 他日相逢为君下	ejaj
@@ -91818,7 +91818,7 @@ columns:
 见人不语颦蛾眉	crgb
 安得万里裘	icff
 勿为醒者传	wkpe
-则不可胜诛	cgad
+则不可胜诛	cgjd
 世间花叶不相伦	stse
 故民之从之也轻	joox
 忆我少壮时	rgij
@@ -91909,7 +91909,7 @@ columns:
 自天题处湿	qfjn
 殊异乎公路	fogp
 年开第七秩	gfgm
-赤壁歌送别	hbal
+赤壁歌送别	hbjl
 借我一庵聊洗心	egfr
 美人出南国	qrww
 但道桑麻长	eqbn
@@ -91954,7 +91954,7 @@ columns:
 以暴虐为天下始	ejuc
 冉冉望君来	cctf
 非徒无形也	ucfo
-知余歌者劳	jras
+知余歌者劳	jrjs
 物物各自异	ppto
 悠悠浮云身	eenq
 青天白日摧紫荆	hfds
@@ -92002,7 +92002,7 @@ columns:
 赠楚州郭使君	canb
 立朝风采照公卿	kgek
 忆昔洛阳董糟丘	rsnd
-对酒遂作梁园歌	bnqa
+对酒遂作梁园歌	bnqj
 娉婷十五胜天仙	ccge
 传观慎勿许	ebrd
 四座泪纵横	wmna
@@ -92065,9 +92065,9 @@ columns:
 如何四纪为天子	cewk
 而唯蜩翼之知	slqj
 种柳成行夹流水	makn
-时不可兮再得	jgac
+时不可兮再得	jgjc
 报韩虽不成	fglk
-求人可使报秦者	frah
+求人可使报秦者	frjh
 圣人之心静乎	brog
 珠帘不卷夜来霜	jigc
 庄缶犹可击	mjha
@@ -92210,7 +92210,7 @@ columns:
 唯求则非邦也与	lfch
 不出三十年	gwlg
 直把天涯都照彻	gffc
-可以言论者	aebh
+可以言论者	jebh
 文章辉五色	tkix
 牢骚太胜防肠断	iboq
 赤亭多飘风	haxe
@@ -92242,7 +92242,7 @@ columns:
 龙昌寺荷池	fjhn
 复忆襄阳孟浩然	graw
 四坐楚囚悲	wrau
-无处可安排	ftaf
+无处可安排	ftjf
 石扉三叩声清圆	vhlw
 老柘叶黄如嫩树	hala
 竹边台榭水边亭	gsna
@@ -92265,7 +92265,7 @@ columns:
 问天天不应	tffm
 回忘仁义矣	wten
 江宁夹口三首	nioq
-可以已大风	aeoe
+可以已大风	jeoe
 头上金爵钗	ijto
 不能忘情吟	gntl
 鸳鸯相对浴红衣	xcaa
@@ -92411,7 +92411,7 @@ columns:
 项王使都尉陈平召沛公	pjek
 争逞舞裀歌扇	xlgh
 梅破知春近	avjd
-言不可以若是其几也	bgao
+言不可以若是其几也	bgjo
 亦将有以利吾国乎	tqeg
 不敢恨长沙	gyrn
 夫播糠眯目	ofqj
@@ -92477,7 +92477,7 @@ columns:
 不知阴阳炭	gjpu
 何用骑鹏翼	esbv
 一闲对百忙	ftbr
-可以无悔矣	aefn
+可以无悔矣	jefn
 一笑谁似痴虎头	fgdi
 黄鹤楼前月满川	sxal
 是以论其世也	jedo
@@ -92571,7 +92571,7 @@ columns:
 水穿城下作雷鸣	nihl
 鞍马四边开	sbwf
 飘然转旋回雪轻	pwxx
-则胡可得而累邪	cjah
+则胡可得而累邪	cjjh
 虽有义台路寝	leki
 日暮敲门无处换	jsaf
 吹尽西陵歌舞尘	lbpi
@@ -92586,7 +92586,7 @@ columns:
 却是炎洲雨露偏	hjie
 飞动摧霹雳	yifc
 有田皆种玉	evnj
-可以观于天矣	aebn
+可以观于天矣	jebn
 君子矜而不争	bkkx
 夫以秦王之威	oeok
 昔日青青今在否	sjhg
@@ -92611,8 +92611,8 @@ columns:
 亦不能至也	tgno
 自大视细者不明	qojj
 秋吟切骨玉声寒	mlxi
-气可以养而致	gaed
-谁人可相从	drar
+气可以养而致	gjed
+谁人可相从	drjr
 香开酒库门	mfnt
 若耶溪归兴	slnn
 故善战者服上刑	jquf
@@ -92681,7 +92681,7 @@ columns:
 好是吾贤佳赏地	cjfh
 陆机二十作文赋	paic
 中自诛褒妲	lqdc
-则若歌若哭	csal
+则若歌若哭	csjl
 人人自谓握灵蛇之珠	rrqj
 秋来相顾尚飘蓬	mfas
 入掌银台护紫微	kioc
@@ -92729,7 +92729,7 @@ columns:
 如有所立卓尔	cedx
 暗水流花径	jnnc
 青松合抱手亲栽	harg
-而可大受也	saoo
+而可大受也	sjoo
 若火之始然	siow
 千金一笑买倾城	mtfh
 兵革既未息	dsbq
@@ -92791,7 +92791,7 @@ columns:
 捐余玦兮江中	frjl
 夫子之不可及也	okoo
 路贯庐江兮	pemk
-不可以言传也	gaeo
+不可以言传也	gjeo
 此辞听者堪愁绝	pllk
 正是人间佳节	fjrs
 袖中忽见三行字	xlwi
@@ -92839,7 +92839,7 @@ columns:
 广广乎其无不容也	mmgo
 不及在家贫	ggek
 主人劝我洗足眠	krbj
-其可谓至德也已矣	uadn
+其可谓至德也已矣	ujdn
 自嗟贫家女	qlkc
 誓不举家走	fgnh
 那知鸡与豚	yjbw
@@ -92940,7 +92940,7 @@ columns:
 心随湖水共悠悠	rpne
 收租税而平原君家不肯出租	wmmm
 玉佩兮陆离	jekt
-歌哭悲欢城市间	alut
+歌哭悲欢城市间	jlut
 清夜坠玄天	napf
 道州忧黎庶	qnrm
 杀三苗于三危	slsx
@@ -92948,7 +92948,7 @@ columns:
 无为守穷贱	fkic
 江亭有孤屿	naeu
 半是当年识放翁	qjik
-风味可解壮士颜	elak
+风味可解壮士颜	eljk
 握手珠眶涨	ffjn
 春岸绿时连梦泽	oukn
 恍恍与之去	rrhh
@@ -92968,7 +92968,7 @@ columns:
 秦城楼阁烟花里	ohav
 山樱抱石荫松枝	uafa
 万物一马也	fpfo
-其可怪也欤	uarh
+其可怪也欤	ujrh
 一生大笑能几回	fpow
 谁怜容足地	drih
 谁人得似张公子	drck
@@ -93174,7 +93174,7 @@ columns:
 一弹指顷去来今	fbfr
 江南放屈平	ngtn
 转觉落笔难	xnsb
-簇簇歌台舞榭	ggaa
+簇簇歌台舞榭	ggja
 不离一室中	gtfl
 哀一逝而异乡	affk
 检点遗篇几首诗	auld
@@ -93183,7 +93183,7 @@ columns:
 非鬼非人意其仙	udue
 郁闭而不流	etsn
 子桑殆病矣	kbfn
-使我伤怀奏短歌	egea
+使我伤怀奏短歌	egej
 奄忽随物化	owpe
 桃花开不开	asff
 万姓以死亡	fcet
@@ -93213,7 +93213,7 @@ columns:
 将知醉后岂堪夸	qjpo
 新郎君去马如飞	kkby
 舞马既登床	gbbm
-可与事君也与哉	ahhg
+可与事君也与哉	jhhg
 君其涉于江而浮于海	bunn
 巴国尽所历	owbv
 望中烟树历历	tliv
@@ -93340,7 +93340,7 @@ columns:
 行酒石榴裙	cnvx
 浦楼低晚照	naej
 回首是平芜	wqjs
-一去可怜终不返	fhad
+一去可怜终不返	fhjd
 隔水疑神仙	pnne
 水鸟带波飞夕阳	nmsp
 君子之仕也	bkoo
@@ -93348,7 +93348,7 @@ columns:
 貂冠水苍玉	mxnj
 愁翁笑口大难开	mkgf
 重门深锁无寻处	mtnt
-商歌非吾事	aauh
+商歌非吾事	ajuh
 肠中车轮转	wlxx
 种瓜黄台下	musj
 天穷超夕阳	fihp
@@ -93531,7 +93531,7 @@ columns:
 吾闻楚有神龟	ftax
 长夏门前欲暮春	nvto
 日月掷人去	jwfh
-难可与等期	bahu
+难可与等期	bjhu
 贫中有等级	klek
 吾尝终日不食	fikk
 秋风楚竹冷	meai
@@ -93575,7 +93575,7 @@ columns:
 至大不可围	dogw
 凡卉与时谢	eghd
 碧玉搔头落水中	jjfl
-但我不能放歌	egga
+但我不能放歌	eggj
 月露为知音	wckk
 眼前一杯酒	jqfn
 车马日盈门	xbjt
@@ -93690,7 +93690,7 @@ columns:
 往往杀长吏	ccsf
 不赏而民劝	gisb
 风枝露叶如新采	eacu
-未知歌舞能多少	fjai
+未知歌舞能多少	fjji
 映我绯衫浑不见	jgkc
 平沙万里绝人烟	nnfi
 小白长红越女腮	idnw
@@ -93733,7 +93733,7 @@ columns:
 穷岛屿之萦回	imuw
 年年喜见山长在	gghe
 平明发轮台	njwn
-门前可罗雀	tqai
+门前可罗雀	tqji
 不知何用归	gjeq
 肉芝石耳不足数	csvq
 晚坐松檐下	jraj
@@ -93800,7 +93800,7 @@ columns:
 何处人间似仙境	etrh
 荆钗任意撩新鬓	soeu
 此翁白头真可怜	pkdr
-便可白公姥	eadc
+便可白公姥	ejdc
 万古遗水滨	fjln
 养真衡茅下	qgcj
 感慨系之矣	krgn
@@ -93879,7 +93879,7 @@ columns:
 果擘洞庭橘	jbna
 四邻何所有	wree
 敕赐珊瑚白玉鞭	acjs
-绣成歌舞衣	kkaa
+绣成歌舞衣	kkja
 万里横烟浪	fvan
 二类相召也	iqao
 荣光休气纷五彩	sieu
@@ -94016,7 +94016,7 @@ columns:
 太阳虽不为之回光	opli
 有黄鹂千百	esfv
 逍遥地上仙	iuhe
-齐歌空复情	tair
+齐歌空复情	tjir
 非轩冕之谓也	uxco
 迎笑天香满袖	kgfx
 不为刘家贤圣物	gktp
@@ -94063,7 +94063,7 @@ columns:
 飞云当面化龙蛇	yiiq
 碧眼照山谷	jjjk
 朝餐是草根	guja
-而可小知也	saio
+而可小知也	sjio
 朝骋骛兮江皋	gbkd
 士有道德不能行	heqc
 花面丫头十三四	ssqw
@@ -94143,7 +94143,7 @@ columns:
 则吾从先进	cfri
 阅人如阅川	trcl
 望秦关何处	toqt
-百年歌自苦	vgas
+百年歌自苦	vgjs
 良宵盛会喜空前	kikq
 更遭丧乱嫁不售	fsge
 众山遥对酒	ruun
@@ -94198,7 +94198,7 @@ columns:
 五溪无人采	fnfu
 微云淡河汉	cinn
 千山浓绿生云外	munx
-不可知者也	gajo
+不可知者也	gjjo
 幽独处乎山中	uhtl
 春生江上几人还	opng
 垂竿已羡磻溪老	mgoh
@@ -94244,14 +94244,14 @@ columns:
 天灵感至德	fbkc
 妾心藕中丝	krsk
 他日汝当用之	ejno
-教坊犹奏别离歌	hhha
+教坊犹奏别离歌	hhhj
 精用而不已则劳	qsss
 不出门来又数旬	gwtw
 润胜莲生水	nwsn
 予恶乎知恶死之非弱丧而不知归者邪	klgh
 所以遣将守关者	delh
 今之狂也荡	rohs
-可以意致者	aekh
+可以意致者	jekh
 半盏屠苏犹未举	qfbn
 江清日暖芦花转	nnjx
 中有老法师	lehq
@@ -94266,7 +94266,7 @@ columns:
 半生身老心闲	qpqt
 夜深花正寒	ansi
 对酒不能酬	bngp
-可怜亦进姚黄花	arts
+可怜亦进姚黄花	jrts
 前既犯患若是矣	qbhn
 却为知音不得听	hkjl
 就死意甚烈	afkf
@@ -94319,7 +94319,7 @@ columns:
 不独明朝为子推	ghjf
 落梅愁绝醉中听	saml
 天涯水气中	fnnl
-括不可使将	fgaq
+括不可使将	fgjq
 生者日已亲	phjk
 穆王得八骏	mjcb
 王孙宴其下	jkij
@@ -94406,7 +94406,7 @@ columns:
 大业年中炀天子	oigk
 音响一何悲	klfu
 闻琴泪尽欲如何	tjne
-歌罢仰天叹	auel
+歌罢仰天叹	juel
 百战疲劳壮士哀	vuma
 百里奚举于市	vvua
 忽吾行此流沙兮	wfck
@@ -94533,7 +94533,7 @@ columns:
 暗觉海风度	jnnm
 指如削葱根	fcia
 情因老更慈	rwhq
-止可以一宿而不可久处	paet
+止可以一宿而不可久处	pjet
 六月十七日昼寝	awgi
 施佛空留丈六身	teiq
 帅云霓而来御	qicc
@@ -94565,7 +94565,7 @@ columns:
 嗟来桑户乎	lfbg
 何处寄相思	etiv
 甘露舌头浆	sclq
-歌声唱彻月儿圆	ahlw
+歌声唱彻月儿圆	jhlw
 聊翱游兮周章	ldnk
 楼识凤凰名	adex
 千里共明月	mvsw
@@ -94861,7 +94861,7 @@ columns:
 芳菲菲其弥章	sssk
 百姓闻王车马之音	vctk
 非徒无生也	ucfo
-我醉拍手狂歌	gpfa
+我醉拍手狂歌	gpfj
 天寒岁在龙蛇间	fiut
 何不号于国中曰	eglj
 请讲以所闻	ddet
@@ -94921,7 +94921,7 @@ columns:
 则臣视君如寇雠	chje
 羞而不为也	qsgo
 空林独与白云期	iahu
-闭门锄菜伴园丁	ttoa
+闭门锄菜伴园丁	ttoj
 能变人间世	ntrs
 自明无月夜	qjfa
 纱巾草履竹疏衣	kusa
@@ -94958,7 +94958,7 @@ columns:
 是役人之役	jcrc
 足以保四海	peen
 长门尽日无梳洗	ntbn
-空留可怜与谁同	ikac
+空留可怜与谁同	ikjc
 不期精粗焉	guqf
 明月生南浦	jwpn
 最传秀句寰区满	jemn
@@ -95144,7 +95144,7 @@ columns:
 两朝出将复入相	fgwa
 碧山终日思无尽	jukb
 绮榭飘飖紫庭客	kapi
-美言可以市尊	qbaq
+美言可以市尊	qbjq
 访古始及平台间	djct
 水落尚存秦代石	nsiv
 王亦曰仁义而已矣	jtjn
@@ -95186,7 +95186,7 @@ columns:
 时亦犹其未央	jthc
 且王者之不作	jjhe
 狂来轻世界	hfxv
-秋浦歌十七首	mnaq
+秋浦歌十七首	mnjq
 泣人不泣身	nrgq
 林鼠山狐长醉饱	adux
 近来人事半消磨	dfrm
@@ -95372,7 +95372,7 @@ columns:
 老人七十仍沽酒	hrxn
 未有封侯之赏	fehi
 而不自知也	sgqo
-纤歌凝而白云遏	kaij
+纤歌凝而白云遏	kjij
 上与浮云齐	jhnt
 圣人之过也	broo
 金陵风景好	tpec
@@ -95480,7 +95480,7 @@ columns:
 烂若金照碧	istj
 万古到今同此恨	fjdr
 大笑向文士	ogdh
-闻弦歌之声	tbah
+闻弦歌之声	tbjh
 系在红罗襦	gekx
 水乡霾白屋	nkcb
 月出孤舟寒	wwki
@@ -95521,7 +95521,7 @@ columns:
 万谷酣笙钟	fkpo
 日见孤峰水上浮	jckn
 我来扬都市	gffa
-不可以语上也	gaeo
+不可以语上也	gjeo
 有是四端而自谓不能者	ejwh
 天下不能荡也	fjgo
 金与火交争	thix
@@ -95551,7 +95551,7 @@ columns:
 代北初辞没马尘	eqxi
 秋千竞出垂杨里	mmkv
 还将桃李更相宜	gqai
-临江王节士歌	unja
+临江王节士歌	unjj
 其失天下也以不仁	ugfe
 安时而处顺	ijsl
 吾谁与为邻	fdhr
@@ -95570,7 +95570,7 @@ columns:
 林放问礼之本	atta
 邪辞知其所离	hljt
 九衢尘里偷闲	rcit
-似可敌莼羹	ealq
+似可敌莼羹	ejlq
 天马凤凰春树里	fbev
 懒心似江水	rren
 恨晨光之熹微	rjic
@@ -95712,7 +95712,7 @@ columns:
 魏官牵车指千里	miov
 何必金与钱	erto
 遵先王之法而过者	qpjh
-丁兰少失母	aqie
+丁兰少失母	jqie
 东连牂牁西连蕃	xxds
 一日踏春一百回	fjpw
 左右皆曰贤	eenu
@@ -95782,7 +95782,7 @@ columns:
 听蜀僧濬弹琴	luej
 大底圣贤发愤之所为作也	ombo
 三日饮不散	ljxs
-可以卒千年	aeag
+可以卒千年	jeag
 人非木石皆有情	ruar
 芳草何年恨即休	ssee
 子路问成人	kptr
@@ -95811,7 +95811,7 @@ columns:
 龙驾兮帝服	fskw
 漫漫雨花落	nncs
 沛公军在霸上	nkxj
-可谓兼之矣	adqn
+可谓兼之矣	jdqn
 抱璞求所归	fjfq
 始知为客苦	cjks
 世事短如春梦	shja
@@ -95827,9 +95827,9 @@ columns:
 予恶乎知夫死者不悔其始之蕲生乎	klgg
 则用天下而有余	csfr
 察盛衰之理	ikaj
-或可重阳更一来	kamf
+或可重阳更一来	kjmf
 手提掷还崔大夫	fffo
-蹄可以践霜雪	paec
+蹄可以践霜雪	pjec
 欲去惜芳菲	khrs
 坐久落花多	rxsx
 雨歇杨林东渡头	cjai
@@ -95876,7 +95876,7 @@ columns:
 人稀鸟兽骇	rmmb
 探古穷至妙	fjic
 无衣床夜寒	fami
-歌窈窕之章	aiik
+歌窈窕之章	jiik
 三湘衰鬓逢秋色	lnax
 云游雨散从此辞	incl
 应知我是香案吏	mjgf
@@ -96036,7 +96036,7 @@ columns:
 步出西城门	pwpt
 飞龙引二首	yfbq
 鉴明则尘垢不止	ujcp
-毛可以御风寒	maei
+毛可以御风寒	mjei
 四面生白云	wspi
 此日相逢思旧日	pjaj
 会到摧车折楫时	rdfj
