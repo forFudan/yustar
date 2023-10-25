@@ -25,7 +25,7 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
-來	a
+就	a
 這	b
 得	c
 的	d
@@ -50,7 +50,7 @@ encoder:
 然	w
 裡	x
 那	y
-來自	a
+就是	a
 這些	b
 得到	c
 的確	d
@@ -75,7 +75,7 @@ encoder:
 然而	w
 裡面	x
 那麼	y
-來往	a
+就業	a
 這麼	b
 得知	c
 的士	d
@@ -108,10 +108,10 @@ encoder:
 本	af
 高	ag
 樹	ah
-就	ai
+京	ai
 想	aj
 交	ak
-整	al
+來	al
 木	am
 機	an
 椅	ao
@@ -724,10 +724,10 @@ encoder:
 本來	af
 高峰	ag
 樹立	ah
-就是	ai
+京城	ai
 想象	aj
 交通	ak
-整個	al
+來自	al
 木材	am
 機會	an
 椅子	ao
@@ -1274,10 +1274,10 @@ encoder:
 本人	af
 高度	ag
 樹林	ah
-就業	ai
+京劇	ai
 想念	aj
 交換	ak
-整體	al
+來往	al
 木頭	am
 機器	an
 椅背	ao
@@ -1811,7 +1811,6 @@ encoder:
 杯	agu
 朽	ahk
 憖	ahr
-京	aiv
 裹	aja
 亭	ajd
 棍	ajn
@@ -1825,6 +1824,7 @@ encoder:
 效	aks
 享	akz
 枴	alm
+整	alt
 束	alv
 赖	alx
 玄	ana
@@ -107707,7 +107707,6 @@ encoder:
 大	od
 自	qi
 小	iv
-來	al
 女	cn
 又	bo
 長	uc
@@ -118981,6 +118980,7 @@ encoder:
 午	ggi
 萬	svy
 委	mcn
+京	aiv
 遇	voc
 乐	kiv
 逐	toc
