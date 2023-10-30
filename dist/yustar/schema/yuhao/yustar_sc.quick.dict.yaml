@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.quick"
-version: "20231025"
+version: "20231028"
 sort: original
 columns:
   - text
@@ -2297,6 +2297,7 @@ columns:
 吓	ljx
 叭	lka
 噫	lkj
+咝	lkk
 辞	lkx
 器	llh
 嚣	llv

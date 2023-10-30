@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_tc.quick"
-version: "20231025"
+version: "20231028"
 sort: original
 columns:
   - text
@@ -1759,6 +1759,7 @@ columns:
 弗	bka
 尺	bkd
 註	bkj
+識	bkk
 誠	bky
 屢	blg
 劈	blk
@@ -2288,6 +2289,7 @@ columns:
 呈	ljw
 叭	lka
 噫	lkj
+職	lkk
 嘍	llg
 器	llh
 戰	llj
@@ -2453,7 +2455,7 @@ columns:
 組	ojq
 奈	ojs
 絨	oke
-織	okj
+織	okk
 态	okr
 緇	olv
 絹	olw
