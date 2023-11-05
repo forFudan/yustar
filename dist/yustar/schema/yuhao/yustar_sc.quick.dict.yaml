@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.quick"
-version: "20231028"
+version: "20231105"
 sort: original
 columns:
   - text
@@ -24,7 +24,7 @@ columns:
 能	n
 大	o
 要	p
-着	q
+道	q
 人	r
 而	s
 这	t
@@ -49,7 +49,7 @@ columns:
 能够	n
 大家	o
 要求	p
-着眼	q
+道路	q
 人民	r
 而且	s
 这些	t
@@ -71,7 +71,7 @@ columns:
 能力	n
 大师	o
 要命	p
-着手	q
+道德	q
 人类	r
 而已	s
 这么	t
@@ -498,14 +498,14 @@ columns:
 蟠	qg
 精	qh
 自	qi
-单	qj
+着	qj
 益	qk
 总	ql
 米	qm
 北	qn
 美	qo
 差	qp
-道	qq
+首	qq
 息	qr
 身	qs
 遂	qt
@@ -911,7 +911,7 @@ columns:
 礼物	je
 量子	jf
 眼睛	jg
-时间	jh
+时候	jh
 显示	ji
 祖国	jj
 暗示	jk
@@ -1064,13 +1064,13 @@ columns:
 师傅	qf
 精神	qh
 自己	qi
-单位	qj
+着眼	qj
 总是	ql
 米饭	qm
 北京	qn
 美国	qo
 差距	qp
-道路	qq
+首先	qq
 身边	qs
 盖子	qu
 前面	qw
@@ -1411,7 +1411,7 @@ columns:
 礼貌	je
 量化	jf
 眼前	jg
-时刻	jh
+时间	jh
 显得	ji
 祖父	jj
 暗中	jk
@@ -1554,13 +1554,13 @@ columns:
 师父	qf
 精彩	qh
 自由	qi
-单纯	qj
+着手	qj
 总统	ql
 米色	qm
 北方	qn
 美丽	qo
 差异	qp
-道德	qq
+首都	qq
 身体	qs
 前途	qw
 将来	qx
@@ -1985,7 +1985,7 @@ columns:
 支	gbo
 盈	gbu
 翅	gbv
-笺	gfk
+鹅	gfk
 歪	gfp
 篇	ghc
 黠	ghl
@@ -2534,7 +2534,6 @@ columns:
 眷	qoj
 虹	qpg
 遵	qph
-首	qqi
 羚	qrk
 糟	qsj
 并	qso

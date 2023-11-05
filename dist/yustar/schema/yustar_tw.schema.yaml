@@ -239,6 +239,7 @@ yuhao_macro:
 punctuator:
   import_preset: symbols_yuhao
   half_shape:
+    "#": "#"
     "%": "%"
     "*": "*"
     "\\": "、"

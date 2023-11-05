@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_tc.short"
-version: "20231028"
+version: "20231105"
 sort: original
 columns:
   - text
@@ -2799,6 +2799,7 @@ columns:
 団	whc
 囦	wns
 囨	wgu
+囬	uir
 囯	wjw
 圡	hkd
 圤	hub
@@ -3186,7 +3187,7 @@ columns:
 瓼	rvl
 甠	jps
 甤	tps
-甴	ljv
+甴	wjv
 甶	gvt
 甼	vjd
 畁	dlj

@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_tc.quick"
-version: "20231028"
+version: "20231105"
 sort: original
 columns:
   - text
@@ -24,7 +24,7 @@ columns:
 能	n
 大	o
 要	p
-着	q
+道	q
 人	r
 而	s
 於	t
@@ -34,7 +34,7 @@ columns:
 多	x
 那	y
 就是	a
-這些	b
+這樣	b
 好奇	c
 的確	d
 你們	e
@@ -48,7 +48,7 @@ columns:
 能够	n
 大家	o
 要求	p
-着眼	q
+道路	q
 人民	r
 而且	s
 於是	t
@@ -70,7 +70,7 @@ columns:
 能力	n
 大師	o
 要命	p
-着手	q
+道德	q
 人類	r
 而已	s
 爲何	u
@@ -496,14 +496,14 @@ columns:
 義	qg
 精	qh
 自	qi
-曾	qj
+着	qj
 益	qk
 蠟	ql
 米	qm
 北	qn
 美	qo
 差	qp
-道	qq
+導	qq
 息	qr
 身	qs
 蜂	qt
@@ -906,7 +906,7 @@ columns:
 瞧見	je
 球體	jf
 眼睛	jg
-時間	jh
+時候	jh
 縣城	ji
 現在	jj
 具有	jk
@@ -1060,13 +1060,13 @@ columns:
 義務	qg
 精神	qh
 自己	qi
-曾經	qj
+着眼	qj
 蠟燭	ql
 米飯	qm
 北京	qn
 美國	qo
 差距	qp
-道路	qq
+導致	qq
 身邊	qs
 蜂蜜	qt
 鼻子	qv
@@ -1402,7 +1402,7 @@ columns:
 神經	jd
 球員	jf
 眼前	jg
-時刻	jh
+時間	jh
 縣長	ji
 現代	jj
 具備	jk
@@ -1541,12 +1541,12 @@ columns:
 弟子	qb
 精彩	qh
 自由	qi
-曾孫	qj
+着手	qj
 米色	qm
 北方	qn
 美麗	qo
 差異	qp
-道德	qq
+導演	qq
 身體	qs
 蜂窩	qt
 鼻孔	qv
@@ -1980,7 +1980,6 @@ columns:
 盈	gbu
 翅	gbv
 籍	gdk
-笺	gfk
 歪	gfp
 龜	ggm
 篇	ghc
@@ -2556,7 +2555,6 @@ columns:
 糙	qpl
 鄭	qpo
 首	qqi
-導	qqo
 蟲	qqq
 羚	qrk
 糟	qsj
