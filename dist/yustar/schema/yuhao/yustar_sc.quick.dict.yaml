@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.quick"
-version: "20231105"
+version: "20231106"
 sort: original
 columns:
   - text
@@ -29,7 +29,7 @@ columns:
 而	s
 这	t
 点	u
-里	v
+不	v
 然	w
 多	x
 那	y
@@ -54,7 +54,7 @@ columns:
 而且	s
 这些	t
 点头	u
-里面	v
+不管	v
 然而	w
 多少	x
 那么	y
@@ -76,7 +76,7 @@ columns:
 而已	s
 这么	t
 点燃	u
-里头	v
+不然	v
 然后	w
 多么	x
 那个	y
@@ -101,7 +101,7 @@ columns:
 模	as
 格	at
 市	au
-亩	av
+杯	av
 击	aw
 栋	ax
 杨	ay
@@ -243,16 +243,16 @@ columns:
 十	gi
 真	gj
 及	gk
-否	gl
+囊	gl
 笑	gm
 么	gn
-还	go
+失	go
 延	gp
 气	gq
 答	gr
 舞	gs
 简	gt
-不	gu
+怎	gu
 箅	gv
 筋	gw
 索	gx
@@ -279,7 +279,7 @@ columns:
 士	hs
 房	ht
 狐	hu
-埋	hv
+坏	hv
 静	hw
 壶	hx
 场	hy
@@ -535,7 +535,7 @@ columns:
 懂	rs
 忙	rt
 个	ru
-颌	rv
+怀	rv
 瓦	rw
 惭	rx
 忆	ry
@@ -626,10 +626,10 @@ columns:
 碗	vi
 百	vj
 野	vk
-畀	vl
+里	vl
 矿	vm
 砰	vn
-遇	vo
+还	vo
 硒	vp
 碰	vq
 思	vr
@@ -718,6 +718,7 @@ columns:
 模样	as
 格外	at
 市场	au
+杯子	av
 击败	aw
 栋梁	ax
 杨柳	ay
@@ -846,15 +847,15 @@ columns:
 十分	gi
 真实	gj
 及时	gk
-否则	gl
+囊括	gl
 笑话	gm
-还是	go
+失去	go
 延长	gp
 气息	gq
 答应	gr
 舞台	gs
 简单	gt
-不管	gu
+怎么	gu
 筋骨	gw
 索性	gx
 卖国	gy
@@ -878,7 +879,7 @@ columns:
 士兵	hs
 房子	ht
 狐狸	hu
-埋怨	hv
+坏人	hv
 静静	hw
 场面	hy
 走私	hz
@@ -1094,6 +1095,7 @@ columns:
 懂得	rs
 忙碌	rt
 个性	ru
+怀疑	rv
 瓦解	rw
 惭愧	rx
 杀害	sa
@@ -1164,8 +1166,9 @@ columns:
 压力	vh
 百姓	vj
 野兽	vk
+里面	vl
 矿物	vm
-遇见	vo
+还是	vo
 碰撞	vq
 思考	vr
 男人	vs
@@ -1352,15 +1355,14 @@ columns:
 十足	gi
 真正	gj
 及其	gk
-否认	gl
 笑容	gm
-还有	go
+失败	go
 延续	gp
 气氛	gq
 答案	gr
 舞蹈	gs
 简直	gt
-不然	gu
+怎样	gu
 索取	gx
 卖身	gy
 竹竿	gz
@@ -1379,7 +1381,7 @@ columns:
 幸运	hq
 志气	hr
 房间	ht
-埋伏	hv
+坏事	hv
 静默	hw
 场所	hy
 走向	hz
@@ -1580,6 +1582,7 @@ columns:
 懂事	rs
 忙于	rt
 个人	ru
+怀念	rv
 瓦砾	rw
 杀人	sa
 英国	sc
@@ -1640,8 +1643,9 @@ columns:
 压迫	vh
 百年	vj
 野生	vk
+里头	vl
 矿产	vm
-遇到	vo
+还有	vo
 碰见	vq
 思想	vr
 男子	vs
@@ -1702,7 +1706,6 @@ columns:
 卫	afi
 楠	agc
 植	agj
-杯	agu
 朽	ahk
 憖	ahr
 棺	aib
@@ -1882,6 +1885,7 @@ columns:
 僵	efv
 贯	egc
 值	egj
+倕	egs
 偏	ehc
 佶	ehl
 伏	ehq
@@ -1986,14 +1990,12 @@ columns:
 盈	gbu
 翅	gbv
 鹅	gfk
-歪	gfp
 篇	ghc
 黠	ghl
 箐	ghw
 管	gib
 翰	gjr
 裁	gka
-囊	glx
 退	goc
 迭	goo
 释	gqb
@@ -2001,7 +2003,6 @@ columns:
 筷	grb
 升	gso
 乍	gub
-篮	gug
 币	guj
 血	gum
 馨	hbe
@@ -2011,9 +2012,8 @@ columns:
 埠	hdg
 坤	hds
 猴	heb
-坯	hgf
 填	hgj
-坏	hgu
+埵	hgs
 匾	hhc
 猪	hhj
 邽	hhp
@@ -2051,6 +2051,7 @@ columns:
 匝	huj
 坫	hul
 盐	huu
+坯	hvf
 狸	hvl
 扇	hvv
 狗	hwl
@@ -2280,7 +2281,7 @@ columns:
 舔	lfo
 喃	lgc
 嗔	lgj
-喷	lgs
+唾	lgs
 啧	lhc
 嘟	lhj
 哧	lhk
@@ -2429,6 +2430,7 @@ columns:
 夸	ofh
 针	ogi
 镇	ogj
+锤	ogs
 夺	ohc
 奎	ohh
 奢	ohj
@@ -2444,7 +2446,6 @@ columns:
 锱	olv
 絹	olw
 紹	oml
-锤	oms
 镈	onh
 锜	ooj
 镣	ooq
@@ -2693,11 +2694,13 @@ columns:
 碎	var
 畴	vdh
 厨	vfl
+歪	vfp
 励	vfw
 磕	vhn
 砸	vhu
 厚	vjk
 壓	vjw
+否	vlv
 畏	vmc
 鸭	vmn
 毗	vnn

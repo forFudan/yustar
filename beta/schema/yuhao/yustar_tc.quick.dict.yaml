@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_tc.quick"
-version: "20231105"
+version: "20231106"
 sort: original
 columns:
   - text
@@ -29,7 +29,7 @@ columns:
 而	s
 於	t
 爲	u
-原	v
+不	v
 然	w
 多	x
 那	y
@@ -53,7 +53,7 @@ columns:
 而且	s
 於是	t
 爲了	u
-原來	v
+不管	v
 然而	w
 多少	x
 那麽	y
@@ -74,7 +74,7 @@ columns:
 人類	r
 而已	s
 爲何	u
-原諒	v
+不然	v
 然後	w
 多麽	x
 那個	y
@@ -207,7 +207,7 @@ columns:
 𠂇	ez
 抗	fa
 五	fb
-麗	fc
+再	fc
 拍	fd
 推	fe
 拜	ff
@@ -241,7 +241,7 @@ columns:
 十	gi
 真	gj
 及	gk
-否	gl
+喪	gl
 笑	gm
 博	gn
 系	go
@@ -250,7 +250,7 @@ columns:
 答	gr
 無	gs
 篷	gt
-不	gu
+點	gu
 箅	gv
 筋	gw
 索	gx
@@ -309,7 +309,7 @@ columns:
 炀	iy
 景	ja
 缺	jb
-再	jc
+禮	jc
 神	jd
 瞧	je
 球	jf
@@ -550,12 +550,12 @@ columns:
 共	sk
 力	sl
 面	sm
-華	sn
+落	sn
 芙	so
 薩	sp
 蔽	sq
 茶	sr
-葉	ss
+華	ss
 荒	st
 菜	su
 萬	sv
@@ -616,7 +616,7 @@ columns:
 礎	va
 破	vb
 碘	vc
-願	vd
+原	vd
 雁	ve
 研	vf
 砟	vg
@@ -811,6 +811,7 @@ columns:
 伺候	ey
 抗議	fa
 五月	fb
+再次	fc
 拍攝	fd
 推動	fe
 拜訪	ff
@@ -844,14 +845,14 @@ columns:
 十分	gi
 真實	gj
 及時	gk
-否則	gl
+喪失	gl
 笑話	gm
 博士	gn
 系統	go
 氣息	gq
 答應	gr
 無限	gs
-不管	gu
+點頭	gu
 筋骨	gw
 索性	gx
 乞丐	gy
@@ -901,7 +902,7 @@ columns:
 資料	ix
 景象	ja
 缺乏	jb
-再次	jc
+禮物	jc
 神秘	jd
 瞧見	je
 球體	jf
@@ -1106,10 +1107,10 @@ columns:
 共同	sk
 力量	sl
 面孔	sm
-華人	sn
+落後	sn
 芙蓉	so
 茶葉	sr
-葉子	ss
+華人	ss
 荒唐	st
 菜刀	su
 萬能	sv
@@ -1158,7 +1159,7 @@ columns:
 愛情	ux
 爪牙	uz
 破壞	vb
-願意	vd
+原來	vd
 研究	vf
 百姓	vj
 野獸	vk
@@ -1315,6 +1316,7 @@ columns:
 有關	ew
 抗戰	fa
 五彩	fb
+再見	fc
 拍照	fd
 推進	fe
 拜託	ff
@@ -1346,14 +1348,14 @@ columns:
 十足	gi
 真正	gj
 及其	gk
-否認	gl
+喪生	gl
 笑容	gm
 博得	gn
 系列	go
 氣氛	gq
 答案	gr
 無法	gs
-不然	gu
+點燃	gu
 索取	gx
 竹竿	gz
 壞事	ha
@@ -1398,7 +1400,7 @@ columns:
 資金	ix
 景色	ja
 缺少	jb
-再見	jc
+禮貌	jc
 神經	jd
 球員	jf
 眼前	jg
@@ -1581,9 +1583,9 @@ columns:
 共有	sk
 力氣	sl
 面子	sm
-華僑	sn
+落地	sn
 茶館	sr
-葉片	ss
+華僑	ss
 荒涼	st
 菜單	su
 萬一	sv
@@ -1623,7 +1625,7 @@ columns:
 期間	uw
 愛人	ux
 破碎	vb
-願望	vd
+原諒	vd
 研製	vf
 百年	vj
 野生	vk
@@ -1685,7 +1687,6 @@ columns:
 札	aei
 棲	agb
 植	agj
-杯	agu
 朽	ahk
 櫃	ahl
 憖	ahr
@@ -1732,6 +1733,7 @@ columns:
 豪	ats
 楞	aut
 楒	avr
+杯	avu
 栩	avv
 稟	awl
 諒	bai
@@ -1880,6 +1882,7 @@ columns:
 倆	efu
 僵	efv
 值	egj
+倕	egs
 付	ehc
 佶	ehl
 伏	ehq
@@ -1980,7 +1983,6 @@ columns:
 盈	gbu
 翅	gbv
 籍	gdk
-歪	gfp
 龜	ggm
 篇	ghc
 黠	ghl
@@ -1992,7 +1994,6 @@ columns:
 翰	gjr
 裁	gka
 載	gkd
-喪	gll
 囊	glx
 竿	gng
 退	goc
@@ -2001,9 +2002,9 @@ columns:
 筷	grb
 簽	grq
 籤	grr
+郵	gsj
 升	gso
 乍	gub
-篮	gug
 血	gum
 簷	gxv
 犯	haj
@@ -2019,10 +2020,10 @@ columns:
 猴	heb
 雅	heh
 穀	hfm
-坯	hgf
 填	hgj
 臨	hgl
-鑒	hgu
+墳	hgs
+監	hgu
 匾	hhc
 堵	hhj
 邽	hhp
@@ -2063,6 +2064,7 @@ columns:
 赴	hub
 匝	huj
 坫	hul
+坯	hvf
 狗	hwl
 靜	hwu
 肩	hwy
@@ -2132,7 +2134,6 @@ columns:
 瞪	jbf
 暇	jbi
 禄	jbn
-禮	jcs
 販	jdb
 瑰	jdg
 碧	jdv
@@ -2274,6 +2275,7 @@ columns:
 咻	lea
 啦	lfk
 喃	lgc
+噴	lgs
 吃	lgy
 嚇	lhk
 嘔	lhl
@@ -2444,6 +2446,7 @@ columns:
 緞	oel
 緣	oet
 奮	oev
+锤	ogs
 紂	ohc
 奎	ohh
 緒	ohj
@@ -2459,7 +2462,6 @@ columns:
 緇	olv
 絹	olw
 紹	oml
-锤	oms
 縛	onh
 綺	ooj
 繚	ooq
@@ -2711,11 +2713,13 @@ columns:
 厄	vaj
 碎	var
 磚	vdh
+願	vdi
 鴨	vdn
-頁	vjb
+歪	vfp
 厚	vjk
 魯	vjr
 壓	vjw
+否	vlv
 畏	vmc
 曆	vmm
 砒	vnn
