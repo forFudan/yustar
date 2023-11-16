@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_tc.short"
-version: "20231106"
+version: "20231116"
 sort: original
 columns:
   - text
@@ -286,6 +286,7 @@ columns:
 氺	ns
 爫	uz
 牜	pn
+甶	dg
 癶	bo
 糹	os
 耂	ht
@@ -373,6 +374,7 @@ columns:
 𫩠	is
 𫶧	wr
 𬂛	gi
+𬼀	qk
 𬼂	ei
 𬼖	bj
 𭕄	ns
@@ -731,7 +733,6 @@ columns:
 问	tlv
 音	kjr
 任	emr
-思	vri
 林	aam
 跟	pgg
 听	ldj
@@ -739,7 +740,6 @@ columns:
 失	gof
 男	vsl
 父	ksi
-朋	wwy
 军	xxj
 房	htf
 近	doc
@@ -3188,7 +3188,6 @@ columns:
 甠	jps
 甤	tps
 甴	wjv
-甶	gvt
 甼	vjd
 畁	dlj
 畄	nvt
@@ -4605,6 +4604,7 @@ columns:
 𠂨	dso
 𠂬	dob
 𠂲	mqm
+𠂽	dmc
 𠂾	dvu
 𠃏	eei
 𠃐	yyi
@@ -5516,6 +5516,7 @@ columns:
 𢌿	vso
 𢍁	dso
 𢍂	qso
+𢍉	dso
 𢍺	xkd
 𢍻	kei
 𢍼	fki
@@ -6374,6 +6375,7 @@ columns:
 𤰩	vky
 𤰭	kvt
 𤰰	duz
+𤰲	duz
 𤰷	dob
 𤰹	vih
 𤰺	vvt
@@ -7394,6 +7396,7 @@ columns:
 𧰶	tck
 𧰷	tem
 𧰸	tbp
+𧱋	dts
 𧱏	kts
 𧱠	tub
 𧲠	mei
@@ -7734,6 +7737,7 @@ columns:
 𨡁	pjj
 𨡄	pby
 𨡔	ipy
+𨡛	dpy
 𨡨	puq
 𨢁	pks
 𨢓	pag
@@ -8176,6 +8180,8 @@ columns:
 𩲁	dxx
 𩲄	fdg
 𩲅	dhc
+𩲆	dcp
+𩲇	dkz
 𩲈	dus
 𩲉	tdg
 𩲊	dmm
@@ -8580,6 +8586,7 @@ columns:
 𪭉	kfi
 𪭊	ksl
 𪭌	kum
+𪭎	kdg
 𪭜	fxx
 𪭨	fji
 𪭰	fqy
@@ -8833,6 +8840,7 @@ columns:
 𫕢	cem
 𫕽	ruf
 𫖀	sfm
+𫖌	fbw
 𫗍	hks
 𫗖	ksm
 𫗞	xng
@@ -9110,6 +9118,7 @@ columns:
 𬂧	ffw
 𬂫	dam
 𬂭	adx
+𬂯	adg
 𬅝	xso
 𬅟	xri
 𬅣	uxq
@@ -9381,7 +9390,9 @@ columns:
 𬳨	wbj
 𬳷	bug
 𬴽	dxi
+𬴾	djv
 𬴿	dle
+𬵀	ddc
 𬵁	vhk
 𬵂	vub
 𬵃	vod
@@ -9393,6 +9404,7 @@ columns:
 𬵒	vdc
 𬵔	vpz
 𬵗	vcy
+𬵙	dvv
 𬶀	xmd
 𬶁	xre
 𬶂	xht
@@ -9438,7 +9450,6 @@ columns:
 𬻚	pjd
 𬻺	kke
 𬻿	kkd
-𬼀	kgp
 𬼁	kyi
 𬼃	grj
 𬼄	xyi
@@ -9507,6 +9518,7 @@ columns:
 𭅗	hvt
 𭅙	hdz
 𭅠	gej
+𭅡	dmq
 𭅲	akd
 𭅴	hub
 𭅸	jaj
@@ -10041,6 +10053,7 @@ columns:
 𮫈	ubs
 𮫊	uuf
 𮫕	dwm
+𮫜	dmy
 𮫡	udg
 𮫷	vgg
 𮫸	vle
@@ -10332,6 +10345,7 @@ columns:
 𰡮	jqk
 𰡯	jkg
 𰡰	jxj
+𰡸	djw
 𰢛	uei
 𰢞	utj
 𰢪	uoz
@@ -10346,6 +10360,7 @@ columns:
 𰣀	vps
 𰣄	kvj
 𰣅	evt
+𰣈	idg
 𰤌	bod
 𰤍	bbg
 𰤏	bdd
@@ -10789,6 +10804,7 @@ columns:
 𱱺	dub
 𱱿	bub
 𱲋	hum
+𱲣	qjm
 𱲤	sjm
 𱲫	job
 𱲹	jpz
@@ -11423,6 +11439,7 @@ columns:
 期	uwy
 叫	lwj
 命	raj
+思	vri
 問	dlv
 媽	cwm
 反	dbo
@@ -11433,6 +11450,7 @@ columns:
 找	fkg
 它	inb
 每	gem
+朋	wwy
 系	gos
 斯	udj
 李	akz

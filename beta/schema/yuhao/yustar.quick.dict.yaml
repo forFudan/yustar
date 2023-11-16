@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.quick"
-version: "20231106"
+version: "20231116"
 sort: original
 columns:
   - text
@@ -9,6 +9,7 @@ columns:
 ...
 
 就	a
+這	b
 好	c
 的	d
 你	e
@@ -26,23 +27,31 @@ columns:
 道	q
 人	r
 而	s
+这	t
+爲	u
 不	v
-然	w
+出	w
 多	x
 那	y
 刺	ac
 板	ad
 本	af
 京	ai
+想	aj
+李	ak
+格	at
 市	au
 建	ba
+居	bj
 引	bu
 同	cf
 很	cg
 待	ch
 行	ci
+往	ck
 如	cl
 她	co
+露	cp
 似	ee
 什	eg
 以	ek
@@ -53,6 +62,7 @@ columns:
 在	eu
 有	ew
 像	ex
+𠂇	ez
 五	fb
 拍	fd
 推	fe
@@ -66,6 +76,7 @@ columns:
 每	ge
 真	gj
 及	gk
+笑	gm
 答	gr
 箅	gv
 筋	gw
@@ -76,6 +87,7 @@ columns:
 去	hn
 志	hr
 宋	ia
+安	ic
 定	if
 少	ig
 光	il
@@ -89,6 +101,7 @@ columns:
 星	jp
 故	jt
 感	kf
+意	kj
 公	kn
 孩	kt
 站	ku
@@ -102,12 +115,14 @@ columns:
 忠	lu
 吹	lx
 哪	ly
+痛	mb
 病	mf
 科	mi
 香	mj
 底	mk
 度	ms
 疼	mt
+豸	mz
 没	ne
 法	nh
 活	nl
@@ -117,11 +132,14 @@ columns:
 游	nt
 源	nv
 幻	ny
+奇	oj
 太	ok
+秦	om
 改	ot
 套	ou
 民	ox
 钇	oy
+隔	pf
 特	ph
 告	pl
 配	po
@@ -132,6 +150,7 @@ columns:
 师	qf
 精	qh
 着	qj
+益	qk
 北	qn
 美	qo
 差	qp
@@ -140,8 +159,10 @@ columns:
 命	ra
 快	rb
 怕	rd
+今	rk
 過	ro
 性	rp
+悦	rq
 懂	rs
 忙	rt
 忆	ry
@@ -158,15 +179,19 @@ columns:
 髭	up
 罪	uu
 岸	uv
+期	uw
 崡	uy
 破	vb
 原	vd
 雁	ve
 碗	vi
 野	vk
+思	vr
 服	wa
+忽	wc
 股	we
 腿	wg
+然	wh
 逃	wi
 回	wl
 因	wo
@@ -174,10 +199,13 @@ columns:
 被	xb
 久	xk
 名	xl
+切	xm
 色	xo
 鳔	xp
+解	xs
 外	xu
 袍	xw
+衤	xy
 迅	yg
 厾	yh
 敢	yl
@@ -234,7 +262,6 @@ columns:
 約	owk
 雲	cin
 極	akl
-益	qku
 脚	whn
 略	vtl
 响	ldx
@@ -538,10 +565,11 @@ columns:
 皚	duf
 詔	bml
 閻	dxd
-齲	pgq
+齲	pgl
 箐	ghw
 鞑	soo
 涣	nxc
+蜢	qku
 啓	htl
 嶂	ukj
 獷	hms
@@ -557,6 +585,7 @@ columns:
 噫	lkj
 珪	jhh
 殇	fxg
+垜	hga
 弑	sak
 醍	pjf
 庾	mdr

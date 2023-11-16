@@ -61,7 +61,7 @@ engine:
   processors:
     - ascii_composer
     - recognizer
-    - lua_processor@yuhao_chaifen_processor
+    - lua_processor@*yuhao.yuhao_chaifen_processor
     - key_binder
     - speller
     - punctuator
@@ -80,13 +80,13 @@ engine:
     - reverse_lookup_translator
     - table_translator
   filters:
-    - lua_filter@yuhao_autocompletion_filter
-    - lua_filter@yuhao_char_first
-    - lua_filter@yuhao_char_only
-    - lua_filter@yuhao_postpone_full_code
+    - lua_filter@*yuhao.yuhao_autocompletion_filter
+    - lua_filter@*yuhao.yuhao_char_first
+    - lua_filter@*yuhao.yuhao_char_only
+    - lua_filter@*yuhao.yuhao_postpone_full_code
     - simplifier@traditionalize
     - simplifier@simplify
-    - lua_filter@yuhao_chaifen
+    - lua_filter@*yuhao.yuhao_chaifen_filter
     - uniquifier
 
 traditionalize:
@@ -156,7 +156,7 @@ reverse_lookup:
     - xform/([jqxy])v/$1u/
 
 punctuator:
-  import_preset: symbols_yuhao
+  import_preset: yuhao.symbols
   half_shape:
     "#": "#"
     "%": "%"

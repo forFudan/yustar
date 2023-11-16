@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.full"
-version: "20231106"
+version: "20231116"
 sort: original
 columns:
   - text
@@ -1505,7 +1505,7 @@ columns:
 廳	mljr
 换	fxco
 遭	sjjo
-属	bgqc
+属	bglj
 闻	tlem
 豐	uddq
 阴	pwyf
@@ -3658,7 +3658,7 @@ columns:
 隸	ajbn
 拎	frkb
 綁	odpf
-嘱	lbgc
+嘱	lbgj
 醇	pakz
 厢	vajm
 嬉	chlv
@@ -4156,7 +4156,7 @@ columns:
 惘	rcqt
 峇	urhs
 隕	pljb
-禹	gqck
+禹	glcj
 禾	mhh
 缚	knhc
 蚁	qksi
@@ -5587,7 +5587,7 @@ columns:
 夙	efxx
 覃	pjzx
 砥	vkxk
-瞩	jbgc
+瞩	jbgj
 仨	elar
 誅	bpka
 炖	ixwk
@@ -5662,7 +5662,7 @@ columns:
 钵	oafi
 滂	naqt
 笋	gbgp
-瑀	jgqc
+瑀	jglj
 潸	naaw
 龌	prwd
 恻	rcmd
@@ -5741,7 +5741,7 @@ columns:
 鐮	tmqk
 閡	dthm
 閻	dxdi
-齲	pgqc
+齲	pglj
 暱	jhsl
 湳	ngcg
 瘞	morh
@@ -5789,7 +5789,7 @@ columns:
 硃	vpka
 餞	kkkg
 聿	bakj
-踽	pgqc
+踽	pglj
 榄	augc
 痪	mxco
 崴	ukfc
@@ -6217,6 +6217,7 @@ columns:
 鴒	rkbd
 鴕	dinb
 鶻	rdng
+鸝	fcfd
 摀	fdws
 敻	xcrt
 柀	abpm
@@ -6231,7 +6232,6 @@ columns:
 鴟	kxkd
 鶇	ajdn
 鶺	iird
-鸝	fcfd
 藜	smwn
 颦	pivg
 辎	xlvt
@@ -8072,7 +8072,7 @@ columns:
 阋	tdwr
 蹚	piht
 愍	oxtr
-龋	prwc
+龋	prwj
 阇	thjr
 悭	rubh
 蠲	qkuq
@@ -9818,7 +9818,7 @@ columns:
 踒	pmcn
 蹢	paqj
 邿	hhpf
-鄅	gqcp
+鄅	glcp
 靽	sqak
 骉	bbbm
 鬶	ocfu
@@ -10024,9 +10024,12 @@ columns:
 憖	ahri
 憮	rgsi
 懍	rawm
+懡	rmgn
 戭	ifdk
 扂	hulv
+挅	fgam
 捄	ffnk
+捝	fqlw
 掱	fffs
 揅	vfsf
 揌	fvri
@@ -10036,6 +10039,7 @@ columns:
 撟	fmll
 撾	froc
 攄	fuvr
+敚	qlwt
 敩	nxkt
 旞	tgqo
 昈	jhhr
@@ -10048,6 +10052,7 @@ columns:
 枅	afso
 枍	akhk
 柖	amlv
+桗	agam
 桹	akgg
 梩	avlm
 梱	awam
@@ -10069,6 +10074,7 @@ columns:
 洘	nhhk
 浹	norr
 涄	ndhk
+涚	nqlw
 淶	nals
 湋	nbws
 溠	nqpg
@@ -10089,6 +10095,7 @@ columns:
 瀔	nhfm
 瀘	nuvu
 瀱	nuvm
+灧	nudo
 炌	irka
 炣	ijlv
 烠	iewy
@@ -10369,6 +10376,7 @@ columns:
 㙘	hpcn
 㙦	rfah
 㛃	dmcn
+㛆	cgam
 㛚	cbsy
 㛹	cefs
 㟃	uyfl
@@ -10434,6 +10442,7 @@ columns:
 𥕢	vsjj
 𥖨	vlla
 𥻗	qajf
+𥿰	ogam
 𦈡	kcsr
 𦒍	kvvv
 𦙶	wjgy
@@ -10441,11 +10450,13 @@ columns:
 𦭜	slka
 𦰡	syap
 𧘇	gyy
+𧻞	hgam
 𧿹	pemz
 𨐈	xilw
 𨙸	gbpf
 𨚕	nspf
 𨟠	jjep
+𨦃	tgam
 𨭉	tfkt
 𨱇	ofnk
 𨱏	osrh
@@ -10729,7 +10740,7 @@ columns:
 倳	ehlb
 倷	eojs
 偅	emvl
-偊	egqc
+偊	eglj
 偋	ebqs
 偍	ejfp
 偛	emdi
@@ -11654,7 +11665,7 @@ columns:
 椔	alvt
 椳	avmc
 椵	abib
-楀	agqc
+楀	aglj
 楄	ahce
 楅	aflv
 楈	aypw
@@ -12867,7 +12878,7 @@ columns:
 萉	swob
 萐	sfbp
 萒	sakw
-萭	sgqc
+萭	sglj
 萯	sxjb
 萰	sawq
 萲	sunb
@@ -13152,7 +13163,7 @@ columns:
 蝳	qhem
 蝷	qmqw
 蝹	qjum
-蝺	qgqc
+蝺	qglj
 螁	qgoc
 螇	quno
 螏	qmji
@@ -16292,7 +16303,6 @@ columns:
 懛	rhld
 懜	rsux
 懝	rnjp
-懡	rmgn
 懢	rhgu
 懩	rqog
 懬	msdr
@@ -16367,7 +16377,6 @@ columns:
 拺	fack
 拻	feih
 挄	filw
-挅	fgam
 挆	feam
 挊	fjjx
 挒	ffxm
@@ -16398,7 +16407,6 @@ columns:
 捚	fvls
 捛	fllv
 捜	fdbo
-捝	fqlw
 捠	fdfk
 捤	fbmm
 捦	ftjs
@@ -16550,7 +16558,6 @@ columns:
 敎	sekt
 敐	mtpc
 敒	edtp
-敚	qlwt
 敟	cskt
 敠	bbbb
 敡	jwcb
@@ -16804,7 +16811,6 @@ columns:
 桍	aofh
 桒	gsam
 桖	agum
-桗	agam
 桘	addm
 桙	anpn
 桚	alxx
@@ -17293,7 +17299,6 @@ columns:
 涏	nmgy
 涖	nekl
 涙	nhod
-涚	nqlw
 涜	nhxw
 涥	nake
 涭	nuxb
@@ -17335,7 +17340,7 @@ columns:
 渘	nkga
 渞	nqqi
 渧	naqu
-渪	ngqc
+渪	nglj
 渵	nsvt
 渶	nsco
 渷	nakw
@@ -17518,7 +17523,6 @@ columns:
 灢	nglg
 灥	dndn
 灦	njnj
-灧	nudo
 灮	iwrh
 灱	imdh
 灲	imdh
@@ -17967,7 +17971,7 @@ columns:
 甤	tpss
 甧	ppwy
 甴	wjvw
-甶	gvtp
+甶	dgg
 甼	vjdt
 畁	dljo
 畂	vxkd
@@ -18471,7 +18475,7 @@ columns:
 竨	kujz
 竩	kijq
 竪	hbkl
-竬	kgqc
+竬	kglj
 竮	kbqs
 竰	kvvl
 竱	kdhc
@@ -18894,7 +18898,7 @@ columns:
 聢	lifp
 聣	ldwr
 聤	lajd
-聥	lgqc
+聥	lglj
 聦	lwcr
 聧	lbfo
 聨	lnns
@@ -21616,7 +21620,7 @@ columns:
 㔆	hwhm
 㔇	bbem
 㔈	sumd
-㔉	bgqm
+㔉	bglm
 㔊	awlm
 㔋	hgum
 㔌	lbem
@@ -21938,12 +21942,12 @@ columns:
 㙎	hkfc
 㙏	hgjt
 㙐	husr
-㙑	gqch
+㙑	glch
 㙒	vkht
 㙓	hhhh
 㙔	hbwt
 㙕	hvwy
-㙖	hgqc
+㙖	hglj
 㙗	hvmc
 㙙	nfch
 㙚	hqpn
@@ -22051,7 +22055,6 @@ columns:
 㛂	cdob
 㛄	cagy
 㛅	clen
-㛆	cgam
 㛇	cmht
 㛈	chhk
 㛉	cpxn
@@ -22205,7 +22208,7 @@ columns:
 㝟	ifjj
 㝠	ijak
 㝡	ilbo
-㝢	igqc
+㝢	iglj
 㝣	idmo
 㝤	isch
 㝥	idqm
@@ -24645,7 +24648,7 @@ columns:
 䄑	jkxj
 䄒	jrkr
 䄓	jdjw
-䄔	jgqc
+䄔	jglj
 䄕	jnvt
 䄖	jrfm
 䄗	jddf
@@ -26917,7 +26920,7 @@ columns:
 䨛	cadj
 䨜	cwwy
 䨝	chwy
-䨞	cgqc
+䨞	cglj
 䨟	cnhh
 䨠	cjwe
 䨡	cynw
@@ -28016,11 +28019,11 @@ columns:
 𠂺	dssf
 𠂻	mlgy
 𠂼	khhb
-𠂽	gvmc
+𠂽	dmcg
 𠂾	dvud
 𠂿	grrh
 𠃀	erry
-𠃁	gvgg
+𠃁	dggy
 𠃂	dvfi
 𠃃	dfan
 𠃄	dgdg
@@ -29265,7 +29268,7 @@ columns:
 𠖞	xflc
 𠖟	xpjm
 𠖠	xllj
-𠖡	gvwh
+𠖡	dxfh
 𠖢	xcat
 𠖣	xuwi
 𠖤	xflr
@@ -33935,7 +33938,7 @@ columns:
 𡟢	cmrw
 𡟣	cuuj
 𡟤	celj
-𡟥	cgqc
+𡟥	cglj
 𡟦	cupf
 𡟧	cdua
 𡟨	pokc
@@ -33993,7 +33996,7 @@ columns:
 𡠜	sjoc
 𡠝	jjcn
 𡠞	cgeh
-𡠟	cbgc
+𡠟	cbgj
 𡠠	ciht
 𡠡	cpwm
 𡠢	vvrc
@@ -34336,7 +34339,7 @@ columns:
 𡥳	cskk
 𡥴	kdpg
 𡥵	kjnn
-𡥶	kgqc
+𡥶	kglj
 𡥷	bkbk
 𡥸	bmgk
 𡥹	akbr
@@ -34978,7 +34981,7 @@ columns:
 𡯶	aluf
 𡯷	kwkl
 𡯸	kwod
-𡯹	fgvm
+𡯹	fdmc
 𡯺	fvjb
 𡯻	fjfp
 𡯼	jfef
@@ -36617,7 +36620,7 @@ columns:
 𢉝	mvmc
 𢉞	mhce
 𢉟	mcgg
-𢉠	mgqc
+𢉠	mglj
 𢉡	menj
 𢉢	mjwy
 𢉣	mela
@@ -36850,7 +36853,7 @@ columns:
 𢍆	dmso
 𢍇	hoso
 𢍈	fxns
-𢍉	gvso
+𢍉	dsog
 𢍊	qoso
 𢍋	qjso
 𢍌	ssfs
@@ -38161,7 +38164,7 @@ columns:
 𢡥	dtri
 𢡦	ruil
 𢡧	rnnr
-𢡨	rgvg
+𢡨	rdig
 𢡩	rghh
 𢡪	ujri
 𢡫	aeri
@@ -39074,7 +39077,7 @@ columns:
 𢯷	fbws
 𢯸	fbes
 𢯹	fsgs
-𢯺	fgqc
+𢯺	fglj
 𢯻	fakw
 𢯼	fcni
 𢯽	fsjq
@@ -39203,7 +39206,7 @@ columns:
 𢱸	fgoc
 𢱹	fmhc
 𢱺	fbbp
-𢱻	fgvb
+𢱻	fdeb
 𢱼	fpgs
 𢱽	ffxr
 𢱾	fpih
@@ -40229,7 +40232,7 @@ columns:
 𣁺	kmbg
 𣁻	igwh
 𣁼	awtg
-𣁽	gvwg
+𣁽	digi
 𣁾	igig
 𣁿	igvi
 𣂀	vwig
@@ -40297,7 +40300,7 @@ columns:
 𣂾	nnfd
 𣂿	uekd
 𣃀	rrrd
-𣃁	bgqd
+𣃁	bgld
 𣃂	bhvd
 𣃃	kfld
 𣃄	shwd
@@ -40661,7 +40664,7 @@ columns:
 𣈪	dujr
 𣈫	jjkl
 𣈬	jets
-𣈭	jgqc
+𣈭	jglj
 𣈮	jksr
 𣈯	jrfm
 𣈰	jqfu
@@ -41793,7 +41796,7 @@ columns:
 𣚗	uqoa
 𣚘	nkfa
 𣚙	adkk
-𣚚	abgc
+𣚚	abgj
 𣚛	auie
 𣚜	askr
 𣚝	awag
@@ -42941,7 +42944,7 @@ columns:
 𣬓	nnrs
 𣬔	xlns
 𣬕	xlnl
-𣬖	gvvn
+𣬖	dvnn
 𣬗	nnvs
 𣬘	nnus
 𣬙	klnw
@@ -45454,7 +45457,7 @@ columns:
 𤓨	sflb
 𤓩	ibot
 𤓪	eeei
-𤓫	gubi
+𤓫	dbbi
 𤓬	eeei
 𤓭	iash
 𤓮	ajai
@@ -45747,7 +45750,7 @@ columns:
 𤘍	hyfw
 𤘎	hbub
 𤘏	hkxj
-𤘐	hgqc
+𤘐	hglj
 𤘑	hufq
 𤘒	hwth
 𤘓	hirj
@@ -47314,7 +47317,7 @@ columns:
 𤰯	vwbo
 𤰰	duzo
 𤰱	fuvf
-𤰲	gvuz
+𤰲	duzg
 𤰳	fovt
 𤰴	dfbj
 𤰵	vfre
@@ -47350,7 +47353,7 @@ columns:
 𤱓	ddss
 𤱔	avgn
 𤱕	voxi
-𤱖	gvjy
+𤱖	djey
 𤱗	vklt
 𤱘	vsgy
 𤱙	vafi
@@ -47374,7 +47377,7 @@ columns:
 𤱫	dkfr
 𤱬	vwjr
 𤱭	rtvt
-𤱮	gvgg
+𤱮	dggy
 𤱯	vxva
 𤱰	vdgy
 𤱱	gkvt
@@ -47396,7 +47399,7 @@ columns:
 𤲁	vnku
 𤲂	vrkj
 𤲃	vsfu
-𤲄	gvei
+𤲄	deci
 𤲅	skdd
 𤲆	vmct
 𤲇	fllv
@@ -48810,7 +48813,7 @@ columns:
 𥈈	jwli
 𥈉	jxco
 𥈊	jmdi
-𥈋	jgqc
+𥈋	jglj
 𥈌	jeuc
 𥈍	jjdb
 𥈎	jjwe
@@ -50140,7 +50143,7 @@ columns:
 𥜽	ucsn
 𥜾	jswn
 𥜿	lvyc
-𥝀	gqco
+𥝀	glco
 𥝁	lwsn
 𥝂	vvaj
 𥝃	bkvy
@@ -50150,7 +50153,7 @@ columns:
 𥝇	dvyi
 𥝈	ddsn
 𥝉	vvyy
-𥝊	dssc
+𥝊	dssj
 𥝋	dsdn
 𥝌	mhh
 𥝍	mfih
@@ -50788,7 +50791,7 @@ columns:
 𥧅	injb
 𥧆	ivyx
 𥧇	imig
-𥧈	idkg
+𥧈	idqk
 𥧉	ixar
 𥧊	ibdz
 𥧋	ibqs
@@ -51311,7 +51314,7 @@ columns:
 𥯑	gpht
 𥯒	ggkl
 𥯓	guei
-𥯔	ggqc
+𥯔	gglj
 𥯕	gjfc
 𥯖	gmsb
 𥯗	gwjk
@@ -52362,7 +52365,6 @@ columns:
 𥿭	osen
 𥿮	okpg
 𥿯	odgy
-𥿰	ogam
 𥿱	ogkz
 𥿲	obbc
 𥿳	odsi
@@ -52528,7 +52530,7 @@ columns:
 𦂓	osbk
 𦂔	oxls
 𦂕	ovys
-𦂖	ogvs
+𦂖	odso
 𦂗	iwmo
 𦂘	ohba
 𦂙	oqoh
@@ -52540,7 +52542,7 @@ columns:
 𦂟	htio
 𦂠	oaji
 𦂡	ooqy
-𦂢	ogvl
+𦂢	odlj
 𦂣	ounn
 𦂤	obqs
 𦂥	ovns
@@ -52707,7 +52709,7 @@ columns:
 𦅆	oqpo
 𦅇	oglm
 𦅈	ohcp
-𦅉	obgc
+𦅉	obgj
 𦅊	orrj
 𦅋	ooor
 𦅌	oqoo
@@ -52953,7 +52955,7 @@ columns:
 𦈽	juxb
 𦈾	juvf
 𦈿	jduj
-𦉀	jgvh
+𦉀	jdhk
 𦉁	jjfp
 𦉂	jmvl
 𦉃	jsam
@@ -53665,7 +53667,7 @@ columns:
 𦔇	dkka
 𦔈	dkjj
 𦔉	dkmv
-𦔊	dkgc
+𦔊	dkgj
 𦔋	dksl
 𦔌	dkhj
 𦔍	dknh
@@ -53810,7 +53812,7 @@ columns:
 𦖘	lrls
 𦖙	ldhk
 𦖚	ldbo
-𦖛	lgvh
+𦖛	ldhk
 𦖜	hypl
 𦖝	acml
 𦖞	kxjl
@@ -54300,7 +54302,7 @@ columns:
 𦞄	uuuw
 𦞅	wswy
 𦞆	wdht
-𦞇	wgqc
+𦞇	wglj
 𦞈	webj
 𦞉	crrd
 𦞊	crru
@@ -55830,7 +55832,7 @@ columns:
 𦶀	sdwo
 𦶁	sblo
 𦶂	sflo
-𦶃	sgvn
+𦶃	sdnn
 𦶄	snjh
 𦶅	spoc
 𦶆	sobc
@@ -56080,7 +56082,7 @@ columns:
 𦹺	stjb
 𦹻	snum
 𦹼	wwcp
-𦹽	sbgg
+𦹽	sbdg
 𦹾	samm
 𦹿	sent
 𦺀	safo
@@ -56215,7 +56217,7 @@ columns:
 𦼁	smxv
 𦼂	srjj
 𦼃	srkm
-𦼄	sgvg
+𦼄	sdig
 𦼅	skgp
 𦼆	shtk
 𦼇	sfkr
@@ -57570,7 +57572,7 @@ columns:
 𧑌	qvsk
 𧑍	qssg
 𧑎	wwjq
-𧑏	qbgc
+𧑏	qbgj
 𧑐	qkgl
 𧑑	qsoa
 𧑒	qakt
@@ -58303,7 +58305,7 @@ columns:
 𧜪	akfg
 𧜫	amgy
 𧜬	xgfi
-𧜭	xbgc
+𧜭	xbgj
 𧜮	xilb
 𧜯	tlag
 𧜰	xalt
@@ -59613,7 +59615,7 @@ columns:
 𧱈	ekts
 𧱉	teih
 𧱊	tcbo
-𧱋	gvts
+𧱋	dtsg
 𧱌	uxts
 𧱍	tiam
 𧱎	tbmm
@@ -60272,7 +60274,6 @@ columns:
 𧻛	hwjr
 𧻜	hxva
 𧻝	hggb
-𧻞	hgam
 𧻟	hnic
 𧻠	hggz
 𧻡	hbht
@@ -60907,7 +60908,7 @@ columns:
 𨅘	hcpz
 𨅙	paql
 𨅚	hwtp
-𨅛	pbgc
+𨅛	pbgj
 𨅜	pvsk
 𨅝	pihy
 𨅞	pgrh
@@ -61927,7 +61928,7 @@ columns:
 𨕕	anbo
 𨕖	bbfo
 𨕗	yocf
-𨕘	gqco
+𨕘	glco
 𨕙	dsoc
 𨕚	wkjo
 𨕛	bvyo
@@ -62695,7 +62696,7 @@ columns:
 𨡘	ppcm
 𨡙	pqjg
 𨡚	panw
-𨡛	gvwp
+𨡛	dpyg
 𨡜	psew
 𨡝	phum
 𨡞	pvwl
@@ -62991,7 +62992,6 @@ columns:
 𨦀	tlwj
 𨦁	tehs
 𨦂	tjei
-𨦃	tgam
 𨦄	tvry
 𨦅	tsam
 𨦆	tjnb
@@ -64268,7 +64268,7 @@ columns:
 𨺂	pynw
 𨺃	pwhl
 𨺄	pumr
-𨺅	gubb
+𨺅	dbbh
 𨺆	pjod
 𨺇	pfbp
 𨺈	poqh
@@ -64312,7 +64312,7 @@ columns:
 𨺯	pvri
 𨺰	pqod
 𨺱	pajd
-𨺲	pgqc
+𨺲	pglj
 𨺳	pbss
 𨺴	prkd
 𨺵	gubt
@@ -64439,7 +64439,7 @@ columns:
 𨼮	pxvb
 𨼯	pmgg
 𨼰	peph
-𨼱	gubr
+𨼱	dbbr
 𨼲	psru
 𨼳	pllj
 𨼴	pivt
@@ -64458,7 +64458,7 @@ columns:
 𨽁	plbi
 𨽂	peio
 𨽃	piia
-𨽄	gubs
+𨽄	dbbs
 𨽅	pjxd
 𨽆	pwfq
 𨽇	pvic
@@ -64483,11 +64483,11 @@ columns:
 𨽚	pufu
 𨽛	pqtp
 𨽜	puvu
-𨽝	gubw
+𨽝	dbbw
 𨽞	psfi
 𨽟	pljo
 𨽠	pdrj
-𨽡	gubt
+𨽡	dbbt
 𨽢	pasg
 𨽣	psla
 𨽤	phkj
@@ -64495,7 +64495,7 @@ columns:
 𨽦	plll
 𨽧	psle
 𨽨	phwu
-𨽩	gubh
+𨽩	dbbh
 𨽪	dgqg
 𨽫	dgwk
 𨽬	posa
@@ -64506,8 +64506,8 @@ columns:
 𨽱	dgue
 𨽲	pclr
 𨽳	phwq
-𨽴	gubu
-𨽵	gubi
+𨽴	dbbu
+𨽵	dbbi
 𨽶	bnvt
 𨽷	tbns
 𨽸	ubns
@@ -64658,7 +64658,7 @@ columns:
 𩀉	jweh
 𩀊	nnde
 𩀋	soeh
-𩀌	gqce
+𩀌	glce
 𩀍	vehy
 𩀎	jheh
 𩀏	llle
@@ -65946,7 +65946,7 @@ columns:
 𩔑	savj
 𩔒	ucbj
 𩔓	mdvj
-𩔔	gqcj
+𩔔	glcj
 𩔕	qpvj
 𩔖	qovj
 𩔗	qcvj
@@ -66191,7 +66191,7 @@ columns:
 𩘆	eflv
 𩘇	ewby
 𩘈	eunn
-𩘉	egqc
+𩘉	eglj
 𩘊	ealm
 𩘋	eebj
 𩘌	emih
@@ -67852,8 +67852,8 @@ columns:
 𩲃	dwkd
 𩲄	fdgo
 𩲅	dhcg
-𩲆	gvwc
-𩲇	gvwk
+𩲆	dcpg
+𩲇	dkzg
 𩲈	dusg
 𩲉	tdgw
 𩲊	dmmg
@@ -67920,7 +67920,7 @@ columns:
 𩳇	dees
 𩳈	qdgi
 𩳉	duog
-𩳊	gjwl
+𩳊	dxlv
 𩳋	drhg
 𩳌	dfbl
 𩳍	dflp
@@ -68017,12 +68017,12 @@ columns:
 𩴨	qqdg
 𩴩	diii
 𩴪	nnkd
-𩴫	gvwg
+𩴫	dllg
 𩴬	ujdg
 𩴭	dwsn
 𩴮	duhg
 𩴯	duts
-𩴰	gvwe
+𩴰	dcfe
 𩴱	ifid
 𩴲	suxd
 𩴳	diwj
@@ -69108,7 +69108,7 @@ columns:
 𪅮	irgd
 𪅯	iwdn
 𪅰	rlkd
-𪅱	bgqd
+𪅱	bgld
 𪅲	rvvd
 𪅳	lhbd
 𪅴	fkrd
@@ -69879,7 +69879,7 @@ columns:
 𪑱	gbdz
 𪑲	gxxk
 𪑳	gujb
-𪑴	ggqc
+𪑴	gglj
 𪑵	ollg
 𪑶	gkga
 𪑷	guuj
@@ -71137,7 +71137,7 @@ columns:
 𪥾	cvxu
 𪥿	cgyo
 𪦀	cstf
-𪦁	cgvh
+𪦁	cdhk
 𪦂	cdso
 𪦃	cmul
 𪦄	cbqc
@@ -71516,7 +71516,7 @@ columns:
 𪫽	pnri
 𪫾	cfri
 𪫿	rsoz
-𪬀	rgve
+𪬀	rdfe
 𪬁	rmqn
 𪬂	jori
 𪬃	rijq
@@ -71594,7 +71594,7 @@ columns:
 𪭋	gkkz
 𪭌	kumg
 𪭍	skkg
-𪭎	kgvt
+𪭎	kdgg
 𪭏	kpcn
 𪭐	kukz
 𪭑	kcuj
@@ -72191,7 +72191,7 @@ columns:
 𪶠	nent
 𪶡	nrfv
 𪶢	nera
-𪶣	ngvs
+𪶣	ndso
 𪶤	neqo
 𪶥	nrff
 𪶦	nagy
@@ -72359,7 +72359,7 @@ columns:
 𪹈	ijfp
 𪹉	xbei
 𪹊	ikfl
-𪹋	igqc
+𪹋	iglj
 𪹌	xuwi
 𪹍	iebo
 𪹎	ixwc
@@ -72399,7 +72399,7 @@ columns:
 𪹰	iteh
 𪹱	akhi
 𪹲	iant
-𪹳	ibgc
+𪹳	ibgj
 𪹴	iepo
 𪹵	iaap
 𪹶	jhji
@@ -72620,7 +72620,7 @@ columns:
 𪽍	vjlv
 𪽎	vjlv
 𪽏	vrkb
-𪽐	gvrk
+𪽐	drka
 𪽑	vwpn
 𪽒	vanw
 𪽓	volu
@@ -73636,7 +73636,7 @@ columns:
 𫍌	bbso
 𫍍	bsik
 𫍎	bllk
-𫍏	bbgc
+𫍏	bbgj
 𫍐	pivb
 𫍑	bmee
 𫍒	biej
@@ -73984,7 +73984,7 @@ columns:
 𫒰	thna
 𫒱	tjji
 𫒲	tffd
-𫒳	tgqc
+𫒳	tglj
 𫒴	titl
 𫒵	tqln
 𫒶	tklw
@@ -74194,7 +74194,7 @@ columns:
 𫖉	ssws
 𫖊	spjz
 𫖋	sbse
-𫖌	fbla
+𫖌	fbwi
 𫖍	bauj
 𫖎	aibw
 𫖏	bjub
@@ -75634,7 +75634,7 @@ columns:
 𫭋	wppi
 𫭌	wdre
 𫭍	wjfc
-𫭎	wgqc
+𫭎	wglj
 𫭏	wkjr
 𫭐	wlld
 𫭑	watp
@@ -76071,7 +76071,7 @@ columns:
 𫴅	ijfv
 𫴆	isvy
 𫴇	ijin
-𫴈	igqe
+𫴈	igle
 𫴉	iuvj
 𫴊	ieii
 𫴋	ikdj
@@ -76416,7 +76416,7 @@ columns:
 𫹢	chlt
 𫹣	coqi
 𫹤	ciuu
-𫹥	cbgc
+𫹥	cbgj
 𫹦	gjeh
 𫹧	chlj
 𫹨	cakj
@@ -76786,7 +76786,7 @@ columns:
 𫿔	xlwt
 𫿕	ttsi
 𫿖	ejtp
-𫿗	bgqb
+𫿗	bglb
 𫿘	dttp
 𫿙	nnpt
 𫿚	bskt
@@ -76999,7 +76999,7 @@ columns:
 𬂬	aetf
 𬂭	adxm
 𬂮	asam
-𬂯	agvt
+𬂯	adgm
 𬂰	axgy
 𬂱	nyca
 𬂲	allf
@@ -77249,7 +77249,7 @@ columns:
 𬆧	ples
 𬆨	eesh
 𬆩	gcqe
-𬆪	gqce
+𬆪	glce
 𬆫	aqve
 𬆬	bfoe
 𬆭	hjss
@@ -77708,7 +77708,7 @@ columns:
 𬍼	jkjk
 𬍽	jljb
 𬍾	jdrg
-𬍿	jmqc
+𬍿	jgfj
 𬎀	jdbe
 𬎁	jhvv
 𬎂	jxeh
@@ -77727,7 +77727,7 @@ columns:
 𬎏	jpno
 𬎐	jgrh
 𬎑	jtaq
-𬎒	jigc
+𬎒	jigj
 𬎓	jhrl
 𬎔	jsdj
 𬎕	ftvk
@@ -77778,7 +77778,7 @@ columns:
 𬏂	vxiv
 𬏃	vgqh
 𬏄	fsmv
-𬏅	gvls
+𬏅	dlsi
 𬏆	dbvt
 𬏇	vjso
 𬏈	vvjd
@@ -78673,7 +78673,7 @@ columns:
 𬝒	semm
 𬝓	srtl
 𬝔	smvb
-𬝕	sgvs
+𬝕	sdso
 𬝖	srff
 𬝗	srag
 𬝘	sqnn
@@ -80138,9 +80138,9 @@ columns:
 𬴻	bqau
 𬴼	bjfu
 𬴽	dxig
-𬴾	gvwj
+𬴾	djvg
 𬴿	dleg
-𬵀	gvwd
+𬵀	ddcg
 𬵁	vhkv
 𬵂	vubv
 𬵃	vodv
@@ -80165,7 +80165,7 @@ columns:
 𬵖	vnji
 𬵗	vcyv
 𬵘	vsei
-𬵙	gvwv
+𬵙	dvvg
 𬵚	vgir
 𬵛	vmbr
 𬵜	vpcn
@@ -80555,7 +80555,7 @@ columns:
 𬻽	kjyo
 𬻾	kjdo
 𬻿	kkdd
-𬼀	kgpd
+𬼀	qkk
 𬼁	kyid
 𬼂	eii
 𬼃	grjp
@@ -80858,7 +80858,7 @@ columns:
 𭀬	ilil
 𭀭	bflw
 𭀮	iljs
-𭀯	gvwk
+𭀯	dbka
 𭀰	xlww
 𭀱	glww
 𭀲	pwib
@@ -80867,7 +80867,7 @@ columns:
 𭀵	pwhv
 𭀶	ilbo
 𭀷	pwej
-𭀸	gvws
+𭀸	dwsi
 𭀹	dwuo
 𭀺	pwql
 𭀻	ckyi
@@ -81164,7 +81164,7 @@ columns:
 𭅞	hylt
 𭅟	qesw
 𭅠	geji
-𭅡	gvmq
+𭅡	dmqg
 𭅢	qalu
 𭅣	nngo
 𭅤	gjgo
@@ -82100,7 +82100,7 @@ columns:
 𭔆	ivjt
 𭔇	ijbn
 𭔈	ijer
-𭔉	igvn
+𭔉	idna
 𭔊	ijwn
 𭔋	irpl
 𭔌	ifkj
@@ -82196,7 +82196,7 @@ columns:
 𭕦	jfpk
 𭕧	bmag
 𭕨	bmtl
-𭕩	bgvn
+𭕩	bdna
 𭕪	bdfu
 𭕫	bchz
 𭕬	btqy
@@ -82536,7 +82536,7 @@ columns:
 𭚺	bgxs
 𭚻	bvjb
 𭚼	bllu
-𭚽	bgvg
+𭚽	bdgg
 𭚾	qbub
 𭚿	bqcm
 𭛀	bbdz
@@ -83657,7 +83657,7 @@ columns:
 𭬛	aklq
 𭬜	apgo
 𭬝	asrl
-𭬞	apgg
+𭬞	apdg
 𭬟	slxa
 𭬠	anjn
 𭬡	auct
@@ -84054,7 +84054,7 @@ columns:
 𭲨	nigj
 𭲩	nits
 𭲪	npru
-𭲫	nbgc
+𭲫	nbgj
 𭲬	ncpq
 𭲭	npfw
 𭲮	njft
@@ -86385,7 +86385,7 @@ columns:
 𮗃	pxgk
 𮗄	pttp
 𮗅	pcgu
-𮗆	pgvg
+𮗆	pdgg
 𮗇	pfbg
 𮗈	poeh
 𮗉	pcic
@@ -86404,7 +86404,7 @@ columns:
 𮗖	ugqj
 𮗗	ijjj
 𮗘	bybj
-𮗙	jgvn
+𮗙	jdna
 𮗚	sejj
 𮗛	sbwj
 𮗜	dhfj
@@ -86876,7 +86876,7 @@ columns:
 𮞮	llao
 𮞯	djoc
 𮞰	dnoc
-𮞱	gvgo
+𮞱	dggo
 𮞲	duao
 𮞳	mjro
 𮞴	dhoc
@@ -86956,7 +86956,7 @@ columns:
 𮟾	prro
 𮟿	bjpf
 𮠀	unnp
-𮠁	gvsp
+𮠁	dspf
 𮠂	mjpf
 𮠃	qalo
 𮠄	avpf
@@ -87687,22 +87687,22 @@ columns:
 𮫙	sicg
 𮫚	bang
 𮫛	bsjb
-𮫜	gvwm
-𮫝	iggn
+𮫜	dmyg
+𮫝	igdn
 𮫞	dwjr
 𮫟	dagy
 𮫠	dpdg
 𮫡	udgq
 𮫢	vwmc
-𮫣	gvwi
+𮫣	dnii
 𮫤	dqqi
-𮫥	gvwu
-𮫦	gvwa
+𮫥	dhnu
+𮫦	dnpa
 𮫧	twcd
-𮫨	gvwj
-𮫩	mgvf
-𮫪	gvwr
-𮫫	gvwq
+𮫨	dnrj
+𮫩	mdnf
+𮫪	dnmr
+𮫫	dnbq
 𮫬	xvih
 𮫭	qvod
 𮫮	gvod
@@ -87927,7 +87927,7 @@ columns:
 𮯉	prqm
 𮯊	pbns
 𮯋	pqwh
-𮯌	pqwc
+𮯌	pqwj
 𮯍	pmsb
 𮯎	pqwd
 𮯏	hkgp
@@ -88810,7 +88810,7 @@ columns:
 𰍛	jwib
 𰍜	ieam
 𰍝	iplk
-𰍞	igqt
+𰍞	iglt
 𰍟	iupl
 𰍠	icnj
 𰍡	iruk
@@ -90116,7 +90116,7 @@ columns:
 𰡵	jubs
 𰡶	jjub
 𰡷	jjwr
-𰡸	gvjw
+𰡸	djwg
 𰡹	jdsi
 𰡺	jdka
 𰡻	jtwk
@@ -90196,7 +90196,7 @@ columns:
 𰣅	evtm
 𰣆	vtlv
 𰣇	eklv
-𰣈	igvt
+𰣈	idgs
 𰣉	vsjw
 𰣊	vseb
 𰣋	hrrv
@@ -90534,7 +90534,7 @@ columns:
 𰨗	jhli
 𰨘	pjte
 𰨙	jsrc
-𰨚	bgqc
+𰨚	bglj
 𰨛	mmdh
 𰨜	mmgh
 𰨝	mdfh
@@ -90556,7 +90556,7 @@ columns:
 𰨭	mvcn
 𰨮	mijr
 𰨯	mhtf
-𰨰	mgqc
+𰨰	mglj
 𰨱	mell
 𰨲	qamh
 𰨳	mixc
@@ -90566,7 +90566,7 @@ columns:
 𰨷	miru
 𰨸	mooj
 𰨹	meck
-𰨺	migc
+𰨺	migj
 𰨻	mbdf
 𰨼	mptl
 𰨽	mbbj
@@ -91977,7 +91977,7 @@ columns:
 𰾺	odqh
 𰾻	oqpo
 𰾼	oook
-𰾽	obgc
+𰾽	obgj
 𰾾	ogch
 𰾿	osje
 𰿀	ougt
@@ -92112,7 +92112,7 @@ columns:
 𱁁	plbb
 𱁂	pqtn
 𱁃	gubg
-𱁄	gubu
+𱁄	dbbu
 𱁅	keha
 𱁆	efna
 𱁇	cfeh
@@ -93078,7 +93078,7 @@ columns:
 𱐌	ihlv
 𱐍	qwkm
 𱐎	lcrw
-𱐏	rwnq
+𱐏	rnqw
 𱐐	cflm
 𱐑	wwbw
 𱐒	jfem
@@ -94528,7 +94528,7 @@ columns:
 𱦶	nuge
 𱦷	ndxq
 𱦸	ndiv
-𱦹	nxih
+𱦹	nxhn
 𱦺	nwks
 𱦻	uuuf
 𱦼	ntjm
@@ -94596,7 +94596,7 @@ columns:
 𱧺	niko
 𱧻	nslo
 𱧼	nsce
-𱧽	nici
+𱧽	niuk
 𱧾	nqnf
 𱧿	nxuf
 𱨀	nlla
@@ -94904,7 +94904,7 @@ columns:
 𱬮	ihhb
 𱬯	sdin
 𱬰	dcii
-𱬱	dqti
+𱬱	dbqi
 𱬲	dcfi
 𱬳	eiei
 𱬴	gibp
@@ -95015,7 +95015,7 @@ columns:
 𱮝	hmbn
 𱮞	hbiu
 𱮟	hqou
-𱮠	hrgc
+𱮠	hrgj
 𱮡	fbgk
 𱮢	hwsj
 𱮣	heoc
@@ -95274,7 +95274,7 @@ columns:
 𱲠	puum
 𱲡	ajqu
 𱲢	qwku
-𱲣	kgjm
+𱲣	qjmk
 𱲤	sjml
 𱲥	jycp
 𱲦	jffo
@@ -95566,7 +95566,7 @@ columns:
 𱷄	ihsi
 𱷅	ialx
 𱷆	ihug
-𱷇	igqc
+𱷇	iglj
 𱷈	idgi
 𱷉	iowj
 𱷊	iwfb
@@ -96192,7 +96192,7 @@ columns:
 𲀶	augg
 𲀷	bwwg
 𲀸	xdfh
-𲀹	xgqc
+𲀹	xglj
 𲀺	xtod
 𲀻	xvdi
 𲀼	xfxi
@@ -96729,7 +96729,7 @@ columns:
 𲉏	pbak
 𲉐	eddk
 𲉑	pepb
-𲉒	eubg
+𲉒	bbeg
 𲉓	pjjx
 𲉔	gubw
 𲉕	bbsu
@@ -96941,14 +96941,14 @@ columns:
 𲌣	ujeo
 𲌤	gqxb
 𲌥	uush
-𲌦	gqph
+𲌦	gqbh
 𲌧	djsg
 𲌨	djig
 𲌩	djbg
 𲌪	dwjg
 𲌫	cqtd
 𲌬	dufg
-𲌭	gjwh
+𲌭	djht
 𲌮	daiv
 𲌯	ddfw
 𲌰	dmdw
@@ -98792,7 +98792,7 @@ columns:
 𮵓	vuvs
 𮵔	vxco
 𮵕	vskw
-𮵖	vgqc
+𮵖	vglj
 𮵗	vtgo
 𮵘	jeir
 𮵙	jrnb
@@ -99077,6 +99077,7 @@ columns:
 今	rfyi
 望	twmr
 解	xwhp
+流	nfnw
 反	vboh
 将	quhc
 房	dtfh
@@ -99085,6 +99086,7 @@ columns:
 覺	ssdj
 微	cfwr
 總	odcr
+統	ofnw
 念	rfyr
 廣	msik
 底	mkxf
@@ -99092,6 +99094,7 @@ columns:
 華	sfsa
 处	trep
 令	rfbo
+育	fnwy
 聽	lmgr
 低	ekxf
 角	xwht
@@ -99109,6 +99112,7 @@ columns:
 興	cflk
 創	rfbm
 吸	lgyb
+充	fnwr
 營	iixd
 熱	hwhi
 黃	sivk
@@ -99139,6 +99143,7 @@ columns:
 护	fdhs
 漫	ncib
 偏	edce
+统	kfnw
 含	rfyl
 殺	sake
 鐵	tgkm
@@ -99201,12 +99206,14 @@ columns:
 骗	bdce
 编	kdce
 蒼	srfl
+撤	ffnt
 猪	hhjk
 槍	arfl
 慨	rdnw
 启	dlvh
 叛	qavb
 蒋	squh
+徹	cfnt
 珊	jcew
 薩	sptp
 爵	uudh
@@ -99238,6 +99245,7 @@ columns:
 峻	unwt
 凄	ifbc
 倉	rfbl
+澈	nfnt
 嶼	uhgk
 騙	wdce
 妒	cdhn
@@ -99310,6 +99318,7 @@ columns:
 谣	dwjf
 肇	dtba
 瞰	jjlt
+轍	dfnt
 骏	bnwt
 嗷	lhtt
 痊	mkjw
@@ -99350,6 +99359,7 @@ columns:
 錘	tmsi
 羚	qrfb
 笈	ggyb
+辙	xfnt
 氯	gens
 羌	qwry
 苓	srfb
@@ -99371,6 +99381,7 @@ columns:
 绫	khwt
 搧	fdvv
 沪	ndhs
+唷	lfnw
 竣	knwt
 嗟	lqgp
 遢	civo
@@ -99432,6 +99443,7 @@ columns:
 掮	fdwy
 蹉	pqgp
 饈	kqgb
+鎏	nfnt
 錚	tuby
 犟	bnqp
 祗	jkxf
@@ -99446,6 +99458,7 @@ columns:
 頷	rfyj
 趿	pgyb
 绺	ktrl
+铳	ofnw
 繇	wjgo
 晷	jtrl
 鹞	wjmn
@@ -99492,6 +99505,7 @@ columns:
 縉	ofnj
 謾	bcib
 鈑	tvbo
+銃	tfnw
 鯗	qkvv
 狻	hnwt
 黻	iukk
@@ -99584,6 +99598,7 @@ columns:
 桷	axwh
 墁	hcib
 筥	gldx
+淯	nfnw
 鳐	xwjf
 觯	xwhg
 冏	cwlv
@@ -99598,6 +99613,7 @@ columns:
 襻	xssf
 钣	ovbo
 觖	xwhr
+茺	sfnw
 骶	rkxf
 潴	nhhk
 悫	hxfr
@@ -99620,6 +99636,7 @@ columns:
 犏	pdce
 瘥	mqgp
 扆	dagy
+堉	hfnw
 褟	xciv
 羰	quvi
 澉	njlt
@@ -99643,10 +99660,12 @@ columns:
 舲	urfb
 癀	msik
 瑳	jqgp
+珫	jfnw
 膙	wbnq
 琭	jens
 郪	fbcp
 桯	almr
+瑬	nfnk
 辁	xkjw
 扅	dxxx
 昄	jvbo
@@ -99718,6 +99737,7 @@ columns:
 侌	rfyn
 侱	elmr
 侻	eklw
+俼	efnw
 倃	etrl
 倰	ehwt
 偛	endi
@@ -99738,6 +99758,7 @@ columns:
 勆	kgsl
 勎	hwhs
 勥	bnqs
+勶	cfns
 匔	wqld
 匩	hwjw
 厎	vkxf
@@ -99935,6 +99956,7 @@ columns:
 柭	aesk
 梒	arfl
 棙	adhq
+棛	afnw
 棥	ssaa
 棦	auby
 棯	arfr
@@ -100009,6 +100031,7 @@ columns:
 焈	doih
 焒	ildx
 焫	isck
+焴	ifnw
 焾	irfr
 煑	hjki
 煷	iawr
@@ -100070,6 +100093,7 @@ columns:
 睖	jhwt
 睙	jdhq
 睩	jens
+瞮	jfnt
 瞱	jsfa
 矀	jcfw
 矙	jdjt
@@ -100179,6 +100203,7 @@ columns:
 葪	sxwm
 蒫	sqgp
 蒳	sock
+蓅	snfw
 蓺	shwk
 蔛	sxwg
 蔜	shtt
@@ -100202,6 +100227,7 @@ columns:
 蚳	qkxf
 蛂	qesk
 蛿	qrfl
+蜟	qfnw
 蜧	qdhq
 蜹	qsck
 蝂	qdvb
@@ -100311,6 +100337,7 @@ columns:
 輇	dkjw
 輘	dhwt
 轝	hgdd
+逳	fnwo
 遃	tvco
 遝	uiio
 邍	tveo
@@ -100337,6 +100364,7 @@ columns:
 錑	tdhq
 錓	tqwr
 錜	trfr
+錥	tfnw
 錴	thwh
 鍤	tndi
 鍳	hgft
@@ -100526,6 +100554,7 @@ columns:
 㒯	ilsa
 㒹	gjfk
 㓌	ikjw
+㓍	ifnw
 㓏	icwl
 㓐	ihwh
 㓖	ivsg
@@ -100561,6 +100590,7 @@ columns:
 㛎	cldx
 㛖	cnwt
 㛨	cqwr
+㛩	cfnw
 㛬	chwh
 㛶	cuvi
 㛼	cndi
@@ -100595,11 +100625,14 @@ columns:
 㢎	mndi
 㢘	mkfi
 㢚	mues
+㣃	bfnb
 㤂	gybr
 㤆	rvbo
+㤝	rfnw
 㤯	rcwl
 㤷	rrfl
 㥄	rhwt
+㥔	rfnw
 㥛	rhlf
 㥿	httr
 㦃	rtvp
@@ -100613,6 +100646,7 @@ columns:
 㧁	dhna
 㧂	dvth
 㧖	fdyi
+㧤	ffnw
 㧷	ffol
 㨅	fsck
 㨏	fuvi
@@ -100643,6 +100677,7 @@ columns:
 㫽	jens
 㬐	jfnj
 㬖	jdtl
+㬚	jfnt
 㬹	wuby
 㭒	aubb
 㭭	alwm
@@ -100654,6 +100689,7 @@ columns:
 㮼	advv
 㮿	avsg
 㯆	atvp
+㯙	afnt
 㯟	aaen
 㯭	aues
 㰊	ahwi
@@ -100669,6 +100705,7 @@ columns:
 㲯	hgfm
 㲳	kxfo
 㳗	nksh
+㳘	nfnw
 㳛	njre
 㳾	nqwr
 㴁	nmik
@@ -100702,6 +100739,7 @@ columns:
 㻍	jleo
 㻐	jnwt
 㻔	jmsi
+㻙	jfnw
 㻞	jdce
 㻫	jvsg
 㻴	jcib
@@ -100763,6 +100801,7 @@ columns:
 䋀	dosh
 䋜	dbos
 䋫	ouby
+䋭	ofnw
 䋯	dkos
 䌈	ociv
 䌊	owjf
@@ -100796,6 +100835,7 @@ columns:
 䑥	ugyb
 䑷	udwy
 䑽	uciv
+䒆	ufnt
 䓘	strl
 䓜	snkf
 䓞	sdhq
@@ -100815,7 +100855,9 @@ columns:
 䗀	qhwt
 䘆	qihr
 䘠	xesk
+䘪	xfnw
 䘵	xens
+䘻	xfnw
 䙄	xndi
 䙪	ssag
 䚄	enjj
@@ -100868,6 +100910,7 @@ columns:
 䟜	pckr
 䟡	pkxf
 䟢	pgiv
+䟲	pfnw
 䟿	pens
 䠛	pwjf
 䠫	plbr
@@ -101133,6 +101176,8 @@ columns:
 𠑶	hwrf
 𠑺	jxka
 𠒤	qwxi
+𠒨	fnwi
+𠒩	fnwj
 𠓆	dlww
 𠓰	kjbb
 𠓳	kjhb
@@ -101148,6 +101193,7 @@ columns:
 𠕢	cwcu
 𠕨	cwla
 𠖘	xock
+𠖢	xcft
 𠗎	igkj
 𠗕	inwt
 𠗭	igyh
@@ -101175,6 +101221,7 @@ columns:
 𠠈	srfm
 𠠎	msim
 𠠻	vbsl
+𠡜	fnws
 𠡭	hwts
 𠢆	ihls
 𠢕	htts
@@ -101259,6 +101306,7 @@ columns:
 𠹥	lciv
 𠹸	lrfg
 𠺤	gwwl
+𠺩	lnfw
 𠺶	lock
 𠺻	logb
 𠻁	qwyl
@@ -101268,6 +101316,7 @@ columns:
 𠼦	lcib
 𠽆	lbck
 𠽣	lbnd
+𠾀	lfnt
 𠾁	lhwa
 𠾍	lfnf
 𠿂	lfnd
@@ -101300,6 +101349,7 @@ columns:
 𡊃	vbht
 𡊊	hubb
 𡊫	hiwr
+𡊿	hfnw
 𡋄	hkjw
 𡋴	pvbh
 𡌙	hkub
@@ -101319,10 +101369,12 @@ columns:
 𡎕	hwhb
 𡎚	hdce
 𡎫	hwnr
+𡎭	hkfw
 𡎯	ucuh
 𡏜	hwtk
 𡏟	hwjf
 𡏦	hqgp
+𡏬	nfnh
 𡏹	phwh
 𡏼	hhtt
 𡐑	hwwj
@@ -101378,6 +101430,7 @@ columns:
 𡠥	bnqc
 𡠦	hwhc
 𡡔	ccib
+𡡠	cfnt
 𡡰	colf
 𡡴	ssac
 𡡽	crcj
@@ -101405,6 +101458,7 @@ columns:
 𡪯	ijlt
 𡪿	idgo
 𡫑	ihwh
+𡫠	icft
 𡫲	ihll
 𡫳	ippg
 𡫴	ihll
@@ -101663,6 +101717,7 @@ columns:
 𢮔	fiwt
 𢮣	ufqf
 𢯅	fhwh
+𢯡	ffnw
 𢰈	fgld
 𢰕	fbwt
 𢰘	fdss
@@ -101778,6 +101833,7 @@ columns:
 𣏝	axwr
 𣐖	adyi
 𣑀	aleo
+𣑁	afnw
 𣑨	fcca
 𣒇	amwr
 𣒷	mdam
@@ -101812,6 +101868,7 @@ columns:
 𣚉	abbk
 𣚛	auwf
 𣚠	aiuk
+𣚥	asfw
 𣚩	dlja
 𣚪	atff
 𣛍	ssae
@@ -101849,6 +101906,7 @@ columns:
 𣢽	urfx
 𣣈	rfyx
 𣣋	hwtx
+𣣎	fnwx
 𣣳	wjxq
 𣣴	uiix
 𣣶	ihlx
@@ -101868,11 +101926,13 @@ columns:
 𣧍	fxck
 𣧖	fxiy
 𣨍	fxxh
+𣨧	fxfw
 𣨹	fxtc
 𣩀	fxdc
 𣩡	fxcb
 𣩴	bnqn
 𣩺	cfln
+𣪟	fnwe
 𣪯	ilde
 𣪸	hlss
 𣫅	hxwh
@@ -101880,6 +101940,7 @@ columns:
 𣫵	ohee
 𣫶	ihee
 𣫹	vhee
+𣫺	gefw
 𣬆	nnvb
 𣬊	nnnn
 𣬌	dsxn
@@ -101895,6 +101956,7 @@ columns:
 𣯴	mvsg
 𣰒	mcfw
 𣰡	wwcm
+𣰪	mcft
 𣱊	jwkf
 𣱋	kxfn
 𣱎	kxfw
@@ -101927,6 +101989,7 @@ columns:
 𣸔	ndjs
 𣸮	nrfn
 𣹨	nwim
+𣹭	nfnn
 𣻀	nock
 𣻖	nigw
 𣻤	nann
@@ -101940,6 +102003,7 @@ columns:
 𣿲	nbuw
 𤁠	nwjo
 𤁭	nklh
+𤁲	ncft
 𤁵	ndld
 𤂇	nsnk
 𤂴	nuwk
@@ -102029,6 +102093,7 @@ columns:
 𤝲	hleo
 𤝵	hwhs
 𤝶	wjhq
+𤞀	hfnw
 𤞁	hyuw
 𤞠	hsak
 𤞣	nwhq
@@ -102046,6 +102111,7 @@ columns:
 𤡘	hbwe
 𤡣	huwf
 𤡵	dehq
+𤢉	hfnt
 𤢋	hfxu
 𤣊	hsih
 𤣌	hssk
@@ -102171,6 +102237,7 @@ columns:
 𥅍	rfbj
 𥅑	jbub
 𥅝	nnjm
+𥅻	jfnw
 𥆉	jewb
 𥆌	jxwh
 𥆟	jklw
@@ -102203,6 +102270,7 @@ columns:
 𥑓	vwge
 𥑕	vesk
 𥑬	vwwf
+𥒝	vfnw
 𥓂	vrfl
 𥓌	vqwr
 𥓎	vdhq
@@ -102239,7 +102307,7 @@ columns:
 𥛳	juwf
 𥛵	jsfa
 𥜳	jssf
-𥝊	ssdc
+𥝊	ssdj
 𥝥	mgyb
 𥞐	mbub
 𥞲	mlwm
@@ -102263,6 +102331,7 @@ columns:
 𥥛	iesk
 𥦂	ilwm
 𥦺	ixco
+𥧕	infw
 𥧩	iock
 𥧭	icib
 𥧴	iren
@@ -102279,6 +102348,7 @@ columns:
 𥫮	gygy
 𥫴	gfuj
 𥬒	gesk
+𥬱	gfnw
 𥭟	gnwt
 𥭫	gpxi
 𥭮	gwwc
@@ -102292,6 +102362,7 @@ columns:
 𥯼	gxcb
 𥰈	gelm
 𥰢	gdvv
+𥰤	gnfw
 𥰭	gqgp
 𥰶	gihl
 𥰸	gfnj
@@ -102307,6 +102378,7 @@ columns:
 𥳵	gomo
 𥴉	ggyj
 𥴊	gjlt
+𥴗	gofw
 𥵁	genu
 𥵏	gpkj
 𥵓	gdhe
@@ -102329,6 +102401,7 @@ columns:
 𥺆	qlmr
 𥺙	qhwt
 𥺛	qvgg
+𥺞	qfnw
 𥺴	qrfr
 𥻀	qtrl
 𥻦	sakq
@@ -102365,6 +102438,7 @@ columns:
 𦄒	ohdc
 𦄟	oddc
 𦄠	bcko
+𦅄	ofnt
 𦅠	osfa
 𦅴	bmof
 𦅸	wjuo
@@ -102430,6 +102504,7 @@ columns:
 𦔁	dkdn
 𦔒	dkqn
 𦔔	dkcb
+𦔞	dkft
 𦔰	wleb
 𦕑	lkxf
 𦕻	ldck
@@ -102453,6 +102528,7 @@ columns:
 𦚑	dfwy
 𦚝	wins
 𦚫	waof
+𦚳	wfnw
 𦛎	wwcu
 𦛗	wldx
 𦛚	wckl
@@ -102472,6 +102548,7 @@ columns:
 𦜹	dubw
 𦝄	whwt
 𦝉	wmkf
+𦝑	wfnw
 𦝥	wndi
 𦝱	wkpy
 𦝵	wrfl
@@ -102483,6 +102560,7 @@ columns:
 𦟤	wqgb
 𦠘	dwal
 𦠜	wsfa
+𦠣	wfnt
 𦠰	dwuj
 𦠷	dckw
 𦡒	cfww
@@ -102553,6 +102631,7 @@ columns:
 𦰖	sffs
 𦰘	svkf
 𦰣	sekf
+𦱀	sfnw
 𦱊	suby
 𦱏	soqt
 𦱘	siwt
@@ -102588,6 +102667,7 @@ columns:
 𦼃	srfm
 𦼋	saen
 𦼑	siwd
+𦼟	sofw
 𦼩	smlf
 𦼺	sgkm
 𦽃	sddc
@@ -102605,6 +102685,7 @@ columns:
 𦿱	sklf
 𦿳	shwh
 𦿻	stkj
+𧀏	stfw
 𧀭	ssso
 𧀲	sdkw
 𧀼	swuk
@@ -102952,6 +103033,7 @@ columns:
 𧵭	nnjb
 𧶔	jlmr
 𧶗	jrfl
+𧶰	jfnw
 𧶵	jndi
 𧶶	ujvb
 𧷏	hwuj
@@ -102987,6 +103069,7 @@ columns:
 𨁑	pklw
 𨁸	pdhq
 𨂇	pdpi
+𨂔	pfnw
 𨂪	ptvc
 𨂭	phee
 𨂵	pndi
@@ -102996,12 +103079,14 @@ columns:
 𨄉	ptvp
 𨄧	hwhp
 𨄨	phtt
+𨅊	pfnt
 𨅎	pcib
 𨅚	http
 𨅯	psfa
 𨅰	pahf
 𨅺	pjlt
 𨆩	pdco
+𨇂	pcft
 𨇧	pdnd
 𨇫	pcfa
 𨈩	qesk
@@ -103024,6 +103109,7 @@ columns:
 𨌢	duby
 𨌣	dsck
 𨌮	dmkf
+𨌯	dfnw
 𨍒	hgfd
 𨍛	dhee
 𨍬	dfnj
@@ -103031,6 +103117,7 @@ columns:
 𨎐	hwhd
 𨎞	dhtt
 𨎩	dsik
+𨏣	dsft
 𨏥	dihr
 𨐊	xihr
 𨐙	dlkx
@@ -103067,6 +103154,7 @@ columns:
 𨛣	rfyp
 𨛥	xwhp
 𨛰	ubyp
+𨛼	fnwp
 𨜆	oqip
 𨜪	kkrp
 𨜳	ildp
@@ -103084,11 +103172,13 @@ columns:
 𨟄	ssao
 𨟅	ssap
 𨟗	skgp
+𨟝	mjfp
 𨟹	prfy
 𨠎	prfb
 𨠏	pkxf
 𨡎	prfr
 𨡖	pieu
+𨡚	pfnw
 𨡢	rfyp
 𨡣	rfyp
 𨡳	rfye
@@ -103128,6 +103218,7 @@ columns:
 𨬅	tkgd
 𨬒	tjlt
 𨬝	hwht
+𨭑	ofnt
 𨭰	tllm
 𨮂	txwp
 𨮆	cflt
@@ -103187,7 +103278,7 @@ columns:
 𨼬	pxwp
 𨼳	pllm
 𨽁	plbr
-𨽝	gubi
+𨽝	dbbi
 𨽤	phwj
 𨾗	eoeh
 𨾠	rfbe
@@ -103198,6 +103289,7 @@ columns:
 𨿩	fbce
 𨿱	dweh
 𨿲	hwhe
+𨿾	fnwe
 𩀘	wjeh
 𩀚	ucue
 𩀞	rfbe
@@ -103242,6 +103334,7 @@ columns:
 𩌢	sqgp
 𩌾	sbnq
 𩍉	sjlt
+𩍒	sfnt
 𩍝	sxwp
 𩍧	slbr
 𩍫	suqb
@@ -103270,6 +103363,7 @@ columns:
 𩑾	kxfj
 𩒄	cvjb
 𩒖	nnvj
+𩒘	fnwj
 𩒞	ppvj
 𩒣	vrfj
 𩒥	hrfj
@@ -103310,6 +103404,7 @@ columns:
 𩚹	krfb
 𩛦	klmr
 𩛪	kdgy
+𩛭	kfnw
 𩛯	kcwl
 𩛼	kens
 𩜀	kmsi
@@ -103362,10 +103457,13 @@ columns:
 𩨗	riei
 𩨞	rgyb
 𩨩	rvbo
+𩩁	rfnw
+𩩇	fnwr
 𩩊	rrfl
 𩩙	rvgg
 𩩞	rmsi
 𩩡	rhwt
+𩩣	rfnw
 𩩯	rdce
 𩩾	rdio
 𩪃	rihl
@@ -103397,7 +103495,7 @@ columns:
 𩴆	nnkd
 𩴒	bnqd
 𩴡	ddeh
-𩴰	gvww
+𩴰	dcfw
 𩴽	qkfd
 𩶅	vkxf
 𩶭	vleo
@@ -103434,6 +103532,7 @@ columns:
 𩿇	ddnh
 𩿔	vbdn
 𪀍	dkxf
+𪁇	fnwd
 𪁏	urfd
 𪁑	klwd
 𪁜	kgdn
@@ -103443,6 +103542,7 @@ columns:
 𪂟	ukcd
 𪂰	dmkf
 𪂸	ikkd
+𪃂	nfnd
 𪃊	swwd
 𪃛	tvcd
 𪄅	sakd
@@ -103556,6 +103656,7 @@ columns:
 𪕿	qvlw
 𪗝	pckr
 𪗣	prgy
+𪗯	pfnw
 𪗴	piwr
 𪘑	pnwt
 𪘒	prfl
@@ -103612,6 +103713,7 @@ columns:
 𪝀	exwh
 𪝶	rfyn
 𪝹	edcg
+𪞅	fnwl
 𪞐	xkkz
 𪞘	irfy
 𪞠	irfk
@@ -103622,6 +103724,7 @@ columns:
 𪠓	vsvk
 𪠘	vxwp
 𪠭	vbpj
+𪡁	lfnw
 𪡩	luvi
 𪢎	lllm
 𪢕	lhtc
@@ -103661,6 +103764,7 @@ columns:
 𪷴	nhwi
 𪹇	iuvi
 𪹊	irfm
+𪹲	ifnt
 𪹹	itcv
 𪺅	iihr
 𪺔	uxxh
@@ -103670,6 +103774,7 @@ columns:
 𪼭	jihr
 𪼰	jhgf
 𪽏	vrfb
+𪽒	vfnw
 𪽘	vhwh
 𪾗	kvbu
 𪿂	cfmj
@@ -103689,6 +103794,8 @@ columns:
 𫆢	hwtw
 𫆥	dwaw
 𫆳	wcib
+𫆽	fnwn
+𫇄	fnwg
 𫇐	dhlf
 𫇞	ucib
 𫇲	skht
@@ -103696,6 +103803,7 @@ columns:
 𫉥	shws
 𫋂	qfbc
 𫋽	xxwh
+𫌒	xofw
 𫌭	ccfw
 𫌮	xwhh
 𫌯	xwhk
@@ -103710,6 +103818,7 @@ columns:
 𫑍	ljuo
 𫒾	tock
 𫓻	orfr
+𫓾	ofnw
 𫕻	hwhw
 𫖏	bcib
 𫖛	kjsa
@@ -103764,6 +103873,7 @@ columns:
 𫪒	lavb
 𫪭	lmkf
 𫫞	lrfr
+𫫴	lofw
 𫬁	hdul
 𫬕	lahk
 𫬼	lxwq
@@ -103837,6 +103947,7 @@ columns:
 𬅙	ssap
 𬅴	ssax
 𬇉	kxfm
+𬈰	nfnp
 𬉊	nllm
 𬋐	ndxi
 𬋙	icfk
@@ -103860,6 +103971,7 @@ columns:
 𬑷	jdta
 𬒢	vsfa
 𬓙	jcib
+𬓦	mfnw
 𬓺	hwhm
 𬔎	irfl
 𬕬	grfc
@@ -103878,6 +103990,7 @@ columns:
 𬚫	dlba
 𬚽	cwlw
 𬛕	adwy
+𬛠	fnwc
 𬛽	ssdv
 𬜃	cflj
 𬜕	uwle
@@ -103918,6 +104031,7 @@ columns:
 𬩢	dcko
 𬩩	gybo
 𬪓	rfyp
+𬪲	pfnu
 𬫗	tsks
 𬫡	thlf
 𬬢	tbuu
@@ -103964,9 +104078,11 @@ columns:
 𮗇	pfdg
 𮬐	vkdn
 𬼓	msiu
+𬾁	efnw
 𬾂	rfbj
 𬾜	epgb
 𬾻	eawr
+𬿮	efnt
 𭀴	ilaw
 𭀵	pwdv
 𭁤	ewew
@@ -103995,11 +104111,13 @@ columns:
 𭏬	hvsg
 𭐋	ihlh
 𭐑	ghjt
+𭐤	fnwt
 𭐨	hwtj
 𭐩	nwtp
 𭐪	nwtt
 𭐭	hwtl
 𭑤	vjlo
+𭒐	nfnc
 𭒙	crfg
 𭒡	ckfi
 𭒧	ccfm
@@ -104072,11 +104190,13 @@ columns:
 𭯛	hwtm
 𭯯	macj
 𭯱	qskf
+𭱛	nfns
 𭲕	nhwt
 𭲗	nhwo
 𭲴	ntlf
 𭳆	ndto
 𭳢	ncfk
+𭴤	ifnw
 𭵅	idwy
 𭵚	idcl
 𭵭	iqgp
@@ -104127,9 +104247,11 @@ columns:
 𮊀	rfyu
 𮊭	qmkf
 𮋔	crfv
+𮋠	nfns
 𮋰	lnwt
 𮋼	llbr
 𮌙	dwod
+𮌫	fnww
 𮌳	httw
 𮍓	hciv
 𮍡	dvbo
@@ -104215,6 +104337,7 @@ columns:
 𮨥	ihuj
 𮩙	kshi
 𮪹	aesk
+𮫚	bfng
 𮭂	ddod
 𮭦	urfm
 𮭬	unwt
@@ -104275,6 +104398,7 @@ columns:
 𰔣	frfj
 𰔶	xdff
 𰔷	fmvg
+𰕎	fnwt
 𰕖	llmt
 𰕙	xgtp
 𰖒	jmjr
@@ -104293,6 +104417,7 @@ columns:
 𰜶	ndtl
 𰝕	nlwu
 𰝩	nmki
+𰝱	nfns
 𰞵	iivb
 𰟛	ssai
 𰟪	ilbr
@@ -104374,6 +104499,7 @@ columns:
 𰿽	taaw
 𱀶	pkfi
 𱁎	rfye
+𱁟	cfnw
 𱁼	sihl
 𱂃	aygb
 𱂍	prlf
@@ -104417,6 +104543,7 @@ columns:
 𱱽	dkdw
 𲊁	cdnh
 𱍪	fcfe
+𱍮	qfnw
 𱎆	yxwh
 𱎙	awil
 𱏗	rfbb
@@ -104443,6 +104570,7 @@ columns:
 𱖯	hwwc
 𱗸	hcib
 𱗼	msis
+𱘀	hfnt
 𱘆	hxwp
 𱘈	nihh
 𱘣	trfb
@@ -104495,6 +104623,7 @@ columns:
 𱫘	imsi
 𱬓	isen
 𱬙	icfw
+𱬱	qtdi
 𱭟	drfl
 𱭧	hcib
 𱭼	hlmr
@@ -104508,8 +104637,10 @@ columns:
 𱴇	vlmr
 𱴴	vhhk
 𱵭	jllm
+𱷋	ipfw
 𱷗	iwxn
 𱸀	gfbc
+𱸔	gkfw
 𱸭	gndo
 𱹊	qfbc
 𱹷	osck
@@ -104539,6 +104670,7 @@ columns:
 𲂅	dgyb
 𲂘	rfyl
 𲂱	jdtf
+𲃓	hfnt
 𲄫	qrfg
 𲄾	dlbr
 𲇘	tsce
@@ -104556,6 +104688,7 @@ columns:
 𲋴	wvbo
 𲌅	brfb
 𲌐	rrfl
+𲌗	afnw
 𲍀	vuwl
 𲍙	xjlt
 𲎕	qsvk
@@ -104607,6 +104740,7 @@ columns:
 鈴	trfb
 零	crfb
 領	rfbj
+流	nfnw
 陸	phwh
 猪	hhjk
 飯	kvbo
@@ -104614,6 +104748,7 @@ columns:
 懲	cfmr
 縉	ofnj
 全	kjwr
+充	fnwr
 嗢	lwru
 廒	mhtt
 徭	cwjf
@@ -104622,6 +104757,7 @@ columns:
 敖	http
 望	twmr
 殺	sake
+流	nfnw
 猪	hhjk
 瘟	mwru
 華	sfsa
@@ -104644,6 +104780,7 @@ columns:
 丽	fcfc
 侻	eklw
 偺	etrj
+𠘺	fnwr
 割	ihlm
 剷	tvpm
 㔕	gfys
@@ -104679,8 +104816,10 @@ columns:
 歔	uwfx
 殟	fxwu
 殺	sake
+𣫺	gefw
 沿	nwlv
 洖	nleo
+流	nfnw
 㴳	npfc
 炭	uvih
 𠔥	kfbi
@@ -104692,6 +104831,7 @@ columns:
 糨	qbnq
 䍙	csse
 聰	ldcr
+育	fnwy
 脃	wmob
 茣	sleo
 菧	smkf
@@ -105014,6 +105154,7 @@ columns:
 氺	ns
 爫	uz
 牜	pn
+甶	dg
 癶	bo
 糹	os
 耂	ht
@@ -105101,6 +105242,7 @@ columns:
 𫩠	is
 𫶧	wr
 𬂛	gi
+𬼀	qk
 𬼂	ei
 𬼖	bj
 𭕄	ns
