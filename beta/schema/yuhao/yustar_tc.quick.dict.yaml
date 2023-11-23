@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_tc.quick"
-version: "20231116"
+version: "20231123"
 sort: original
 columns:
   - text
@@ -659,7 +659,7 @@ columns:
 收	wt
 脹	wu
 膠	wv
-朋	ww
+四	ww
 膽	wx
 月	wy
 怨	xa
@@ -1190,7 +1190,7 @@ columns:
 驗收	wr
 收入	wt
 膠囊	wv
-朋友	ww
+四川	ww
 膽子	wx
 月份	wy
 怨恨	xa
@@ -1656,6 +1656,7 @@ columns:
 驗證	wr
 收到	wt
 膠捲	wv
+四周	ww
 膽怯	wx
 月亮	wy
 怨言	xa
@@ -1731,6 +1732,7 @@ columns:
 麥	atp
 豪	ats
 楞	aut
+栢	avj
 楒	avr
 杯	avu
 栩	avv
@@ -2461,6 +2463,7 @@ columns:
 态	okr
 緇	olv
 絹	olw
+锈	omg
 紹	oml
 縛	onh
 綺	ooj
@@ -2771,7 +2774,6 @@ columns:
 驢	wuv
 甸	wvt
 駒	wwl
-四	wwr
 胸	wws
 皺	www
 脆	wxv

@@ -307,7 +307,7 @@ recognizer:
 style:
   horizontal: false
   inline_preedit: true
-  preedit_type: preview
+  preedit_type: composition
 
 # menu:
 #   page_size: 5

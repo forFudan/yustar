@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.quick"
-version: "20231116"
+version: "20231123"
 sort: original
 columns:
   - text
@@ -1738,6 +1738,7 @@ columns:
 枚	atp
 豪	ats
 楞	aut
+栢	avj
 楒	avr
 禀	awl
 枕	axw
@@ -2444,6 +2445,7 @@ columns:
 锅	olc
 锱	olv
 絹	olw
+锈	omg
 紹	oml
 镈	onh
 锜	ooj

@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.words"
-version: "20231116"
+version: "20231123"
 sort: original
 columns:
   - text
@@ -48932,7 +48932,6 @@ columns:
 秘书长	mync
 秘书处	mytu
 洗衣机	naae
-汴京	naai
 流亭	naaj
 流速	naal
 滚木	naam
@@ -49059,7 +49058,6 @@ columns:
 沐浴	nank
 淋浴	nank
 滴溜	nank
-汴梁	nanm
 流汗	nann
 长夜漫漫	nann
 湘江	nanp
@@ -51047,6 +51045,7 @@ columns:
 泳衣	nkag
 浴衣	nkag
 清产核资	nkai
+汴京	nkai
 满意率	nkan
 举杯	nkav
 温柔敦厚	nkav
@@ -51141,6 +51140,7 @@ columns:
 浪潮	nkng
 浪漫	nknj
 漳州	nknl
+汴梁	nknm
 漳浦	nknn
 浴池	nkno
 泳池	nkno

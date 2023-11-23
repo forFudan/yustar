@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.words_literature"
-version: "20231116"
+version: "20231123"
 sort: original
 columns:
   - text
@@ -405,7 +405,6 @@ columns:
 玄鸟逝安适	amfl
 李广无功缘数奇	amfo
 枫香晚花静	amjh
-卞庄子之勇	amkb
 杜康能散闷	amnt
 高秋爽气相鲜新	amok
 相和而歌曰	amsj
@@ -7842,6 +7841,7 @@ columns:
 或重于泰山	kmfu
 良辰与美景	kmhj
 绕床弄青梅	kmja
+卞庄子之勇	kmkb
 或疾或暴夭	kmkm
 八府巡按	kmlf
 永和三日荡轻舟	kmlu

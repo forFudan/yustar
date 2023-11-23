@@ -567,7 +567,6 @@
 高低槓	aeap
 夜市	aeau
 夜裏	aeav
-高風亮節	aeaw
 夜叉	aebk
 夜話	aebl
 札記	aebo
@@ -714,6 +713,7 @@
 衰殘	affx
 本年	afga
 本節	afgb
+本節	afgd
 本我	afgf
 束手無策	afgg
 本真	afgj
@@ -844,7 +844,6 @@
 本週	afwh
 本國	afwk
 柏拉圖	afwl
-本節	afwx
 本月	afwy
 棒打鴛鴦	afxc
 本名	afxl
@@ -943,6 +942,7 @@
 高挑	agfw
 衣箱	agga
 枝節	aggb
+枝節	aggd
 高敏	agge
 高等	aggh
 敵衆我寡	aggi
@@ -1051,8 +1051,8 @@
 本年度	agms
 高淳	agna
 高漲	agnb
-毫無疑問	agnd
 松節油	agnd
+毫無疑問	agnd
 衣索比亞	agnf
 高潮	agng
 高清	agnh
@@ -1173,7 +1173,6 @@
 高出	agww
 高四	agww
 衣胞	agww
-枝節	agwx
 衣襟	agxa
 哀怨	agxa
 植被	agxb
@@ -3133,7 +3132,6 @@
 相生相剋	apaj
 標杆	apan
 標槍	apar
-橫生枝節	apaw
 標語	apbf
 高階群	apbg
 標誌	apbh
@@ -4172,7 +4170,6 @@
 檢驗員	awlj
 校團委	awmc
 顫動	awmv
-松節油	awnd
 膏油	awnd
 高朋滿座	awnm
 桃浦	awnn
@@ -6754,6 +6751,7 @@
 變換	bofx
 這筆	bogb
 變節	bogb
+變節	bogd
 這篇	bogh
 變黑	bogh
 彎管	bogi
@@ -6966,7 +6964,6 @@
 彎腰	bowp
 變臉	bowr
 又出	boww
-變節	bowx
 彎月	bowy
 蠻久	boxk
 記名	boxl
@@ -8042,6 +8039,8 @@
 屈死	bwfx
 屈節	bwgb
 調節	bwgb
+調節	bwgd
+屈節	bwgd
 調笑	bwgm
 發脾氣	bwgq
 調協	bwgs
@@ -8068,7 +8067,6 @@
 屈辱	bwmh
 調序	bwmk
 調和	bwml
-調節税	bwmq
 調度	bwms
 調動	bwmv
 調派	bwnd
@@ -8114,8 +8112,6 @@
 調回	bwwl
 調包	bwwo
 調出	bwww
-調節	bwwx
-屈節	bwwx
 調運	bwxd
 調色	bwxo
 調解	bwxs
@@ -8553,6 +8549,7 @@
 彼得堡	ccel
 曲曲折折	ccff
 婦女節	ccgb
+婦女節	ccgd
 姊妹篇	ccgh
 霹靂舞	ccgs
 雨露均霑	cchc
@@ -8597,7 +8594,6 @@
 微電腦	ccwl
 娃娃臉	ccwr
 女同胞	ccww
-婦女節	ccwx
 女媧補天	ccxf
 婀娜多姿	ccxi
 好得多	ccxx
@@ -9698,6 +9694,7 @@
 得手	cjfs
 電影節	cjgb
 如是我聞	cjgd
+電影節	cjgd
 得失	cjgo
 循環系統	cjgo
 得悉	cjgq
@@ -9782,7 +9779,6 @@
 好景不長	cjvu
 得勝	cjwq
 得出	cjww
-電影節	cjwx
 同盟軍	cjxd
 得名	cjxl
 得多	cjxx
@@ -10562,6 +10558,7 @@
 後年	cnga
 好幾年	cnga
 復活節	cngb
+復活節	cngd
 女籃	cngh
 女真	cngj
 奸笑	cngm
@@ -10708,7 +10705,6 @@
 後腳	cnwk
 後腦	cnwl
 後腰	cnwp
-復活節	cnwx
 女褲	cnxm
 後補	cnxn
 女色	cnxo
@@ -10803,6 +10799,7 @@
 露天	cpfo
 艶陽天	cpfo
 女生節	cpgb
+女生節	cpgd
 露點	cpgu
 後院起火	cphi
 露臺	cphl
@@ -10874,7 +10871,6 @@
 露臉	cpwr
 露出	cpww
 露胸	cpww
-女生節	cpwx
 姓名	cpxl
 如牛負重	cpxm
 後半夜	cqae
@@ -13145,6 +13141,7 @@
 奧拓	dgfv
 閏十一月	dgfw
 鬼節	dggb
+鬼節	dggd
 樂顛顛	dggj
 鬼才	dghg
 近墨者黑	dghg
@@ -13211,7 +13208,6 @@
 鬼胎	dgwn
 鬼臉	dgwr
 奧鵬	dgww
-鬼節	dgwx
 閏十月	dgwy
 奧運	dgxd
 皁角	dgxs
@@ -13725,6 +13721,7 @@
 兵分兩路	dkfp
 轉了一圈	dkfw
 兒童節	dkgb
+兒童節	dkgd
 近親繁殖	dkgf
 輸卵管	dkgi
 耕翻	dkgq
@@ -13787,7 +13784,6 @@
 兜肚	dkwh
 皇親國戚	dkwk
 兜圈	dkwq
-兒童節	dkwx
 閏八月	dkwy
 兜裡	dkxv
 闡述	dlak
@@ -14086,6 +14082,7 @@
 近幾年	dnga
 關節	dngb
 曁南	dngc
+關節	dngd
 烏漆墨黑	dngg
 卽墨	dngh
 輸油管	dngi
@@ -14246,9 +14243,7 @@
 樂園	dnwh
 車水馬龍	dnwk
 泉脉	dnwk
-開源節流	dnwn
 樂馳	dnwo
-關節	dnwx
 關切	dnxm
 關外	dnxu
 鳥飛	dnyf
@@ -14634,7 +14629,6 @@
 閲讀	dqbh
 輔導書	dqbh
 卑躬屈膝	dqbw
-卑躬屈節	dqbw
 反義詞	dqby
 闕如	dqcl
 粤曲	dqcs
@@ -15229,6 +15223,7 @@
 閒扯	dwfp
 將死	dwfx
 擊節	dwgb
+擊節	dwgd
 車馬盈門	dwgd
 將我	dwgf
 烏龜	dwgg
@@ -15255,7 +15250,6 @@
 將官	dwib
 擊掌	dwif
 擊穿	dwih
-關節炎	dwii
 奬賞	dwij
 醬爆	dwij
 獎賞	dwij
@@ -15378,7 +15372,6 @@
 的確	dwvx
 兒馬	dwwm
 闖出	dwww
-擊節	dwwx
 閏四月	dwwy
 閏臘月	dwwy
 將被	dwxb
@@ -16363,6 +16356,7 @@
 鳳凰于飛	eefy
 倒鳳顛鸞	eegb
 雙節	eegb
+雙節	eegd
 借貸無門	eegd
 雙敏	eege
 有進無退	eegg
@@ -16531,7 +16525,6 @@
 進進出出	eeww
 雙胞	eeww
 仗膽	eewx
-雙節	eewx
 雙月	eewy
 僱傭軍	eexd
 雙鶴	eexe
@@ -16623,6 +16616,7 @@
 風箱	efga
 有頭無尾	efgb
 使節	efgb
+使節	efgd
 風範	efgd
 風笛	efgd
 使我	efgf
@@ -16813,7 +16807,6 @@
 例句	efwl
 風圈	efwq
 使出	efww
-使節	efwx
 風月	efwy
 便被	efxb
 風急	efxb
@@ -16826,8 +16819,8 @@
 作梗	egaf
 雙管齊下	egaj
 作東	egaj
-雙截棍	egaj
 雙節棍	egaj
+雙截棍	egaj
 傳真機	egan
 值機	egan
 貫標	egap
@@ -17076,6 +17069,7 @@
 進寸退尺	ehgb
 佳節	ehgb
 布坎南	ehgc
+佳節	ehgd
 伽達默爾	ehgf
 有增無減	ehgn
 偏失	ehgo
@@ -17206,7 +17200,6 @@
 傲然	ehwh
 佳句	ehwl
 付出	ehww
-佳節	ehwx
 偏袒	ehxj
 倖免	ehxl
 風聲鶴唳	ehxl
@@ -17707,6 +17700,7 @@
 代筆	ekgb
 母親節	ekgb
 以南	ekgc
+母親節	ekgd
 低等	ekgh
 代管	ekgi
 以及	ekgk
@@ -17923,7 +17917,6 @@
 仰臉	ekwr
 代收	ekwt
 低胸	ekww
-母親節	ekwx
 偽軍	ekxd
 以免	ekxl
 俗名	ekxl
@@ -19592,7 +19585,6 @@
 保鮮膜	evws
 優裕	evxk
 個高	ewag
-雙節棍	ewaj
 有效	ewak
 有機	ewan
 焦國標	ewap
@@ -19656,6 +19648,7 @@
 有形	ewfs
 有型	ewfs
 有節	ewgb
+有節	ewgd
 有孕	ewgk
 有失	ewgo
 有氧	ewgq
@@ -19787,7 +19780,6 @@
 有因	ewwo
 有恩	ewwo
 有臉	ewwr
-有節	ewwx
 集團軍	ewxd
 有名	ewxl
 有色	ewxo
@@ -20861,6 +20853,7 @@
 互換	fefx
 亞伯拉罕	fefx
 拔節	fegb
+拔節	fegd
 推卸	fegf
 投籃	fegh
 一傳十	fegi
@@ -21017,7 +21010,6 @@
 推脱	fewq
 推出	feww
 拔出	feww
-拔節	fewx
 投軍	fexd
 互勉	fexl
 互補	fexn
@@ -21112,6 +21104,7 @@
 手提箱	ffga
 五一節	ffgb
 拋妻	ffgb
+五一節	ffgd
 指指點點	ffgg
 抹黑	ffgh
 扶摇直上	ffgj
@@ -21242,7 +21235,6 @@
 頭頭腦腦	ffww
 抹胸	ffww
 拋出	ffww
-五一節	ffwx
 拜月	ffwy
 抹煞	ffxb
 抑揚頓挫	ffxf
@@ -21848,6 +21840,8 @@
 一支	figb
 元宵節	figb
 一節	figb
+元宵節	figd
+一節	figd
 兩小無猜	figh
 一篇	figh
 一等	figh
@@ -22196,9 +22190,7 @@
 抖出	fiww
 一册	fiww
 一出	fiww
-元宵節	fiwx
 天姿國色	fiwx
-一節	fiwx
 一月	fiwy
 按月	fiwy
 撈月	fiwy
@@ -23610,6 +23602,7 @@
 五千年	fmga
 末筆	fmgb
 末節	fmgb
+末節	fmgd
 披麻戴孝	fmgh
 挺直	fmgj
 豆腐乾	fmgj
@@ -23743,7 +23736,6 @@
 招收	fmwt
 挺胸	fmww
 擴胸	fmww
-末節	fmwx
 天香國色	fmwx
 政府軍	fmxd
 擴軍	fmxd
@@ -23861,6 +23853,7 @@
 政治協商會議	fngb
 指節	fngb
 指南	fngc
+指節	fngd
 排水管	fngi
 求真	fngj
 晉朝	fngj
@@ -24073,7 +24066,6 @@
 救出	fnww
 求出	fnww
 抬出	fnww
-指節	fnwx
 一決勝負	fnwx
 救急	fnxb
 未能免俗	fnxe
@@ -24935,9 +24927,9 @@
 搶戲	fruf
 一心爲公	fruk
 兩全其美	fruq
-一骨碌	frur
 推心置腹	fruw
 一骨碌	frvb
+一骨碌	frve
 求人不如求己	frvo
 搶鮮	frvq
 指令碼	frvw
@@ -25522,6 +25514,7 @@
 兩筆	fugb
 援筆	fugb
 兩節	fugb
+兩節	fugd
 排筏	fuge
 摇籃	fugh
 兩截	fugk
@@ -25822,7 +25815,6 @@
 排出	fuww
 擺出	fuww
 搬出	fuww
-兩節	fuwx
 措置裕如	fuxc
 搬運	fuxd
 援軍	fuxd
@@ -26292,6 +26284,7 @@
 揮揮	fxfx
 揮筆	fxgb
 殉節	fxgb
+殉節	fxgd
 換算	fxgj
 殃及	fxgk
 換氣	fxgq
@@ -26525,7 +26518,6 @@
 探勝	fxwq
 死囚	fxwr
 列出	fxww
-殉節	fxwx
 殘月	fxwy
 揮軍	fxxd
 擔負	fxxj
@@ -26600,6 +26592,7 @@
 笨笨	gaga
 年節	gagb
 黔東南	gagc
+年節	gagd
 血本無歸	gagd
 無牽無掛	gagf
 直來直去	gagh
@@ -26706,7 +26699,6 @@
 策馬	gawm
 箱包	gawo
 南極圈	gawq
-年節	gawx
 年月	gawy
 年久	gaxk
 年初	gaxm
@@ -27041,8 +27033,11 @@
 無所適從	gdac
 範本	gdaf
 簡本	gdaf
+節本	gdaf
+節哀	gdag
 簡樸	gdai
 簡述	gdak
+節育	gdan
 點擊率	gdan
 直轄市	gdau
 博聞強記	gdbb
@@ -27053,6 +27048,10 @@
 無所謂	gdbv
 簡訊	gdby
 簡詞	gdby
+節律	gdcb
+節婦	gdcb
+節電	gdcd
+節後	gdcn
 乞漿得酒	gdcn
 氣壯如牛	gdcp
 我的電腦	gdcw
@@ -27062,6 +27061,7 @@
 簡牘	gddh
 簡裝	gddh
 黑白片	gddp
+節假	gdeb
 範偉	gdeb
 簡便	gdef
 範例	gdef
@@ -27071,18 +27071,26 @@
 簡化	gden
 無與倫比	gden
 年輕化	gden
+節儉	gder
 無所作爲	gdeu
 年輕有爲	gdeu
+節拍	gdfd
 簡捷	gdff
+節操	gdfl
 簡括	gdfl
 我的天	gdfo
 無所措手足	gdfp
 簡拼	gdfq
+節烈	gdfx
+節支	gdgb
+節節	gdgd
 簡繁	gdge
 黑白顛倒	gdge
 簡直	gdgj
 年輕氣盛	gdgk
+節氣	gdgq
 簡答	gdgr
+節點	gdgu
 笛聲	gdhb
 簡表	gdhg
 無所事事	gdhh
@@ -27092,22 +27100,29 @@
 簡報	gdhq
 簡煉	gdia
 簡寫	gdid
+節省	gdig
 簡省	gdig
 簡况	gdil
 無關宏旨	gdin
+節煤	gdis
 簡短	gdjf
 點擊量	gdjf
 翻白眼	gdjg
+節目	gdjm
 簡則	gdjm
 年近古稀	gdjm
 黑白照	gdjm
 等閒視之	gdjo
+節日	gdjr
 簡易	gdjw
 簡明	gdjw
+節下	gdjx
 簡章	gdkj
 黑白分明	gdkj
 範式	gdkp
 點到為止	gdkp
+節餘	gdkr
+節食	gdks
 笛子	gdkz
 篩子	gdkz
 郵遞員	gdlj
@@ -27115,20 +27130,30 @@
 簡史	gdls
 無關痛癢	gdmm
 簡稱	gdmu
+節慶	gdmy
+節流	gdna
 簡潔	gdnd
+節油	gdnd
 卸妝油	gdnd
+節減	gdnk
 簡況	gdnl
 黑白混淆	gdnn
+節水	gdns
+節能	gdnw
 簡練	gdoa
 無關大局	gdob
+節奏	gdof
 簡編	gdoh
 簡縮	gdoi
 篩選	gdoo
+節選	gdoo
 無所忌憚	gdor
 無關大體	gdor
 等閒之輩	gdou
 篩細	gdov
+節約	gdow
 簡約	gdow
+節制	gdpc
 簡要	gdpc
 簡陋	gdpf
 簡陽	gdpj
@@ -27137,14 +27162,18 @@
 無師自通	gdqb
 南轅北轍	gdqd
 篩糠	gdqm
+節前	gdqw
 簡體	gdrc
 年輕人	gdre
 簡慢	gdrj
 簡介	gdrk
+節令	gdrk
 年輕力壯	gdsd
 載譽而歸	gdsd
 無所用心	gdsr
+節用	gdsy
 範文	gdte
+節錄	gdte
 無的放矢	gdtj
 退耕還林	gdua
 氣壯山河	gdun
@@ -27164,6 +27193,7 @@
 無所不能	gdvn
 無所畏懼	gdvr
 簡略	gdvt
+節略	gdvt
 無所不爲	gdvu
 無所不包	gdvw
 簡碼	gdvw
@@ -27215,6 +27245,8 @@
 符節	gegb
 顛倒黑白	gegd
 繁簡	gegd
+每節	gegd
+符節	gegd
 每每	gege
 每篇	gegh
 無偏無黨	gegi
@@ -27235,8 +27267,8 @@
 繁瑣	geji
 管風琴	gejj
 繁星	gejp
-每日	gejr
 節假日	gejr
+每日	gejr
 顛倒是非	geju
 每晚	gejx
 敏感	gekf
@@ -27308,8 +27340,6 @@
 每週	gewh
 每回	gewl
 每句	gewl
-每節	gewx
-符節	gewx
 每月	gewy
 繁冗	gexe
 繁複	gexg
@@ -27520,8 +27550,8 @@
 默默不語	ggvb
 墨索里尼	ggvb
 龜甲	ggvj
-午馬	ggwm
 節節勝利	ggwm
+午馬	ggwm
 午膳	ggwq
 年年月月	ggww
 龜兔	ggxl
@@ -27805,6 +27835,7 @@
 十年	giga
 無窮無盡	gigb
 第二節	gigb
+第二節	gigd
 箜篌	gige
 無憑無據	gigf
 管箍	gigf
@@ -27915,7 +27946,6 @@
 管腳	giwk
 氮肥	giwo
 十四	giww
-第二節	giwx
 十二月	giwy
 十月	giwy
 十字軍	gixd
@@ -28138,8 +28168,8 @@
 幹吼	gjlk
 朝聖	gjll
 真品	gjll
-管理器	gjll
 節目單	gjll
+管理器	gjll
 幹嘛	gjlm
 幹啥	gjlr
 算啥	gjlr
@@ -28215,8 +28245,8 @@
 朝前	gjqw
 算命	gjra
 真快	gjrb
-真怕	gjrd
 節日快樂	gjrd
+真怕	gjrd
 真人	gjre
 黑社會	gjrf
 韓愈	gjrf
@@ -28428,6 +28458,7 @@
 第三天	glfo
 喪妻	glgb
 第三節	glgb
+第三節	glgd
 年三十	glgi
 笨嘴笨舌	glgl
 喪失	glgo
@@ -28488,7 +28519,6 @@
 橐駝	glwi
 囊腫	glwm
 喪膽	glwx
-第三節	glwx
 第三名	glxl
 笑柄	gmaf
 怎麽樣	gmaq
@@ -28716,6 +28746,7 @@
 退換	gofx
 失策	goga
 失節	gogb
+失節	gogd
 失真	gogj
 無緣無故	gogj
 失算	gogj
@@ -28844,7 +28875,6 @@
 血細胞	goww
 退出	goww
 幹細胞	goww
-失節	gowx
 退運	goxd
 失色	goxo
 退色	goxo
@@ -28965,6 +28995,7 @@
 氣死	gqfx
 氣節	gqgb
 氣筒	gqgc
+氣節	gqgd
 氣管	gqgi
 南北朝	gqgj
 氣氛	gqgk
@@ -29103,7 +29134,6 @@
 氣胸	gqww
 翻出	gqww
 釋出	gqww
-氣節	gqwx
 氣急	gqxb
 氣象	gqxl
 釋名	gqxl
@@ -29568,7 +29598,6 @@
 博施濟眾	gtnu
 繁文縟節	gtog
 無妄之災	gtol
-繁文縟節	gtow
 無產階級	gtpo
 等方面	gtsm
 笑逐顏開	gttd
@@ -29800,6 +29829,8 @@
 戴月披星	gwfj
 筋節	gwgb
 第四節	gwgb
+筋節	gwgd
+第四節	gwgd
 氤氲	gwgj
 索然無味	gwgl
 氤氳	gwgw
@@ -29842,8 +29873,6 @@
 筋脈	gwwd
 筋脉	gwwk
 直勾勾	gwwn
-筋節	gwwx
-第四節	gwwx
 簽名檔	gxai
 朝夕相處	gxau
 勃發	gxbb
@@ -29918,6 +29947,7 @@
 竹節	gzgb
 竹筒	gzgc
 竹簡	gzgd
+竹節	gzgd
 竹筏	gzge
 竹籃	gzgh
 竹籠	gzgk
@@ -29937,7 +29967,6 @@
 竹雕	gzwh
 竹園	gzwh
 竹馬	gzwm
-竹節	gzwx
 犯禁	haaa
 老框框	haah
 超高速	haal
@@ -30400,6 +30429,7 @@
 狙擊手	hdfs
 青壯年	hdga
 教師節	hdgb
+教師節	hdgd
 城門失火	hdgi
 埠	hdgi
 匠氣	hdgq
@@ -30446,7 +30476,6 @@
 塊壘	hdvv
 獅駝	hdwi
 坤包	hdwo
-教師節	hdwx
 毒刺	heac
 志存高遠	heah
 雅相	heaj
@@ -30770,6 +30799,7 @@
 喜盈盈	hggb
 表筆	hggb
 青年節	hggb
+青年節	hggd
 監管	hggi
 才幹	hggj
 臨朝	hggj
@@ -30958,7 +30988,6 @@
 猴年馬月	hgww
 熱氣騰騰	hgww
 臨朐	hgww
-青年節	hgwx
 監軍	hgxd
 表象	hgxl
 表名	hgxl
@@ -31632,6 +31661,7 @@
 熱管	hkgi
 教管	hkgi
 遠端協助	hkgj
+增産節約	hkgo
 熱氣	hkgq
 熱乎	hkgq
 熱舞	hkgs
@@ -31882,7 +31912,6 @@
 城固	hkwj
 赤腳	hkwk
 赤膊	hkwn
-增産節約	hkwo
 狼騎	hkwo
 勢成騎虎	hkwu
 教出	hkww
@@ -33248,6 +33277,7 @@
 獲批	hsfn
 坑蒙拐騙	hsfw
 狂歡節	hsgb
+狂歡節	hsgd
 嘉敏	hsge
 素面朝天	hsgf
 靜觀默察	hsgi
@@ -33338,7 +33368,6 @@
 猫膩	hswk
 猫腰	hswp
 獲勝	hswq
-狂歡節	hswx
 匿名	hsxl
 嘉勉	hsxl
 塔裡	hsxv
@@ -34144,6 +34173,7 @@
 凍手	iafs
 凍死	iafx
 光棍節	iagb
+光棍節	iagd
 二極管	iagi
 宋朝	iagj
 完整無缺	iagj
@@ -34219,7 +34249,6 @@
 宰相肚裏能撑船	iawu
 宰相肚裏能撐船	iawu
 宰相肚裡能撐船	iawu
-光棍節	iawx
 寬衣解帶	iaxs
 光桿司令	iayr
 官本	ibaf
@@ -34264,6 +34293,7 @@
 燈捻	ibfr
 燈箱	ibga
 燈節	ibgb
+燈節	ibgd
 燈管	ibgi
 燈籠	ibgk
 官氣	ibgq
@@ -34373,7 +34403,6 @@
 官服	ibwa
 官腔	ibwi
 二皮臉	ibwr
-燈節	ibwx
 官運	ibxd
 官軍	ibxd
 官名	ibxl
@@ -35497,6 +35526,7 @@
 烤箱	ihga
 烤翅	ihgb
 守節	ihgb
+守節	ihgd
 燒鵝	ihgf
 烤乾	ihgj
 穿戴	ihgk
@@ -35754,7 +35784,6 @@
 突出	ihww
 燒出	ihww
 烤出	ihww
-守節	ihwx
 火急	ihxb
 守軍	ihxd
 突飛	ihyf
@@ -36003,10 +36032,10 @@
 營盤	iiue
 烷基	iiuh
 安常處順	iiul
-勞碌	iiur
 營帳	iiuu
 熔岩	iiuv
 勞碌	iivb
+勞碌	iive
 炎夏	iivj
 勞累	iivo
 對對碰	iivq
@@ -36257,6 +36286,7 @@
 字據	ikfu
 熾烈	ikfx
 字節	ikgb
+字節	ikgd
 字符	ikge
 塞翁失馬焉知非福	ikgj
 塞翁失馬	ikgw
@@ -36338,7 +36368,6 @@
 井然	ikwh
 宗主國	ikwk
 字句	ikwl
-字節	ikwx
 資産負債表	ikxh
 小公司	ikyf
 光柵	ilac
@@ -36515,6 +36544,7 @@
 窺豹一斑	imfj
 黨和政府	imfm
 勞動節	imgb
+勞動節	imgd
 營私舞弊	imgq
 勞動者	imhj
 對症下藥	imjs
@@ -36543,7 +36573,6 @@
 寡廉鮮恥	imvl
 寵辱不驚	imvs
 小毛驢	imwu
-勞動節	imwx
 冰櫃	inah
 冰棱	inah
 它就	inai
@@ -38160,6 +38189,7 @@
 小妻	ivgb
 小節	ivgb
 爆破筒	ivgc
+小節	ivgd
 小不點兒	ivgd
 小篆	ivge
 小我	ivgf
@@ -38421,7 +38451,6 @@
 寧夏回族	ivwt
 小四	ivww
 小鵬	ivww
-小節	ivwx
 當月	ivwy
 小月	ivwy
 煩冗	ivxe
@@ -38954,6 +38983,7 @@
 禍從天降	jcfp
 日行一善	jcfq
 禮節	jcgb
+禮節	jcgd
 暴露無遺	jcgl
 現行犯	jcha
 晴雨表	jchg
@@ -39020,7 +39050,6 @@
 瑞雪兆豐年	jcwg
 禮包	jcwo
 映出	jcww
-禮節	jcwx
 映襯	jcxk
 映象	jcxl
 短兵相接	jdaf
@@ -39892,6 +39921,7 @@
 財年	jhga
 福壽無疆	jhgb
 時節	jhgb
+時節	jhgd
 財管	jhgi
 賭博	jhgn
 時延	jhgp
@@ -40037,7 +40067,6 @@
 社團	jhwd
 財團	jhwd
 贖回	jhwl
-時節	jhwx
 曉月	jhwy
 時運	jhxd
 財運	jhxd
@@ -41903,6 +41932,7 @@
 弄死	jsfx
 畢節	jsgb
 示範	jsgd
+畢節	jsgd
 視若無睹	jsgj
 示衆	jsgu
 畢加索	jsgx
@@ -42048,7 +42078,6 @@
 眼觀四路	jswp
 眼觀四路耳聽八方	jswt
 弄出	jsww
-畢節	jswx
 明鏡高懸	jtaj
 故交	jtak
 財產權	jtas
@@ -42219,6 +42248,7 @@
 環抱	jufw
 貼換	jufx
 環節	jugb
+環節	jugd
 是非顛倒	juge
 賬簿	jugn
 暖氣	jugq
@@ -42382,7 +42412,6 @@
 賬册	juww
 星期四	juww
 貼出	juww
-環節	juwx
 環襯	juxk
 貼切	juxm
 環切	juxm
@@ -43004,7 +43033,6 @@
 明處	jwut
 剋期	jwuw
 易碎	jwva
-晚節不保	jwve
 克魯	jwvj
 克里	jwvl
 珠圍翠繞	jwvo
@@ -43106,6 +43134,7 @@
 下策	jxga
 下筆	jxgb
 晚節	jxgb
+晚節	jxgd
 下午	jxgg
 下等	jxgh
 晚黑	jxgh
@@ -43284,7 +43313,6 @@
 下腰	jxwp
 暈圈	jxwq
 下册	jxww
-晚節	jxwx
 下月	jxwy
 下欠	jxxq
 下襬	jxxu
@@ -43972,10 +44000,10 @@
 印製	kfpc
 咸陽	kfpj
 印跡	kfpt
-感慨	kfpx
 公元前	kfqw
 感懷	kfra
 感慨	kfrb
+感慨	kfrd
 感愧	kfrd
 主持人	kfre
 感人	kfre
@@ -44098,6 +44126,7 @@
 良策	kgga
 孫策	kgga
 端午節	kggb
+端午節	kggd
 八十年代	kgge
 為我	kggf
 響箭	kggq
@@ -44309,7 +44338,6 @@
 産出	kgww
 良駒	kgww
 良朋	kgww
-端午節	kgwx
 良久	kgxk
 為名	kgxl
 顔色	kgxo
@@ -44503,6 +44531,8 @@
 音節	kjgb
 章節	kjgb
 贛南	kjgc
+音節	kjgd
+章節	kjgd
 音符	kjge
 主管	kjgi
 主幹	kjgj
@@ -44668,8 +44698,6 @@
 剖視圖	kjwl
 主視圖	kjwl
 主因	kjwo
-音節	kjwx
-章節	kjwx
 意象	kjxl
 音色	kjxo
 主角	kjxs
@@ -44703,6 +44731,7 @@
 端端正正	kkff
 卵形	kkfs
 父親節	kkgb
+父親節	kkgd
 孤立無援	kkgf
 卿卿我我	kkgg
 孩子氣	kkgq
@@ -44754,7 +44783,6 @@
 卵翼	kkvv
 入主出奴	kkwc
 孵出	kkww
-父親節	kkwx
 童子軍	kkxd
 童顔鶴髮	kkxu
 子公司	kkyf
@@ -44986,6 +45014,7 @@
 分列	kmfx
 分支	kmgb
 分節	kmgb
+分節	kmgd
 分管	kmgi
 划算	kmgj
 盆栽	kmgk
@@ -45146,7 +45175,6 @@
 分包	kmwo
 分册	kmww
 分出	kmww
-分節	kmwx
 分色	kmxo
 分解	kmxs
 分外	kmxu
@@ -45355,7 +45383,6 @@
 永結同心	kocr
 飽經風霜	koec
 新春佳節	koeg
-新春佳節	koew
 為之一振	koff
 新紀元	kofl
 成績表	kohg
@@ -45389,8 +45416,8 @@
 新生代	kpek
 主攻手	kpfs
 端陽節	kpgb
+端陽節	kpgd
 分隔符	kpge
-感慨系之	kpgo
 立足點	kpgu
 成功者	kphj
 新生事物	kphp
@@ -45409,13 +45436,10 @@
 分工合作	kpre
 龍生九子	kprk
 新西蘭	kpsd
-感慨萬端	kpsk
-感慨萬千	kpsm
 食物鏈	kptd
 預防針	kptg
 立功受奬	kpud
 立功受獎	kpud
-端陽節	kpwx
 八路軍	kpxd
 辨析	kqad
 蝕本	kqaf
@@ -45620,8 +45644,8 @@
 餘孽	krsd
 感情用事	krsh
 入世	krsi
-盛情難卻	krsk
 感慨萬端	krsk
+盛情難卻	krsk
 餘力	krsl
 感慨萬千	krsm
 入夢	krsu
@@ -45880,6 +45904,7 @@
 站擼	kufv
 孤殘	kufx
 端節	kugb
+端節	kugd
 端午	kugg
 站直	kugj
 端直	kugj
@@ -45967,7 +45992,6 @@
 瓣膜	kuws
 端出	kuww
 孤膽	kuwx
-端節	kuwx
 孤軍	kuxd
 站名	kuxl
 留校	kvaa
@@ -46171,6 +46195,7 @@
 龍年	kwga
 感恩節	kwgb
 感恩戴德	kwgc
+感恩節	kwgd
 龍龜	kwgg
 龍舞	kwgs
 立腳點	kwgu
@@ -46272,7 +46297,6 @@
 龍脉	kwwk
 龍馬	kwwm
 龍騰	kwwq
-感恩節	kwwx
 龍膽	kwwx
 新四軍	kwxd
 龍袍	kwxw
@@ -46579,6 +46603,7 @@
 呆笨	laga
 三年	laga
 三節	lagb
+三節	lagd
 三等	lagh
 三十	lagi
 三極管	lagi
@@ -46743,7 +46768,6 @@
 三回	lawl
 三包	lawo
 三四	laww
-三節	lawx
 三月	lawy
 三軍	laxd
 三七	laxi
@@ -46798,6 +46822,7 @@
 娶妻	lbgb
 聖誕節	lbgb
 唧筒	lbgc
+聖誕節	lbgd
 口誅筆伐	lbge
 口説無憑	lbgi
 口說無憑	lbgi
@@ -46898,7 +46923,6 @@
 聚脂	lbwn
 取勝	lbwq
 取出	lbww
-聖誕節	lbwx
 取名	lbxl
 唁函	lbyn
 單行本	lcaf
@@ -47647,8 +47671,8 @@
 嘻笑	lhgm
 嚇退	lhgo
 吐氣	lhgq
-嘔氣	lhgq
 忠孝節義	lhgq
+嘔氣	lhgq
 吐血	lhgu
 嗜血	lhgu
 嚇壞	lhha
@@ -47735,7 +47759,6 @@
 號碼	lhvw
 號脈	lhwd
 號脉	lhwk
-忠孝節義	lhwq
 吐出	lhww
 咬牙切齒	lhxp
 號角	lhxs
@@ -48160,7 +48183,6 @@
 只需	lkcs
 職銜	lkct
 只須	lkcv
-三八婦女節	lkcw
 職專	lkdh
 只問	lkdl
 聊到	lkdm
@@ -48445,6 +48467,7 @@
 單筆	llgb
 品節	llgb
 喇叭筒	llgc
+品節	llgd
 咒符	llge
 品管	llgi
 嚴管	llgi
@@ -48739,7 +48762,6 @@
 呼啦圈	llwq
 品脱	llwq
 品出	llww
-品節	llwx
 單月	llwy
 咒怨	llxa
 品名	llxl
@@ -48754,6 +48776,7 @@
 刮掉	lmfu
 叨擾	lmfv
 中秋節	lmgb
+中秋節	lmgd
 單刀直入	lmgk
 單刀赴會	lmhr
 叨光	lmil
@@ -48795,7 +48818,6 @@
 刮鬍	lmuj
 刮臉	lmwr
 刮出	lmww
-中秋節	lmwx
 聯想	lnaj
 聯查	lnaj
 哺育	lnan
@@ -48821,6 +48843,7 @@
 聯手	lnfs
 順水推舟	lnfu
 啤酒節	lngb
+啤酒節	lngd
 聯衆	lngu
 吮血	lngu
 聯翩	lnhc
@@ -48891,7 +48914,6 @@
 嘰歪	lnvf
 川流不息	lnvq
 啤酒肚	lnwh
-啤酒節	lnwx
 聯袂	lnxb
 聯運	lnxd
 聯軍	lnxd
@@ -50381,7 +50403,6 @@
 疲於	mbtr
 秘書長	mbuc
 廢置	mbug
-庸碌	mbur
 唐山	mbus
 秘書處	mbut
 痛處	mbut
@@ -50391,6 +50412,7 @@
 愁眉不展	mbvb
 庸碌	mbvb
 動彈不得	mbvc
+庸碌	mbve
 疲累	mbvo
 重巒疊嶂	mbvu
 疾言厲色	mbvx
@@ -51421,6 +51443,7 @@
 程式控制	mkfp
 序列	mkfx
 季節	mkgb
+季節	mkgd
 秉公無私	mkgm
 底氣	mkgq
 瘴氣	mkgq
@@ -51515,7 +51538,6 @@
 底肥	mkwo
 稅收	mkwt
 底册	mkww
-季節	mkwx
 季軍	mkxd
 稅負	mkxj
 底褲	mkxm
@@ -51798,7 +51820,6 @@
 毛髮	mmue
 種瓜	mmug
 毛巾	mmuj
-庸庸碌碌	mmuu
 委靡不振	mmvf
 千瘡百孔	mmvk
 磨刀不誤砍柴工	mmvp
@@ -51806,8 +51827,8 @@
 種田	mmvt
 犁田	mmvt
 移動硬盤	mmvu
-重重疊疊	mmvv
 庸庸碌碌	mmvv
+重重疊疊	mmvv
 梨園	mmwh
 庭園	mmwh
 種馬	mmwm
@@ -52800,9 +52821,7 @@
 豹紋	mwot
 黎民	mwox
 脣齒	mwpc
-季節工	mwpg
 脣邊	mwqi
-季節性	mwrp
 千恩萬謝	mwsb
 廢然而返	mwsd
 黎族	mwtg
@@ -52870,7 +52889,6 @@
 油橄欖	naah
 湯裏來水裏去	naah
 淳樸	naai
-汴京	naai
 涼亭	naaj
 流亭	naaj
 流速	naal
@@ -53046,7 +53064,6 @@
 淋浴	nank
 滴溜	nank
 涼台	nanl
-汴梁	nanm
 流汗	nann
 湘江	nanp
 湘潭	nanp
@@ -54791,6 +54808,7 @@
 清明節	njgb
 河南	njgc
 湖南	njgc
+清明節	njgd
 測算	njgj
 沮喪	njgl
 參照系	njgo
@@ -55038,7 +55056,6 @@
 測驗	njwr
 河豚	njwt
 測出	njww
-清明節	njwx
 河運	njxd
 沽名	njxl
 湖色	njxo
@@ -55049,6 +55066,7 @@
 淺析	nkad
 泳衣	nkag
 浴衣	nkag
+汴京	nkai
 減速	nkal
 油印機	nkan
 滿意率	nkan
@@ -55161,6 +55179,7 @@
 活龍活現	nknj
 淺淺	nknk
 漳州	nknl
+汴梁	nknm
 漳浦	nknn
 浴池	nkno
 泳池	nkno
@@ -55619,8 +55638,10 @@
 幾筆	nngb
 幾節	nngb
 潑水節	nngb
+潑水節	nngd
 混淆黑白	nngd
 湮没無聞	nngd
+幾節	nngd
 湮沒無聞	nngd
 幾篇	nngh
 治黑	nngh
@@ -55936,8 +55957,6 @@
 皆因	nnwo
 幾圈	nnwq
 滲出	nnww
-潑水節	nnwx
-幾節	nnwx
 幾月	nnwy
 汗衫	nnxc
 參軍	nnxd
@@ -57739,7 +57758,6 @@
 練手	oafs
 絞手	oafs
 緣木求魚	oafv
-細枝末節	oafw
 細高挑	oafw
 絞死	oafx
 練筆	oagb
@@ -58288,6 +58306,7 @@
 總支	odgb
 總第	odgb
 大節	odgb
+大節	odgd
 大篆	odge
 大我	odgf
 大黑	odgh
@@ -58686,7 +58705,6 @@
 大四	odww
 大胸	odww
 大膽	odwx
-大節	odwx
 大軍	odxd
 大將軍	odxd
 大褂	odxh
@@ -59179,6 +59197,7 @@
 編年	ohga
 結節	ohgb
 奮起直追	ohgd
+結節	ohgd
 續篇	ohgh
 結算	ohgj
 編纂	ohgj
@@ -59311,7 +59330,6 @@
 結膜	ohws
 編出	ohww
 結出	ohww
-結節	ohwx
 結怨	ohxa
 結欠	ohxq
 編外	ohxu
@@ -59480,6 +59498,7 @@
 蠢笨	ojga
 春節	ojgb
 規範	ojgd
+春節	ojgd
 春筍	ojgw
 太上老君	ojhb
 大禍臨頭	ojhf
@@ -59637,7 +59656,6 @@
 組圖	ojwl
 春肥	ojwo
 蠢驢	ojwu
-春節	ojwx
 春運	ojxd
 春色	ojxo
 巴貝多	ojxx
@@ -60909,6 +60927,7 @@
 已死	ovfx
 細筆	ovgb
 細節	ovgb
+細節	ovgd
 練習簿	ovgn
 已退	ovgo
 細點	ovgu
@@ -61008,7 +61027,6 @@
 細腰	ovwp
 細胞	ovww
 練習册	ovww
-細節	ovwx
 已被	ovxb
 已久	ovxk
 大股東	owaj
@@ -62396,7 +62414,6 @@
 頻段	piel
 工業化	pien
 步進	pieo
-慨當以慷	pier
 工資條	pieu
 阿塞拜疆	pifb
 頻繁	pige
@@ -64394,7 +64411,6 @@
 西子	pxkz
 西數	pxlg
 西單	pxll
-慨嘆	pxls
 西廂	pxma
 西魏	pxmc
 功名利祿	pxmj
@@ -64449,7 +64465,6 @@
 西甲	pxvj
 西曆	pxvm
 西服	pxwa
-慨然	pxwh
 西周	pxwh
 西固	pxwj
 西馬	pxwm
@@ -67604,6 +67619,7 @@
 鴿子	rdkz
 人到中年	rdlg
 快遞員	rdlj
+慨嘆	rdls
 愧疚	rdmx
 忻州	rdnl
 快樂大本營	rdoi
@@ -67633,6 +67649,7 @@
 惶遽	rdut
 快樂男聲	rdvh
 怕累	rdvo
+慨然	rdwh
 惶然	rdwh
 愧色	rdxo
 慚色	rdxo
@@ -68041,6 +68058,7 @@
 必死	rgfx
 骨朶	rgga
 骨節	rggb
+骨節	rggd
 心血管	rggi
 骨幹	rggj
 心血管病	rggm
@@ -68090,7 +68108,6 @@
 必要	rgpc
 骨齡	rgpr
 慎防	rgpt
-憤慨	rgpx
 骨料	rgqi
 恨着	rgqj
 骨粉	rgqk
@@ -68099,6 +68116,7 @@
 悖逆	rgqw
 忤逆	rgqw
 憤慨	rgrb
+憤慨	rgrd
 悽惶	rgrd
 含笑九泉	rgrd
 骨髓	rgre
@@ -68124,9 +68142,9 @@
 悽豔	rgud
 坐無虚席	rgum
 坐無虛席	rgum
-骨碌	rgur
 悔罪	rguu
 骨碌	rgvb
+骨碌	rgve
 必然	rgwh
 憤然	rgwh
 悽然	rgwh
@@ -68134,7 +68152,6 @@
 必勝	rgwq
 骨膜	rgws
 骨膠	rgwv
-骨節	rgwx
 恨煞	rgxb
 恤衫	rgxc
 悽切	rgxm
@@ -68190,6 +68207,7 @@
 合抱	rhfw
 情殤	rhfx
 情節	rhgb
+情節	rhgd
 合十	rhgi
 合算	rhgj
 合乎	rhgq
@@ -68308,7 +68326,6 @@
 合腳	rhwk
 合肥	rhwo
 人才出眾	rhwu
-情節	rhwx
 情急	rhxb
 情切	rhxm
 情色	rhxo
@@ -69003,10 +69020,10 @@
 劍麻	rmma
 悸動	rmmv
 劍法	rmnh
-慷慨	rmpx
 惦着	rmqj
 慵懶	rmra
 慷慨	rmrb
+慷慨	rmrd
 憐香惜玉	rmrj
 惦念	rmrk
 心廣體胖	rmrw
@@ -69132,6 +69149,7 @@
 過手	rofs
 過年	roga
 過節	rogb
+過節	rogd
 心織筆耕	rogd
 過敏	roge
 悔之無及	rogg
@@ -69225,7 +69243,6 @@
 過膝	rowa
 人民出版社	rowj
 人民團體	rowr
-過節	rowx
 過急	roxb
 過久	roxk
 過多	roxx
@@ -69281,7 +69298,6 @@
 性別	rplw
 性病	rpmf
 必先利其器	rpml
-慷慨激昂	rpnj
 人工湖	rpnj
 快步流星	rpnj
 性生活	rpnl
@@ -69289,10 +69305,8 @@
 惻隱之心	rpor
 體制改革	rpos
 人生路不熟	rppa
-慷慨陳詞	rppb
 人工降雨	rppc
 怯生生	rpps
-慷慨陳辭	rppu
 人生自古誰無死	rpqf
 性命	rpra
 恓惶	rprd
@@ -69305,7 +69319,6 @@
 人生觀	rpsl
 創造力	rpsl
 企望	rptw
-慷慨悲歌	rpuj
 性愛	rpux
 惶恐不安	rpvi
 心路歷程	rpvm
@@ -69315,7 +69328,6 @@
 慢工出細活	rpwn
 性急	rpxb
 人跡罕至	rpxd
-慷慨解囊	rpxg
 人類學	rqds
 拿糖作醋	rqep
 心慈手軟	rqfd
@@ -69395,6 +69407,7 @@
 令人捧腹	rrfw
 坐探	rrfx
 情人節	rrgb
+情人節	rrgd
 坐等	rrgh
 坐直	rrgj
 坐失	rrgo
@@ -69436,15 +69449,15 @@
 全過程	rrml
 坐席	rrms
 人人平等	rrng
-人人皆知	rrnj
 慷慨激昂	rrnj
+人人皆知	rrnj
 坐浴	rrnk
 懶懶洋洋	rrnn
 含含混混	rrnn
 人心渙散	rrns
 坐滿	rrns
-人心隔肚皮	rrpb
 慷慨陳詞	rrpb
+人心隔肚皮	rrpb
 恰巧	rrph
 傘降	rrpt
 慷慨陳辭	rrpu
@@ -69483,7 +69496,6 @@
 坐船	rrue
 令人髮指	rruf
 慷慨悲歌	rruj
-忙忙碌碌	rruu
 怏怏不樂	rrvd
 惴惴不安	rrvi
 人心不古	rrvj
@@ -69505,7 +69517,6 @@
 慢慢騰騰	rrww
 舒舒服服	rrww
 含情脈脈	rrww
-情人節	rrwx
 慷慨解囊	rrxg
 命途多舛	rrxx
 心力衰竭	rsak
@@ -69601,8 +69612,8 @@
 斂錢	rttk
 忙於	rttr
 忙亂	rtub
-忙碌	rtur
 忙碌	rtvb
+忙碌	rtve
 恨鐵不成鋼	rtvt
 禽蛋	rtyp
 人非木石	ruav
@@ -69641,7 +69652,6 @@
 悼文	rute
 過甚其詞	ruub
 悼辭	ruub
-骨碌碌	ruur
 過期不候	ruve
 悵然	ruwh
 恨不得	rvcj
@@ -69677,11 +69687,11 @@
 人不爲己天誅地滅	rvun
 拿破崙	rvur
 骨碌碌	rvvb
+骨碌碌	rvve
 愧不敢當	rvyi
 瓦楞	rwau
 合肥市	rwau
 瓦屋	rwbd
-過節費	rwbk
 慍怒	rwcb
 心胸開闊	rwdd
 瓦片	rwdp
@@ -69910,7 +69920,6 @@
 薄弱環節	sbjg
 蕭縣	sbji
 蕭瑟	sbjj
-薄弱環節	sbjw
 鞭辟入裏	sbka
 著書立説	sbkb
 世説新語	sbkb
@@ -69992,6 +70001,7 @@
 英烈	scfx
 英年	scga
 藝術節	scgb
+藝術節	scgd
 英籍	scgd
 耍笑	scgm
 藝術系	scgo
@@ -70056,7 +70066,6 @@
 英國	scwk
 曹妃甸	scwv
 花好月圓	scww
-藝術節	scwx
 英軍	scxd
 面如冠玉	scxj
 英名	scxl
@@ -70103,6 +70112,7 @@
 草間求活	sdfn
 藥箱	sdga
 萬向節	sdgb
+萬向節	sdgd
 藥囊	sdgl
 蒼白無力	sdgs
 蘇門答臘	sdgw
@@ -70219,7 +70229,6 @@
 莊園	sdwh
 莊周	sdwh
 藥膳	sdwq
-萬向節	sdwx
 藥名	sdxl
 用戶名	sdxl
 藥補	sdxn
@@ -70318,8 +70327,8 @@
 英雄氣短	segj
 荷載	segk
 鞭笞	segn
-若失	sego
 勤儉節約	sego
+若失	sego
 著作等身	segq
 惹氣	segq
 花卉	segs
@@ -70501,7 +70510,6 @@
 花圃	sewn
 荷包	sewo
 花肥	sewo
-勤儉節約	sewo
 花圈	sewq
 花臉	sewr
 花月	sewy
@@ -71743,6 +71751,7 @@
 賀年	slga
 萬聖節	slgb
 莒南	slgc
+萬聖節	slgd
 加氫	slgf
 加載	slgk
 歡笑	slgm
@@ -71932,7 +71941,6 @@
 力圖	slwl
 歡騰	slwq
 加收	slwt
-萬聖節	slwx
 觀月	slwy
 加急	slxb
 勸勉	slxl
@@ -73749,6 +73757,7 @@
 鉛筆	tegb
 文筆	tegb
 文化節	tegb
+文化節	tegd
 文墨	tegh
 文翰	tegj
 文氣	tegq
@@ -73861,7 +73870,6 @@
 文思	tevr
 文句	tewl
 文胸	teww
-文化節	tewx
 文化衫	texc
 文件名	texl
 銀灰色	texo
@@ -74191,13 +74199,12 @@
 旗人	tgre
 旅人	tgre
 旅途	tgrf
-鐵骨	tgrg
 逢年過節	tgrg
+鐵骨	tgrg
 鐵心	tgri
 銀劍	tgrm
 遊過	tgro
 鐵盒	tgru
-逢年過節	tgrw
 銀英	tgsc
 施藥	tgsd
 銀花	tgse
@@ -74405,6 +74412,7 @@
 冬天	tifo
 鎖死	tifx
 冬節	tigb
+冬節	tigd
 放冷箭	tigq
 冬筍	tigw
 亡魂喪膽	tigw
@@ -74478,7 +74486,6 @@
 產業界	tivr
 鎖碼	tivw
 鎖國	tiwk
-冬節	tiwx
 冬月	tiwy
 冬運	tixd
 金榜	tjaa
@@ -75626,7 +75633,6 @@
 彩金	uatj
 彩鑽	uatp
 彩鈴	uatr
-盤根錯節	uatw
 航船	uaue
 買櫝還珠	uauj
 嵩山	uaus
@@ -76882,6 +76888,7 @@
 桌上型電腦	ujfw
 貞烈	ujfx
 貞節	ujgb
+貞節	ujgd
 山上無老虎猴子稱大王	ujgj
 買點	ujgu
 買者	ujhj
@@ -76990,7 +76997,6 @@
 桌腳	ujwk
 買回	ujwl
 覓句	ujwl
-貞節	ujwx
 乳劑	ukaq
 基辛格	ukat
 乳膏	ukaw
@@ -77458,10 +77464,8 @@
 虛懷若谷	ursk
 悲觀	ursl
 悲歡	ursl
-碌碌	urur
 爲人處世	urus
 悲劇	urut
-碌碡	urvh
 長命百歲	urvp
 悲切	urxm
 山林	usaa
@@ -77708,7 +77712,6 @@
 罪惡	uufk
 帳篷	uugt
 遥遥無期	uugu
-碌碌無爲	uugu
 罪犯	uuha
 山崩地裂	uuhf
 鬆鬆垮垮	uuhh
@@ -78357,7 +78360,6 @@
 不徐不疾	vcvm
 不得不	vcvu
 原始碼	vcvw
-厲行節約	vcwo
 男同胞	vcww
 田徑運動	vcxm
 碑林	vdaa
@@ -78573,7 +78575,9 @@
 礁岩	veuv
 不以爲然	veuw
 不偏不倚	veve
+碌碌	veve
 不假思索	vevg
+碌碡	vevh
 不依不饒	vevk
 百依百順	vevl
 不倫不類	vevq
@@ -78630,7 +78634,6 @@
 研究	vfir
 硬塞	vfis
 硬煤	vfis
-不拘小節	vfiw
 原形畢露	vfjc
 不求上進	vfje
 硬是	vfjf
@@ -79724,6 +79727,7 @@
 不怕死	vrfx
 愚笨	vrga
 愚人節	vrgb
+愚人節	vrgd
 野心勃勃	vrgg
 界點	vrgu
 思索	vrgx
@@ -79812,7 +79816,6 @@
 界石	vrvs
 不慌不亂	vrvu
 不舒服	vrwa
-愚人節	vrwx
 界外	vrxu
 石林	vsaa
 石板	vsad
@@ -80785,7 +80788,6 @@
 服式	wakp
 服食	waks
 膀子	wakz
-節哀順變	walb
 困獸	wall
 遙相呼應	walm
 團市委	wamc
@@ -80794,7 +80796,6 @@
 丹參	wann
 服滿	wans
 四六級	waog
-節衣縮食	waok
 丹紅	waop
 馬來西亞	wapf
 丹陽	wapj
@@ -81034,7 +81035,6 @@
 股掌	weif
 國仇家恨	weir
 出貨量	wejf
-節假日	wejr
 肌理	wejv
 胸有成竹	wekg
 出雙入對	weki
@@ -81153,6 +81153,7 @@
 腿形	wgfs
 肢節	wggb
 出氣筒	wggc
+肢節	wggd
 胸無點墨	wggg
 腹黑	wggh
 胖乎乎	wggq
@@ -81187,7 +81188,6 @@
 肺氣腫	wgwm
 腹膜	wgws
 腹脹	wgwu
-肢節	wgwx
 腦筋急轉彎	wgxb
 肢解	wgxs
 園林	whaa
@@ -81497,11 +81497,9 @@
 出神入化	wjke
 遙感	wjkf
 四時八節	wjkg
-四時八節	wjkw
 腸子	wjkz
 腥味	wjlf
 祭品	wjll
-節目單	wjll
 腸癌	wjml
 月明千里	wjmv
 遙測	wjnj
@@ -81523,7 +81521,6 @@
 祭奠	wjqp
 腸道	wjqq
 固體	wjrc
-節日快樂	wjrd
 月下花前	wjsq
 祭文	wjte
 固鎮	wjtg
@@ -82224,6 +82221,7 @@
 馬列	wmfx
 馬年	wmga
 國慶節	wmgb
+國慶節	wmgd
 驕氣	wmgq
 腫塊	wmhd
 馬幫	wmhh
@@ -82314,7 +82312,6 @@
 馬甸	wmwv
 馬騾	wmwv
 馬駒	wmww
-國慶節	wmwx
 馬褂	wmxh
 馬裡	wmxv
 固沙林	wnaa
@@ -82344,7 +82341,6 @@
 胎毒	wnhe
 胎教	wnhk
 勾起	wnho
-節能燈	wnib
 肝火	wnih
 肝炎	wnii
 勾魂	wnin
@@ -82365,7 +82361,6 @@
 圓滚滚	wnna
 圓滾滾	wnna
 脂油	wnnd
-節能減排	wnnf
 圓溜溜	wnnk
 出污泥而不染	wnnn
 出淤泥而不染	wnnn
@@ -82508,7 +82503,6 @@
 因明	wojw
 胯下	wojx
 包下	wojx
-節奏感	wokf
 恩威	wokf
 包産	wokg
 因為	wokg
@@ -82764,6 +82758,7 @@
 脱掉	wqfu
 騰挪	wqfy
 脱節	wqgb
+脱節	wqgd
 膽粗氣壯	wqgd
 脱敏	wqge
 勝算	wqgj
@@ -82861,7 +82856,6 @@
 勝出	wqww
 騰出	wqww
 脱出	wqww
-脱節	wqwx
 勝負	wqxj
 脱兔	wqxl
 脱色	wqxo
@@ -82906,7 +82900,6 @@
 臉容	wrir
 團體賽	wris
 驗資	wrix
-節骨眼	wrjg
 囚歌	wrjl
 臉上	wrjv
 驗明	wrjw
@@ -83334,6 +83327,8 @@
 出列	wwfx
 四年	wwga
 四節	wwgb
+删節	wwgd
+四節	wwgd
 四腳朝天	wwgf
 四篇	wwgh
 四十	wwgi
@@ -83393,7 +83388,6 @@
 出缺	wwjb
 出神	wwjd
 出題	wwjf
-節節敗退	wwjg
 四眼	wwjg
 四時	wwjh
 四叔	wwji
@@ -83624,7 +83618,6 @@
 出腳	wwwk
 出脫	wwwk
 出馬	wwwm
-節節勝利	wwwm
 胸脯	wwwn
 胭脂	wwwn
 胞胎	wwwn
@@ -83637,8 +83630,6 @@
 四出	wwww
 朦朦朧朧	wwww
 團團圓圓	wwww
-删節	wwwx
-四節	wwwx
 四月	wwwy
 胸襟	wwxa
 出名	wwxl
@@ -83651,83 +83642,44 @@
 恩恩怨怨	wwxx
 脆棗	wxac
 脆亮	wxae
-節本	wxaf
-節哀	wxag
-節育	wxan
 膽顫	wxaw
 脆弱	wxbi
 膽識	wxbk
 脆皮	wxbp
 脆嫩	wxca
-節律	wxcb
-節婦	wxcb
-節電	wxcd
-節後	wxcn
 膽魄	wxdd
 膽壯	wxdh
-節假	wxeb
-節儉	wxer
-節拍	wxfd
 國色天姿	wxfi
-節操	wxfl
 國色天香	wxfm
-節烈	wxfx
 膽裂	wxfx
-節支	wxgb
 膽管	wxgi
 膽囊	wxgl
-節氣	wxgq
-節點	wxgu
 脆點	wxgu
-節省	wxig
 膽寒	wxis
-節煤	wxis
 膽小	wxiv
 膽量	wxjf
 膽敢	wxjl
-節目	wxjm
-節日	wxjr
-節下	wxjx
 脆響	wxkg
 恩怨分明	wxkj
-節餘	wxkr
-節食	wxks
 膽子	wxkz
 囤聚	wxlb
 馳名中外	wxlx
 囤積	wxmh
-節慶	wxmy
-節流	wxna
-節油	wxnd
 膽汁	wxng
-節減	wxnk
-節水	wxns
-節能	wxnw
 膽大	wxod
-節奏	wxof
-節選	wxoo
 脆爽	wxos
-節約	wxow
-節外生枝	wxpa
-節制	wxpc
 膽酸	wxpn
 脆生	wxps
 膽道	wxqq
 膽瓶	wxqs
-節前	wxqw
 脆骨	wxrg
 膽怯	wxrh
-節令	wxrk
 脆性	wxrp
 脆薄	wxsn
-節用	wxsy
-節錄	wxte
 脆瓜	wxug
 膽虚	wxui
 膽虛	wxuw
 膽略	wxvt
-節略	wxvt
-節節	wxwx
 膽敢	wxyl
 月亮	wyae
 月夜	wyae
@@ -84563,6 +84515,7 @@
 頓口無言	xlgb
 軍中無戲言	xlgb
 名節	xlgb
+名節	xlgd
 名籍	xlgd
 名篇	xlgh
 名氣	xlgq
@@ -84672,7 +84625,6 @@
 免驗	xlwr
 免收	xlwt
 名册	xlww
-名節	xlwx
 多喫多佔	xlxe
 多吃多佔	xlxe
 免冠	xlxf

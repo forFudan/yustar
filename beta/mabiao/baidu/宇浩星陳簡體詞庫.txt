@@ -48922,7 +48922,6 @@ myfd 夭折
 mync 秘书长
 mytu 秘书处
 naae 洗衣机
-naai 汴京
 naaj 流亭
 naal 流速
 naam 滚木
@@ -49049,7 +49048,6 @@ nank 流浪
 nank 沐浴
 nank 淋浴
 nank 滴溜
-nanm 汴梁
 nann 流汗
 nann 长夜漫漫
 nanp 湘江
@@ -51037,6 +51035,7 @@ nkaf 兴衰
 nkag 泳衣
 nkag 浴衣
 nkai 清产核资
+nkai 汴京
 nkan 满意率
 nkav 举杯
 nkav 温柔敦厚
@@ -51131,6 +51130,7 @@ nknd 浪涛
 nkng 浪潮
 nknj 浪漫
 nknl 漳州
+nknm 汴梁
 nknn 漳浦
 nkno 浴池
 nkno 泳池

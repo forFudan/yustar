@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.quick_words"
-version: "20231116"
+version: "20231123"
 sort: original
 columns:
   - text
@@ -36,18 +36,14 @@ columns:
 引起	bu
 很快	cg
 待遇	ch
-得到	cj
 往往	ck
 如果	cl
 露天	cp
 雨水	cy
 白天	db
-所以	dd
-到底	dm
 向上	dx
 至少	dz
 似乎	ee
-但是	ej
 以及	ek
 有些	ew
 五彩	fb
@@ -58,7 +54,6 @@ columns:
 死亡	fx
 年代	ga
 南京	gc
-等等	gh
 十分	gi
 真正	gj
 笑容	gm
@@ -78,9 +73,6 @@ columns:
 家庭	it
 常常	iu
 景象	ja
-缺乏	jb
-神秘	jd
-眼睛	jg
 可以	jl
 目前	jm
 星期	jp
@@ -89,7 +81,6 @@ columns:
 上海	jv
 早已	jz
 感到	kf
-分别	km
 公司	kn
 孩子	kt
 站住	ku
@@ -98,8 +89,6 @@ columns:
 味道	lf
 只有	lk
 哈哈	lr
-别人	ls
-叫做	lw
 吹牛	lx
 痛苦	mb
 病人	mf
@@ -107,7 +96,6 @@ columns:
 底下	mk
 疼痛	mt
 没有	ne
-海洋	ng
 法律	nh
 酒店	np
 平均	nq
@@ -118,7 +106,6 @@ columns:
 奇怪	oj
 套路	ou
 民族	ox
-制度	pc
 特别	ph
 告别	pl
 配合	po
@@ -133,7 +120,6 @@ columns:
 差距	qp
 羊毛	qy
 快速	rb
-情况	rh
 今天	rk
 悦耳	rq
 懂得	rs
@@ -147,14 +133,12 @@ columns:
 方面	tf
 放心	tt
 斯文	ud
-置身	ug
 虚假	ui
 乳房	uk
 其中	uq
 罪犯	uu
 爪牙	uz
 原因	vd
-百姓	vj
 野生	vk
 思想	vr
 田野	vt
@@ -164,12 +148,12 @@ columns:
 逃避	wi
 回答	wl
 收入	wt
+四川	ww
 月份	wy
 被告	xb
 久久	xk
 名字	xl
 色彩	xo
-司法	yf
 迅速	yg
 蛋白	yp
 本身	af
@@ -184,24 +168,16 @@ columns:
 化肥	en
 伴奏	eq
 在内	eu
-招呼	fm
-天津	fo
 每逢	ge
 及其	gk
-考察	hh
 超越	hm
 光明	il
 示威	js
-明白	jw
 下去	jx
-部分	kl
-成功	ky
 品牌	ll
 科技	mi
 千秋	mq
-座位	mr
 度假	ms
-流行	na
 活力	nl
 源泉	nv
 太太	ok
@@ -214,14 +190,11 @@ columns:
 身上	qs
 前面	qw
 命令	ra
-必要	rg
-全部	rj
 性格	rp
 英雄	sc
 世界	si
 用户	sy
 彩色	ua
-基本	uh
 期待	uw
 因此	wo
 外交	xu
