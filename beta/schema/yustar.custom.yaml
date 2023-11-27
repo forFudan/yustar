@@ -7,6 +7,8 @@ patch:
   # style/horizontal: true  # 橫排候選欄
   # style/inline_preedit: true  # 候選欄内置於輸入界面
   # style/preedit_type: composition  # 候選顯示字母(composition)还是候選(preview)
+  # style/layout/margin_x: -1 # 關閉候選欄 Windows
+  # style/alpha: 0.01 # 隱藏候選欄 Mac
   # 以下開關，0爲第一個，1爲第二個，2爲第三個
   switches/@0/reset: 2 # [只出常用字, 常用字前置, 全字集原排序]
   switches/@1/reset: 0 # [原始排序, 全碼後置]
