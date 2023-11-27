@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳
-# 版本: 20231123
+# 版本: 20231127
 #
 ---
 name: "yustar"
-version: "20231123"
+version: "20231127"
 sort: original
 import_tables:
   # 以下是簡碼字詞，可注釋掉

@@ -47080,6 +47080,7 @@ ldnm 聰穎
 ldnm 呂梁
 ldnp 啤酒
 ldns 喫水
+ldod 中軸線
 ldow 聘約
 ldpc 另闢蹊徑
 ldps 中學生
@@ -48039,8 +48040,8 @@ ljli 叮嚀
 ljli 叮噹
 ljli 咔嚓
 ljli 耵聹
-ljlj 嚶嚶
 ljlj 呵呵
+ljlj 嚶嚶
 ljlj 咕咕
 ljlj 聽聽
 ljlj 巡視員

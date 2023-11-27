@@ -3,15 +3,19 @@
 
 schema:
   schema_id: yustar
-  name: 宇浩·星陳
+  name: 宇浩·星陳·繁簡平衡
   version: 20231001
   author:
     - 發明人 朱宇浩
     - Rime方案 <https://zhuyuhao.com/yustar/>
     - 官方QQ群 735728797
   description: |
-    宇浩·星陈，繁简通打。
-    只設置少量一簡字詞、二簡字詞和避重三簡字。
+    宇浩·星陳·繁簡平衡，簡碼設置適合主單副詞的繁簡通打派.
+    只設置少量一簡字詞、二簡字詞和避重三簡字 600 餘個:
+      - 一簡字詞是繁/簡方案共用的字詞,加上「這这爲」三字
+      - 二簡字詞是繁/簡方案共用的字詞
+      - 三簡字詞只用於避重.出簡後,動態重碼率低於 0.005%.
+    可以在 yustar.dict.yaml 文件中手動開啓詞庫。
   dependencies:
     - yuhao_pinyin
     - yustar_chaifen

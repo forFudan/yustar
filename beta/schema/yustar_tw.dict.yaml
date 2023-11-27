@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳·臺正
-# 版本: 20231122
+# 版本: 20231127
 #
 ---
 name: "yustar_tw"
-version: "20231122"
+version: "20231127"
 sort: original
 import_tables:
   - yuhao/yuhao.extended
@@ -71640,7 +71640,7 @@ encoder:
 𩿉	dkmd
 𩿊	wdny
 𩿋	dmmd
-𩿌	erfd
+𩿌	rndn
 𩿍	fedn
 𩿎	kdny
 𩿏	bbdn
@@ -100993,9 +100993,9 @@ encoder:
 𢌱	hfso
 𢌱	hfso
 舁	dsoi
-弢	bugb
-弢	bwbo
-㣇	ecuj
+弢	bubo
+弢	bwfs
+㣇	bcuj
 𣊸	wcju
 𦇚	efqo
 形	fscp
@@ -101003,12 +101003,12 @@ encoder:
 㣣	cokk
 徚	cajr
 忍	mkri
-志	hris
+志	arik
 忹	rjwx
 悁	rlwy
 㤺	rtwr
 㤜	rkkd
-悔	rgem
+悔	rgeg
 𢛔	rawq
 惇	rakz
 慈	snnr
@@ -101025,8 +101025,8 @@ encoder:
 懶	ralj
 成	kyiw
 戛	vjkg
-扝	ffhk
-抱	fwos
+扝	fiei
+抱	fwoi
 拔	fesk
 捐	flwy
 𢬌	fgvk
@@ -118779,7 +118779,7 @@ encoder:
 峀	uvt
 巡	loc
 舁	dso
-志	hri
+志	ari
 忹	rjw
 成	kyi
 摩	mfs
@@ -119190,6 +119190,7 @@ encoder:
 芦	shh
 即使	bnef
 主義	kjqg
+呵呵	ljlj
 很大	cgod
 二十	irgi
 有人	ewre
@@ -128225,7 +128226,6 @@ encoder:
 最先	cipw
 最高	ciag
 量子	jfkz
-呵呵	ljlj
 只見	lkjj
 回國	wlwk
 丹麥	waat
@@ -166852,6 +166852,7 @@ encoder:
 短斤少兩	jdif
 熱鍋上的螞蟻	htjq
 嗯嗯	lwlw
+中軸線	ldod
 塔吉克斯坦	hhjh
 挨戶	fndh
 四清	wwnh
@@ -249246,6 +249247,7 @@ encoder:
 高处不胜寒	atvi
 短斤少两	jdif
 热锅上的蚂蚁	fojq
+中轴线	lxkf
 权时	abjh
 婚丧	ckgq
 奋然	ovwh

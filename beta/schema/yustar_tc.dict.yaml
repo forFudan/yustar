@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳·陸繁
-# 版本: 20231123
+# 版本: 20231127
 #
 ---
 name: "yustar_tc"
-version: "20231123"
+version: "20231127"
 sort: original
 import_tables:
   - yuhao/yustar_tc.quick
