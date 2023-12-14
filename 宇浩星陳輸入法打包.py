@@ -10,7 +10,7 @@ from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 from shutil import copyfile
 
-version = "v3.3.0"
+version = "v3.4.0-alpha.1"
 
 # %%
 try:
@@ -21,6 +21,7 @@ except:
 # %%
 # Copy yustar
 shutil.copyfile("./image/yustar.png", f"./dist/yustar/yustar_{version}.png")
+shutil.copyfile("./image/yustar.png", f"../yuhao/image/yustar.png")
 shutil.copyfile("./beta/readme.md", f"./dist/yustar/readme.txt")
 copy_tree("./beta/mabiao/", "./dist/yustar/mabiao/")
 copy_tree("./beta/schema/", "./dist/yustar/schema/")
@@ -47,10 +48,11 @@ for file_name in [
 
 # %%
 shutil.make_archive(f"./dist/yuhao_star_{version}", "zip", "./dist/yustar")
+
 # %%
 copyfile(f"./dist/yuhao_star_{version}.zip", f"../yuhao/dist/yuhao_star_{version}.zip")
 copyfile(f"./dist/yuhao_star_{version}.zip", f"../yuhao/dist/宇浩星陳_{version}.zip")
-# %%
+
 # %%
 # Remove unrelated files
 for file_name in [

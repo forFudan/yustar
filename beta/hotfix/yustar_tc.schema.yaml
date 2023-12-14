@@ -29,7 +29,7 @@ switches:
   - name: yuhao_tc_first
     reset: 0
     states: [繁簡混頻, 繁體優先]
-    # Control+Shift+I: 繁體優先
+    # Control+Shift+M: 繁體優先
   - name: yuhao_single_char_only_for_full_code
     states: ["字詞同出", "全碼出單"]
     reset: 0
@@ -211,7 +211,7 @@ key_binder:
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+O", toggle: yuhao_char_only } # 常用詞過濾
-    - { when: always, accept: "Control+Shift+I", toggle: yuhao_tc_first } # 繁體優先
+    - { when: always, accept: "Control+Shift+M", toggle: yuhao_tc_first } # 繁體優先
     - { when: has_menu, accept: "0", toggle: yuhao_char_only } # 常用詞過濾
     - {
         when: always,

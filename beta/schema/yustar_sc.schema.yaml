@@ -3,7 +3,7 @@
 
 schema:
   schema_id: yustar_sc
-  name: 宇浩·星陈·大陆简体
+  name: 星陈·陆简
   version: 20231001
   author:
     - 發明人 朱宇浩
@@ -26,7 +26,7 @@ switches:
   - name: yuhao_sc_first
     reset: 0
     states: [繁簡混頻, 簡體優先]
-    # Control+Shift+I: 簡體優先
+    # Control+Shift+N: 簡體優先
   - name: yuhao_single_char_only_for_full_code
     states: ["字詞同出", "全碼出單"]
     reset: 0
@@ -271,7 +271,7 @@ key_binder:
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
     - { when: always, accept: "Control+Shift+O", toggle: yuhao_char_only } # 常用詞過濾
-    - { when: always, accept: "Control+Shift+I", toggle: yuhao_sc_first } # 簡體優先
+    - { when: always, accept: "Control+Shift+N", toggle: yuhao_sc_first } # 簡體優先
     - { when: has_menu, accept: "0", toggle: yuhao_char_only } # 常用詞過濾
     - {
         when: always,

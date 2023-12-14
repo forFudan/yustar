@@ -3,7 +3,7 @@
 
 schema:
   schema_id: yustar
-  name: 宇浩·星陳·繁簡平衡
+  name: 星陳·繁簡
   version: 20231001
   author:
     - 發明人 朱宇浩
@@ -26,8 +26,12 @@ switches:
       - yuhao_char_first
       - cjk
     states: [只出常用字, 常用字前置, 全字集原排序]
-    reset: 2
+    reset: 1
     # Control+Shift+O: 只出常用字
+  - name: yuhao_single_char_only_for_full_code
+    states: ["字詞同出", "全碼出單"]
+    reset: 0
+    # Control+Shift+D
   - name: yuhao_postpone_full_code
     reset: 0
     states: [原始排序, 全碼後置]
@@ -43,6 +47,14 @@ switches:
     reset: 0
     states: [輸入預測, 精確匹配]
     # Control+Shift+Y
+  - name: yuhao_sc_first
+    reset: 0
+    states: [繁簡混頻, 簡體優先]
+    # Control+Shift+N: 簡體優先
+  - name: yuhao_tc_first
+    reset: 0
+    states: [繁簡混頻, 繁體優先]
+    # Control+Shift+M: 繁體優先
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0
@@ -87,8 +99,11 @@ engine:
     - lua_translator@*yuhao.yuhao_switch_tr@yuhao_macro
   filters:
     - lua_filter@*yuhao.yuhao_autocompletion_filter
+    - lua_filter@*yuhao.yuhao_single_char_only_for_full_code
     - lua_filter@*yuhao.yuhao_char_first
     - lua_filter@*yuhao.yuhao_char_only
+    - lua_filter@*yuhao.yuhao_sc_first
+    - lua_filter@*yuhao.yuhao_tc_first
     - lua_filter@*yuhao.yuhao_postpone_full_code
     - simplifier@traditionalize
     - simplifier@simplify
@@ -113,6 +128,11 @@ simplify:
     - xform/^/〔/
     - xform/$/〕/
 
+yuhao_postpone_full_code:
+  tags: [abc]
+  lua:
+    max_index: 3 # 最大後置位置，默認爲 3
+
 schema_name:
   code: yustar
   spelling: yustar_chaifen
@@ -127,7 +147,7 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcba
   delimiter: "`"
   max_code_length: 4
-  auto_select: true
+  auto_select: false
   algebra:
 
 translator:
@@ -168,6 +188,7 @@ yuhao_macro:
   macros:
     help:
       - { type: tip, name: ❖配置中心 }
+      - { type: switch, name: yuhao_single_char_only_for_full_code, states: [ ☐字詞, ☑純單 ] }
       - { type: radio, names: [ yuhao_chaifen.off, yuhao_chaifen.lv1, yuhao_chaifen.lv2, yuhao_chaifen.lv3 ], states: [ ☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解 ] }
       - { type: switch, name: traditionalization, states: [ ☐簡保持, ☑簡轉繁 ] }
       - { type: switch, name: simplification, states: [ ☐繁保持, ☑繁轉簡 ] }
@@ -178,6 +199,8 @@ yuhao_macro:
       - { type: eval, name: ⌚時間, expr: return os.date("%H:%M:%S") }
       - { type: eval, name: Ⓣ時間, expr: return os.date("%Y%m%d%H%M") }
       - { type: eval, name: Ⓢ時間戳, expr: return tostring(os.time()) }
+    char:
+      - { type: switch, name: yuhao_single_char_only_for_full_code, states: [ ☐字詞, ☑純單 ] }
     div:
       - { type: radio, names: [ yuhao_chaifen.off, yuhao_chaifen.lv1, yuhao_chaifen.lv2, yuhao_chaifen.lv3 ], states: [ ☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解 ] }
     trad:
@@ -219,8 +242,15 @@ key_binder:
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+O", toggle: yuhao_char_only } # 常用詞過濾
+    - { when: always, accept: "Control+Shift+N", toggle: yuhao_sc_first } # 簡體優先
+    - { when: always, accept: "Control+Shift+M", toggle: yuhao_tc_first } # 繁體優先
     - { when: has_menu, accept: "0", toggle: yuhao_char_only } # 常用詞過濾
     - { when: has_menu, accept: "/", toggle: yuhao_chaifen.off } # 拆分
+    - {
+        when: always,
+        accept: "Control+Shift+D",
+        toggle: yuhao_single_char_only_for_full_code,
+      } # 全码出单
     - {
         when: always,
         accept: "Control+Shift+H",
