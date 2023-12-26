@@ -15,3 +15,5 @@ patch:
   switches/@2/reset: 0 # [原始排序, 全碼後置]
   switches/@3/reset: 0 # [〇註解, 一重註解, 二重註解, 三重註解]
   switches/@4/reset: 0 # [輸入預測, 精確匹配]
+  switches/@5/reset: 0 # [繁簡混頻, 簡體優先]
+  switches/@6/reset: 0 # [繁簡混頻, 繁體優先]

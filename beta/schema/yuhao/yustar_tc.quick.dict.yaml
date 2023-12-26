@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_tc.quick"
-version: "20231214"
+version: "20231226"
 sort: original
 columns:
   - text
@@ -555,7 +555,7 @@ columns:
 蘋	sp
 蔽	sq
 茶	sr
-華	ss
+葉	ss
 荒	st
 夢	su
 萬	sv
@@ -1126,7 +1126,7 @@ columns:
 芭蕾	so
 蘋果	sp
 茶葉	sr
-華人	ss
+葉子	ss
 荒唐	st
 夢想	su
 萬能	sv
@@ -1610,7 +1610,7 @@ columns:
 面孔	sm
 落後	sn
 茶館	sr
-華夏	ss
+葉片	ss
 荒謬	st
 夢幻	su
 萬物	sv
@@ -1918,7 +1918,6 @@ columns:
 倆	efu
 僵	efv
 值	egj
-倕	egs
 偏	ehc
 佶	ehl
 伏	ehq
@@ -2042,7 +2041,6 @@ columns:
 筷	grb
 簽	grq
 籤	grr
-郵	gsj
 升	gso
 乍	gub
 血	gum
@@ -2061,7 +2059,6 @@ columns:
 垜	hga
 填	hgj
 臨	hgl
-墳	hgs
 監	hgu
 匾	hhc
 堵	hhj
@@ -2221,6 +2218,7 @@ columns:
 晨	jmc
 則	jmd
 昭	jml
+睡	jms
 丟	jna
 旱	jng
 睃	jnk
@@ -2317,7 +2315,6 @@ columns:
 咻	lea
 啦	lfk
 喃	lgc
-噴	lgs
 吃	lgy
 呀	lha
 嚇	lhk
@@ -2346,6 +2343,7 @@ columns:
 憩	lqr
 聆	lrk
 喏	lse
+嘩	lsf
 另	lsl
 啡	luf
 喘	lus
@@ -2392,6 +2390,7 @@ columns:
 黏	mrn
 廣	msd
 穫	mse
+垂	msf
 疳	msi
 貘	msj
 貓	msv
@@ -2492,7 +2491,6 @@ columns:
 緞	oel
 緣	oet
 奮	oev
-锤	ogs
 編	ohc
 奎	ohh
 緒	ohj
@@ -2511,6 +2509,7 @@ columns:
 絹	olw
 锈	omg
 紹	oml
+锤	oms
 縛	onk
 泰	ons
 綺	ooj
@@ -2832,6 +2831,7 @@ columns:
 辒	xju
 鳎	xjv
 褐	xjw
+衹	xkx
 象	xlt
 辎	xlv
 免	xlw

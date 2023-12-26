@@ -10,7 +10,7 @@ from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 from shutil import copyfile
 
-version = "v3.4.0-alpha.1"
+version = "v3.4.0"
 
 # %%
 try:
@@ -42,7 +42,7 @@ for file_name in [
     "yuhao_pinyin.schema.yaml",
     "yuhao/yuhao.extended.dict.yaml",
     "yuhao/yuhao.private.dict.yaml",
-    # "yuhao/yuhao.symbols.dict.yaml",
+    "yuhao/yuhao.symbols.dict.yaml",
 ]:
     copyfile(f"../yuhao/beta/schema/{file_name}", f"./dist/yustar/schema/{file_name}")
 

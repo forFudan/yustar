@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.quick_words"
-version: "20231214"
+version: "20231226"
 sort: original
 columns:
   - text
@@ -179,6 +179,7 @@ columns:
 现在	jc
 礼物	je
 量化	jf
+古城	jg
 時候	jh
 时候	jk
 可以	jl
@@ -209,7 +210,6 @@ columns:
 味道	lf
 吃饭	lg
 吵架	li
-員工	lj
 只有	lk
 品牌	ll
 聯合	ln
@@ -320,7 +320,7 @@ columns:
 面子	sm
 边缘	so
 蘋果	sp
-華人	ss
+葉子	ss
 荒唐	st
 菜單	su
 萬能	sv
@@ -379,6 +379,7 @@ columns:
 回答	wl
 馬上	wm
 肝臟	wn
+因此	wo
 胜利	wp
 脱離	wq
 儿子	wr
@@ -406,7 +407,7 @@ columns:
 陣容	yd
 随着	ye
 限制	yg
-陸續	yh
+陸軍	yh
 阿姨	yj
 障礙	yk
 敢於	yl

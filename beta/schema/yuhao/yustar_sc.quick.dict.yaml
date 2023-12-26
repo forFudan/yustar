@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.quick"
-version: "20231214"
+version: "20231226"
 sort: original
 columns:
   - text
@@ -1913,7 +1913,6 @@ columns:
 僵	efv
 贯	egc
 值	egj
-倕	egs
 债	ehc
 佶	ehl
 伏	ehq
@@ -2044,7 +2043,6 @@ columns:
 猴	heb
 垜	hga
 填	hgj
-埵	hgs
 匾	hhc
 猪	hhj
 趟	his
@@ -2197,6 +2195,7 @@ columns:
 旷	jmg
 瞅	jmi
 昭	jml
+睡	jms
 旱	jng
 睃	jnk
 眙	jnl
@@ -2306,7 +2305,7 @@ columns:
 舔	lfo
 喃	lgc
 嗔	lgj
-唾	lgs
+喷	lgs
 啧	lhc
 嘟	lhj
 哧	lhk
@@ -2327,6 +2326,7 @@ columns:
 器	llh
 嚣	llv
 刮	lmd
+唾	lms
 呜	lmw
 咦	lob
 适	loc
@@ -2378,6 +2378,7 @@ columns:
 麟	mqx
 癀	msd
 鹱	mse
+垂	msf
 疳	msi
 貘	msj
 疬	mvs
@@ -2459,7 +2460,6 @@ columns:
 夸	ofh
 针	ogi
 镇	ogj
-锤	ogs
 奎	ohh
 锗	ohj
 钷	ohl
@@ -2477,6 +2477,7 @@ columns:
 絹	olw
 锈	omg
 紹	oml
+锤	oms
 镈	onk
 锜	ooj
 镣	ooq
@@ -2787,6 +2788,7 @@ columns:
 鲁	xjr
 馒	xju
 鳎	xjv
+衹	xkx
 象	xlt
 辎	xlv
 免	xlw

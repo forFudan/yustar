@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.quick"
-version: "20231214"
+version: "20231226"
 sort: original
 columns:
   - text
@@ -229,6 +229,7 @@ columns:
 现	jc
 礼	je
 量	jf
+古	jg
 時	jh
 时	jk
 可	jl
@@ -248,6 +249,7 @@ columns:
 经	kb
 飯	kd
 感	kf
+戈	kg
 结	kh
 意	kj
 丝	kk
@@ -426,7 +428,7 @@ columns:
 边	so
 蘋	sp
 蒋	sq
-華	ss
+葉	ss
 荒	st
 菜	su
 萬	sv
@@ -534,6 +536,7 @@ columns:
 補	xn
 色	xo
 鳔	xp
+欠	xq
 轮	xr
 解	xs
 鲂	xt
@@ -562,6 +565,10 @@ columns:
 際	yw
 阵	yx
 书	yy
+；	fh
+〔	lj
+×	yh
+〕	lj
 天	fod
 后	dfl
 影	jai
@@ -654,6 +661,7 @@ columns:
 糖	qmb
 晃	jil
 征	cfp
+垂	msf
 奉	oak
 審	igq
 暑	jhj
@@ -683,7 +691,6 @@ columns:
 翠	vva
 豬	thj
 葛	sjw
-噴	lgs
 緒	ohj
 潤	ndj
 袍	xwo
@@ -782,7 +789,6 @@ columns:
 諒	bai
 昊	jfo
 嬉	chl
-墳	hgs
 禧	jhl
 瞳	jkv
 鋁	tll
@@ -803,7 +809,7 @@ columns:
 宪	ipw
 庇	mnn
 琅	jkg
-锤	ogs
+锤	oms
 迭	goo
 奎	ohh
 肫	wxw
@@ -979,6 +985,7 @@ columns:
 緇	olv
 縊	oqk
 纔	oxl
+衹	xkx
 軔	dmk
 齜	ppn
 猗	hoj
@@ -1016,7 +1023,6 @@ columns:
 瘵	mwj
 禘	jaq
 瑑	jet
-倕	egs
 暕	jaw
 赒	cwh
 剟	bbb

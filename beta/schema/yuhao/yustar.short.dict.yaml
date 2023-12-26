@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.short"
-version: "20231214"
+version: "20231226"
 sort: original
 columns:
   - text
@@ -1886,6 +1886,7 @@ columns:
 貍	mvl
 貰	sjb
 賅	jth
+辻	goc
 辿	uoc
 迆	ooc
 釔	tyi
@@ -1947,6 +1948,7 @@ columns:
 角	xwh
 亮	awr
 差	qgp
+差	qgj
 毒	hee
 护	fdh
 肩	dwy
