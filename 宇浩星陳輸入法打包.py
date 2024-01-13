@@ -10,7 +10,7 @@ from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 from shutil import copyfile
 
-version = "v3.4.0"
+version = "v3.4.2"
 
 # %%
 try:
@@ -23,6 +23,8 @@ except:
 shutil.copyfile("./image/yustar.png", f"./dist/yustar/yustar_{version}.png")
 shutil.copyfile("./image/yustar.png", f"../yuhao/image/yustar.png")
 shutil.copyfile("./beta/readme.md", f"./dist/yustar/readme.txt")
+shutil.copyfile("./beta/schema/yuhao/yustar.full.dict.yaml", f"./dist/yustar.full.dict.yaml")
+
 copy_tree("./beta/mabiao/", "./dist/yustar/mabiao/")
 copy_tree("./beta/schema/", "./dist/yustar/schema/")
 copy_tree("../yuhao/beta/schema/lua/", "./dist/yustar/hotfix/lua/")

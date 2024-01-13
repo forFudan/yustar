@@ -25,3 +25,6 @@ _site/
 # Ignore extra key maps
 /beta/mabiao/*.png
 /beta/schema/*.png
+/beta/mabiao
+/beta/schema
+/beta/hotfix
